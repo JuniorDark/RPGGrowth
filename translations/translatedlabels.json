@@ -178,7 +178,7 @@
         "experienceorb.currency.json": 2
       },
       "mastery": {
-        "masterypoint.currency.json": 1,
+        "masterypoint.currency.json": 2,
         "shop": {
           "ivrpgmasteryshop.config.json": 7,
           "masteryshop.object.json": 7
