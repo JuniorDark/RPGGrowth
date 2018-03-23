@@ -168,7 +168,7 @@
     },
     "objects": {
       "affinity": {
-        "affinitytype.currency.json": 1
+        "affinitytype.currency.json": 2
       },
       "class": {
         "classtype.currency.json": 1
