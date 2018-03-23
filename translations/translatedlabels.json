@@ -91,7 +91,7 @@
       "throwables": {
         "shurikens": {
           "arcshuriken": {
-            "arcshuriken.thrownitem.json": 1
+            "arcshuriken.thrownitem.json": 2
           },
           "cryoshuriken": {
             "cryoshuriken.thrownitem.json": 1
