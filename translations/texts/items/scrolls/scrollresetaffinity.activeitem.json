@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Affinity Reset Scroll"
+      "Eng": "Affinity Reset Scroll",
+      "Por": "Affinity Reset Scroll"
     }
   },
   {
@@ -19,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Looks like enticing descriptions of awesome elements! Maybe you want to try out a new one?",
-      "Por": "Parece descrições atraentes de elementos incríveis! Talvez você queira experimentar um novo?"
+      "Por": "Parece descrições tentadoras de elementos incríveis! Talvez você queira experimentar um novo?"
     }
   }
 ]
