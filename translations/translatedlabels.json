@@ -189,7 +189,7 @@
       },
       "skillbook": {
         "RPGskillbook.activeitem.json": 1,
-        "skillbookopen.currency.json": 1
+        "skillbookopen.currency.json": 2
       },
       "specialization": {
         "spectype.currency.json": 1
