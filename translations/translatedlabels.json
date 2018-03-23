@@ -185,7 +185,7 @@
         }
       },
       "profession": {
-        "proftype.currency.json": 1
+        "proftype.currency.json": 2
       },
       "skillbook": {
         "RPGskillbook.activeitem.json": 1,
