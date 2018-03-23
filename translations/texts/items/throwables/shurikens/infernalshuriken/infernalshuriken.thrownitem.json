@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "A fiery shuriken, sure to burn enemies.",
-      "Por": "Uma shuriken ardente, com certeza queima inimigos."
+      "Por": "Uma shuriken ardente, certeza de queimar inimigos."
     }
   },
   {
@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Infernal Shuriken"
+      "Eng": "Infernal Shuriken",
+      "Por": "Infernal Shuriken"
     }
   }
 ]
