@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpguccontagion.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Venom and Toxic Affinity Upgrade.\nToxified enemies can spread Toxify.",
+      "Por": "Melhoria para a Afinidade Veneno e Tóxico.\nInimigos Intoxicados pode espalhar Intoxicar."
+    }
+  }
+]

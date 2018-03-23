@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucvikingfuneral.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flame and Infernal Affinity Upgrade.\nSear length doubled.",
+      "Por": "Melhoria para a Afinidade Fogo e Infernal.\nDuração do Cauterizar dobrada."
+    }
+  }
+]

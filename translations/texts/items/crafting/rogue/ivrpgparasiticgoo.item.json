@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/rogue/ivrpgparasiticgoo.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A disgusting, sticky pile of goo that feels like it's climbing up your arm when you hold it.",
+      "Por": "Um monte de gosma nojenta e pegajosa que parece que está subindo no seu braço quando você segurá-la."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/rogue/ivrpgparasiticgoo.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Parasitic Goo"
+    }
+  }
+]

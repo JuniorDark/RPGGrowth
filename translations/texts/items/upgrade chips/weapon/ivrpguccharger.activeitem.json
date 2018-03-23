@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpguccharger.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Siphon Flux Upgrade.\nEnergetic Slice grants Energy to nearby allies.",
+      "Por": "Melhoria para o Siphon Flux.\nEnergetic Slice concede Energia a aliados próximos."
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/stats/statpoint.currency": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stat Point",
+      "Por": "Ponto de Status"
+    }
+  }
+]

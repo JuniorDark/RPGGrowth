@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/novaquest.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I believe you should be able to use these now, but you will need to crystallize them. I have crystallized them for you, but you can now do so yourself. Go build the Nova in an anvil and cause your own 'collapse'.",
+      "Por": "Eu acredito que você deve ser capaz de usá-los agora, mas você precisará cristalizá-los. Eu os cristalizei para você, mas agora você pode fazer isso sozinho. Vá construir a Nova em uma bigorna e causar o seu próprio 'colapso'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/novaquest.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your magical power is growing by the second, and it triggered a collapse that let me search through a long lost archive written by old magicians. Records indicate that a magical stone holds energy fueled by stars. I believe ^green;Wisper, Narfin, and Lumoth^reset; can produce these crystals upon death. There are also rumors of a ^green;shadowy puppy^reset; that eats them.^white;",
+      "Por": "Seu poder mágico está crescendo a cada segundo, e desencadeou um colapso que me permite procurar por um arquivo perdido há muito tempo escrito por magos antigos. Os registros indicam que uma pedra mágica contém energia alimentada por estrelas. Eu acredito que ^green;Wisper, Narfin e Lumoth^reset; podem produzir esses cristais após a morte. Há também rumores de um ^green;shadowy puppy^reset; que os come.^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/novaquest.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Shattered Stars",
+      "Por": "^green;Estrelas Despedaçadas"
+    }
+  }
+]

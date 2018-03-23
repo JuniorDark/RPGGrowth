@@ -1,0 +1,20 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/knighttech/knightarmorsphere/knightspikes.statuseffect": [
+        "/label"
+      ],
+      "tech/knighttech/knightbash/knightbashattack.statuseffect": [
+        "/label"
+      ],
+      "tech/knighttech/knightcharge!/knightchargeattack.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cause Contact Damage",
+      "Por": "Causa Dano de Contato"
+    }
+  }
+]

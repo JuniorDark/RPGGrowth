@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/stats/agilitypoint.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Agility.",
+      "Por": "Agilidade."
+    }
+  }
+]

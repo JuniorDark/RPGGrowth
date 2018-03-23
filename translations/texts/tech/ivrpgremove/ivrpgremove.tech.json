@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ivrpgremove/ivrpgremove.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Character Fix"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ivrpgremove/ivrpgremove.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [F] and then quit.",
+      "Por": "Pressione [F] e depois saia."
+    }
+  }
+]

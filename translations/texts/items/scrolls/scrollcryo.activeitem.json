@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollcryo.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scroll: Cryogenics"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollcryo.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shows scribbles of super-cooling structures. It's frosted over.",
+      "Por": "Mostra rabiscos de estruturas de super-resfriamento. Está congelado."
+    }
+  }
+]

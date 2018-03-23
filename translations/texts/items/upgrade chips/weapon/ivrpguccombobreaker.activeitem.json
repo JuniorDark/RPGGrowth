@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpguccombobreaker.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Siphon Razor Upgrade.\nCritical Slice Combo Finisher activates earlier.",
+      "Por": "Melhoria para o Siphon Razor.\nO Combo Finalizador Critical Slice ativa mais cedo."
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiertanksphere/shield/soldiertanksphereimmune.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tank",
+      "Por": "Tanque"
+    }
+  }
+]

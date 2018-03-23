@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/knightsword/knightaegissword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aegis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/knightsword/knightaegissword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aegis, a sword made of tempered steel that can absorb heavy blows.",
+      "Por": "Aegis, uma espada feita de aço temperado que pode absorver golpes pesados."
+    }
+  }
+]

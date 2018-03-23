@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aegisquest2.questtemplate": [
+        "/text"
+      ],
+      "quests/aetherquest2.questtemplate": [
+        "/text"
+      ],
+      "quests/novaquest2.questtemplate": [
+        "/text"
+      ],
+      "quests/siphonquest2.questtemplate": [
+        "/text"
+      ],
+      "quests/versaquest2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that you have the blueprint for a powerful weapon, you may be able to upgrade it. I will let you know when that time comes.^white;",
+      "Por": "Agora que você tem o projeto para uma arma poderosa, você poderá melhora-la. Eu vou te avisar quando chegar a hora.^white;"
+    }
+  }
+]

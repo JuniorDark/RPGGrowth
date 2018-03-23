@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/knighttech/knightslam/nofalldamageks.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Knight's Slam",
+      "Por": "Batida do Cavaleiro"
+    }
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Master's Desk",
+      "Por": " Mesa do Mestre"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;For making things that require incredible skill and lots of experience.",
+      "Por": " ^#b9b5b2;Para fazer coisas que exigem habilidades incríveis e muita experiência."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/lblProduct/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MASTERY AVAILABLE",
+      "Por": "MESTRIA DISPONÍVEL"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Manifest",
+      "Por": "Manifestar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Replace Me"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/filter/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Search"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop",
+      "Por": "Parar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;MASTER BLUEPRINT",
+      "Por": "^#b9b5b2;RECEITA MESTRE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;MASTER PRODUCT",
+      "Por": "^#b9b5b2;PRODUTO MESTRE"
+    }
+  },
+  {
+    "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "x?\\d{0,4}"
+    }
+  }
+]

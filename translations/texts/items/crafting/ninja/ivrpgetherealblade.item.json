@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/ninja/ivrpgetherealblade.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't let this blade fool you. Despite it's transparency, it's sharper than a squeaky clarinet.",
+      "Por": "Não deixe esta lâmina enganá-lo. Apesar da transparência, é mais afiada que um clarinete estridente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/ninja/ivrpgetherealblade.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ethereal Blade"
+    }
+  }
+]

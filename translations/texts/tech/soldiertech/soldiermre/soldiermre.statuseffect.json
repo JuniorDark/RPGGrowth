@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiermre/soldiermre.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "MRE Cooldown",
+      "Por": "Tempo de Recarga do MRE"
+    }
+  }
+]

@@ -1,0 +1,519 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/masterypoints/value",
+        "/gui/statslayout/children/agilityamount/value",
+        "/gui/statslayout/children/dexterityamount/value",
+        "/gui/statslayout/children/enduranceamount/value",
+        "/gui/statslayout/children/intelligenceamount/value",
+        "/gui/statslayout/children/statpointsleft/value",
+        "/gui/statslayout/children/strengthamount/value",
+        "/gui/statslayout/children/totalstatsamount/value",
+        "/gui/statslayout/children/vigoramount/value",
+        "/gui/statslayout/children/vitalityamount/value"
+      ],
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/agilitytext/value"
+      ],
+      "objects/stats/agilitypoint.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Agility",
+      "Por": "Agilidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucbatterypack.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/tech/ivrpgucbatterypack/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battery Pack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucblindingjustice.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpgucblindingjustice/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blinding Justice"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucbloodseeker.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpgucbloodseeker/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Seeker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucbloom.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/affinity/ivrpgucbloom/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bloom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpguccharger.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpguccharger/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charger"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpguccoldheart.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/affinity/ivrpguccoldheart/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold Heart"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpguccombobreaker.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpguccombobreaker/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Combo Breaker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpguccontagion.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/affinity/ivrpguccontagion/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contagion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucdischarge.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/affinity/ivrpgucdischarge/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discharge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpguceternalflame.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/affinity/ivrpguceternalflame/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eternal Flame"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucmoreenhanced.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/tech/ivrpgucmoreenhanced/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even More Enhanced"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucevergreen.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/affinity/ivrpgucevergreen/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Evergreen"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucfeedbackloop.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/affinity/ivrpgucfeedbackloop/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feedback Loop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucfourthwall.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/tech/ivrpgucfourthwall/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fourth Wall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucghost.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/tech/ivrpgucghost/title"
+      ],
+      "tech/ninjatech/vanishsphere/ghost/ninjavanishsphereghost.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ghost"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpguchardlight.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpguchardlight/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucicequeen.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/affinity/ivrpgucicequeen/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Queen"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucincurable.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/affinity/ivrpgucincurable/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Incurable"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucmiasma.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/affinity/ivrpgucmiasma/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Miasma"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucpassedprime.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpgucpassedprime/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Passed Prime"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucpeakperformance.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/tech/ivrpgucpeakperformance/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peak Performance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucphaseout.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/tech/ivrpgucphaseout/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Phase Out"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucpinpointaccuracy.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/tech/ivrpgucpinpointaccuracy/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pinpoint Accuracy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucplasmacore.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/affinity/ivrpgucplasmacore/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasma Core"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucquicksilver.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpgucquicksilver/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quicksilver"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucrighthandman.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpgucrighthandman/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Right Hand Man"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucrighteousness.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpgucrighteousness/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Righteousness"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucskadisblessing.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/affinity/ivrpgucskadisblessing/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skadi's Blessing"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucspintowin.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpgucspintowin/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spin to Win"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucsymbiosis.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpgucsymbiosis/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Symbiosis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpguctriggerhappy.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpguctriggerhappy/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trigger Happy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucvampirescaress.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpgucvampirescaress/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vampire's Caress"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucvikingfuneral.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/affinity/ivrpgucvikingfuneral/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Viking Funeral"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucwavedash.activeitem": [
+        "/shortdescription"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/tech/ivrpgucwavedash/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wavedash"
+    }
+  }
+]

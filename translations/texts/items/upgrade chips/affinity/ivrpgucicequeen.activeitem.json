@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucicequeen.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frost and Cryo Affinity Upgrade.\nImproves potential with Whips, Claws, and Daggers. ^red;Female Only^reset;.",
+      "Por": "Melhoria para a Afinidade Gelo e Crio.\nMelhora o potencial com Chicotes, Garras e Adagas. ^red;Somente Personagens Femininos^reset;."
+    }
+  }
+]

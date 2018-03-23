@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/soldiergun/soldierversa.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Versa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/soldiergun/soldierversa.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Versa, a gun that can decimate enemies from up close and at medium distances.",
+      "Por": "Versa, uma arma que pode dizimar inimigos de perto e em distâncias médias."
+    }
+  }
+]

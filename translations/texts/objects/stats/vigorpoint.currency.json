@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/stats/vigorpoint.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "vigor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/stats/vigorpoint.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "vigor."
+    }
+  }
+]

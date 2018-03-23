@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/wizardtech/wizardmagicshield/wizardmagicshieldcooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magic Shield Cooldown",
+      "Por": "Tempo de Recarga do Escudo Mágico"
+    }
+  }
+]

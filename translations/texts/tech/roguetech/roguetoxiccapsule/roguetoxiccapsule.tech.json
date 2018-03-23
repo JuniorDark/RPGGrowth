@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguetoxiccapsule/roguetoxiccapsule.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cost: 5e. Duration/Cooldown: 10s/10s.",
+      "Por": "Custo: 5e. Duração/Tempo de Recarga: 10s/10s."
+    }
+  }
+]

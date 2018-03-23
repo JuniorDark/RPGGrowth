@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/stats/strengthpoint.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "strength"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/stats/strengthpoint.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "strength.",
+      "Por": "força."
+    }
+  }
+]

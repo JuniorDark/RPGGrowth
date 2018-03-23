@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpguchardlight.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Versa Ricochet Upgrade.\nBullets bounce towards nearby enemies.",
+      "Por": "Melhoria para a Versa Ricochet.\nBalas saltam para inimigos próximos."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aetherquest.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Due to your abilities, my scanners have often been unable to locate you: this issue has lent itself to a new hypothesis! It seems certain inhabitants of this universe are... not really here. This should mean they cannot interact with anything, but this is not the case. Fighting these ^green;ghosts^reset; should lead to an uncanny discovery.^white;",
+      "Por": "Devido às suas habilidades, meus scanners muitas vezes não conseguiram localizá-lo: esta problema levou a uma nova hipótese! Parece que certos habitantes deste universo estão... não estão realmente aqui. Isso deve significar que eles não podem interagir com nada, mas este não é o caso. Lutar contra esses ^green;fantasmas^reset; deve levar a uma descoberta estranha.^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aetherquest.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Ether is quite like Phase Matter, though it seems that you can harden it. I have already tempered some of your current Ether for you, but you can now do so as well. Go build the Aether in an anvil so you can pierce through enemies.",
+      "Por": "Este Ether é bem parecido com Phase Matter, embora pareça que você pode endurecê-lo. Eu já temperei um pouco do Ether que você tem, mas agora você também pode fazer isso. Vá construir o Aether em uma bigorna para que você possa perfurar os inimigos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aetherquest.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Ether Experiment",
+      "Por": "^green;Experimento Ether"
+    }
+  }
+]

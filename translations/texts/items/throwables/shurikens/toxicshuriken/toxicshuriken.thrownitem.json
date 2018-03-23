@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/shurikens/toxicshuriken/toxicshuriken.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An infested shuriken, sure to poison enemies.",
+      "Por": "Uma shuriken infestada, com certeza envenena inimigos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/shurikens/toxicshuriken/toxicshuriken.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic Shuriken"
+    }
+  }
+]

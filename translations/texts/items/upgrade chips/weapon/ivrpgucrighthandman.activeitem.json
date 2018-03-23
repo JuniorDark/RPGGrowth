@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucrighthandman.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ravenous Spira Upgrade.\nSpira can now mine background blocks.",
+      "Por": "Melhoria para o Ravenous Spira.\nSpira agora pode minerar os blocos do plano de fundo."
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/wizardtech/wizardmagicshield/wizardmagicshield.tech": [
+        "/shortDescription"
+      ],
+      "tech/wizardtech/wizardmagicshield/wizardshield.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magic Shield",
+      "Por": "Escudo Mágico"
+    }
+  }
+]

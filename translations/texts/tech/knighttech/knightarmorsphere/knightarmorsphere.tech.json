@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/knighttech/knightarmorsphere/knightarmorsphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Armor Sphere",
+      "Por": "Esfera Blindada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/knighttech/knightarmorsphere/knightarmorsphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transformation Cost: 50e.",
+      "Por": "Custo de Transformação: 50e."
+    }
+  }
+]

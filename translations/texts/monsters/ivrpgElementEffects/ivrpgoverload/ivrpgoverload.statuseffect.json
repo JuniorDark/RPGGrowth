@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ivrpgElementEffects/ivrpgoverload/ivrpgoverload.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electrified",
+      "Por": "Eletrificado"
+    }
+  }
+]

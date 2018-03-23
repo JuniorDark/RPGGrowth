@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiermissilestrike/soldiermissilestrike.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cost: 50e. Cooldown: 30s.",
+      "Por": "Custo: 50e. Tempo de Recarga: 30s."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiermissilestrike/soldiermissilestrike.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Missile Strike",
+      "Por": "Ataque de Mísseis"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/versaquest.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't mean to interrupt your training regimen, but I have noticed the weapons you employ could be made more versatile. I have calculated that reverse engineering illegal weapons may yield much needed results. Thus, you should go fight Bandits and Space-Faring Robots for these parts.^white;",
+      "Por": "Não quero interromper seu regime de treinamento, mas notei que as armas que você usa poderiam ser mais versáteis. Eu calculo que fazer engenharia reversa em armas ilegais podem render resultados muito necessários. Portanto, você deve ir lutar contra Bandidos e Robôs Espaciais para essas peças.^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/versaquest.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These illegal gun parts can be used to make an impressive gun. You'll need to create a specific mechanism, though, but I've already created one for you. Go build the Versa in an anvil once you make the second mechanism!",
+      "Por": "Essas peças de arma ilegais podem ser usadas para fazer uma arma impressionante. Você precisará criar um mecanismo específico, porém, já criei um para você. Vá construir a Versa em um bigorna quando você fizer o segundo mecanismo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/versaquest.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Weapons Worth Wielding",
+      "Por": "^green;Armas Dignas de Empunhar"
+    }
+  }
+]

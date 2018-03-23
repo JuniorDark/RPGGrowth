@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/explorertech/explorerdrill/explorerdrill.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cost: 10eps.",
+      "Por": "Custo: 10eps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/explorertech/explorerdrill/explorerdrill.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drill",
+      "Por": "Broca"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/wizardtech/wizardgravitysphere/wizardgravitysphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravity Sphere",
+      "Por": "Esfera de Gravidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/wizardtech/wizardgravitysphere/wizardgravitysphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transformation Cost: 30e. Regen: 1%hps. Zone Cost: 15eps.",
+      "Por": "Custo de Transformação: 30e. Regeneração: 1%hps. Custo da Zona: 15eps."
+    }
+  }
+]

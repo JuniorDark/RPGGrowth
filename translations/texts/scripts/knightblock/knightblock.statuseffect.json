@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "scripts/knightblock/knightblock.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Knight's Shield",
+      "Por": "Escudo do Cavaleiro"
+    }
+  }
+]

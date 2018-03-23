@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucquicksilver.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Primed Nova Upgrade.\nCharge Time decreased.",
+      "Por": "Melhoria para a Primed Nova.\nTempo de Carga Diminuído."
+    }
+  }
+]

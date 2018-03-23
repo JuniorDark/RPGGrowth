@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "scripts/wizardaffinity/wizardaffinity.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wizard's Affinity",
+      "Por": "Afinidade do Feiticeiro"
+    }
+  }
+]

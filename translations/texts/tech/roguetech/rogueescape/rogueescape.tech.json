@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/rogueescape/rogueescape.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dash Duration: 0.25s.",
+      "Por": "Duração da Arrancada: 0.25s."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/rogueescape/rogueescape.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Escape!",
+      "Por": "Fuga!"
+    }
+  }
+]

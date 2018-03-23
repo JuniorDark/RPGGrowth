@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/wizardtech/wizardmagicshield/wizardmagicshield.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cost: 30eps.",
+      "Por": "Custo: 30eps."
+    }
+  }
+]

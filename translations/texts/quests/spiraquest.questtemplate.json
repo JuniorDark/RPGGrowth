@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/spiraquest.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This strange energy seems to be spinning like a top. I've molded it into a more contained form that you can use for crafting, and you should now be able to do the same. Go craft the Spira in an anvil and start digging!",
+      "Por": "Essa energia estranha parece estar girando como um pião. Eu a moldei em uma forma mais contida que você pode usar para fabricação, e agora você deve ser capaz de fazer o mesmo. Vá fazer a Spira em uma bigorna e começe a cavar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/spiraquest.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You plan to visit many places it seems, and I only realized now that your travels would be made easier if your mining tools were improved. I have begun working on a prototype that I need your help to build: if you can defeat ^green;monsters that can spin,^reset; I may be able to figure something out.^white;",
+      "Por": "Parece que você planeja visitar muitos lugares, e eu acabei de perceber que suas viagens seriam facilitadas se suas ferramentas de mineração fossem melhoradas. Comecei a trabalhar em um protótipo que eu preciso de sua ajuda para construir: se você pudesse derrotar ^green;monstros que podem girar,^reset; talvez eu possa descobrir algo.^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/spiraquest.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Spectacular Spin",
+      "Por": "^green;Giro Espetacular"
+    }
+  }
+]

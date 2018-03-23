@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/knighttech/knightbash/knightbash.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bash",
+      "Por": "Esmagar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/knighttech/knightbash/knightbash.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bash Cost: 75eps.",
+      "Por": "Custo do Esmagar: 75eps."
+    }
+  }
+]

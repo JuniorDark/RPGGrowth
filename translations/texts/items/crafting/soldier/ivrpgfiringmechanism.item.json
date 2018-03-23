@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/soldier/ivrpgfiringmechanism.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A firing mechanism that allows guns to fire different kinds of bullets.",
+      "Por": "Um mecanismo de disparo que permite que armas disparem diferentes tipos de balas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/soldier/ivrpgfiringmechanism.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Firing Mechanism"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/knighttech/knightarmorsphere/contact/knightarmorspherecontact.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contact Damage",
+      "Por": "Dano de Contato"
+    }
+  }
+]

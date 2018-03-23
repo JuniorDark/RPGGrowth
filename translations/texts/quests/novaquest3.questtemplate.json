@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/novaquest3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time to train! When you have perfected your abilities, I will attempt to make Nova strong enough to match!^white;",
+      "Por": "Hora de treinar! Quando você aperfeiçoar suas habilidades, tentarei deixar a Nova forte o suficiente para corresponder suas habilidades!^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/novaquest3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're as intelligent as you can be! I have upgraded your Nova. You will now also be able to build Primed Nova in an upgraded anvil.",
+      "Por": "Você é tão inteligente quanto pode ser! Eu melhorei sua Nova. Agora você também poderá construir a Primed Nova em uma bigorna melhorada"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguetoxicsphere/hunger/roguetoxicsphereconsume.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Consume",
+      "Por": "Consumo"
+    }
+  }
+]

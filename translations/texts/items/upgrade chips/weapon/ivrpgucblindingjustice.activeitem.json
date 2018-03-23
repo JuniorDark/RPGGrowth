@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucblindingjustice.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vital Aegis Upgrade.\nCertain Combo Steps stun enemies.",
+      "Por": "Melhoria para o Vital Aegis.\nDeterminados Combo Steps atordoam inimigos."
+    }
+  }
+]

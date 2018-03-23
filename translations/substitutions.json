@@ -1,0 +1,313 @@
+{
+  "interface/RPGskillbook/RPGskillbook.config": {
+    "/gui/masterylayout/children/masterypoints/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/agilityamount/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/agilitytext/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/dexterityamount/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/enduranceamount/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/intelligenceamount/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/statpointsleft/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/strengthamount/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/totalstatsamount/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/vigoramount/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/vitalityamount/value": "texts/wide_spread_fields.json",
+    "/gui/windowtitle/title": "texts/shared_skillbook/shared_RPGskillbook..json"
+  },
+  "items/active/classweapons/knightsword/knightaegissword3.activeitem": {
+    "/description": "texts/items/active/classweapons/knightsword/shared_knightaegissword.json",
+    "/shortdescription": "texts/items/active/classweapons/knightsword/shared_knightaegissword.json"
+  },
+  "items/active/classweapons/knightsword/knightaegissword4.activeitem": {
+    "/description": "texts/items/active/classweapons/knightsword/shared_knightaegissword.json",
+    "/shortdescription": "texts/items/active/classweapons/knightsword/shared_knightaegissword.json"
+  },
+  "items/active/classweapons/wizardstaff/novadamagenumber/novadamagenumber.particle": {
+    "/definition/text": "texts/items/active/classweapons/wizardstaff/novadamagenumber/shared_novadamagenumber.json"
+  },
+  "items/active/classweapons/wizardstaff/novadamagenumber/novadamagenumberstrong.particle": {
+    "/definition/text": "texts/items/active/classweapons/wizardstaff/novadamagenumber/shared_novadamagenumber.json"
+  },
+  "items/active/classweapons/wizardstaff/novadamagenumber/novadamagenumberweak.particle": {
+    "/definition/text": "texts/items/active/classweapons/wizardstaff/novadamagenumber/shared_novadamagenumber.json"
+  },
+  "items/active/classweapons/wizardstaff/novastaffexplosion.weaponability": {
+    "/ability/name": "texts/items/active/classweapons/wizardstaff/shared_novastaff.json"
+  },
+  "items/active/classweapons/wizardstaff/wizardnovastaff.activeitem": {
+    "/shortdescription": "texts/items/active/classweapons/wizardstaff/shared_novastaff.json"
+  },
+  "items/upgrade chips/affinity/ivrpgucaffinitytest.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
+    "/shortdescription": "texts/items/upgrade chips/shared_.activeitem.json"
+  },
+  "items/upgrade chips/affinity/ivrpgucbloom.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/affinity/ivrpguccoldheart.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/affinity/ivrpguccontagion.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/affinity/ivrpgucdischarge.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/affinity/ivrpguceternalflame.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/affinity/ivrpgucevergreen.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/affinity/ivrpgucfeedbackloop.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/affinity/ivrpgucicequeen.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/affinity/ivrpgucincurable.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/affinity/ivrpgucmiasma.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/affinity/ivrpgucplasmacore.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/affinity/ivrpgucskadisblessing.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/affinity/ivrpgucvikingfuneral.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/general/ivrpgucgeneral.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
+    "/shortdescription": "texts/items/upgrade chips/shared_.activeitem.json"
+  },
+  "items/upgrade chips/tech/ivrpgucbatterypack.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/tech/ivrpgucfourthwall.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/tech/ivrpgucghost.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/tech/ivrpgucglidesphere.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json"
+  },
+  "items/upgrade chips/tech/ivrpguchoversphere.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json"
+  },
+  "items/upgrade chips/tech/ivrpgucmoreenhanced.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/tech/ivrpgucpeakperformance.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/tech/ivrpgucphaseout.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/tech/ivrpgucpinpointaccuracy.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/tech/ivrpgucstunningsphere.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
+    "/shortdescription": "texts/shared_stun.json"
+  },
+  "items/upgrade chips/tech/ivrpguctech.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
+    "/shortdescription": "texts/items/upgrade chips/shared_.activeitem.json"
+  },
+  "items/upgrade chips/tech/ivrpgucwalljump.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json"
+  },
+  "items/upgrade chips/tech/ivrpgucwavedash.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpgucblindingjustice.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpgucbloodseeker.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpguccharger.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpguccombobreaker.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpguchardlight.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpgucpassedprime.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpgucquicksilver.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpgucrighteousness.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpgucrighthandman.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpgucspintowin.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpgucsymbiosis.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpguctriggerhappy.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpgucvampirescaress.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/upgrade chips/weapon/ivrpgucweapon.activeitem": {
+    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
+    "/shortdescription": "texts/items/upgrade chips/shared_.activeitem.json"
+  },
+  "ivrpgtext.config": {
+    "/upgrades/affinity/ivrpgucbloom/title": "texts/wide_spread_fields.json",
+    "/upgrades/affinity/ivrpguccoldheart/title": "texts/wide_spread_fields.json",
+    "/upgrades/affinity/ivrpguccontagion/title": "texts/wide_spread_fields.json",
+    "/upgrades/affinity/ivrpgucdischarge/title": "texts/wide_spread_fields.json",
+    "/upgrades/affinity/ivrpguceternalflame/title": "texts/wide_spread_fields.json",
+    "/upgrades/affinity/ivrpgucevergreen/title": "texts/wide_spread_fields.json",
+    "/upgrades/affinity/ivrpgucfeedbackloop/title": "texts/wide_spread_fields.json",
+    "/upgrades/affinity/ivrpgucicequeen/title": "texts/wide_spread_fields.json",
+    "/upgrades/affinity/ivrpgucincurable/title": "texts/wide_spread_fields.json",
+    "/upgrades/affinity/ivrpgucmiasma/title": "texts/wide_spread_fields.json",
+    "/upgrades/affinity/ivrpgucplasmacore/title": "texts/wide_spread_fields.json",
+    "/upgrades/affinity/ivrpgucskadisblessing/title": "texts/wide_spread_fields.json",
+    "/upgrades/affinity/ivrpgucvikingfuneral/title": "texts/wide_spread_fields.json",
+    "/upgrades/tech/ivrpgucbatterypack/title": "texts/wide_spread_fields.json",
+    "/upgrades/tech/ivrpgucfourthwall/title": "texts/wide_spread_fields.json",
+    "/upgrades/tech/ivrpgucghost/title": "texts/wide_spread_fields.json",
+    "/upgrades/tech/ivrpgucmoreenhanced/title": "texts/wide_spread_fields.json",
+    "/upgrades/tech/ivrpgucpeakperformance/title": "texts/wide_spread_fields.json",
+    "/upgrades/tech/ivrpgucphaseout/title": "texts/wide_spread_fields.json",
+    "/upgrades/tech/ivrpgucpinpointaccuracy/title": "texts/wide_spread_fields.json",
+    "/upgrades/tech/ivrpgucwavedash/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpgucblindingjustice/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpgucbloodseeker/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpguccharger/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpguccombobreaker/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpguchardlight/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpgucpassedprime/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpgucquicksilver/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpgucrighteousness/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpgucrighthandman/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpgucspintowin/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpgucsymbiosis/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpguctriggerhappy/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpgucvampirescaress/title": "texts/wide_spread_fields.json"
+  },
+  "objects/mastery/shop/ivrpgmasteryshop.config": {
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json"
+  },
+  "objects/mastery/shop/masteryshop.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/mastery/shop/masteryshop.object.json"
+  },
+  "objects/skillbook/RPGskillbook.activeitem": {
+    "/shortdescription": "texts/shared_skillbook/shared_RPGskillbook..json"
+  },
+  "objects/stats/agilitypoint.currency": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "quests/aegisquest2.questtemplate": {
+    "/text": "texts/quests/shared_quest2.questtemplate.json",
+    "/title": "texts/quests/shared_.questtemplate.json"
+  },
+  "quests/aegisquest3.questtemplate": {
+    "/title": "texts/quests/shared_.questtemplate.json"
+  },
+  "quests/aetherquest2.questtemplate": {
+    "/text": "texts/quests/shared_quest2.questtemplate.json",
+    "/title": "texts/quests/shared_.questtemplate.json"
+  },
+  "quests/aetherquest3.questtemplate": {
+    "/title": "texts/quests/shared_.questtemplate.json"
+  },
+  "quests/novaquest2.questtemplate": {
+    "/text": "texts/quests/shared_quest2.questtemplate.json",
+    "/title": "texts/quests/shared_.questtemplate.json"
+  },
+  "quests/novaquest3.questtemplate": {
+    "/title": "texts/quests/shared_.questtemplate.json"
+  },
+  "quests/siphonquest2.questtemplate": {
+    "/text": "texts/quests/shared_quest2.questtemplate.json",
+    "/title": "texts/quests/shared_.questtemplate.json"
+  },
+  "quests/siphonquest3.questtemplate": {
+    "/title": "texts/quests/shared_.questtemplate.json"
+  },
+  "quests/spiraquest2.questtemplate": {
+    "/title": "texts/quests/shared_.questtemplate.json"
+  },
+  "quests/spiraquest3.questtemplate": {
+    "/title": "texts/quests/shared_.questtemplate.json"
+  },
+  "quests/versaquest2.questtemplate": {
+    "/text": "texts/quests/shared_quest2.questtemplate.json",
+    "/title": "texts/quests/shared_.questtemplate.json"
+  },
+  "quests/versaquest3.questtemplate": {
+    "/title": "texts/quests/shared_.questtemplate.json"
+  },
+  "scripts/explorerglow/explorerglow.statuseffect": {
+    "/label": "texts/scripts/explorerglow/shared_.statuseffect.json"
+  },
+  "scripts/explorerglow/explorerresist.statuseffect": {
+    "/label": "texts/scripts/explorerglow/shared_.statuseffect.json"
+  },
+  "tech/explorertech/explorerenhancedjump/explorerenhancedjump.tech": {
+    "/description": "texts/tech/explorertech/shared_explorer/shared_explorer.json"
+  },
+  "tech/explorertech/explorerglide/explorerglide.tech": {
+    "/description": "texts/tech/explorertech/shared_explorer/shared_explorer.json"
+  },
+  "tech/knighttech/knightarmorsphere/knightspikes.statuseffect": {
+    "/label": "texts/tech/knighttech/shared_knight/shared_.statuseffect.json"
+  },
+  "tech/knighttech/knightarmorsphere/stun/knightarmorspherecontact.statuseffect": {
+    "/label": "texts/shared_stun.json"
+  },
+  "tech/knighttech/knightbash/knightbashattack.statuseffect": {
+    "/label": "texts/tech/knighttech/shared_knight/shared_.statuseffect.json"
+  },
+  "tech/knighttech/knightcharge!/knightchargeattack.statuseffect": {
+    "/label": "texts/tech/knighttech/shared_knight/shared_.statuseffect.json"
+  },
+  "tech/ninjatech/vanishsphere/ghost/ninjavanishsphereghost.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
+  },
+  "tech/roguetech/roguedeadlystance/roguedeadlystance.tech": {
+    "/description": "texts/tech/roguetech/shared_rogue/shared_rogue.json"
+  },
+  "tech/roguetech/roguetoxicaura/roguetoxicaura.tech": {
+    "/description": "texts/tech/roguetech/shared_rogue/shared_rogue.json"
+  },
+  "tech/roguetech/roguetoxiccapsule/roguecapsule.statuseffect": {
+    "/label": "texts/tech/roguetech/roguetoxiccapsule/shared_capsule..json"
+  },
+  "tech/roguetech/roguetoxiccapsule/roguetoxiccapsule.tech": {
+    "/shortDescription": "texts/tech/roguetech/roguetoxiccapsule/shared_capsule..json"
+  },
+  "tech/wizardtech/wizardmagicshield/wizardmagicshield.tech": {
+    "/shortDescription": "texts/tech/wizardtech/wizardmagicshield/shared_shield..json"
+  },
+  "tech/wizardtech/wizardmagicshield/wizardshield.statuseffect": {
+    "/label": "texts/tech/wizardtech/wizardmagicshield/shared_shield..json"
+  }
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/experience/experienceorb.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Experience Orb"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/experience/experienceorb.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Experience orbs used to level up.",
+      "Por": "Orbs de experiência usados para subir de nível."
+    }
+  }
+]

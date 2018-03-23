@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/novaquest2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're a lot more intelligent now! I have upgraded your Nova. You will now also be able to build Super Nova in an upgraded anvil.",
+      "Por": "Você é muito mais inteligente agora! Eu melhorei sua Nova. Agora você também poderá construir a Super Nova em uma bigorna melhorada."
+    }
+  }
+]

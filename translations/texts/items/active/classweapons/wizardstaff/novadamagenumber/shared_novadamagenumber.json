@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/wizardstaff/novadamagenumber/novadamagenumber.particle": [
+        "/definition/text"
+      ],
+      "items/active/classweapons/wizardstaff/novadamagenumber/novadamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "items/active/classweapons/wizardstaff/novadamagenumber/novadamagenumberweak.particle": [
+        "/definition/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^shadow;$dmg$"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguetoxicaura/rogueweaken.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weakened!",
+      "Por": "Enfraquecido!"
+    }
+  }
+]

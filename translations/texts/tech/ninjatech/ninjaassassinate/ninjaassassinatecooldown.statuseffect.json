@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ninjatech/ninjaassassinate/ninjaassassinatecooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assassinate Cooldown",
+      "Por": "Tempo de Recarga Assassinar"
+    }
+  }
+]

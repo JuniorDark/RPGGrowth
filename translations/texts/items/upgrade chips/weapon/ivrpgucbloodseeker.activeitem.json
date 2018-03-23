@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucbloodseeker.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Aether Upgrade.\nMore aggressive tracking. Blood Aether does more damage on consecutive hits.",
+      "Por": "Melhoria para o Blood Aether.\nRastreamento mais agressivo. Blood Aether da mais dano em golpes consecutivos."
+    }
+  }
+]

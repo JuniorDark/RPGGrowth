@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiermarksman/soldiermarksman.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Duration/Cooldown: 10s/30s.",
+      "Por": "Duração/Tempo de Recarga: 10s/30s."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiermarksman/soldiermarksman.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Marksman",
+      "Por": "Atirador"
+    }
+  }
+]

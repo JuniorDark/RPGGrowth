@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollresetaffinity.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Affinity Reset Scroll"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollresetaffinity.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like enticing descriptions of awesome elements! Maybe you want to try out a new one?",
+      "Por": "Parece descrições atraentes de elementos incríveis! Talvez você queira experimentar um novo?"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguetoxicaura/rtoxicaura.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weakens Nearby Enemies",
+      "Por": "Enfraquece Inimigos Próximos"
+    }
+  }
+]

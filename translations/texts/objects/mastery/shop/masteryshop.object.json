@@ -1,0 +1,108 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/masteryshop.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A masterfully designed wooden desk (with a pinkish hue) for masters to manifest items from mastery.",
+      "Por": "Uma mesa de madeira magistralmente projetada (com uma tonalidade rosada) para mestres manifestem itens da mestria."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/masteryshop.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple table. Don't really know what this darned thing is capable of.",
+      "Por": "Uma mesa simples. Realmente não sei do que essa maldita coisa é capaz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/masteryshop.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small table. Despite its simplicity, it seems masterful.",
+      "Por": "Uma mesa pequena. Apesar de sua simplicidade, parece magistral."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/masteryshop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Master's Desk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/masteryshop.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old table too fragile for Floran to use for chopping food. But color remindss Floran of meat.",
+      "Por": "Mesa velha muito frágil para Floran usar para cortar alimentos. Mas a cor lembra Floran de carne."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/masteryshop.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "One swift kick and this table might implode."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/masteryshop.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table emanates a strong mystical energy.",
+      "Por": "Esta mesa emana uma forte energia mística."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/masteryshop.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table wobbles quite easily, and everytime it does, my stomach hurts.",
+      "Por": "Esta mesa balança bem facilmente, e toda vez que isso acontece, meu estômago dói."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/masteryshop.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "With a table like this, one can really focus.",
+      "Por": "Com uma mesa como esta, pode-se realmente se concentrar."
+    }
+  }
+]

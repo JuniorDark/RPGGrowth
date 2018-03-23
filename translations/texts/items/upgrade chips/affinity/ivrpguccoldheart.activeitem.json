@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpguccoldheart.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frost and Cryo Affinity Upgrade.\nEmbrittled enemies further weakened to damage.",
+      "Por": "Melhoria para a Afinidade Gelo e Crio.\nInimigos Fragilizados enfraquecem ainda mais a dano."
+    }
+  }
+]

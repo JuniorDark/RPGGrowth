@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpguceternalflame.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flame and Infernal Affinity Upgrade.\nNegates all Affinity Weaknesses.",
+      "Por": "Melhoria para a Afinidade Fogo e Infernal.\nNega todas as Fraquezas de Afinidade."
+    }
+  }
+]

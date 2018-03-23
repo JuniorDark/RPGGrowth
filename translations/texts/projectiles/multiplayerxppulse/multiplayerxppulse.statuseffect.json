@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/multiplayerxppulse/multiplayerxppulse.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "XP Pulse",
+      "Por": "Pulso de XP"
+    }
+  }
+]

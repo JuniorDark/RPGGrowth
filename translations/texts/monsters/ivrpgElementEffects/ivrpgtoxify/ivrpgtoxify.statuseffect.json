@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ivrpgElementEffects/ivrpgtoxify/ivrpgtoxify.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poisoned",
+      "Por": "Envenenado"
+    }
+  }
+]

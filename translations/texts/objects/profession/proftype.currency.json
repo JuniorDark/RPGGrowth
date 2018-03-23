@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/profession/proftype.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A droplet of occupational knowledge.",
+      "Por": "Uma quantidade ínfima de conhecimento ocupacional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/profession/proftype.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Profession Droplet"
+    }
+  }
+]

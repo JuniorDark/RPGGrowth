@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucvampirescaress.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Aether Upgrade.\nGain Regenaration and Rage upon killing an enemy.",
+      "Por": "Melhoria para o Blood Aether.\nGanha Regeneração e Raiva depois de matar um inimigo."
+    }
+  }
+]

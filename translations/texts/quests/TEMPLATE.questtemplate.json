@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/TEMPLATE.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Completed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/TEMPLATE.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Description.^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/TEMPLATE.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Title"
+    }
+  }
+]

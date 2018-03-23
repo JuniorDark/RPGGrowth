@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ninjatech/ninjaassassinate/ninjaassassinate.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cost: 20-100% Max Energy. Vanish Time: 2s. Cooldown: 3s.",
+      "Por": "Custo: 20-100% Energia Máxima. Tempo de Desaparecimento: 2s. Tempo de Recarga: 3s."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ninjatech/ninjaassassinate/ninjaassassinate.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Step",
+      "Por": "Passo das Sombras"
+    }
+  }
+]

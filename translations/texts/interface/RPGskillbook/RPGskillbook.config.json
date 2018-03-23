@@ -1,0 +1,1151 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/refinetext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nRefine your extra Experience into a powerful substance.\n^red;Every 10000 Experience refines into 1 Mastery!^reset;",
+      "Por": "\n\nRefine sua experiência extra em uma substância poderosa.\n^red;Cada 10000 Experiência refina em 1 Mestria!^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/weapontext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "+20% with how did you get here.",
+      "Por": "+20% com como você chegou aqui?."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/effecttext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "+20% with the stop screwing around!",
+      "Por": "+20% com pare de perder tempo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "+20% com o quê e quem agora?"
+    ],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitylayout/children/passivetext/value",
+        "/gui/classlayout/children/passivetext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "+20% with the what 'an who now?",
+      "Por": "+20% com o que e quem agora?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/upgradelayout/children/affinitytext/value",
+        "/gui/upgradelayout/children/generaltext/value",
+        "/gui/upgradelayout/children/techtext/value",
+        "/gui/upgradelayout/children/weapontext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "-"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/hardcoretext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "-10%"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/classweapontext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/challenge1progress/value",
+        "/gui/masterylayout/children/challenge2progress/value",
+        "/gui/masterylayout/children/challenge3progress/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0 / 0"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/xpover/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "250000"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitylayout/children/aestheticstoggletext/value",
+        "/gui/classlayout/children/classabilitytoggletext/value",
+        "/gui/overviewlayout/children/hardcoretoggletext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Active",
+      "Por": "Ativar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitylayout/children/aesthetictitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aesthetics",
+      "Por": "Estética"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/upgradelayout/children/affinitytitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Affinity",
+      "Por": "Afinidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitylayout/children/upgradetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "After Upgrade",
+      "Por": "Após a Melhoria"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/infolayout/children/displaystats/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amount:\n\n            Bonus Health:\n\n            Bonus Energy:\n\n            Energy Recharge Rate:\n\n            Energy Recharge Delay:\n\n            Hunger:\n\n            Physical Resistance:\n\n            Poison Resistance:\n\n            Frost Resistance:\n\n            Fire Resistance:\n\n            Electric Resistance:\n\n            Knockback Resistance:\n\n            Fall Damage Multiplier:\n\n            Shield Health Multiplier:\n\n            Bleed Chance:\n\n            Bleed Length:\n",
+      "Por": "Quantidade:\nBônus de Vida:\nBônus de Energia:\nTaxa de Recarga de Energia:\nAtraso de Recarga de Energia:\nFome:\nResistência Física:\nResistência a Veneno:\nResistência a Gelo:\nResistência a Fogo:\nResistência a Eletricidade:\nResistência a:\nMultiplicador de Dano de Queda:\nMultiplicador de Vida do Escudo:\nChance de Sangramento:\nDuração do Sangramento:\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/infolayout/children/displaystatsFU/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amount:\n            Radiation:\n            Shadow:\n            Cosmic:\n\n            Status:\n            EH:\n            EC:\n            ER:",
+      "Por": "Quantidade:\nRadiação:\nShadow:\nCósmica:\nStatus:\nEH:\nEC:\nER:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/areyousure/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you sure you want to reset? This will reset your Class and unlocked Class Techs (This will also remove the stats gained from choosing a class).",
+      "Por": "Tem certeza de que deseja resetar? Isso irá redefinir sua classe e tecnologias de classe desbloqueadas (isso também removerá os status obtidos com a escolha de uma classe)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/areyousure/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you sure you want to reset? Your Experience, Level, Class, Specialization, Profession, Affinity, and Mastery will be removed.\nIn addition, your current Mastery Challenges will be forfeited,\nand your current Class' Skills will be forceably removed.",
+      "Por": "Tem certeza de que deseja resetar? Sua Experiência, Nível, Classe, Especialização, Profissão, Afinidade e Mestria serão removidos.\nAlém disso, seus desafios de Mestria atuais serão perdidos,\ne suas habilidades de classe atuais serão removidos à força."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/toggleclassabilitytitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Border/Light",
+      "Por": "Borda/Luz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/challenge1/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Challenge 1",
+      "Por": "Desafio 1"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/challenge2/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Challenge 2",
+      "Por": "Desafio 2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/challenge3/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Challenge 3",
+      "Por": "Desafio 3"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/challengetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Challenges",
+      "Por": "Desafios"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/classweapontitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Class Weapon",
+      "Por": "Arma de Classe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/classdescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Click a Class' icon to see how that Class plays.",
+      "Por": "Clique em um ícone de classe para informações sobre essa classe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/statdescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Click a stat's icon to see what occurs\nwhen that stat is raised.",
+      "Por": "Clique no ícone de um status para ver o que ocorre\nquando esse status é aumentado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitieslayout/children/affinitydescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Click an Affinity's icon to see how that Affinity plays.",
+      "Por": "Clique no ícone de uma Afinidade para ver como essa afinidade é desempenhada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/shoptext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Create a Mastery Shop, which provides the ability to purchase Scrolls, Items, and Class related Upgrades. Place it down and have fun!.\n^red;Costs 5 Mastery Points.^reset;",
+      "Por": "Cria uma Loja de Mestria, que oferece a capacidade de comprar pergaminhos, itens e melhorias relacionadas com a classe. Coloque-a e divirta-se!.\n^red;Custa 5 Pontos de Mestria.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/dexteritytext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dexterity",
+      "Por": "Destreza"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/endurancetext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Endurance",
+      "Por": "Resistência"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/explorertitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explorer",
+      "Por": "Explorador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/xpovertitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extra XP:",
+      "Por": " XP Extra:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitieslayout/children/firetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flame",
+      "Por": "Fogo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitieslayout/children/icetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frost",
+      "Por": "Gelo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/upgradelayout/children/generaltitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "General",
+      "Por": "Geral"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/hardcoretitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hardcore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/hardcoreweapontext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hardcore Mode now disables damage with weapons your Class can't use. ^red;Check Info (I)!^reset;",
+      "Por": "O Modo Hardcore agora desabilita o dano de armas que sua classe não pode usar. ^red;Verifique Info (I)!^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/infolayout/children/displayWeapons/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hardcore Weapon Availability",
+      "Por": "Disponibilidade de Arma Hardcore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/infolayout/children/displayFU/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hazards:\n^red;Fire Status:\nLava:\nHeat [Extreme]:^reset;\n^blue;Ice Status:\nCold [Extreme]:\nBreathing:^reset;\n^green;Poison Status:\nRadiation [Extreme]:^reset;\n^yellow;Electric Status:^reset;\n^gray;Damage;^reset;",
+      "Por": "Perigos:\n^red;Status de Fogo:\nLava:\nCalor [Extremo]:^reset;\n^blue;Status de Gelo:\nFrio [Extremo]:\nRespiração:^reset;\n^green;Status de Veneno:\nRadiação [Extrema]:^reset;\n^yellow;Status de Eletricidade:^reset;\n^gray;Dano:^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitylayout/children/immunitytitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Immunities",
+      "Por": "Imunidades"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/intelligencetext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intelligence",
+      "Por": "Inteligência"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/upgradelayout/children/upgradetext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keep an eye out for Upgrade Chips, which can drop from monsters,\nor be purchased using Mastery via the Mastery Shop.\nWhen you use an Upgrade Chip with a matching unused Upgrade Slot,\nit will appear here. You can use this Tab to read exact details,\nas well as unequip Upgrade Chips.\n^red;More Upgrades will be added in future updates.^reset;",
+      "Por": "Fique atento aos Upgrade Chips, que podem cair de monstros,\nou ser comprado usando Mestria através da Loja de Mestria.\nQuando você usa um Upgrade Chip com um slot de melhoria não utilizado correspondente,\nvai aparecer aqui. Você pode usar esta aba para ler detalhes exatos,\nbem como desequipar Upgrade Chips.\n^red;Mais melhorias serão adicionados em futuras atualizações.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/knighttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Knight",
+      "Por": "Cavaleiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/levelLabel/value",
+        "/gui/overviewlayout/children/levellabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Level 1",
+      "Por": "Nível 1"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionlockedlayout/children/locked/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Locked until Level 10!\n(Not Implemented Yet)",
+      "Por": "Bloqueado até o Nível 10!\n(Ainda Não Implementado)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitylockedlayout/children/locked/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Locked until Level 25!",
+      "Por": "Bloqueado até o Nível 25!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlockedlayout/children/locked/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Locked until Level 40!\n(Not Implemented Yet)",
+      "Por": "Bloqueado até o Nível 40!\n(Ainda Não Implementado)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylockedlayout/children/locked/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Locked until Level 50!",
+      "Por": "Bloqueado até o Nível 50!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/masterytitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mastery",
+      "Por": "Mestria"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/shoptitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mastery Shop",
+      "Por": "Loja de Mestria"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/ninjatitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ninja"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/affinitytitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "No Affinity",
+      "Por": "Sem Afinidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitylayout/children/affinitytitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "No Affinity Yet",
+      "Por": "Sem Afinidade Ainda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/classtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "No Class",
+      "Por": "Sem Classe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/classtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "No Class Yet",
+      "Por": "Sem Classe Ainda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionslayout/children/locked/value",
+        "/gui/specializationlayout/children/locked/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not Implemented Yet!",
+      "Por": "Ainda Não Implementado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionlayout/children/locked/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not Implemented Yet!\nYou cheated to get here, though, didn't you?",
+      "Por": "Ainda Não Implementado!\nMas você trapaceou para chegar aqui, não é?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/tabLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Overview"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitylayout/children/passivetitle/value",
+        "/gui/classlayout/children/passivetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Passive Bonus:",
+      "Por": "Bônus Passivo:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/prestigetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prestige",
+      "Por": "Prestígio"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/reqlvl/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Req. Level:",
+      "Por": "Nível Req.:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/weaponreqlvl/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Required Level:",
+      "Por": "Nível Requerido:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/prestigetext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reset your progress, losing all current XP and unlocks (Affinities, Specializations, etc). However, keep any Class skills you've unlocked.\n^red;Costs 3 Mastery Points.^reset;",
+      "Por": "Reseta o seu progresso, perdendo todo o XP atual e desbloqueados (Afinidades, Especializações, etc). No entanto, mantem todas as habilidades de classe que você desbloqueou.\n^red;Custa 3 Pontos de Mestria.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/roguetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rogue",
+      "Por": "Ladino"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/techtext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Select a skill to read about it and unlock it if possible.",
+      "Por": "Selecione uma habilidade para ler sobre ela e desbloqueá-la se possível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitieslayout/children/electrictitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shock",
+      "Por": "Eletricidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/techname/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skill Name",
+      "Por": "Nome da Habilidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/techtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skills",
+      "Por": "Habilidades"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/soldiertitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soldier",
+      "Por": "Soldado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitylayout/children/immunitytext/value",
+        "/gui/affinitylayout/children/statscalingtext/value",
+        "/gui/affinitylayout/children/statscalingtitle/value",
+        "/gui/affinitylayout/children/upgradetext/value",
+        "/gui/affinitylayout/children/weaknesstext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stat Bonus",
+      "Por": "Bônus de Status"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/statpointslefttext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stat Points Remaining",
+      "Por": "Pontos de Status Restantes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/statpointsremaining/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stat Points Remaining: 0",
+      "Por": "Pontos de Status Restantes: 0"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/statscalingtext/value",
+        "/gui/classlayout/children/statscalingtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stat Scaling",
+      "Por": "Escala de Status"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/infolayout/children/display/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stat:\n^red;Health Multiplier:^reset;\n^green;Energy Multiplier:\nEnergy Recharge Rate:\nEnergy Recharge Delay:^reset;\n^orange;Hunger Rate Deduction:^reset;\n^gray;Knockback Resistance:\nFall Damage Multiplier:\nShield Health Multiplier:^reset;\n^red;Bleed Chance:\nBleed Length:^reset;\n\n\nDamage Resistance:\n^gray;Physical:^reset;\n^magenta;Poison:^reset;\n^blue;Ice:^reset;\n^red;Fire:^reset;\n^yellow;Electric:^reset;\n^green;Radiation (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cosmic (FU):^reset;",
+      "Por": "Status\n^red;Multiplicador de Vida:^reset;\n^green;Multiplicador de Energia:\nTaxa de Recarga de Energia:\nAtraso de Recarga de Energia:^reset;\n^orange;Dedução da Taxa de Fome:^reset;\n^gray;Resistência a Knockback:\nMultiplicador de Dano de Queda:\nMultiplicador de Vida do Escudo:^reset;\n^red;Chance de Sangramento:\nDuração do Sangramento:^reset;\n\n\nResistência a Dano:\n^gray;Fisico:^reset;\n^magenta;Veneno:^reset;\n^blue;Gelo:^reset;\n^red;Fogo:^reset;\n^yellow;Eletricidade:^reset;\n^green;Radiação (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cósmico (FU):^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/strengthtext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strength",
+      "Por": "Força"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/upgradelayout/children/techtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech",
+      "Por": "Tecnologia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/techtype/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech Type",
+      "Por": "Tipo de Tecnologia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/challengetext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Test your might by completing challenges! Three randomly generated tasks will appear below, each with increasing difficulty.\nOnce completed, press the 'Accept' button to grab your rewards.\n^red;Challenge Detection is not currently working as intended.^reset;",
+      "Por": "Teste sua força completando desafios! Três tarefas geradas aleatoriamente serão exibidas abaixo, cada uma com dificuldade crescente.\nQuando concluída, pressione o botão 'Aceitar' para obter suas recompensas.\n^red;A detecção de Desafios não está funcionando como pretendido.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/totalstatstext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Total"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/xptotallabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Total XP",
+      "Por": "XP Total"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/masterytotal/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Total:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/upgradelayout/children/affinityname/value",
+        "/gui/upgradelayout/children/generalname/value",
+        "/gui/upgradelayout/children/techname/value",
+        "/gui/upgradelayout/children/weaponname/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "UNUSED",
+      "Por": "NÃO UTILIZADO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/unlockedtext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlocked! Go to the Tech Station to equip it!",
+      "Por": "Desbloqueada! Vá para a estação de tecnologias para equipá-la!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitylayout/children/effecttext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upgrade your Affinity by using their respective Upgrade Scroll! Fight Guardians that control your affinity for a chance to get one! Required Level: 45!",
+      "Por": "Melhore sua Afinidade usando seu respectivo Pergaminho de Melhoria! Lute contra guardiões que controlam a sua afinidade para a chance de conseguir um! Nível Exigido: 45!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/upgradelayout/children/upgradetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upgrades",
+      "Por": "Melhorias"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitieslayout/children/poisontitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Venom",
+      "Por": "Veneno"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/vigortext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vigor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/vitalitytext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vitality",
+      "Por": "Vitalidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitylayout/children/weaknesstitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weaknesses",
+      "Por": "Fraquezas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/upgradelayout/children/weapontitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon",
+      "Por": "Arma"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classlayout/children/weapontitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon Bonus:",
+      "Por": "Bônus de Arma:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/wizardtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wizard",
+      "Por": "Feiticeiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/xpLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "XP"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/xptglabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "XP To Go",
+      "Por": "XP Para Upar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/statprevention/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "You must choose a Class before you can raise stats!",
+      "Por": "Você deve escolher uma Classe antes de poder aumentar os status!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Use it to strengthen your character!",
+      "Por": "^#b9b5b2;Use-o para fortalecer seu personagem!"
+    }
+  }
+]

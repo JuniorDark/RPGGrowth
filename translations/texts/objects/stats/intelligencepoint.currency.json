@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/stats/intelligencepoint.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "intelligence"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/stats/intelligencepoint.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "intelligence.",
+      "Por": "inteligência."
+    }
+  }
+]

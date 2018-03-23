@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/soldierstun/soldierstun.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soldier's Stun"
+    }
+  }
+]

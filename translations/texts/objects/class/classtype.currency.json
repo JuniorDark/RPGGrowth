@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/class/classtype.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A droplet of mysterious power.",
+      "Por": "Uma quantidade ínfima de poder misterioso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/class/classtype.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Class Droplet"
+    }
+  }
+]

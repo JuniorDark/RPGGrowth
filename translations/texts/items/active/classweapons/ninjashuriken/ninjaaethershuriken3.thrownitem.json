@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/ninjashuriken/ninjaaethershuriken3.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Aether"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/ninjashuriken/ninjaaethershuriken3.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Aether, a shadowy shuriken that seeks enemies.",
+      "Por": "Blood Aether, uma shuriken sombria que procura inimigos."
+    }
+  }
+]

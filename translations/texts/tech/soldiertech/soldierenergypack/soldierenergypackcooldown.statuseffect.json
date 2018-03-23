@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldierenergypack/soldierenergypackcooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Pack Cooldown",
+      "Por": "Tempo de Recarga do Pacote de Energia"
+    }
+  }
+]

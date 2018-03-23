@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/soldiergun/soldierversa2.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Versa Impact"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/soldiergun/soldierversa2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Versa Impact, a gun that can decimate enemies from both up close and far away.",
+      "Por": "Versa Impact, uma arma que pode dizimar inimigos de perto e de longe."
+    }
+  }
+]

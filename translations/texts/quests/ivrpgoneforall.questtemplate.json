@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/ivrpgoneforall.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "We are phasing out the usage of this quest. Please do not worry if it has been completed/abandoned.",
+      "Por": "Estamos extinguindo o uso desta missão. Por favor, não se preocupe que tenha sido concluída/fracassada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/ivrpgoneforall.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to Update 1.31 of RPG Growth!\n\nThis quest is an indicator that nearby players will gain the same amount of XP you do, and vice versa. Now those pesky Melee-Only Classes won't steal all of it from you.",
+      "Por": "Bem-vindo ao Update 1.31 do RPG Growth!\n\nEsta missão é um indicador de que os jogadores próximos ganharão a mesma quantidade de XP que você ganha, e vice versa. Agora aquelas Classes Somente Corpo-a-corpo traquinas não vão roubar tudo de você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/ivrpgoneforall.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;One for All",
+      "Por": "^orange;Um por Todos"
+    }
+  }
+]

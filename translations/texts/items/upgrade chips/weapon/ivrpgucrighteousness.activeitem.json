@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucrighteousness.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vital Aegis Upgrade.\nPerfect Shielding increases damage.",
+      "Por": "Melhoria para o Vital Aegis.\nBloqueio Perfeito aumenta o dano."
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/explorerdrill/explorerspiradrill2.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hungry Spira"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/explorerdrill/explorerspiradrill2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hungry Spira, a drill that pulls item drops towards you.",
+      "Por": "Hungry Spira, uma broca que puxa os itens dropados para você."
+    }
+  }
+]

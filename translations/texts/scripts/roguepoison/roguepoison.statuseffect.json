@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "scripts/roguepoison/roguepoison.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rogue's Experience",
+      "Por": "Experiência do Ladino"
+    }
+  }
+]

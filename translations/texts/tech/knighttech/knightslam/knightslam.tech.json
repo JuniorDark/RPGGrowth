@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/knighttech/knightslam/knightslam.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slam",
+      "Por": "Batida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/knighttech/knightslam/knightslam.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slam Cost: 30e.",
+      "Por": "Custo da Batida: 30e."
+    }
+  }
+]

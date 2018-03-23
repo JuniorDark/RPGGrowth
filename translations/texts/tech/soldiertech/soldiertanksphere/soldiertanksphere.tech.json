@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiertanksphere/soldiertanksphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tank Sphere",
+      "Por": "Esfera Tanque"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiertanksphere/soldiertanksphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transformation Cost: 40e. Shield Cost: 40eps.",
+      "Por": "Custo de Transformação: 40e. Custo do Escudo: 40eps."
+    }
+  }
+]

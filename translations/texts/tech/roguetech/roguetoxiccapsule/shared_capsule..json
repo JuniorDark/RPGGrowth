@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguetoxiccapsule/roguecapsule.statuseffect": [
+        "/label"
+      ],
+      "tech/roguetech/roguetoxiccapsule/roguetoxiccapsule.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic Capsule",
+      "Por": "Cápsula Tóxica"
+    }
+  }
+]

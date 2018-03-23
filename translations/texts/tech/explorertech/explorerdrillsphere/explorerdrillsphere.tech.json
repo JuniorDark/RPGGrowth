@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/explorertech/explorerdrillsphere/explorerdrillsphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drill Sphere",
+      "Por": "Esfera Broca"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/explorertech/explorerdrillsphere/explorerdrillsphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transformation Cost: 25e. Active Cost: 5eps.",
+      "Por": "Custo de Transformação: 25e. Custo de Ativação: 5eps."
+    }
+  }
+]

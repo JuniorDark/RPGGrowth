@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollarc.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scroll: Lightning"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollarc.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shows complex equations detailing electricity. It seems to be humming: how shocking.",
+      "Por": "Mostra equações complexas detalhando eletricidade. Parece estar sussurando: que chocante."
+    }
+  }
+]

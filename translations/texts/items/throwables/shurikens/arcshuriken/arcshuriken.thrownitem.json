@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/shurikens/arcshuriken/arcshuriken.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A humming shuriken, sure to shock enemies.",
+      "Por": "Uma shuriken sussurrante, com certeza choca os inimigos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/shurikens/arcshuriken/arcshuriken.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arc Shuriken"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/windowtitle/title"
+      ],
+      "objects/skillbook/RPGskillbook.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mysterious Book",
+      "Por": "Livro Misterioso"
+    }
+  }
+]

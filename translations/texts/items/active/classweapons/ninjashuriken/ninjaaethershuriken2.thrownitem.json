@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/ninjashuriken/ninjaaethershuriken2.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Aether"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/ninjashuriken/ninjaaethershuriken2.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Aether, a sharper, shadowy shuriken that duplicates using dark energy.",
+      "Por": "Shadow Aether, uma shuriken afiada e sombria que duplica usando energia escura."
+    }
+  }
+]

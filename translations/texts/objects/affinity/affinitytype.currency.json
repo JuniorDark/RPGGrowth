@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/affinity/affinitytype.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Affinity Type"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/affinity/affinitytype.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Points that change your Affinity.",
+      "Por": "Pontos que mudam sua Afinidade."
+    }
+  }
+]

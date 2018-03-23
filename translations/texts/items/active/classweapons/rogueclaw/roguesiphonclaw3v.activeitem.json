@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/rogueclaw/roguesiphonclaw3v.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just sickening. Perfect.",
+      "Por": "Apenas nauseante. Perfeita."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/rogueclaw/roguesiphonclaw3v.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Siphon Spore"
+    }
+  }
+]

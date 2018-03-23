@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Custo de Planar: 5eps."
+    ],
+    "Files": {
+      "tech/explorertech/explorerenhancedjump/explorerenhancedjump.tech": [
+        "/description"
+      ],
+      "tech/explorertech/explorerglide/explorerglide.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glide Cost: 5eps.",
+      "Por": "Custo do Planar: 5eps."
+    }
+  }
+]

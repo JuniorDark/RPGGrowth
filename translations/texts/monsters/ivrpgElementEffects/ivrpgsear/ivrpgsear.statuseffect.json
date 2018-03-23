@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ivrpgElementEffects/ivrpgsear/ivrpgsear.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burning",
+      "Por": "Queimando"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/wizard/ivrpgdyingstar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dying star... Can this even be used for crafting?",
+      "Por": "Uma estrela moribunda... Isso pode ser usado para fabricação?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/wizard/ivrpgdyingstar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dying Star"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/rogueclaw/roguesiphonclaw3e.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crackling with energy!",
+      "Por": "Crepitando com energia!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/rogueclaw/roguesiphonclaw3e.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Siphon Flux"
+    }
+  }
+]

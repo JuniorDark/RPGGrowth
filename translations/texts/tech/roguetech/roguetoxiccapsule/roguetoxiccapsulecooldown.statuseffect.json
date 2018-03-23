@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguetoxiccapsule/roguetoxiccapsulecooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic Capsule Cooldown",
+      "Por": "Tempo de Recarga da Cápsula Tóxica"
+    }
+  }
+]

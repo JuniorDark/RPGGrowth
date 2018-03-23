@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ivrpgElementEffects/ivrpgembrittle/ivrpgembrittle.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slow",
+      "Por": "Lentidão"
+    }
+  }
+]

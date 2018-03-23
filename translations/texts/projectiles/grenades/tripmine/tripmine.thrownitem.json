@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/grenades/tripmine/tripmine.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tripmine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/grenades/tripmine/tripmine.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watch your step.",
+      "Por": "Cuidado onde pisa."
+    }
+  }
+]

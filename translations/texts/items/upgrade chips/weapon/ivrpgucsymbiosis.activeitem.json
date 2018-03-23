@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucsymbiosis.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Siphon Spore Upgrade.\nDeal more damage when health is low.",
+      "Por": "Melhoria para o Siphon Spore.\nCausa mais dano quando a vida esta baixa."
+    }
+  }
+]

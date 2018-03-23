@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucspintowin.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ravenous Spira Upgrade.\nSpira is more effective but uses more energy.",
+      "Por": "Melhoria para o Ravenous Spira.\nSpira é mais eficaz, mas usa mais energia."
+    }
+  }
+]

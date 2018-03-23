@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucevergreen.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frost and Cryo Affinity Upgrade.\nNegates all Affinity Weaknesses.",
+      "Por": "Melhoria para a Afinidade Gelo e Crio.\nNega todas as Fraquezas de Afinidade."
+    }
+  }
+]

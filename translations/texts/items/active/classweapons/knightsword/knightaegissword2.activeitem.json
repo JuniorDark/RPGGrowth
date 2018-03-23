@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/knightsword/knightaegissword2.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prismatic Aegis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/knightsword/knightaegissword2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prsimatic Aegis, a sword made of tempered steel and embedded with diamond and gold that can absorb heavy blows.",
+      "Por": "Prsimatic Aegis, uma espada feita de aço temperado e embutida com diamante e ouro que pode absorver golpes pesados."
+    }
+  }
+]

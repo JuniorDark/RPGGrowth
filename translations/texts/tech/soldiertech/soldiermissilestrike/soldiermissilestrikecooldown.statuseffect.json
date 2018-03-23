@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiermissilestrike/soldiermissilestrikecooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Missile Strike Cooldown",
+      "Por": "Tempo de Recarga do Ataque de Mísseis"
+    }
+  }
+]

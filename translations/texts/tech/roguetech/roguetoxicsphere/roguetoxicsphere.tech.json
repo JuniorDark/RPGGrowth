@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguetoxicsphere/roguetoxicsphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic Sphere",
+      "Por": "Esfera Tóxica"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguetoxicsphere/roguetoxicsphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transformation Cost: 50e. Attack Cost: 10e.",
+      "Por": "Custo de Transformação: 50e. Custo do Ataque: 10e."
+    }
+  }
+]

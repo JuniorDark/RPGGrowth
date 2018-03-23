@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollinfernal.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scroll: Infernos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollinfernal.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shows inscriptions of devilish rituals. The corner is partially burnt.",
+      "Por": "Mostra inscrições de rituais diabólicos. O canto está parcialmente queimado."
+    }
+  }
+]

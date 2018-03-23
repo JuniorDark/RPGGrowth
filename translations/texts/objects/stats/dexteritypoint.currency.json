@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/stats/dexteritypoint.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "dexterity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/stats/dexteritypoint.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "dexterity.",
+      "Por": "destreza."
+    }
+  }
+]

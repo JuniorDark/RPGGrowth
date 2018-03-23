@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ivrpgsparks.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sparks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ivrpgsparks.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tap ^green;[F]^white; to shoot sparks!",
+      "Por": "Aperte ^green;[F]^white; para disparar faíscas!"
+    }
+  }
+]

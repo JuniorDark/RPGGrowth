@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrolladdstatpoint.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like this scroll contains information on all sorts of interesting stuff.",
+      "Por": "Parece que este pergaminho contém informações sobre todos os tipos de coisas interessantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrolladdstatpoint.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scroll: +1 Stat Point"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucmiasma.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Venom and Toxic Affinity Upgrade.\nAesthetic Poison Clouds cause Poison Status.",
+      "Por": "Melhoria para a Afinidade Veneno e Tóxico.\nAs Nuvens de Veneno Estéticas causam Envenenamento."
+    }
+  }
+]

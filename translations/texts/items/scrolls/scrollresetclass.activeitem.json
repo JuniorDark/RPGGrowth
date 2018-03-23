@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollresetclass.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Class Reset Scroll"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollresetclass.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspiring Stories about legendary heroes. Maybe it's time for a new class of work.",
+      "Por": "Histórias inspiradoras sobre heróis lendários. Talvez seja hora de escolher uma nova classe."
+    }
+  }
+]

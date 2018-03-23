@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucpassedprime.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Primed Nova Upgrade.\nPrimed Nova can be charged for longer. Status Procs upgraded.",
+      "Por": "Melhoria para a Primed Nova.\nPrimed Nova pode ser carregada por mais tempo. Procs de Status melhorado."
+    }
+  }
+]

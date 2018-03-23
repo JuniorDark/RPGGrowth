@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/explorer/ivrpgspiralpower.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spiral Power"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/explorer/ivrpgspiralpower.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "We've somehow made the energy even manlier. And spinnier!",
+      "Por": "De alguma forma, fizemos a energia ainda mais máscula. E giratória!"
+    }
+  }
+]

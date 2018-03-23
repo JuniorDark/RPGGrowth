@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguetoxicaura/roguetoxicauracooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic Aura Cooldown",
+      "Por": "Tempo de Recarga da Aura Tóxica"
+    }
+  }
+]

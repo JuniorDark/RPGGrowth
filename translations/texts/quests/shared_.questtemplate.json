@@ -1,0 +1,47 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aegisquest2.questtemplate": [
+        "/title"
+      ],
+      "quests/aegisquest3.questtemplate": [
+        "/title"
+      ],
+      "quests/aetherquest2.questtemplate": [
+        "/title"
+      ],
+      "quests/aetherquest3.questtemplate": [
+        "/title"
+      ],
+      "quests/novaquest2.questtemplate": [
+        "/title"
+      ],
+      "quests/novaquest3.questtemplate": [
+        "/title"
+      ],
+      "quests/siphonquest2.questtemplate": [
+        "/title"
+      ],
+      "quests/siphonquest3.questtemplate": [
+        "/title"
+      ],
+      "quests/spiraquest2.questtemplate": [
+        "/title"
+      ],
+      "quests/spiraquest3.questtemplate": [
+        "/title"
+      ],
+      "quests/versaquest2.questtemplate": [
+        "/title"
+      ],
+      "quests/versaquest3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Weapon Upgrade",
+      "Por": "^green;Melhoria de Arma"
+    }
+  }
+]

@@ -1,0 +1,419 @@
+{
+  "texts": {
+    "_metadata.json": 2,
+    "glitchEmotes.json": 1,
+    "interface": {
+      "RPGskillbook": {
+        "RPGskillbook.config.json": 95
+      }
+    },
+    "items": {
+      "active": {
+        "classweapons": {
+          "explorerdrill": {
+            "explorerspiradrill.activeitem.json": 2,
+            "explorerspiradrill2.activeitem.json": 2,
+            "explorerspiradrill3.activeitem.json": 2
+          },
+          "knightsword": {
+            "aegisswordcombo.weaponability.json": 1,
+            "knightaegissword.activeitem.json": 2,
+            "knightaegissword2.activeitem.json": 2,
+            "parryshield.weaponability.json": 1,
+            "shared_knightaegissword.json": 2
+          },
+          "ninjashuriken": {
+            "ninjaaethershuriken.thrownitem.json": 2,
+            "ninjaaethershuriken2.thrownitem.json": 2,
+            "ninjaaethershuriken3.thrownitem.json": 2
+          },
+          "rogueclaw": {
+            "roguesiphonclaw.activeitem.json": 2,
+            "roguesiphonclaw2s.activeitem.json": 2,
+            "roguesiphonclaw2v.activeitem.json": 2,
+            "roguesiphonclaw3e.activeitem.json": 2,
+            "roguesiphonclaw3s.activeitem.json": 2,
+            "roguesiphonclaw3v.activeitem.json": 2
+          },
+          "soldiergun": {
+            "soldierversa.activeitem.json": 2,
+            "soldierversa2.activeitem.json": 2,
+            "soldierversa3.activeitem.json": 2,
+            "versaarfire.weaponability.json": 1
+          },
+          "wizardstaff": {
+            "novadamagenumber": {
+              "shared_novadamagenumber.json": 1
+            },
+            "novastaffswitch.weaponability.json": 1,
+            "shared_novastaff.json": 1,
+            "wizardnovastaff.activeitem.json": 1,
+            "wizardnovastaff2.activeitem.json": 2,
+            "wizardnovastaff3.activeitem.json": 2
+          }
+        }
+      },
+      "crafting": {
+        "explorer": {
+          "ivrpgspiralenergy.item.json": 2,
+          "ivrpgspiralpower.item.json": 2
+        },
+        "knight": {
+          "ivrpgmeteoricmetal.item.json": 2,
+          "ivrpgmeteoricmetalbar.item.json": 2
+        },
+        "ninja": {
+          "ivrpgether.item.json": 2,
+          "ivrpgetherealblade.item.json": 2
+        },
+        "rogue": {
+          "ivrpgparasiticgoo.item.json": 2,
+          "ivrpgparasiticnervebundle.item.json": 2
+        },
+        "soldier": {
+          "ivrpgfiringmechanism.item.json": 2,
+          "ivrpggunparts.item.json": 2
+        },
+        "wizard": {
+          "ivrpgdyingstar.item.json": 2,
+          "ivrpgnovacrystal.item.json": 2
+        }
+      },
+      "scrolls": {
+        "scrolladdstatpoint.activeitem.json": 2,
+        "scrollarc.activeitem.json": 2,
+        "scrollcryo.activeitem.json": 2,
+        "scrollinfernal.activeitem.json": 2,
+        "scrollresetaffinity.activeitem.json": 2,
+        "scrollresetclass.activeitem.json": 2,
+        "scrolltoxic.activeitem.json": 2
+      },
+      "throwables": {
+        "shurikens": {
+          "arcshuriken": {
+            "arcshuriken.thrownitem.json": 2
+          },
+          "cryoshuriken": {
+            "cryoshuriken.thrownitem.json": 2
+          },
+          "durasteelshuriken": {
+            "durasteelshuriken.thrownitem.json": 2
+          },
+          "infernalshuriken": {
+            "infernalshuriken.thrownitem.json": 2
+          },
+          "toxicshuriken": {
+            "toxicshuriken.thrownitem.json": 2
+          }
+        }
+      },
+      "upgrade chips": {
+        "affinity": {
+          "ivrpgucbloom.activeitem.json": 1,
+          "ivrpguccoldheart.activeitem.json": 1,
+          "ivrpguccontagion.activeitem.json": 1,
+          "ivrpgucdischarge.activeitem.json": 1,
+          "ivrpguceternalflame.activeitem.json": 1,
+          "ivrpgucevergreen.activeitem.json": 1,
+          "ivrpgucfeedbackloop.activeitem.json": 1,
+          "ivrpgucicequeen.activeitem.json": 1,
+          "ivrpgucincurable.activeitem.json": 1,
+          "ivrpgucmiasma.activeitem.json": 1,
+          "ivrpgucplasmacore.activeitem.json": 1,
+          "ivrpgucskadisblessing.activeitem.json": 1,
+          "ivrpgucvikingfuneral.activeitem.json": 1
+        },
+        "shared_.activeitem.json": 2,
+        "tech": {
+          "ivrpgucglidesphere.activeitem.json": 1,
+          "ivrpguchoversphere.activeitem.json": 1,
+          "ivrpgucwalljump.activeitem.json": 1
+        },
+        "weapon": {
+          "ivrpgucblindingjustice.activeitem.json": 1,
+          "ivrpgucbloodseeker.activeitem.json": 1,
+          "ivrpguccharger.activeitem.json": 1,
+          "ivrpguccombobreaker.activeitem.json": 1,
+          "ivrpguchardlight.activeitem.json": 1,
+          "ivrpgucpassedprime.activeitem.json": 1,
+          "ivrpgucquicksilver.activeitem.json": 1,
+          "ivrpgucrighteousness.activeitem.json": 1,
+          "ivrpgucrighthandman.activeitem.json": 1,
+          "ivrpgucspintowin.activeitem.json": 1,
+          "ivrpgucsymbiosis.activeitem.json": 1,
+          "ivrpguctriggerhappy.activeitem.json": 1,
+          "ivrpgucvampirescaress.activeitem.json": 1
+        }
+      }
+    },
+    "ivrpgtext.config.json": 58,
+    "monsters": {
+      "ivrpgElementEffects": {
+        "ivrpgembrittle": {
+          "ivrpgembrittle.statuseffect.json": 1
+        },
+        "ivrpgoverload": {
+          "ivrpgoverload.statuseffect.json": 1
+        },
+        "ivrpgsear": {
+          "ivrpgsear.statuseffect.json": 1
+        },
+        "ivrpgtoxify": {
+          "ivrpgtoxify.statuseffect.json": 1
+        }
+      },
+      "soldierstun": {
+        "soldierstun.statuseffect.json": 1
+      }
+    },
+    "objects": {
+      "affinity": {
+        "affinitytype.currency.json": 2
+      },
+      "class": {
+        "classtype.currency.json": 2
+      },
+      "experience": {
+        "currentlevel.currency.json": 1,
+        "experienceorb.currency.json": 2
+      },
+      "mastery": {
+        "masterypoint.currency.json": 2,
+        "shop": {
+          "ivrpgmasteryshop.config.json": 10,
+          "masteryshop.object.json": 9
+        }
+      },
+      "profession": {
+        "proftype.currency.json": 2
+      },
+      "skillbook": {
+        "RPGskillbook.activeitem.json": 1,
+        "skillbookopen.currency.json": 2
+      },
+      "specialization": {
+        "spectype.currency.json": 2
+      },
+      "stats": {
+        "agilitypoint.currency.json": 1,
+        "dexteritypoint.currency.json": 2,
+        "endurancepoint.currency.json": 2,
+        "intelligencepoint.currency.json": 2,
+        "statpoint.currency.json": 1,
+        "strengthpoint.currency.json": 2,
+        "vigorpoint.currency.json": 2,
+        "vitalitypoint.currency.json": 2
+      }
+    },
+    "projectiles": {
+      "grenades": {
+        "shock": {
+          "shockcharge.thrownitem.json": 2
+        },
+        "skitter": {
+          "skittergrenade.thrownitem.json": 2
+        },
+        "stun": {
+          "stungrenade.thrownitem.json": 2
+        },
+        "tripmine": {
+          "tripmine.thrownitem.json": 2
+        }
+      },
+      "multiplayerxppulse": {
+        "multiplayerxppulse.statuseffect.json": 1
+      }
+    },
+    "quests": {
+      "TEMPLATE.questtemplate.json": 3,
+      "aegisquest.questtemplate.json": 3,
+      "aegisquest2.questtemplate.json": 1,
+      "aegisquest3.questtemplate.json": 2,
+      "aetherquest.questtemplate.json": 3,
+      "aetherquest2.questtemplate.json": 1,
+      "aetherquest3.questtemplate.json": 2,
+      "ivrpgoneforall.questtemplate.json": 3,
+      "novaquest.questtemplate.json": 3,
+      "novaquest2.questtemplate.json": 1,
+      "novaquest3.questtemplate.json": 2,
+      "shared_.questtemplate.json": 1,
+      "shared_quest2.questtemplate.json": 1,
+      "siphonquest.questtemplate.json": 3,
+      "siphonquest2.questtemplate.json": 1,
+      "siphonquest3.questtemplate.json": 2,
+      "spiraquest.questtemplate.json": 3,
+      "spiraquest2.questtemplate.json": 2,
+      "spiraquest3.questtemplate.json": 2,
+      "versaquest.questtemplate.json": 3,
+      "versaquest2.questtemplate.json": 1,
+      "versaquest3.questtemplate.json": 2
+    },
+    "scripts": {
+      "explorerglow": {
+        "shared_.statuseffect.json": 1
+      },
+      "knightblock": {
+        "knightblock.statuseffect.json": 1
+      },
+      "ninjacrit": {
+        "ninjacrit.statuseffect.json": 1
+      },
+      "roguepoison": {
+        "roguepoison.statuseffect.json": 1
+      },
+      "soldierdiscipline": {
+        "soldierdiscipline.statuseffect.json": 1
+      },
+      "wizardaffinity": {
+        "wizardaffinity.statuseffect.json": 1
+      }
+    },
+    "shared_skillbook": {
+      "shared_RPGskillbook..json": 1
+    },
+    "shared_stun.json": 1,
+    "tech": {
+      "explorertech": {
+        "explorerdrill": {
+          "explorerdrill.tech.json": 2
+        },
+        "explorerdrillsphere": {
+          "explorerdrillsphere.tech.json": 2
+        },
+        "explorerenhancedjump": {
+          "explorerenhancedjump.tech.json": 1
+        },
+        "explorerenhancedmovement": {
+          "explorerenhancedmovement.tech.json": 2,
+          "explorermovementdash.statuseffect.json": 1,
+          "explorermovementsprint.statuseffect.json": 1
+        },
+        "explorerglide": {
+          "explorerglide.tech.json": 1
+        },
+        "shared_explorer": {
+          "shared_explorer.json": 1
+        }
+      },
+      "ivrpgremove": {
+        "ivrpgremove.tech.json": 2
+      },
+      "ivrpgsparks.tech.json": 2,
+      "knighttech": {
+        "knightarmorsphere": {
+          "contact": {
+            "knightarmorspherecontact.statuseffect.json": 1
+          },
+          "knightarmorsphere.tech.json": 2
+        },
+        "knightbash": {
+          "knightbash.tech.json": 2
+        },
+        "knightcharge!": {
+          "knightcharge!.tech.json": 2
+        },
+        "knightslam": {
+          "knightslam.tech.json": 2,
+          "nofalldamageks.statuseffect.json": 1
+        },
+        "shared_knight": {
+          "shared_.statuseffect.json": 1
+        }
+      },
+      "ninjatech": {
+        "flashjump": {
+          "ninjaflashjump.tech.json": 2
+        },
+        "ninjaassassinate": {
+          "ninjaassassinate.tech.json": 2,
+          "ninjaassassinatecooldown.statuseffect.json": 1
+        },
+        "ninjawallcling": {
+          "ninjawallcling.tech.json": 2
+        },
+        "vanishsphere": {
+          "camouflageninja.statuseffect.json": 1,
+          "ninjavanishsphere.tech.json": 2
+        }
+      },
+      "roguetech": {
+        "roguecloudjump": {
+          "cloudjump.tech.json": 2,
+          "roguecloudjumpcooldown.statuseffect.json": 1
+        },
+        "roguedeadlystance": {
+          "roguedeadlystance.tech.json": 1
+        },
+        "rogueescape": {
+          "rogueescape.tech.json": 2
+        },
+        "roguepoisondash": {
+          "roguepoisondash.tech.json": 2
+        },
+        "roguetoxicaura": {
+          "roguetoxicaura.tech.json": 1,
+          "roguetoxicauracooldown.statuseffect.json": 1,
+          "rogueweaken.statuseffect.json": 1,
+          "rtoxicaura.statuseffect.json": 1
+        },
+        "roguetoxiccapsule": {
+          "roguetoxiccapsule.tech.json": 1,
+          "roguetoxiccapsulecooldown.statuseffect.json": 1,
+          "shared_capsule..json": 1
+        },
+        "roguetoxicsphere": {
+          "hunger": {
+            "roguetoxicsphereconsume.statuseffect.json": 1
+          },
+          "roguetoxicsphere.tech.json": 2
+        },
+        "shared_rogue": {
+          "shared_rogue.json": 1
+        }
+      },
+      "soldiertech": {
+        "soldierenergypack": {
+          "soldierenergypack.tech.json": 2,
+          "soldierenergypackcooldown.statuseffect.json": 1
+        },
+        "soldiermarksman": {
+          "soldierfocus.statuseffect.json": 1,
+          "soldiermarksman.tech.json": 2,
+          "soldiermarksmancooldown.statuseffect.json": 1
+        },
+        "soldiermissilestrike": {
+          "soldiermissilestrike.tech.json": 2,
+          "soldiermissilestrikecooldown.statuseffect.json": 1
+        },
+        "soldiermre": {
+          "soldiermre.statuseffect.json": 1,
+          "soldiermre.tech.json": 2
+        },
+        "soldiertanksphere": {
+          "shield": {
+            "soldiertanksphereimmune.statuseffect.json": 1
+          },
+          "soldiertanksphere.tech.json": 2
+        }
+      },
+      "wizardtech": {
+        "wizardgravitysphere": {
+          "wizardgravitysphere.tech.json": 2,
+          "wizardlowgrav.statuseffect.json": 1
+        },
+        "wizardhover": {
+          "wizardhover.tech.json": 2
+        },
+        "wizardmagicshield": {
+          "shared_shield..json": 1,
+          "wizardmagicshield.tech.json": 1,
+          "wizardmagicshieldcooldown.statuseffect.json": 1
+        },
+        "wizardtranslocate": {
+          "wizardtranslocate.tech.json": 2
+        }
+      }
+    },
+    "wide_spread_fields.json": 36
+  }
+}

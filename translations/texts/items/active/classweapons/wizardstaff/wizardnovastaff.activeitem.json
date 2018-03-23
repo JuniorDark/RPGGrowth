@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/wizardstaff/wizardnovastaff.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nova, a staff that holds limitless elemental energy.",
+      "Por": "Nova, um cajado que possui energia elementar ilimitada."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ninjatech/flashjump/ninjaflashjump.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flash Jump",
+      "Por": "Pulo Flash"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ninjatech/flashjump/ninjaflashjump.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jump Cost: 10e.",
+      "Por": "Custo do Pulo: 10e."
+    }
+  }
+]

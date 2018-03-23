@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguedeadlystance/roguedeadlystance.tech": [
+        "/description"
+      ],
+      "tech/roguetech/roguetoxicaura/roguetoxicaura.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aura Cost: 10eps.",
+      "Por": "Custo da Aura: 10eps."
+    }
+  }
+]

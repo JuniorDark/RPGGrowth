@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucdischarge.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shock and Arc Affinity Upgrade.\nDamage nearby enemies while wet.",
+      "Por": "Melhoria para a Afinidade Eletricidade e Arc.\nCausa dano a inimigos próximos enquanto estiver molhado."
+    }
+  }
+]

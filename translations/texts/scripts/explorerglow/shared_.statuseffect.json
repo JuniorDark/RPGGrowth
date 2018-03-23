@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "scripts/explorerglow/explorerglow.statuseffect": [
+        "/label"
+      ],
+      "scripts/explorerglow/explorerresist.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explorer's Discovery",
+      "Por": "Descoberta do Explorador"
+    }
+  }
+]

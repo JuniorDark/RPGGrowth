@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/rogueclaw/roguesiphonclaw3s.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sharper still...",
+      "Por": "Mais afiada ainda..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/rogueclaw/roguesiphonclaw3s.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Siphon Razor"
+    }
+  }
+]

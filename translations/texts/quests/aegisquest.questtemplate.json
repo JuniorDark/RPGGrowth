@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aegisquest.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like Masteroids were a great source of this metal. You have to smelt these before they can be of any use, however. Here are some to start you off, though you can do so on your own now. Go build the Aegis in an anvil so that you may destroy your enemies!",
+      "Por": "Parece que Masteroids era uma grande fonte deste metal. Você tem que fundir estes antes que possam ser de qualquer uso, no entanto. Aqui estão alguns para você começar, embora você possa fazer isso por conta própria agora. Vá construir o Aegis em uma bigorna para que você possa destruir seus inimigos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aegisquest.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My databanks show that your physical strength is nearly unmatched! I have run a diagnostic and it suggests you would be unrivaled using a normally unwieldable, incredibly heavy metal as the base for a sword. Looking for meteoric rock from ^green;living meteorites^reset; may be the best place to start.^white;",
+      "Por": "Meus bancos de dados mostram que sua força física é quase incomparável! Eu executei um diagnóstico e sugere que você seria imbatível usando um metal normalmente incontrolável e incrivelmente pesado como base para uma espada. Procurando por rocha meteórica de ^green;meteoritos vivos^reset; pode ser o melhor lugar para começar.^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aegisquest.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Meteoric Metal"
+    }
+  }
+]

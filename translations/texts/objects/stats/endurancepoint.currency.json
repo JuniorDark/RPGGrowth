@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/stats/endurancepoint.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "endurance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/stats/endurancepoint.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "endurance.",
+      "Por": "resistência."
+    }
+  }
+]

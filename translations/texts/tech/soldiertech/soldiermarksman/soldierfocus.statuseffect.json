@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiermarksman/soldierfocus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extra Damage With Firearms",
+      "Por": "Dano Extra Com Armas de Fogo"
+    }
+  }
+]

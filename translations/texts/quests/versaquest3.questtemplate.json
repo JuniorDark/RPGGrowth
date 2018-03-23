@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/versaquest3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time to train! When you have perfected your abilities, I will attempt to make Versa strong enough to match!^white;",
+      "Por": "Hora de treinar! Quando você aperfeiçoar suas habilidades, tentarei deixar a Versa forte o suficiente para corresponder suas habilidades!^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/versaquest3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're as accurate as you can be! I have upgraded your Versa. You will now also be able to build Versa Ricochet in an upgraded anvil.",
+      "Por": "Você é tão preciso quanto pode ser! Eu melhorei sua Versa. Agora você também poderá construir a versa Ricochet em uma bigorna melhorada."
+    }
+  }
+]

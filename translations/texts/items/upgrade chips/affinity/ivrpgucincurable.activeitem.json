@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucincurable.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Venom and Toxic Affinity Upgrade.\nNegates all Affinity Weaknesses.",
+      "Por": "Melhoria para a Afinidade Veneno e Tóxico.\nNega todas as Fraquezas de Afinidade."
+    }
+  }
+]

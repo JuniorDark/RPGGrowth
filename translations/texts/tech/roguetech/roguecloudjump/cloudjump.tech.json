@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguecloudjump/cloudjump.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud Jump"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguecloudjump/cloudjump.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cost: 30e. Cooldown: 2s",
+      "Por": "Custo: 30e. Tempo de Recarga: 2s"
+    }
+  }
+]

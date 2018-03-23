@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/wizardstaff/wizardnovastaff3.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nova, a staff that holds limitless, highly volatile, elemental energy.",
+      "Por": "Nova, um cajado que possui energia elementar ilimitada, altamente volátil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/wizardstaff/wizardnovastaff3.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Primed Nova"
+    }
+  }
+]

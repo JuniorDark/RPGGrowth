@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/explorertech/explorerenhancedmovement/explorerenhancedmovement.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Airdash Cooldown: 5s. Sprint Cost: 10eps.",
+      "Por": "Tempo de Recarga do Airdash: 5s. Custo da Corrida: 10eps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/explorertech/explorerenhancedmovement/explorerenhancedmovement.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enhanced Movement",
+      "Por": "Movimento Melhorado"
+    }
+  }
+]
