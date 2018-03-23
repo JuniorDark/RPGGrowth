@@ -271,7 +271,7 @@
     "shared_skillbook": {
       "shared_RPGskillbook..json": 1
     },
-    "shared_stun.json": 0,
+    "shared_stun.json": 1,
     "tech": {
       "explorertech": {
         "explorerdrill": {
