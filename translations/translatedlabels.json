@@ -338,7 +338,7 @@
       },
       "roguetech": {
         "roguecloudjump": {
-          "cloudjump.tech.json": 1,
+          "cloudjump.tech.json": 2,
           "roguecloudjumpcooldown.statuseffect.json": 1
         },
         "roguedeadlystance": {
