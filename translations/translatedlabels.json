@@ -146,7 +146,7 @@
         }
       }
     },
-    "ivrpgtext.config.json": 0,
+    "ivrpgtext.config.json": 55,
     "monsters": {
       "ivrpgElementEffects": {
         "ivrpgembrittle": {
@@ -414,6 +414,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 1
+    "wide_spread_fields.json": 27
   }
 }

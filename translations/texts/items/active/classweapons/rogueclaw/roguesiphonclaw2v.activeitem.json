@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Estranha..."
+    ],
     "Files": {
       "items/active/classweapons/rogueclaw/roguesiphonclaw2v.activeitem": [
         "/description"

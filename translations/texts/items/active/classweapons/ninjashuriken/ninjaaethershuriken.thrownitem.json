@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Aether, uma shuriken sombria que duplica usando energia escura."
+    ],
     "Files": {
       "items/active/classweapons/ninjashuriken/ninjaaethershuriken.thrownitem": [
         "/description"

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Orbs de experiência usados para subir de nível."
+    ],
     "Files": {
       "objects/experience/experienceorb.currency": [
         "/description"

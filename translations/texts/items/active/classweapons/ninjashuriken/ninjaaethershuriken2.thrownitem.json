@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Shadow Aether, uma shuriken afiada e sombria que duplica usando energia escura."
+    ],
     "Files": {
       "items/active/classweapons/ninjashuriken/ninjaaethershuriken2.thrownitem": [
         "/description"

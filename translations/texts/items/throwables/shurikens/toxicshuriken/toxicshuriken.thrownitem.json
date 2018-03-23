@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma shuriken infestada, com certeza envenena inimigos."
+    ],
     "Files": {
       "items/throwables/shurikens/toxicshuriken/toxicshuriken.thrownitem": [
         "/description"

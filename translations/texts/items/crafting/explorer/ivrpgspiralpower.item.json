@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "De alguma forma, fizemos a energia ainda mais máscula. E giratória!"
+    ],
     "Files": {
       "items/crafting/explorer/ivrpgspiralpower.item": [
         "/description"
