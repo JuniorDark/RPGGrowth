@@ -43,7 +43,7 @@
           },
           "wizardstaff": {
             "novadamagenumber": {
-              "shared_novadamagenumber.json": 0
+              "shared_novadamagenumber.json": 1
             },
             "novastaffswitch.weaponability.json": 1,
             "shared_novastaff.json": 1,
