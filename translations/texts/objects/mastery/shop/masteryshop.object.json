@@ -43,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Master's Desk"
+      "Eng": "Master's Desk",
+      "Por": "Master's Desk"
     }
   },
   {
@@ -66,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "One swift kick and this table might implode."
+      "Eng": "One swift kick and this table might implode.",
+      "Por": "Um chute rápido e esta mesa pode implodir."
     }
   },
   {
