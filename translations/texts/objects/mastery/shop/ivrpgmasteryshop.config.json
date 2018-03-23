@@ -55,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Replace Me"
+      "Eng": "Replace Me",
+      "Por": "Replace Me"
     }
   },
   {
@@ -66,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Search"
+      "Eng": "Search",
+      "Por": "Pesquisar"
     }
   },
   {
@@ -114,7 +116,8 @@
       ]
     },
     "Texts": {
-      "Eng": "x?\\d{0,4}"
+      "Eng": "x?\\d{0,4}",
+      "Por": "x?\\d{0,4}"
     }
   }
 ]

@@ -180,7 +180,7 @@
       "mastery": {
         "masterypoint.currency.json": 2,
         "shop": {
-          "ivrpgmasteryshop.config.json": 7,
+          "ivrpgmasteryshop.config.json": 10,
           "masteryshop.object.json": 7
         }
       },
