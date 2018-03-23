@@ -196,7 +196,7 @@
       },
       "stats": {
         "agilitypoint.currency.json": 1,
-        "dexteritypoint.currency.json": 1,
+        "dexteritypoint.currency.json": 2,
         "endurancepoint.currency.json": 1,
         "intelligencepoint.currency.json": 1,
         "statpoint.currency.json": 1,
