@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "0"
+      "Eng": "0",
+      "Por": "0"
     }
   },
   {
@@ -108,7 +109,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Charger"
+      "Eng": "Charger",
+      "Por": "Charger"
     }
   },
   {
@@ -212,7 +214,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Evergreen"
+      "Eng": "Evergreen",
+      "Por": "Evergreen"
     }
   },
   {
@@ -226,7 +229,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Feedback Loop"
+      "Eng": "Feedback Loop",
+      "Por": "Feedback Loop"
     }
   },
   {
@@ -318,7 +322,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Miasma"
+      "Eng": "Miasma",
+      "Por": "Miasma"
     }
   },
   {
@@ -332,7 +337,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Passed Prime"
+      "Eng": "Passed Prime",
+      "Por": "Passed Prime"
     }
   },
   {
@@ -361,7 +367,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Phase Out"
+      "Eng": "Phase Out",
+      "Por": "Phase Out"
     }
   },
   {
@@ -495,7 +502,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Trigger Happy"
+      "Eng": "Trigger Happy",
+      "Por": "Trigger Happy"
     }
   },
   {
@@ -539,7 +547,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wavedash"
+      "Eng": "Wavedash",
+      "Por": "Wavedash"
     }
   }
 ]
