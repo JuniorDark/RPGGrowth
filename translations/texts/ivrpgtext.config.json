@@ -321,7 +321,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Last Stand"
+      "Eng": "Last Stand",
+      "Por": "Last Stand"
     }
   },
   {
@@ -356,7 +357,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Monster Master"
+      "Eng": "Monster Master",
+      "Por": "Monster Master"
     }
   },
   {
@@ -547,7 +549,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Test to see font size as well as total wrapping length. Hopefully we can get this sizeable chunk of text into this small area, because if not, we'll have issues in the future with describing various upgrades. I also need to check total length up and down, just because."
+      "Eng": "Test to see font size as well as total wrapping length. Hopefully we can get this sizeable chunk of text into this small area, because if not, we'll have issues in the future with describing various upgrades. I also need to check total length up and down, just because.",
+      "Por": "Teste para ver o tamanho da fonte, assim como o comprimento total da quebra. Espero que possamos fazer esse pedaço considerável de texto caber nesta pequena área, porque se não, teremos problemas no futuro com a descrição de várias melhorias. Eu também preciso verificar o comprimento total para cima e para baixo."
     }
   },
   {
