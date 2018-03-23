@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Experience Orb"
+      "Eng": "Experience Orb",
+      "Por": "Experience Orb"
     }
   },
   {
@@ -19,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Experience orbs used to level up.",
-      "Por": "Orbs de experiência usados para subir de nível."
+      "Por": "Orbes de experiência usados para subir de nível."
     }
   }
 ]
