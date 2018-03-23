@@ -202,7 +202,7 @@
         "statpoint.currency.json": 1,
         "strengthpoint.currency.json": 2,
         "vigorpoint.currency.json": 2,
-        "vitalitypoint.currency.json": 1
+        "vitalitypoint.currency.json": 2
       }
     },
     "projectiles": {
