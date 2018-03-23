@@ -127,7 +127,7 @@
         "tech": {
           "ivrpgucglidesphere.activeitem.json": 1,
           "ivrpguchoversphere.activeitem.json": 1,
-          "ivrpgucwalljump.activeitem.json": 0
+          "ivrpgucwalljump.activeitem.json": 1
         },
         "weapon": {
           "ivrpgucblindingjustice.activeitem.json": 1,
