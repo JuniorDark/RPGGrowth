@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Shadow Aether"
+      "Eng": "Shadow Aether",
+      "Por": "Shadow Aether"
     }
   },
   {
@@ -19,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Shadow Aether, a sharper, shadowy shuriken that duplicates using dark energy.",
-      "Por": "Shadow Aether, uma shuriken afiada e sombria que duplica usando energia escura."
+      "Por": "Shadow Aether, uma shuriken afiada e sombria que duplica usando energia sombria."
     }
   }
 ]
