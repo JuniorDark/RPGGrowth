@@ -226,7 +226,7 @@
     },
     "quests": {
       "TEMPLATE.questtemplate.json": 0,
-      "aegisquest.questtemplate.json": 2,
+      "aegisquest.questtemplate.json": 3,
       "aegisquest2.questtemplate.json": 1,
       "aegisquest3.questtemplate.json": 2,
       "aetherquest.questtemplate.json": 3,
