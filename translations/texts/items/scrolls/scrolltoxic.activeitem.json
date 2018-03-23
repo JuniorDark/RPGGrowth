@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Scroll: Toxins"
+      "Eng": "Scroll: Toxins",
+      "Por": "Scroll: Toxins"
     }
   },
   {
@@ -19,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Shows dubious information on neurotoxins... and cake? It's dripping slimy stuff. Maybe that's the batter.",
-      "Por": "Mostra informações duvidosas sobre neurotoxinas... e bolo? Está escorrendo coisas viscosas. Talvez essa seja a massa."
+      "Por": "Mostra informações duvidosas sobre neurotoxinas... e bolo? Está pingando uma coisa gosmenta. Talvez essa seja a massa."
     }
   }
 ]

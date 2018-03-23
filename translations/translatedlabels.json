@@ -86,7 +86,7 @@
         "scrollinfernal.activeitem.json": 2,
         "scrollresetaffinity.activeitem.json": 2,
         "scrollresetclass.activeitem.json": 2,
-        "scrolltoxic.activeitem.json": 1
+        "scrolltoxic.activeitem.json": 2
       },
       "throwables": {
         "shurikens": {
