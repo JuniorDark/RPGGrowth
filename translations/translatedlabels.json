@@ -72,7 +72,7 @@
         },
         "soldier": {
           "ivrpgfiringmechanism.item.json": 2,
-          "ivrpggunparts.item.json": 1
+          "ivrpggunparts.item.json": 2
         },
         "wizard": {
           "ivrpgdyingstar.item.json": 1,
