@@ -163,7 +163,7 @@
         }
       },
       "soldierstun": {
-        "soldierstun.statuseffect.json": 0
+        "soldierstun.statuseffect.json": 1
       }
     },
     "objects": {
