@@ -52,7 +52,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Description."
+      "Eng": "Description.",
+      "Por": "Descrição."
     }
   },
   {
@@ -72,7 +73,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Name"
+      "Eng": "Name",
+      "Por": "Name"
     }
   }
 ]

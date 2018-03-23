@@ -123,7 +123,7 @@
           "ivrpgucskadisblessing.activeitem.json": 1,
           "ivrpgucvikingfuneral.activeitem.json": 1
         },
-        "shared_.activeitem.json": 0,
+        "shared_.activeitem.json": 2,
         "tech": {
           "ivrpgucglidesphere.activeitem.json": 0,
           "ivrpguchoversphere.activeitem.json": 0,
