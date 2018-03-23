@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Aether"
+      "Eng": "Aether",
+      "Por": "Aether"
     }
   },
   {
@@ -19,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Aether, a shadowy shuriken that duplicates using dark energy.",
-      "Por": "Aether, uma shuriken sombria que duplica usando energia escura."
+      "Por": "Aether, uma shuriken sombria que duplica usando energia sombria."
     }
   }
 ]
