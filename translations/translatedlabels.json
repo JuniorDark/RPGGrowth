@@ -192,7 +192,7 @@
         "skillbookopen.currency.json": 2
       },
       "specialization": {
-        "spectype.currency.json": 1
+        "spectype.currency.json": 2
       },
       "stats": {
         "agilitypoint.currency.json": 1,
