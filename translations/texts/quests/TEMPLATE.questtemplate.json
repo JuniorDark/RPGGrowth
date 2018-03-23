@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Completed."
+      "Eng": "Completed.",
+      "Por": "Concluída."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Description.^white;"
+      "Eng": "Description.^white;",
+      "Por": "Descrição.^white;"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Title"
+      "Eng": "^green;Title",
+      "Por": "^green;Título"
     }
   }
 ]
