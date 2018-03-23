@@ -208,7 +208,7 @@
     "projectiles": {
       "grenades": {
         "shock": {
-          "shockcharge.thrownitem.json": 1
+          "shockcharge.thrownitem.json": 2
         },
         "skitter": {
           "skittergrenade.thrownitem.json": 1
