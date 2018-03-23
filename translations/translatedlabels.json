@@ -16,7 +16,7 @@
             "explorerspiradrill3.activeitem.json": 2
           },
           "knightsword": {
-            "aegisswordcombo.weaponability.json": 0,
+            "aegisswordcombo.weaponability.json": 1,
             "knightaegissword.activeitem.json": 1,
             "knightaegissword2.activeitem.json": 1,
             "parryshield.weaponability.json": 1,
