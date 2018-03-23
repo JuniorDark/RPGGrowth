@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Siphon Cyst"
+      "Eng": "Siphon Cyst",
+      "Por": "Siphon Cyst"
     }
   },
   {
@@ -19,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Uncanny...",
-      "Por": "Estranha..."
+      "Por": "Inquietante..."
     }
   }
 ]
