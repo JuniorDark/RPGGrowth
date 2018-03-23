@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "Just sickening. Perfect.",
-      "Por": "Apenas nauseante. Perfeita."
+      "Por": "Apenas nauseante. Perfeito."
     }
   },
   {
@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Siphon Spore"
+      "Eng": "Siphon Spore",
+      "Por": "Siphon Spore"
     }
   }
 ]
