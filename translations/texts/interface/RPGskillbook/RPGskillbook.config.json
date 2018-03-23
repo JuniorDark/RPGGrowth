@@ -61,7 +61,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-"
+      "Eng": "-",
+      "Por": "-"
     }
   },
   {
@@ -72,7 +73,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-10%"
+      "Eng": "-10%",
+      "Por": "-10%"
     }
   },
   {
@@ -83,7 +85,8 @@
       ]
     },
     "Texts": {
-      "Eng": "..."
+      "Eng": "...",
+      "Por": "..."
     }
   },
   {
@@ -96,7 +99,8 @@
       ]
     },
     "Texts": {
-      "Eng": "0 / 0"
+      "Eng": "0 / 0",
+      "Por": "0 / 0"
     }
   },
   {
@@ -107,7 +111,8 @@
       ]
     },
     "Texts": {
-      "Eng": "250000"
+      "Eng": "250000",
+      "Por": "250000"
     }
   },
   {
@@ -420,7 +425,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hardcore"
+      "Eng": "Hardcore",
+      "Por": "Hardcore"
     }
   },
   {
@@ -600,7 +606,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ninja"
+      "Eng": "Ninja",
+      "Por": "Ninja"
     }
   },
   {
@@ -684,7 +691,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Overview"
+      "Eng": "Overview",
+      "Por": "Visão Geral"
     }
   },
   {
@@ -941,7 +949,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Total"
+      "Eng": "Total",
+      "Por": "Total"
     }
   },
   {
@@ -964,7 +973,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Total:"
+      "Eng": "Total:",
+      "Por": "Total:"
     }
   },
   {
@@ -1038,7 +1048,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Vigor"
+      "Eng": "Vigor",
+      "Por": "Vigor"
     }
   },
   {
@@ -1109,7 +1120,8 @@
       ]
     },
     "Texts": {
-      "Eng": "XP"
+      "Eng": "XP",
+      "Por": "XP"
     }
   },
   {
