@@ -181,7 +181,7 @@
         "masterypoint.currency.json": 2,
         "shop": {
           "ivrpgmasteryshop.config.json": 10,
-          "masteryshop.object.json": 8
+          "masteryshop.object.json": 9
         }
       },
       "profession": {
