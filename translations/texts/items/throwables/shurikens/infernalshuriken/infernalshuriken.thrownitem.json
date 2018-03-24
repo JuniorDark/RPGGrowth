@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Uma shuriken ardente, com certeza queima inimigos."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/throwables/shurikens/infernalshuriken/infernalshuriken.thrownitem": [
         "/description"

@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "RPG Growth"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "_metadata": [
         "/friendlyName"

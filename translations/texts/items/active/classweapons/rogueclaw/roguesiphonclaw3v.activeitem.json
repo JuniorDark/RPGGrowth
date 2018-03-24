@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Apenas nauseante. Perfeita."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/rogueclaw/roguesiphonclaw3v.activeitem": [
         "/description"

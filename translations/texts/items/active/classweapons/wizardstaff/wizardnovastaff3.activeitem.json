@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Nova, um cajado que possui energia elementar ilimitada, altamente volátil."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/wizardstaff/wizardnovastaff3.activeitem": [
         "/description"
