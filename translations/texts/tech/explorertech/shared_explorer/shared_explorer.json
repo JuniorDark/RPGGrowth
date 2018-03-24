@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Custo de Planar: 5eps."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "tech/explorertech/explorerenhancedjump/explorerenhancedjump.tech": [
         "/description"

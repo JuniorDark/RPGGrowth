@@ -36,9 +36,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "+20% com o quê e quem agora?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/passivetext/value",

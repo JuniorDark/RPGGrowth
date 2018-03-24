@@ -12,9 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Mostra informações duvidosas sobre neurotoxinas... e bolo? Está escorrendo coisas viscosas. Talvez essa seja a massa."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/scrolls/scrolltoxic.activeitem": [
         "/description"

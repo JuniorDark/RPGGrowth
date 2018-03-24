@@ -12,9 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Parece descrições atraentes de elementos incríveis! Talvez você queira experimentar um novo?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/scrolls/scrollresetaffinity.activeitem": [
         "/description"

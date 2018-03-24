@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Um monte de gosma nojenta e pegajosa que parece que está subindo no seu braço quando você segurá-la."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/crafting/rogue/ivrpgparasiticgoo.item": [
         "/description"
