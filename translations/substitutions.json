@@ -214,10 +214,6 @@
   "objects/mastery/shop/ivrpgmasteryshop.config": {
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json"
   },
-  "objects/mastery/shop/masteryshop.object": {
-    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
-    "/glitchDescription/glitchEmotedText": "texts/objects/mastery/shop/masteryshop.object.json"
-  },
   "objects/skillbook/RPGskillbook.activeitem": {
     "/shortdescription": "texts/shared_skillbook/shared_RPGskillbook..json"
   },
