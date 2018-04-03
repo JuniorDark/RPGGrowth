@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/easternGlaive.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This glaive has an eastern style design. Perhaps inspired by traditional Hylotl weapons, it is exceptionally effective in battle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/easternGlaive.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Ornate Glaive^white;"
+    }
+  }
+]

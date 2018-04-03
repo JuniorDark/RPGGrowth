@@ -287,6 +287,39 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/hardcoretitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Classic Mode"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/infolayout/children/displayWeapons/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Classic Mode Weapon Availability"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/hardcoreweapontext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Classic Mode lowers damage with weapons your Class can't use.\n^red;Check Info (I)!^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classeslayout/children/classdescription/value"
       ]
     },
@@ -413,42 +446,6 @@
     "Texts": {
       "Eng": "General",
       "Por": "Geral"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/overviewlayout/children/hardcoretitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hardcore",
-      "Por": "Hardcore"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/overviewlayout/children/hardcoreweapontext/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hardcore Mode now disables damage with weapons your Class can't use. ^red;Check Info (I)!^reset;",
-      "Por": "O Modo Hardcore agora desabilita o dano de armas que sua classe não pode usar. ^red;Verifique Info (I)!^reset;"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/infolayout/children/displayWeapons/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hardcore Weapon Availability",
-      "Por": "Disponibilidade de Arma Hardcore"
     }
   },
   {

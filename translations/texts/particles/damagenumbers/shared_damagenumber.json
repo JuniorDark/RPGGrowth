@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "particles/damagenumbers/holydamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/holydamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/holydamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/novadamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/novadamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/novadamagenumberweak.particle": [
+        "/definition/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^shadow;$dmg$"
+    }
+  }
+]

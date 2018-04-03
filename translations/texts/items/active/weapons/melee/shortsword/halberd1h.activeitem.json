@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/halberd1h.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This halberd is incredibly strong, but in exchange for speed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/shortsword/halberd1h.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#77acc3;Stygian Great-Halberd^white;"
+    }
+  }
+]

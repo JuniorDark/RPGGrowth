@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/heartofdissolve.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/broadsword/stygianbardiche.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/broadsword/ultrameshsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful Stygian weapon. Increased damage at the cost of speed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/abhorrentstygiansword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/broadsword/feroziumkatana.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/broadsword/goldcleaver.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elegant blade that is as deadly as it is quick."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/royalSword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sword truly fit for royalty. Sharp, balanced, and swift, this sword will carry its owner to victory."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/royalSword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exhalted Sword"
+    }
+  }
+]

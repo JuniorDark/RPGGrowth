@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/manashortsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortsword/bluemanabroadsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortsword/honor.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortsword/magmaSaber.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortsword/silvermace.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright and valiant starsteel blade! Also quite powerful."
+    }
+  }
+]

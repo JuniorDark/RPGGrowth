@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/hammer/manaaxe.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystalling impact weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/hammer/manaaxe.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#00FFFF;Arbiter Greataxe^white;"
+    }
+  }
+]

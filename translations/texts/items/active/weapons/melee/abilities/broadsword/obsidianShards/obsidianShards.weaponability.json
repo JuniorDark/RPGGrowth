@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/abilities/broadsword/obsidianShards/obsidianShards.weaponability": [
+        "/ability/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rain of Gashes"
+    }
+  }
+]

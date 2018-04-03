@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/fuelrod.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/fuelrod2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fires super-heated plasma rods."
+    }
+  }
+]

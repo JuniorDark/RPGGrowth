@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/paladin/ivrpgtrueaegis.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Protectorate has fallen. But us? We will never fall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/paladin/ivrpgtrueaegis.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "True Aegis"
+    }
+  }
+]
