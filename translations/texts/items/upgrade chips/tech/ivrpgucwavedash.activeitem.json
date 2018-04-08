@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucwavedash.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The player immediately stops mid-air after Escape!’s initial dash completes. The player is immune to Fall Damage after using Escape!. Using Escape! into the ground does not immediately cancel the dash."
+    }
+  }
+]

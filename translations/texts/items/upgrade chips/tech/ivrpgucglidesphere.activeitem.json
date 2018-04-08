@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/tech/ivrpgucglidesphere.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enables gliding via the space-bar while transformed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucglidesphere.activeitem": [
         "/shortdescription"
       ]
     },

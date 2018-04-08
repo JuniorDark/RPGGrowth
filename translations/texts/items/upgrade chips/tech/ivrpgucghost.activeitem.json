@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucghost.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Instead of having invulnerablity, hold Left Click to phase through walls using arrow keys at the expense of power."
+    }
+  }
+]

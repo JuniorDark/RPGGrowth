@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucmoreenhanced.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dashing lasts longer, and Sprinting is faster."
+    }
+  }
+]

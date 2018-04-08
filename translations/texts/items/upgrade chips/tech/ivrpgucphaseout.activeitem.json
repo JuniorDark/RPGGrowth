@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucphaseout.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Step through walls, regardless of world."
+    }
+  }
+]

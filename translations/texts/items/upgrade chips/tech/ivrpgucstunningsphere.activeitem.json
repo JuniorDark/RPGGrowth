@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucstunningsphere.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hold left click while transformed to stun enemies in contact at cost of energy."
+    }
+  }
+]

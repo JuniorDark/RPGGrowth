@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/tech/ivrpgucwalljump.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall, Jump; just jump off walls... while Escape!ing of course."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucwalljump.activeitem": [
         "/shortdescription"
       ]
     },

@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/tech/ivrpguchoversphere.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hold right click while in Gravity Sphere to hover towards cursor at the expense of energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpguchoversphere.activeitem": [
         "/shortdescription"
       ]
     },

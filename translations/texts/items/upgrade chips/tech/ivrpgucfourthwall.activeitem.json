@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucfourthwall.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Translocate through walls in any world."
+    }
+  }
+]

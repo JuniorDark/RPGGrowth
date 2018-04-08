@@ -120,52 +120,34 @@
     "/shortdescription": "texts/items/upgrade chips/shared_.activeitem.json"
   },
   "items/upgrade chips/tech/ivrpgucbatterypack.activeitem": {
-    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/upgrade chips/tech/ivrpgucfourthwall.activeitem": {
-    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/upgrade chips/tech/ivrpgucghost.activeitem": {
-    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
     "/shortdescription": "texts/wide_spread_fields.json"
   },
-  "items/upgrade chips/tech/ivrpgucglidesphere.activeitem": {
-    "/description": "texts/items/upgrade chips/shared_.activeitem.json"
-  },
-  "items/upgrade chips/tech/ivrpguchoversphere.activeitem": {
-    "/description": "texts/items/upgrade chips/shared_.activeitem.json"
-  },
   "items/upgrade chips/tech/ivrpgucmoreenhanced.activeitem": {
-    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/upgrade chips/tech/ivrpgucpeakperformance.activeitem": {
-    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/upgrade chips/tech/ivrpgucphaseout.activeitem": {
-    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/upgrade chips/tech/ivrpgucpinpointaccuracy.activeitem": {
-    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/upgrade chips/tech/ivrpgucstunningsphere.activeitem": {
-    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
     "/shortdescription": "texts/shared_stun.json"
   },
   "items/upgrade chips/tech/ivrpguctech.activeitem": {
     "/description": "texts/items/upgrade chips/shared_.activeitem.json",
     "/shortdescription": "texts/items/upgrade chips/shared_.activeitem.json"
   },
-  "items/upgrade chips/tech/ivrpgucwalljump.activeitem": {
-    "/description": "texts/items/upgrade chips/shared_.activeitem.json"
-  },
   "items/upgrade chips/tech/ivrpgucwavedash.activeitem": {
-    "/description": "texts/items/upgrade chips/shared_.activeitem.json",
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/upgrade chips/weapon/ivrpgucblindingjustice.activeitem": {

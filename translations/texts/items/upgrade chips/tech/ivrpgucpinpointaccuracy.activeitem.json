@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucpinpointaccuracy.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tank Sphere has targeting missiles."
+    }
+  }
+]
