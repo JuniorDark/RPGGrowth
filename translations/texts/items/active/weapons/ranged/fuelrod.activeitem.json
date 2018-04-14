@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Canhão de Plasma"
+    ],
     "Files": {
       "items/active/weapons/ranged/fuelrod.activeitem": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Plasma Cannon",
-      "Por": "Canhão de Plasma"
+      "Por": "Plasma Cannon"
     }
   }
 ]
