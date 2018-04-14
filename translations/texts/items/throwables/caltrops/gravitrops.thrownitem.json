@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Caltrops infused with phase matter, making them more effective against flying enemies."
+      "Eng": "Caltrops infused with phase matter, making them more effective against flying enemies.",
+      "Por": "Estrepes infundido com phase matter, tornando-os mais eficazes contra inimigos voadores."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gravitrops"
+      "Eng": "Gravitrops",
+      "Por": "Gravitrops"
     }
   }
 ]
