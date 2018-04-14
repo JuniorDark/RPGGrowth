@@ -72,7 +72,7 @@
               },
               "hammer": {
                 "demonsword": {
-                  "giantsword.weaponability.json": 0
+                  "giantsword.weaponability.json": 1
                 },
                 "energywall": {
                   "elementalpillar.weaponability.json": 0
