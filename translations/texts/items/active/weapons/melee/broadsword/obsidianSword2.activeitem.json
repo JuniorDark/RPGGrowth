@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A mystic blade of razor sharp obsidian."
+      "Eng": "A mystic blade of razor sharp obsidian.",
+      "Por": "Uma lâmina mística de obsidiana afiada."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#55377d;Shards of Igneous^white;"
+      "Eng": "^#55377d;Shards of Igneous^white;",
+      "Por": "^#55377d;Shards of Igneous^white;"
     }
   }
 ]
