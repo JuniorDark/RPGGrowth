@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A uniquely forged weapon of basalt. Also quite heavy."
+      "Eng": "A uniquely forged weapon of basalt. Also quite heavy.",
+      "Por": "Uma arma única forjada de basalto. Também muito pesada."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Basalt Claymore"
+      "Eng": "Basalt Claymore",
+      "Por": "Basalt Claymore"
     }
   }
 ]
