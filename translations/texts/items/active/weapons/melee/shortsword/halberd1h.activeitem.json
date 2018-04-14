@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This halberd is incredibly strong, but in exchange for speed."
+      "Eng": "This halberd is incredibly strong, but in exchange for speed.",
+      "Por": "Este alabarda é incrivelmente forte, mas em troca de velocidade."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#77acc3;Stygian Great-Halberd^white;"
+      "Eng": "^#77acc3;Stygian Great-Halberd^white;",
+      "Por": "^#77acc3;Stygian Great-Halberd^white;"
     }
   }
 ]
