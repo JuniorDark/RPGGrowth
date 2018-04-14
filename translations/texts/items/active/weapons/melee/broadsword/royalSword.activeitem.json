@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A sword truly fit for royalty. Sharp, balanced, and swift, this sword will carry its owner to victory."
+      "Eng": "A sword truly fit for royalty. Sharp, balanced, and swift, this sword will carry its owner to victory.",
+      "Por": "Uma espada realmente adequada para a realeza. Afiada, equilibrada e rápida, esta espada levará o seu dono para a vitória."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Exhalted Sword"
+      "Eng": "Exhalted Sword",
+      "Por": "Exhalted Sword"
     }
   }
 ]
