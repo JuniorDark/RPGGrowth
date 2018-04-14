@@ -61,7 +61,7 @@
             "abilities": {
               "broadsword": {
                 "acidspew": {
-                  "flamethrowersword.weaponability.json": 0
+                  "flamethrowersword.weaponability.json": 1
                 },
                 "obsidianShards": {
                   "obsidianShards.weaponability.json": 0
