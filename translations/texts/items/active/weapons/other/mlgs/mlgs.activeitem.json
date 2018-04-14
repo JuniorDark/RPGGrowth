@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A powerful greatsword that fires waves of moonlight."
+      "Eng": "A powerful greatsword that fires waves of moonlight.",
+      "Por": "Uma espada larga poderosa que dispara ondas de luar."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Moonlight Blade"
+      "Eng": "Moonlight Blade",
+      "Por": "Moonlight Blade"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Moonlight Greatsword"
+      "Eng": "Moonlight Greatsword",
+      "Por": "Moonlight Greatsword"
     }
   }
 ]
