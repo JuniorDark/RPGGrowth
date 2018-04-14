@@ -126,7 +126,7 @@
           "ranged": {
             "fuelrod.activeitem.json": 1,
             "fuelrod2.activeitem.json": 1,
-            "shared_.activeitem.json": 0
+            "shared_.activeitem.json": 1
           }
         }
       },
