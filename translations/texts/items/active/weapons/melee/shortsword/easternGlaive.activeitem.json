@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This glaive has an eastern style design. Perhaps inspired by traditional Hylotl weapons, it is exceptionally effective in battle."
+      "Eng": "This glaive has an eastern style design. Perhaps inspired by traditional Hylotl weapons, it is exceptionally effective in battle.",
+      "Por": "Este glaive tem um design de estilo oriental. Talvez inspirado pelas armas tradicionais Hylotl, é excepcionalmente eficaz em batalha."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#77acc3;Ornate Glaive^white;"
+      "Eng": "^#77acc3;Ornate Glaive^white;",
+      "Por": "^#77acc3;Ornate Glaive^white;"
     }
   }
 ]
