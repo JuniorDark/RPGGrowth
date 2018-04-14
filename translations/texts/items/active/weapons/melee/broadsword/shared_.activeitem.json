@@ -13,7 +13,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A powerful Stygian weapon. Increased damage at the cost of speed."
+      "Eng": "A powerful Stygian weapon. Increased damage at the cost of speed.",
+      "Por": "Uma poderosa arma demoníaca. Dano aumentado ao custo de velocidade."
     }
   },
   {
@@ -30,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An elegant blade that is as deadly as it is quick."
+      "Eng": "An elegant blade that is as deadly as it is quick.",
+      "Por": "Uma lâmina elegante que é tão mortal quanto rápida."
     }
   }
 ]
