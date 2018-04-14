@@ -86,7 +86,7 @@
             },
             "broadsword": {
               "abhorrentstygiansword.activeitem.json": 1,
-              "feroziumkatana.activeitem.json": 0,
+              "feroziumkatana.activeitem.json": 1,
               "goldcleaver.activeitem.json": 0,
               "heartofdissolve.activeitem.json": 0,
               "manashortsword.activeitem.json": 0,
