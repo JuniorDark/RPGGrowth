@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dangerously sharp point. Slower than a spear, but more damaging"
+      "Eng": "Dangerously sharp point. Slower than a spear, but more damaging",
+      "Por": "Ponta perigosamente afiada. Mais devagar que uma lança, mas causa mais dano."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#00FFFF;Dark-Matterlord Spear^white;"
+      "Eng": "^#00FFFF;Dark-Matterlord Spear^white;",
+      "Por": "^#00FFFF;Dark-Matterlord Spear^white;"
     }
   }
 ]
