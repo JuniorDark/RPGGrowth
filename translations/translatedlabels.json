@@ -295,7 +295,7 @@
     },
     "particles": {
       "damagenumbers": {
-        "shared_damagenumber.json": 0
+        "shared_damagenumber.json": 1
       }
     },
     "projectiles": {
