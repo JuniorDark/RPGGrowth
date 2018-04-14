@@ -107,7 +107,7 @@
               "shared_.activeitem.json": 1
             },
             "shortsword": {
-              "bluemanabroadsword.activeitem.json": 0,
+              "bluemanabroadsword.activeitem.json": 1,
               "easternGlaive.activeitem.json": 0,
               "halberd1h.activeitem.json": 0,
               "honor.activeitem.json": 0,
