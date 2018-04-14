@@ -214,7 +214,7 @@
           "ivrpgucmoreenhanced.activeitem.json": 1,
           "ivrpgucpeakperformance.activeitem.json": 1,
           "ivrpgucphaseout.activeitem.json": 1,
-          "ivrpgucpinpointaccuracy.activeitem.json": 0,
+          "ivrpgucpinpointaccuracy.activeitem.json": 1,
           "ivrpgucstunningsphere.activeitem.json": 0,
           "ivrpgucwalljump.activeitem.json": 1
         },
