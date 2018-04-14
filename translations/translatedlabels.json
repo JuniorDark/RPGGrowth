@@ -3,7 +3,7 @@
     "_metadata.json": 0,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 95
+        "RPGskillbook.config.json": 92
       }
     },
     "items": {
@@ -15,7 +15,6 @@
             "explorerspiradrill3.activeitem.json": 2
           },
           "knightsword": {
-            "aegisswordcombo.weaponability.json": 1,
             "knightaegissword.activeitem.json": 2,
             "knightaegissword2.activeitem.json": 2,
             "parryshield.weaponability.json": 1,
@@ -41,14 +40,93 @@
             "versaarfire.weaponability.json": 1
           },
           "wizardstaff": {
-            "novadamagenumber": {
-              "shared_novadamagenumber.json": 1
-            },
             "novastaffswitch.weaponability.json": 1,
             "shared_novastaff.json": 1,
             "wizardnovastaff.activeitem.json": 1,
             "wizardnovastaff2.activeitem.json": 2,
             "wizardnovastaff3.activeitem.json": 2
+          }
+        },
+        "shared_weapons.json": 1,
+        "specweapons": {
+          "paladin": {
+            "ivrpgtrueaegis.activeitem.json": 0,
+            "judgement": {
+              "ivrpgjudgement.statuseffect.json": 0
+            }
+          }
+        },
+        "weapons": {
+          "melee": {
+            "abilities": {
+              "broadsword": {
+                "acidspew": {
+                  "flamethrowersword.weaponability.json": 0
+                },
+                "obsidianShards": {
+                  "obsidianShards.weaponability.json": 0
+                },
+                "obsidianShardsWeak": {
+                  "obsidianShardsWeak.weaponability.json": 0
+                }
+              },
+              "hammer": {
+                "demonsword": {
+                  "giantsword.weaponability.json": 0
+                },
+                "energywall": {
+                  "elementalpillar.weaponability.json": 0
+                }
+              },
+              "spear": {
+                "telsaspin": {
+                  "elementalspin.weaponability.json": 0
+                }
+              }
+            },
+            "broadsword": {
+              "abhorrentstygiansword.activeitem.json": 0,
+              "feroziumkatana.activeitem.json": 0,
+              "goldcleaver.activeitem.json": 0,
+              "heartofdissolve.activeitem.json": 0,
+              "manashortsword.activeitem.json": 0,
+              "obsidianSword.activeitem.json": 0,
+              "obsidianSword2.activeitem.json": 0,
+              "osteonScythe.activeitem.json": 0,
+              "royalSword.activeitem.json": 0,
+              "shared_.activeitem.json": 0,
+              "spiderblade.activeitem.json": 0,
+              "stygianbardiche.activeitem.json": 0,
+              "ultrameshsword.activeitem.json": 0
+            },
+            "hammer": {
+              "darkcleaver.activeitem.json": 0,
+              "manaaxe.activeitem.json": 0
+            },
+            "shared_sword": {
+              "shared_.activeitem.json": 0
+            },
+            "shortsword": {
+              "bluemanabroadsword.activeitem.json": 0,
+              "easternGlaive.activeitem.json": 0,
+              "halberd1h.activeitem.json": 0,
+              "honor.activeitem.json": 0,
+              "magmaSaber.activeitem.json": 0,
+              "silvermace.activeitem.json": 0
+            },
+            "spear": {
+              "darktrident.activeitem.json": 0
+            }
+          },
+          "other": {
+            "mlgs": {
+              "mlgs.activeitem.json": 0
+            }
+          },
+          "ranged": {
+            "fuelrod.activeitem.json": 0,
+            "fuelrod2.activeitem.json": 0,
+            "shared_.activeitem.json": 0
           }
         }
       },
@@ -88,6 +166,10 @@
         "scrolltoxic.activeitem.json": 2
       },
       "throwables": {
+        "caltrops": {
+          "caltrops.thrownitem.json": 0,
+          "gravitrops.thrownitem.json": 0
+        },
         "shurikens": {
           "arcshuriken": {
             "arcshuriken.thrownitem.json": 2
@@ -124,8 +206,16 @@
         },
         "shared_.activeitem.json": 2,
         "tech": {
+          "ivrpgucbatterypack.activeitem.json": 0,
+          "ivrpgucfourthwall.activeitem.json": 0,
+          "ivrpgucghost.activeitem.json": 0,
           "ivrpgucglidesphere.activeitem.json": 1,
           "ivrpguchoversphere.activeitem.json": 1,
+          "ivrpgucmoreenhanced.activeitem.json": 0,
+          "ivrpgucpeakperformance.activeitem.json": 0,
+          "ivrpgucphaseout.activeitem.json": 0,
+          "ivrpgucpinpointaccuracy.activeitem.json": 0,
+          "ivrpgucstunningsphere.activeitem.json": 0,
           "ivrpgucwalljump.activeitem.json": 1
         },
         "weapon": {
@@ -179,7 +269,6 @@
       "mastery": {
         "masterypoint.currency.json": 2,
         "shop": {
-          "ivrpgmasteryshop.config.json": 10,
           "masteryshop.object.json": 9
         }
       },
@@ -202,6 +291,11 @@
         "strengthpoint.currency.json": 2,
         "vigorpoint.currency.json": 2,
         "vitalitypoint.currency.json": 2
+      }
+    },
+    "particles": {
+      "damagenumbers": {
+        "shared_damagenumber.json": 0
       }
     },
     "projectiles": {
