@@ -291,7 +291,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Classic Mode"
+      "Eng": "Classic Mode",
+      "Por": "Modo Clássico"
     }
   },
   {
@@ -302,7 +303,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Classic Mode Weapon Availability"
+      "Eng": "Classic Mode Weapon Availability",
+      "Por": "Disponibilidade de Arma do Modo Clássico"
     }
   },
   {
@@ -313,7 +315,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Classic Mode lowers damage with weapons your Class can't use.\n^red;Check Info (I)!^reset;"
+      "Eng": "Classic Mode lowers damage with weapons your Class can't use.\n^red;Check Info (I)!^reset;",
+      "Por": "O Modo Clássico reduz o dano com armas que sua Classe não pode usar.\n^red;Verifique Informações (I)!^reset;"
     }
   },
   {
