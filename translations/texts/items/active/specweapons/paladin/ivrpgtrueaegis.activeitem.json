@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Protectorate has fallen. But us? We will never fall."
+      "Eng": "The Protectorate has fallen. But us? We will never fall.",
+      "Por": "O Protetorado caiu. Mas nós? Nós nunca iremos cair."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "True Aegis"
+      "Eng": "True Aegis",
+      "Por": "True Aegis"
     }
   }
 ]

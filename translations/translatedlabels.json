@@ -50,7 +50,7 @@
         "shared_weapons.json": 1,
         "specweapons": {
           "paladin": {
-            "ivrpgtrueaegis.activeitem.json": 0,
+            "ivrpgtrueaegis.activeitem.json": 2,
             "judgement": {
               "ivrpgjudgement.statuseffect.json": 0
             }
