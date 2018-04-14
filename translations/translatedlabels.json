@@ -167,7 +167,7 @@
       },
       "throwables": {
         "caltrops": {
-          "caltrops.thrownitem.json": 0,
+          "caltrops.thrownitem.json": 2,
           "gravitrops.thrownitem.json": 0
         },
         "shurikens": {
