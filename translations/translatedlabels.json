@@ -100,7 +100,7 @@
               "ultrameshsword.activeitem.json": 0
             },
             "hammer": {
-              "darkcleaver.activeitem.json": 0,
+              "darkcleaver.activeitem.json": 2,
               "manaaxe.activeitem.json": 0
             },
             "shared_sword": {
