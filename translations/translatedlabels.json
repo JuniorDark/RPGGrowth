@@ -202,7 +202,7 @@
         "shared_.activeitem.json": 2,
         "tech": {
           "ivrpgucbatterypack.activeitem.json": 1,
-          "ivrpgucfourthwall.activeitem.json": 0,
+          "ivrpgucfourthwall.activeitem.json": 1,
           "ivrpgucghost.activeitem.json": 0,
           "ivrpgucglidesphere.activeitem.json": 1,
           "ivrpguchoversphere.activeitem.json": 1,
