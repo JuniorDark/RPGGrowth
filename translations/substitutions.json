@@ -13,9 +13,6 @@
     "/gui/statslayout/children/vitalityamount/value": "texts/wide_spread_fields.json",
     "/gui/windowtitle/title": "texts/shared_skillbook/shared_RPGskillbook..json"
   },
-  "items/active/classweapons/knightsword/aegisswordcombo.weaponability": {
-    "/ability/name": "texts/items/active/shared_weapons.json"
-  },
   "items/active/classweapons/knightsword/knightaegissword3.activeitem": {
     "/description": "texts/items/active/classweapons/knightsword/shared_knightaegissword.json",
     "/shortdescription": "texts/items/active/classweapons/knightsword/shared_knightaegissword.json"
@@ -33,13 +30,13 @@
   "items/active/weapons/melee/broadsword/abhorrentstygiansword.activeitem": {
     "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
   },
-  "items/active/weapons/melee/broadsword/feroziumkatana.activeitem": {
-    "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
-  },
   "items/active/weapons/melee/broadsword/goldcleaver.activeitem": {
     "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
   },
   "items/active/weapons/melee/broadsword/heartofdissolve.activeitem": {
+    "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
+  },
+  "items/active/weapons/melee/broadsword/ivrpgferoziumkatana.activeitem": {
     "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
   },
   "items/active/weapons/melee/broadsword/manashortsword.activeitem": {
@@ -62,9 +59,6 @@
   },
   "items/active/weapons/melee/shortsword/silvermace.activeitem": {
     "/description": "texts/items/active/weapons/melee/shared_sword/shared_.activeitem.json"
-  },
-  "items/active/weapons/other/mlgs/mlgsswordcombo.weaponability": {
-    "/ability/name": "texts/items/active/shared_weapons.json"
   },
   "items/active/weapons/ranged/fuelrod.activeitem": {
     "/description": "texts/items/active/weapons/ranged/shared_.activeitem.json"

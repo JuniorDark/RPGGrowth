@@ -556,8 +556,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Locked until Level 40!\n(Not Implemented Yet)",
-      "Por": "Bloqueado até o Nível 40!\n(Ainda Não Implementado)"
+      "Eng": "Locked until Level 40!\n(Will be Implemented Soon!)"
     }
   },
   {
@@ -660,8 +659,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/professionslayout/children/locked/value",
-        "/gui/specializationlayout/children/locked/value"
+        "/gui/professionslayout/children/locked/value"
       ]
     },
     "Texts": {
@@ -1096,6 +1094,17 @@
     "Texts": {
       "Eng": "Weapon Bonus:",
       "Por": "Bônus de Arma:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlayout/children/locked/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Will be Implemented Soon!"
     }
   },
   {

@@ -3,7 +3,7 @@
     "_metadata.json": 2,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 95
+        "RPGskillbook.config.json": 96
       }
     },
     "items": {
@@ -15,6 +15,7 @@
             "explorerspiradrill3.activeitem.json": 2
           },
           "knightsword": {
+            "aegisswordcombo.weaponability.json": 1,
             "knightaegissword.activeitem.json": 2,
             "knightaegissword2.activeitem.json": 2,
             "parryshield.weaponability.json": 1,
@@ -47,7 +48,6 @@
             "wizardnovastaff3.activeitem.json": 2
           }
         },
-        "shared_weapons.json": 1,
         "specweapons": {
           "paladin": {
             "ivrpgtrueaegis.activeitem.json": 2,
@@ -86,9 +86,9 @@
             },
             "broadsword": {
               "abhorrentstygiansword.activeitem.json": 1,
-              "feroziumkatana.activeitem.json": 1,
               "goldcleaver.activeitem.json": 1,
               "heartofdissolve.activeitem.json": 1,
+              "ivrpgferoziumkatana.activeitem.json": 1,
               "manashortsword.activeitem.json": 1,
               "obsidianSword.activeitem.json": 2,
               "obsidianSword2.activeitem.json": 2,
@@ -116,11 +116,6 @@
             },
             "spear": {
               "darktrident.activeitem.json": 2
-            }
-          },
-          "other": {
-            "mlgs": {
-              "mlgs.activeitem.json": 3
             }
           },
           "ranged": {
@@ -216,7 +211,8 @@
           "ivrpgucphaseout.activeitem.json": 1,
           "ivrpgucpinpointaccuracy.activeitem.json": 1,
           "ivrpgucstunningsphere.activeitem.json": 1,
-          "ivrpgucwalljump.activeitem.json": 2
+          "ivrpgucwalljump.activeitem.json": 2,
+          "ivrpgucwavedash.activeitem.json": 1
         },
         "weapon": {
           "ivrpgucblindingjustice.activeitem.json": 1,
