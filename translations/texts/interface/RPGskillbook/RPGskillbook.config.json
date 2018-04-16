@@ -556,7 +556,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Locked until Level 40!\n(Will be Implemented Soon!)"
+      "Eng": "Locked until Level 40!\n(Will be Implemented Soon!)",
+      "Por": "Bloqueado até o nível 40!\n(Será implementado em breve!)"
     }
   },
   {
@@ -1104,7 +1105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Will be Implemented Soon!"
+      "Eng": "Will be Implemented Soon!",
+      "Por": "Será implementado em breve!"
     }
   },
   {
