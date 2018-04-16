@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Escape! Upgrade.\nLets you walljump while using Escape!."
+      "Eng": "Escape! Upgrade.\nLets you walljump while using Escape!.",
+      "Por": "Melhoria para a Fuga!\nPermite você pular na parede enquanto estiver usando a Fuga!."
     }
   },
   {
@@ -19,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Walljump",
-      "Por": "Walljump"
+      "Por": "Pulo na parede"
     }
   }
 ]
