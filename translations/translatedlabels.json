@@ -379,7 +379,7 @@
       },
       "paladin.config.json": 1,
       "samurai.config.json": 2,
-      "shared_.config.json": 0,
+      "shared_.config.json": 1,
       "techs": {
         "paladin": {
           "immaculateshield.tech.json": 1
