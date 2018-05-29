@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/text/tech/title"
+      ],
+      "specs/samurai.config": [
+        "/text/tech/title"
+      ],
+      "specs/techs/paladin/immaculateshield.tech": [
+        "/shortDescription"
+      ],
+      "specs/techs/paladin/immaculateshieldstatus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Immaculate Shield"
+    }
+  }
+]

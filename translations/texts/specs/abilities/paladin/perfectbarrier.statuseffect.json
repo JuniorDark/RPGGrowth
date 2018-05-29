@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/paladin/perfectbarrier.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect Barrier"
+    }
+  }
+]

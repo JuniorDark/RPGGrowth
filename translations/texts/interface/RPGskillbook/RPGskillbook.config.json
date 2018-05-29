@@ -79,7 +79,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/classlayout/children/classweapontext/value"
+        "/gui/classlayout/children/classweapontext/value",
+        "/gui/specializationlayout/children/specweapontext/value"
       ]
     },
     "Texts": {
@@ -111,6 +112,17 @@
     "Texts": {
       "Eng": "250000",
       "Por": "250000"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlayout/children/effecttext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ability Text Goes Here"
     }
   },
   {
@@ -215,6 +227,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlayout/children/benefittext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Benefit list"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlayout/children/benefittitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bonuses"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/toggleclassabilitytitle/value"
       ]
     },
@@ -287,7 +321,9 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/overviewlayout/children/hardcoretitle/value"
+        "/gui/overviewlayout/children/hardcoretitle/value",
+        "/gui/specializationlayout/children/classictext/value",
+        "/gui/specializationlayout/children/classictitle/value"
       ]
     },
     "Texts": {
@@ -371,6 +407,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlayout/children/detrimenttext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detriment list"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/dexteritytext/value"
       ]
     },
@@ -413,6 +460,17 @@
     "Texts": {
       "Eng": "Extra XP:",
       "Por": " XP Extra:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationslayout/children/locked/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find and use a Specialization Scroll!"
     }
   },
   {
@@ -495,8 +553,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Keep an eye out for Upgrade Chips, which can drop from monsters,\nor be purchased using Mastery via the Mastery Shop.\nWhen you use an Upgrade Chip with a matching unused Upgrade Slot,\nit will appear here. You can use this Tab to read exact details,\nas well as unequip Upgrade Chips.\n^red;More Upgrades will be added in future updates.^reset;",
-      "Por": "Fique atento aos Upgrade Chips, que podem cair de monstros,\nou ser comprado usando Mestria através da Loja de Mestria.\nQuando você usa um Upgrade Chip com um slot de melhoria não utilizado correspondente,\nvai aparecer aqui. Você pode usar esta aba para ler detalhes exatos,\nbem como desequipar Upgrade Chips.\n^red;Mais melhorias serão adicionados em futuras atualizações.^reset;"
+      "Eng": "Keep an eye out for Upgrade Chips, which can drop from monsters,\nor be purchased using Mastery via the Mastery Shop.\nWhen you use an Upgrade Chip (like a consumable),\nit will be equipped here. You can use this Tab to read exact details,\nas well as unequip Upgrade Chips.\n^red;More Upgrades will be added in future updates.^reset;"
     }
   },
   {
@@ -556,8 +613,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Locked until Level 40!\n(Will be Implemented Soon!)",
-      "Por": "Bloqueado até o nível 40!\n(Será implementado em breve!)"
+      "Eng": "Locked until Level 35!\n(Will be Implemented Soon!)"
     }
   },
   {
@@ -660,6 +716,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlayout/children/spectitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "No Specialization Yet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/locked/value"
       ]
     },
@@ -709,6 +776,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlayout/children/detrimenttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penalties"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/prestigetitle/value"
       ]
     },
@@ -749,8 +827,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Reset your progress, losing all current XP and unlocks (Affinities, Specializations, etc). However, keep any Class skills you've unlocked.\n^red;Costs 3 Mastery Points.^reset;",
-      "Por": "Reseta o seu progresso, perdendo todo o XP atual e desbloqueados (Afinidades, Especializações, etc). No entanto, mantem todas as habilidades de classe que você desbloqueou.\n^red;Custa 3 Pontos de Mestria.^reset;"
+      "Eng": "Reset progress, losing XP and unlocks (Affinities, Specializations, etc).\n^green;Class Skills and the Mastery Tab remain unlocked.\n^red;Costs 3 Mastery Points.^reset;"
     }
   },
   {
@@ -793,12 +870,45 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlayout/children/techtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skill"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/techname/value"
       ]
     },
     "Texts": {
       "Eng": "Skill Name",
       "Por": "Nome da Habilidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlayout/children/techname/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skill Title"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlayout/children/techtext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skill description"
     }
   },
   {
@@ -870,7 +980,9 @@
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/statscalingtext/value",
-        "/gui/classlayout/children/statscalingtitle/value"
+        "/gui/classlayout/children/statscalingtitle/value",
+        "/gui/specializationlayout/children/statscalingtext/value",
+        "/gui/specializationlayout/children/statscalingtitle/value"
       ]
     },
     "Texts": {
@@ -918,7 +1030,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/classlayout/children/techtype/value"
+        "/gui/classlayout/children/techtype/value",
+        "/gui/specializationlayout/children/techtype/value"
       ]
     },
     "Texts": {
@@ -934,8 +1047,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Test your might by completing challenges! Three randomly generated tasks will appear below, each with increasing difficulty.\nOnce completed, press the 'Accept' button to grab your rewards.\n^red;Challenge Detection is not currently working as intended.^reset;",
-      "Por": "Teste sua força completando desafios! Três tarefas geradas aleatoriamente serão exibidas abaixo, cada uma com dificuldade crescente.\nQuando concluída, pressione o botão 'Aceitar' para obter suas recompensas.\n^red;A detecção de Desafios não está funcionando como pretendido.^reset;"
+      "Eng": "Test your might by completing challenges! Three randomly generated tasks will appear below, each with increasing difficulty.\nOnce completed, press the 'Accept' button to grab your rewards.\n^red;More Challenges will be added as the mod is updated!^reset;"
     }
   },
   {
@@ -987,6 +1099,17 @@
     "Texts": {
       "Eng": "UNUSED",
       "Por": "NÃO UTILIZADO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlayout/children/unlockedtext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlocked"
     }
   },
   {
@@ -1077,6 +1200,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlayout/children/specweaponicontitle/value",
         "/gui/upgradelayout/children/weapontitle/value"
       ]
     },
@@ -1101,12 +1225,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/specializationlayout/children/locked/value"
+        "/gui/specializationlayout/children/specweapontitle/value"
       ]
     },
     "Texts": {
-      "Eng": "Will be Implemented Soon!",
-      "Por": "Será implementado em breve!"
+      "Eng": "Weapon Title"
     }
   },
   {

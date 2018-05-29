@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/samurai.config": [
+        "/text/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressing [W] while a shield is up..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/samurai.config": [
+        "/text/weapon/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The True Aegis is a Two-Handed Shield with the ability to block and fire a beam of holy light."
+    }
+  }
+]

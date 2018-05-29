@@ -623,8 +623,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Vanish Sphere Upgrade.\nVanish Sphere no longer provides Invulnerability. Instead, hold Left-Click while transformed to enable Ghost-Mode, enabling you to move through walls. Be careful, as your breath runs out while moving through walls.\n^red;Drains Energy while Ghost is active.",
-      "Por": "Melhoria para a Esfera Desaparecedora.\nA Esfera Desaparecedora não fornece mais invulnerabilidade. Em vez disso, segure o botão esquerdo do mouse enquanto transformado para habilitar o Modo Fantasma, permitindo que você se mova através das paredes. Tenha cuidado, pois seu fôlego se esgota enquanto se desloca pelas paredes.\n^red;Drena Energia enquanto Fantasma está ativo."
+      "Eng": "Vanish Sphere Upgrade.\nVanish Sphere no longer provides Invulnerability. Instead, hold Left-Click while transformed to enable Ghost-Mode, enabling you to move through walls. You can lose oxygen while moving through walls.\n^red;Drains Energy while Ghost is active."
     }
   },
   {

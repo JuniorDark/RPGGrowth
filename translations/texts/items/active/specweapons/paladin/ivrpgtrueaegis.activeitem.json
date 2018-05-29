@@ -10,17 +10,5 @@
       "Eng": "The Protectorate has fallen. But us? We will never fall.",
       "Por": "O Protetorado caiu. Mas nós? Nós nunca iremos cair."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/active/specweapons/paladin/ivrpgtrueaegis.activeitem": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "True Aegis",
-      "Por": "True Aegis"
-    }
   }
 ]

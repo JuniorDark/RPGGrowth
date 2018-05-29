@@ -509,6 +509,24 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "items/active/specweapons/paladin/ivrpgtrueaegis.activeitem": [
+        "/shortdescription"
+      ],
+      "specs/paladin.config": [
+        "/text/weapon/title"
+      ],
+      "specs/samurai.config": [
+        "/text/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "True Aegis",
+      "Por": "True Aegis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/upgrade chips/weapon/ivrpgucvampirescaress.activeitem": [
         "/shortdescription"
       ],

@@ -21,11 +21,25 @@
     "/description": "texts/items/active/classweapons/knightsword/shared_knightaegissword.json",
     "/shortdescription": "texts/items/active/classweapons/knightsword/shared_knightaegissword.json"
   },
+  "items/active/classweapons/ninjashuriken/ninjaaetherdagger.activeitem": {
+    "/description": "texts/items/active/classweapons/ninjashuriken/shared_ninjaaether.json",
+    "/shortdescription": "texts/items/active/classweapons/ninjashuriken/shared_ninjaaether.json"
+  },
+  "items/active/classweapons/ninjashuriken/ninjaaethershuriken.thrownitem": {
+    "/description": "texts/items/active/classweapons/ninjashuriken/shared_ninjaaether.json",
+    "/shortdescription": "texts/items/active/classweapons/ninjashuriken/shared_ninjaaether.json"
+  },
   "items/active/classweapons/wizardstaff/novastaffexplosion.weaponability": {
     "/ability/name": "texts/items/active/classweapons/wizardstaff/shared_novastaff.json"
   },
+  "items/active/classweapons/wizardstaff/novastaffswitch.weaponability": {
+    "/ability/name": "texts/items/active/shared_weapons.json"
+  },
   "items/active/classweapons/wizardstaff/wizardnovastaff.activeitem": {
     "/shortdescription": "texts/items/active/classweapons/wizardstaff/shared_novastaff.json"
+  },
+  "items/active/specweapons/paladin/ivrpgtrueaegis.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/active/weapons/melee/broadsword/abhorrentstygiansword.activeitem": {
     "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
@@ -59,6 +73,9 @@
   },
   "items/active/weapons/melee/shortsword/silvermace.activeitem": {
     "/description": "texts/items/active/weapons/melee/shared_sword/shared_.activeitem.json"
+  },
+  "items/active/weapons/other/sbloodrose/elementswitch.weaponability": {
+    "/ability/name": "texts/items/active/shared_weapons.json"
   },
   "items/active/weapons/ranged/fuelrod.activeitem": {
     "/description": "texts/items/active/weapons/ranged/shared_.activeitem.json"
@@ -296,6 +313,22 @@
   },
   "scripts/explorerglow/explorerresist.statuseffect": {
     "/label": "texts/scripts/explorerglow/shared_.statuseffect.json"
+  },
+  "specs/paladin.config": {
+    "/text/tech/title": "texts/specs.json",
+    "/text/title": "texts/specs/shared_.config.json",
+    "/text/weapon/title": "texts/wide_spread_fields.json"
+  },
+  "specs/samurai.config": {
+    "/text/tech/title": "texts/specs.json",
+    "/text/title": "texts/specs/shared_.config.json",
+    "/text/weapon/title": "texts/wide_spread_fields.json"
+  },
+  "specs/techs/paladin/immaculateshield.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/paladin/immaculateshieldstatus.statuseffect": {
+    "/label": "texts/specs.json"
   },
   "tech/explorertech/explorerenhancedjump/explorerenhancedjump.tech": {
     "/description": "texts/tech/explorertech/shared_explorer/shared_explorer.json"

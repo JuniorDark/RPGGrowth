@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/text/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": " Pressing [W] toggles Immaculate Shield, a buff that halves Shield Stamina, but provides bonuses for your shield. While Immaculate Shield is active, monsters that hit your shield are stricken with Judgement Status, and Perfect Shields provide a short but strong burst of healing to yourself and nearby allies."
+    }
+  }
+]

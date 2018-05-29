@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/specs/knight/scrollpaladin.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "For a Knight who want to be a wall that never breaks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/specs/knight/scrollpaladin.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Specialization: Paladin"
+    }
+  }
+]

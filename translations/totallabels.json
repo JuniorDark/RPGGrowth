@@ -3,7 +3,7 @@
     "_metadata.json": 2,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 96
+        "RPGskillbook.config.json": 107
       }
     },
     "items": {
@@ -22,9 +22,9 @@
             "shared_knightaegissword.json": 2
           },
           "ninjashuriken": {
-            "ninjaaethershuriken.thrownitem.json": 2,
             "ninjaaethershuriken2.thrownitem.json": 2,
-            "ninjaaethershuriken3.thrownitem.json": 2
+            "ninjaaethershuriken3.thrownitem.json": 2,
+            "shared_ninjaaether.json": 2
           },
           "rogueclaw": {
             "roguesiphonclaw.activeitem.json": 2,
@@ -41,16 +41,16 @@
             "versaarfire.weaponability.json": 1
           },
           "wizardstaff": {
-            "novastaffswitch.weaponability.json": 1,
             "shared_novastaff.json": 1,
             "wizardnovastaff.activeitem.json": 1,
             "wizardnovastaff2.activeitem.json": 2,
             "wizardnovastaff3.activeitem.json": 2
           }
         },
+        "shared_weapons.json": 1,
         "specweapons": {
           "paladin": {
-            "ivrpgtrueaegis.activeitem.json": 2,
+            "ivrpgtrueaegis.activeitem.json": 1,
             "judgement": {
               "ivrpgjudgement.statuseffect.json": 1
             }
@@ -118,6 +118,11 @@
               "darktrident.activeitem.json": 2
             }
           },
+          "other": {
+            "sbloodrose": {
+              "sbloodrose.activeitem.json": 2
+            }
+          },
           "ranged": {
             "fuelrod.activeitem.json": 1,
             "fuelrod2.activeitem.json": 1,
@@ -158,7 +163,12 @@
         "scrollinfernal.activeitem.json": 2,
         "scrollresetaffinity.activeitem.json": 2,
         "scrollresetclass.activeitem.json": 2,
-        "scrolltoxic.activeitem.json": 2
+        "scrolltoxic.activeitem.json": 2,
+        "specs": {
+          "knight": {
+            "scrollpaladin.activeitem.json": 2
+          }
+        }
       },
       "throwables": {
         "caltrops": {
@@ -361,6 +371,22 @@
       "shared_RPGskillbook..json": 1
     },
     "shared_stun.json": 1,
+    "specs": {
+      "abilities": {
+        "paladin": {
+          "perfectbarrier.statuseffect.json": 1
+        }
+      },
+      "paladin.config.json": 1,
+      "samurai.config.json": 2,
+      "shared_.config.json": 1,
+      "techs": {
+        "paladin": {
+          "immaculateshield.tech.json": 1
+        }
+      }
+    },
+    "specs.json": 1,
     "tech": {
       "explorertech": {
         "explorerdrill": {
@@ -503,6 +529,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 36
+    "wide_spread_fields.json": 37
   }
 }

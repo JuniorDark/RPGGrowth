@@ -4,6 +4,9 @@
     "Files": {
       "items/active/classweapons/wizardstaff/novastaffswitch.weaponability": [
         "/ability/name"
+      ],
+      "items/active/weapons/other/sbloodrose/elementswitch.weaponability": [
+        "/ability/name"
       ]
     },
     "Texts": {

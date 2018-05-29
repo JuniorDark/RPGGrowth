@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/text/title"
+      ],
+      "specs/samurai.config": [
+        "/text/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Paladin"
+    }
+  }
+]
