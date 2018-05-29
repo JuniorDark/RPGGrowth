@@ -374,7 +374,7 @@
     "specs": {
       "abilities": {
         "paladin": {
-          "perfectbarrier.statuseffect.json": 0
+          "perfectbarrier.statuseffect.json": 1
         }
       },
       "paladin.config.json": 1,
