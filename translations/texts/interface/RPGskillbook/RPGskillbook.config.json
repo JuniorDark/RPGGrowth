@@ -122,7 +122,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ability Text Goes Here"
+      "Eng": "Ability Text Goes Here",
+      "Por": "Texto da Habilidade Vai Aqui"
     }
   },
   {
@@ -231,7 +232,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Benefit list"
+      "Eng": "Benefit list",
+      "Por": "Lista de benefícios"
     }
   },
   {
@@ -242,7 +244,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bonuses"
+      "Eng": "Bonuses",
+      "Por": "Bônus"
     }
   },
   {
@@ -411,7 +414,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Detriment list"
+      "Eng": "Detriment list",
+      "Por": "Lista de detritos"
     }
   },
   {
@@ -470,7 +474,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Find and use a Specialization Scroll!"
+      "Eng": "Find and use a Specialization Scroll!",
+      "Por": "Encontre e use um Pergaminho de Especialização!"
     }
   },
   {
@@ -553,7 +558,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Keep an eye out for Upgrade Chips, which can drop from monsters,\nor be purchased using Mastery via the Mastery Shop.\nWhen you use an Upgrade Chip (like a consumable),\nit will be equipped here. You can use this Tab to read exact details,\nas well as unequip Upgrade Chips.\n^red;More Upgrades will be added in future updates.^reset;"
+      "Eng": "Keep an eye out for Upgrade Chips, which can drop from monsters,\nor be purchased using Mastery via the Mastery Shop.\nWhen you use an Upgrade Chip (like a consumable),\nit will be equipped here. You can use this Tab to read exact details,\nas well as unequip Upgrade Chips.\n^red;More Upgrades will be added in future updates.^reset;",
+      "Por": "Fique de olho nos Upgrade Chips, que podem cair dos monstros,\nou ser comprado usando Mestria na Loja de Mestria.\nQuando você usa um Upgrade Chip (como um consumível),\nserá equipado aqui. Você pode usar esta guia para ler os detalhes exatos,\nbem como desequipar Upgrade Chips.\n^red;Mais Upgrades serão adicionadas em futuras atualizações.^reset;\n\n"
     }
   },
   {
@@ -613,7 +619,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Locked until Level 35!\n(Will be Implemented Soon!)"
+      "Eng": "Locked until Level 35!\n(Will be Implemented Soon!)",
+      "Por": "Bloqueado até o Nível 35!\n(Será Implementado em Breve!)"
     }
   },
   {
@@ -720,7 +727,8 @@
       ]
     },
     "Texts": {
-      "Eng": "No Specialization Yet"
+      "Eng": "No Specialization Yet",
+      "Por": "Sem Especialização Ainda"
     }
   },
   {
@@ -780,7 +788,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Penalties"
+      "Eng": "Penalties",
+      "Por": "Penalidades"
     }
   },
   {
@@ -827,7 +836,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Reset progress, losing XP and unlocks (Affinities, Specializations, etc).\n^green;Class Skills and the Mastery Tab remain unlocked.\n^red;Costs 3 Mastery Points.^reset;"
+      "Eng": "Reset progress, losing XP and unlocks (Affinities, Specializations, etc).\n^green;Class Skills and the Mastery Tab remain unlocked.\n^red;Costs 3 Mastery Points.^reset;",
+      "Por": "Reseta o progresso, perdendo XP e desbloqueados (Afinidades, Especializações, etc).\n^green;Habilidades de Classe e a Aba Mestria permanecem destravadas.\n^red;Custa 3 Pontos de Mestria.^reset;"
     }
   },
   {
@@ -874,7 +884,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Skill"
+      "Eng": "Skill",
+      "Por": "Habilidade"
     }
   },
   {
@@ -897,7 +908,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Skill Title"
+      "Eng": "Skill Title",
+      "Por": "Título da Habilidade"
     }
   },
   {
@@ -908,7 +920,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Skill description"
+      "Eng": "Skill description",
+      "Por": "Descrição da habilidade"
     }
   },
   {
@@ -1047,7 +1060,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Test your might by completing challenges! Three randomly generated tasks will appear below, each with increasing difficulty.\nOnce completed, press the 'Accept' button to grab your rewards.\n^red;More Challenges will be added as the mod is updated!^reset;"
+      "Eng": "Test your might by completing challenges! Three randomly generated tasks will appear below, each with increasing difficulty.\nOnce completed, press the 'Accept' button to grab your rewards.\n^red;More Challenges will be added as the mod is updated!^reset;",
+      "Por": "Teste seu poder, completando desafios! Três tarefas geradas aleatoriamente aparecerão abaixo, cada uma com dificuldade crescente.\nDepois de concluído, pressione o botão 'Accept' para pegar suas recompensas.\n^red;Mais Desafios serão adicionados à medida que o mod for atualizado!^reset;"
     }
   },
   {
@@ -1109,7 +1123,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Unlocked"
+      "Eng": "Unlocked",
+      "Por": "Desbloqueado"
     }
   },
   {
@@ -1229,7 +1244,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Weapon Title"
+      "Eng": "Weapon Title",
+      "Por": "Título da Arma"
     }
   },
   {
