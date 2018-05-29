@@ -377,7 +377,7 @@
           "perfectbarrier.statuseffect.json": 0
         }
       },
-      "paladin.config.json": 0,
+      "paladin.config.json": 1,
       "samurai.config.json": 0,
       "shared_.config.json": 0,
       "techs": {
