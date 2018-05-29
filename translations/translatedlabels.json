@@ -382,7 +382,7 @@
       "shared_.config.json": 0,
       "techs": {
         "paladin": {
-          "immaculateshield.tech.json": 0
+          "immaculateshield.tech.json": 1
         }
       }
     },
