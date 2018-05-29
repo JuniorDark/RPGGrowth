@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "For a Knight who want to be a wall that never breaks."
+      "Eng": "For a Knight who want to be a wall that never breaks.",
+      "Por": "Para um Cavaleiro que quer ser um muralha que nunca quebra."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Specialization: Paladin"
+      "Eng": "Specialization: Paladin",
+      "Por": "Especialização: Paladino"
     }
   }
 ]
