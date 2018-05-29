@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pressing [W] while a shield is up..."
+      "Eng": "Pressing [W] while a shield is up...",
+      "Por": "Pressionando [W] enquanto o escudo está levantado .."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The True Aegis is a Two-Handed Shield with the ability to block and fire a beam of holy light."
+      "Eng": "The True Aegis is a Two-Handed Shield with the ability to block and fire a beam of holy light.",
+      "Por": "A Aegis Verdadeira é um Escudo de Duas Mãos com a capacidade de bloquear e disparar um feixe de luz sagrada."
     }
   }
 ]
