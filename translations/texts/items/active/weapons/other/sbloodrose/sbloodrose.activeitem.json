@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Don't forget to change this!"
+      "Eng": "Don't forget to change this!",
+      "Por": "Não esqueça de mudar isso!"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Blood Rose"
+      "Eng": "^red;Blood Rose",
+      "Por": "^red;Blood Rose"
     }
   }
 ]
