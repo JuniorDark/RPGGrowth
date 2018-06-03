@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": " Pressing [W] toggles Immaculate Shield, a buff that halves Shield Stamina, but provides bonuses for your shield. While Immaculate Shield is active, monsters that hit your shield are stricken with Judgement Status, and Perfect Shields provide Health Regeneration to yourself and nearby allies."
+      "Eng": " Pressing [W] toggles Immaculate Shield, a buff that halves Shield Stamina, but provides bonuses for your shield. While Immaculate Shield is active, monsters that hit your shield are stricken with Judgement Status, and Perfect Shields provide Health Regeneration to yourself and nearby allies.",
+      "Por": "Pressionar [W] ativa o Escudo Imaculado, um bônus que reduz pela metade a Stamina do Escudo, mas fornece bônus para o seu escudo. Enquanto o Escudo Imaculado estiver ativo, os monstros que acertam o seu escudo são atingidos com o Status Julgamento, e os Escudos Perfeitos proporcionam uma explosão curta mas forte de cura para você e seus aliados próximos."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10% Elemental Resistance"
+      "Eng": "+10% Elemental Resistance",
+      "Por": "+10% Resistência Elemental"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+50% Power with Shields:\nScales with Str. and Int."
+      "Eng": "+50% Power with Shields:\nScales with Str. and Int.",
+      "Por": "+50% Poder com Escudos:\nEscala com Força e Inteligencia."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-10% Speed"
+      "Eng": "-10% Speed",
+      "Por": "-10% Velocidade"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-20% Jump Height"
+      "Eng": "-20% Jump Height",
+      "Por": "-20% Altura no Pulo"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Perfect Shields restore 5% of max Shield Stamina."
+      "Eng": "Perfect Shields restore 5% of max Shield Stamina.",
+      "Por": "Escudos Perfeitos restauram 5% do máximo de Stamina do Escudo."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wands enabled."
+      "Eng": "Wands enabled.",
+      "Por": "Varinhas habilitadas."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;50% Base Power while a\nShield is not equipped."
+      "Eng": "^red;50% Base Power while a\nShield is not equipped.",
+      "Por": "^red;50% Poder Base enquanto um Escudo não está equipado."
     }
   }
 ]
