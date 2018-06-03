@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Decreases Energy Recharge Delay."
+      "Eng": "Decreases Energy Recharge Delay.",
+      "Por": "Diminui o Atraso de Recarga de Energia."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Decreases Fall Damage."
+      "Eng": "Decreases Fall Damage.",
+      "Por": "Diminui o Dano de Queda."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Decreases Hunger Rate."
+      "Eng": "Decreases Hunger Rate.",
+      "Por": "Diminui a Taxa de Fome."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greatly Increases Energy Recharge Rate and Staff Damage."
+      "Eng": "Greatly Increases Energy Recharge Rate and Staff Damage.",
+      "Por": "Aumenta Muito a Taxa de Recarga de Energia e o Dano de Cajados."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greatly Increases Energy Recharge Rate."
+      "Eng": "Greatly Increases Energy Recharge Rate.",
+      "Por": "Aumenta muito a Taxa de Recarga de Energia."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greatly Increases Shield Health."
+      "Eng": "Greatly Increases Shield Health.",
+      "Por": "Aumenta muito a Vida do Escudo."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Increases Jump Height."
+      "Eng": "Increases Jump Height.",
+      "Por": "Aumenta a Altura do Pulo."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Increases Knockback Resistance and Physical Resistance."
+      "Eng": "Increases Knockback Resistance and Physical Resistance.",
+      "Por": "Aumenta a Resistência a Knockback e a Resistência Física."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Increases Ranged Weapon Damage, Bleed Chance and Bleed Length."
+      "Eng": "Increases Ranged Weapon Damage, Bleed Chance and Bleed Length.",
+      "Por": "Aumenta o Dano de Armas de Longo Alcance, e a Chance e Duração de Sangramento."
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Minimally Increases Physical Resistance."
+      "Eng": "Minimally Increases Physical Resistance.",
+      "Por": "Aumenta Minimamente a Resistência Física."
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Moderately Increases All Other Resistances."
+      "Eng": "Moderately Increases All Other Resistances.",
+      "Por": "Aumenta Moderadamente Todas as Outras Resistências."
     }
   },
   {
@@ -128,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Significantly Increases Max Energy."
+      "Eng": "Significantly Increases Max Energy.",
+      "Por": "Aumenta Significativamente a Energia Máxima."
     }
   },
   {
@@ -139,7 +151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Significantly Increases Max Health."
+      "Eng": "Significantly Increases Max Health.",
+      "Por": "Aumenta Significativamente a Vida Máxima"
     }
   },
   {
@@ -150,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Significantly Increases Speed."
+      "Eng": "Significantly Increases Speed.",
+      "Por": "Aumenta Significativamente a Velocidade."
     }
   },
   {
@@ -161,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Significantly Increases Two-Handed Melee Damage."
+      "Eng": "Significantly Increases Two-Handed Melee Damage.",
+      "Por": "Aumenta Significativamente o Dano Corpo a Corpo de Duas Mãos."
     }
   },
   {
@@ -172,7 +187,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Slightly Decreases Fall Damage."
+      "Eng": "Slightly Decreases Fall Damage.",
+      "Por": "Diminui Ligeiramente o Dano de Queda."
     }
   },
   {
@@ -183,7 +199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Slightly Increases One-Handed Melee Weapon Damage.^red; Doesn't stack with Dex.!^reset;"
+      "Eng": "Slightly Increases One-Handed Melee Weapon Damage.^red; Doesn't stack with Dex.!^reset;",
+      "Por": "Aumenta Ligeiramente o Dano de Armas de Uma Mão.^red; Não acumula com Destreza.!^reset;"
     }
   },
   {
@@ -194,7 +211,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Slightly Increases One-Handed Weapon Damage.^red; Doesn't stack with Strength!^reset;"
+      "Eng": "Slightly Increases One-Handed Weapon Damage.^red; Doesn't stack with Strength!^reset;",
+      "Por": "Aumenta Ligeiramente o Dano de Armas de Uma Mão.^red; Não acumula com Força.!^reset;"
     }
   },
   {
@@ -205,7 +223,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Slightly Increases Wand Damage."
+      "Eng": "Slightly Increases Wand Damage.",
+      "Por": "Aumenta Ligeiramente o Dano de Varinhas."
     }
   },
   {
@@ -216,7 +235,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Starting From 20 Agility:^reset;\nClassic Mode penalty for Speed and Jump Height halved.\nSpecialization penalty for Speed and Jump Height halved."
+      "Eng": "^green;Starting From 20 Agility:^reset;\nClassic Mode penalty for Speed and Jump Height halved.\nSpecialization penalty for Speed and Jump Height halved.",
+      "Por": "^green;Começando de 20 Agilidade:^reset;\nPenalidade do Modo Clássico para Velocidade e Altura do Pulo cortada pela metade.\nPenalidade de Especialização para Velocidade e Altura do Pulo cortada pela metade."
     }
   },
   {
@@ -227,7 +247,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Starting From 20 Dexterity:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Ranged Weapons,\nlowered to -50% for Dual-Wielded Ranged and Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee and Ranged Weapons."
+      "Eng": "^green;Starting From 20 Dexterity:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Ranged Weapons,\nlowered to -50% for Dual-Wielded Ranged and Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee and Ranged Weapons.",
+      "Por": "^green;Começando de 20 Destreza:^reset;\nPenalidade do Modo Clássico reduzido para -50% para Armas de Longo Alcance de Duas Mãos,\nreduzido para -50% para Armas de Longo Alcance e Corpo a Corpo Duplas,\ne reduzido para -25% para Armas Corpo-a-corpo e Armas de Longo Alcance de Uma Mão com manejo individual."
     }
   },
   {
@@ -238,7 +259,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Starting From 20 Endurance:^reset;\nClassic Mode penalty for all Resistances halved.\nSpecialization penalty for all Resistances halved."
+      "Eng": "^green;Starting From 20 Endurance:^reset;\nClassic Mode penalty for all Resistances halved.\nSpecialization penalty for all Resistances halved.",
+      "Por": "^green;Começando de 20 Resistência:^reset;\nPenalidade do Modo Clássico para todas as Resistências resuzido pela metade.\nPenalidade de Especialização para todas as Resistências reduzido pela metade."
     }
   },
   {
@@ -249,7 +271,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Starting From 20 Intelligence:^reset;\nClassic Mode penalty lowered to -50% for Staffs,\nand lowered to -25% for Mono-Wielded Wands."
+      "Eng": "^green;Starting From 20 Intelligence:^reset;\nClassic Mode penalty lowered to -50% for Staffs,\nand lowered to -25% for Mono-Wielded Wands.",
+      "Por": "^green;Começando de 20 Inteligência:^reset;\nPenalidade do Modo Clássico reduzido para -50% para Cajados,\ne reduzido para -25% para Varinhas Mono-Empunhadas."
     }
   },
   {
@@ -260,7 +283,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Starting From 20 Strength:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee Weapons."
+      "Eng": "^green;Starting From 20 Strength:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee Weapons.",
+      "Por": "^green;Começando de 20 Força:^reset;\nPenalidade do Modo Clássico reduzido para -50% para Armas Corpo-acorpo de Duas Mãos,\ne reduzido para -25% para Armas Corpo a Corpo de Uma Mão Mono-Empunhadas."
     }
   },
   {
@@ -271,7 +295,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Starting From 20 Vigor:^reset;\nClassic Mode penalty for Max Energy and Energy Regeneration halved.\nSpecialization penalty for Max Energy and Energy Regeneration halved."
+      "Eng": "^green;Starting From 20 Vigor:^reset;\nClassic Mode penalty for Max Energy and Energy Regeneration halved.\nSpecialization penalty for Max Energy and Energy Regeneration halved.",
+      "Por": "^green;Começando de 20 Vigor:^reset;\nPenalidade do Modo Clássico para Energia Máxima e Regeneração de Energia reduzido pela metade.\nPenalidade de Especialização para Energia Máxima e Regeneração de Energia reduzido pela metade."
     }
   },
   {
