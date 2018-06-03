@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+6% Chance to Freeze, Burn, or Electrify enemies on hit. These effects can stack."
+      "Eng": "+6% Chance to Freeze, Burn, or Electrify enemies on hit. These effects can stack.",
+      "Por": "+ 6% de Chance de Congelar, Queimar ou Eletrificar inimigos ao acertar. Esses efeitos podem acumular."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-20% Physical Resistance"
+      "Eng": "-20% Physical Resistance",
+      "Por": "-20% de Resistência Física"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-20% Speed\n-20% Jump Height"
+      "Eng": "-20% Speed\n-20% Jump Height",
+      "Por": "-20% de Velocidade\n-20% de Altura no Pulo"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "110% Base Power while using a Wand in either hand without any other weapon equipped."
+      "Eng": "110% Base Power while using a Wand in either hand without any other weapon equipped.",
+      "Por": "110% Poder Base quando utilizando uma Varinha em qualquer mão sem estar com outra arma equipada. "
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "110% Base Power with Staves."
+      "Eng": "110% Base Power with Staves.",
+      "Por": "110% Poder Base com Cajados."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Spike Sphere, while transformed you regen slightly and are affected by low gravity. In addition, hold left click to create a barrier that pushes enemies away, draining energy to do so."
+      "Eng": "An upgrade to Spike Sphere, while transformed you regen slightly and are affected by low gravity. In addition, hold left click to create a barrier that pushes enemies away, draining energy to do so.",
+      "Por": "Uma melhoria para a Esfera de Espinhos, enquanto transformado você regenera um pouco e é afetado pela baixa gravidade. Além disso, segure o botão esquerdo para criar uma barreira que empurra os inimigos, drenando sua energia."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can equip the Erchius Eye, the Evil Eye, and Magnorbs"
+      "Eng": "Can equip the Erchius Eye, the Evil Eye, and Magnorbs",
+      "Por": "Pode equipar o Erchius Eye, o Evil Eye e a Magnorbs"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cannot use Ranged Weapons.\nCannot use Two-Handed Melee Weapons."
+      "Eng": "Cannot use Ranged Weapons.\nCannot use Two-Handed Melee Weapons.",
+      "Por": "Não pode usar Armas de Longo Alcance.\nNão pode usar Armas Corpo-a-corpo de Duas Mãos."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hover"
+      "Eng": "Hover",
+      "Por": "Flutuar"
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [F] to toggle a magical shield that provides invulnerability to you and nearby allies. Drains energy while active, and is toggled off when no energy remains."
+      "Eng": "Press [F] to toggle a magical shield that provides invulnerability to you and nearby allies. Drains energy while active, and is toggled off when no energy remains.",
+      "Por": "Pressione [F] para ativar um escudo mágico que fornece invulnerabilidade a você e aliados próximos. Drena energia enquanto ativo, e é desativado quando não há energia."
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [G] (Bind [G] in your Controls) to teleport to your cursor (if possible). There is a slight cooldown before you can teleport again. Energy Cost depends on Distance and Agility. During Missions (and in your ship), Translocate is Line-of-Sight only!."
+      "Eng": "Press [G] (Bind [G] in your Controls) to teleport to your cursor (if possible). There is a slight cooldown before you can teleport again. Energy Cost depends on Distance and Agility. During Missions (and in your ship), Translocate is Line-of-Sight only!.",
+      "Por": "Pressione [G] (Vincule [G] em seus Controles) para se teletransportar para o seu cursor (se possível). Há um leve tempo de recarga antes que você possa se teletransportar novamente. O Custo de Energia depende da Distância e Agilidade. Durante Missões (e em sua nave), Translocar é apenas na Linha de Visão!."
     }
   },
   {
@@ -128,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [Space] while in air to hover towards your cursor. The further your cursor, the faster you move. Your Energy drains while you hover. Hover speed scales with Agility."
+      "Eng": "Press [Space] while in air to hover towards your cursor. The further your cursor, the faster you move. Your Energy drains while you hover. Hover speed scales with Agility.",
+      "Por": "Pressione [Espaço] enquanto estiver no ar para flutuar em direção ao seu cursor. Quanto mais longe o cursor, mais rápido você se move. Sua Energia drena enquanto você flutua. A velocidade de Flutuamento escala com Agilidade."
     }
   },
   {
@@ -139,7 +151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "While using Wands or Staves, gain +10% Fire, Poison, and Ice Resistance."
+      "Eng": "While using Wands or Staves, gain +10% Fire, Poison, and Ice Resistance.",
+      "Por": "Enquanto usando Varinhas ou Cajados, ganha +10% de Resistência a Fogo, Veneno, e Gelo."
     }
   }
 ]

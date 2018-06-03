@@ -20,7 +20,7 @@
       "rogue.config.json": 10,
       "shared_.config.json": 1,
       "soldier.config.json": 12,
-      "wizard.config.json": 0
+      "wizard.config.json": 13
     },
     "interface": {
       "RPGskillbook": {
