@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10% Bleed Chance and 0.5s Bleed Length during Nighttime or while Underground."
+      "Eng": "+10% Bleed Chance and 0.5s Bleed Length during Nighttime or while Underground.",
+      "Por": "+ 10% Chance de Sangramento e 0.5s Duração do Sangramento durante a noite ou enquanto estiver no Subterrâneo."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10% Speed and Jump Height."
+      "Eng": "+10% Speed and Jump Height.",
+      "Por": "+ 10% de Velocidade e Altura no Pulo."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-10% Fall Damage."
+      "Eng": "-10% Fall Damage.",
+      "Por": "-10% de Dano de Queda."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-50% Max Health"
+      "Eng": "-50% Max Health",
+      "Por": "-50% de Vida Máxima"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "110% Base Power while using Chakrams, Daggers, or Whips."
+      "Eng": "110% Base Power while using Chakrams, Daggers, or Whips.",
+      "Por": "110% de Poder Base ao usar Chakrams, Adagas ou Chicotes."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "115% Base Power while using Throwing Daggers, Knives, Kunai, Stars, or Shurikens."
+      "Eng": "115% Base Power while using Throwing Daggers, Knives, Kunai, Stars, or Shurikens.",
+      "Por": "115%de Poder Base enquanto estiver usando Adagas, Facas, Kunai, Estrelas ou Shurikens."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Flash Jump. Cling to walls by moving against them during a jump, and refresh your jumps upon doing so. Press [S] to slide down while clinging. Press [Space] while clinging or sliding to jump. Move away from the wall to get off."
+      "Eng": "An upgrade to Flash Jump. Cling to walls by moving against them during a jump, and refresh your jumps upon doing so. Press [S] to slide down while clinging. Press [Space] while clinging or sliding to jump. Move away from the wall to get off.",
+      "Por": "Uma melhoria para o Pulo Flash. Agarre às paredes movendo-se contra elas durante um pulo, e atualize seus pulos ao fazê-lo. Pressione [S] para deslizar para baixo enquanto se agarra. Pressione [Espaço] enquanto agarrando ou deslizando para pular. Afaste-se da parede para sair."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can use Hunting Bows and the\nBroken Protectorate Broadsword."
+      "Eng": "Can use Hunting Bows and the\nBroken Protectorate Broadsword.",
+      "Por": "Pode usar Arcos de Caça e a Broken Protectorate Broadsword."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can use the Adaptable Crossbow,\nEnergy Whips, and all Katanas"
+      "Eng": "Can use the Adaptable Crossbow,\nEnergy Whips, and all Katanas",
+      "Por": "Pode usar o Adaptable Crossbow,\nChicotes de Energia e todos as Katanas."
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cannot use Two-Handed Weapons.\nCannot use Ranged Weapons.\n Cannot use Magic Weapons."
+      "Eng": "Cannot use Two-Handed Weapons.\nCannot use Ranged Weapons.\n Cannot use Magic Weapons.",
+      "Por": "Não pode usar Armas de Duas Mãos.\nNão pode usar Armas de Longo Alcance.\nNão pode usar Armas Mágicas."
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [F] to morph into an invulnerable spike ball. Energy drains quickly while active. The invulnerability ends when you run out of energy or press [F] while transformed. Unlike other Spike Spheres, Vanish Sphere's speed scales with Aglity."
+      "Eng": "Press [F] to morph into an invulnerable spike ball. Energy drains quickly while active. The invulnerability ends when you run out of energy or press [F] while transformed. Unlike other Spike Spheres, Vanish Sphere's speed scales with Aglity.",
+      "Por": "Pressione [F] para se transformar em uma bola de espinhos invulnerável. A Energia drena rapidamente enquanto estiver ativa. A invulnerabilidade termina quando você fica sem energia ou pressiona [F] enquanto transformado. Ao contrário das outras Esferas de Espinhos, a velocidade da  Esfera Desaparecedora escala com Agilidade."
     }
   },
   {
@@ -128,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [G] (Bind [G] in your Controls) to vanish. After 2 seconds, you appear at your cursor (if possible). If holding a sharp weapon, slash where you appear. During the cooldown, lose 20% Physical Resistance. Energy Cost depends on Distance and Agility."
+      "Eng": "Press [G] (Bind [G] in your Controls) to vanish. After 2 seconds, you appear at your cursor (if possible). If holding a sharp weapon, slash where you appear. During the cooldown, lose 20% Physical Resistance. Energy Cost depends on Distance and Agility.",
+      "Por": "Pressione [G] (Vincule [G] em seus Controles) para desaparecer. Após 2 segundos, você aparece no seu cursor (se possível). Se estiver segurando uma arma afiada, da um corte onde você aparece. Durante o tempo de recarga, perde 20% de Resistência Física. O Custo de Energia depende da Distancia e Agilidade."
     }
   },
   {
@@ -139,7 +151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [Space] while midair to burst forward. For a short time after jumping, you are invulnerable to damage. As long as you remain in the air with energy remaining, you are invulnerable to fall damage. You may do this twice while midair."
+      "Eng": "Press [Space] while midair to burst forward. For a short time after jumping, you are invulnerable to damage. As long as you remain in the air with energy remaining, you are invulnerable to fall damage. You may do this twice while midair.",
+      "Por": "Pressione [Espaço] enquanto no ar para dar um impulso para frente. Por um curto período após o pulo, você é invulnerável a dano. Enquanto você permanecer no ar com energia restante, você é invulnerável a dano de queda. Você pode fazer isso duas vezes enquanto no ar."
     }
   }
 ]
