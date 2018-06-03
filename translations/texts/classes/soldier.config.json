@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10% Chance to Stun monsters on hit. Stun Length depends on damage dealt."
+      "Eng": "+10% Chance to Stun monsters on hit. Stun Length depends on damage dealt.",
+      "Por": "+10% Chance de Atordoar monstros ao acertar. Duração do Atordoamento depende do dano causado."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10% Power when Energy is full.\nCancelled when Energy drops below 75%."
+      "Eng": "+10% Power when Energy is full.\nCancelled when Energy drops below 75%.",
+      "Por": "+10% Poder quando a Energia está cheia.\nCancelado quando a Energia cai abaixo de 75%."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-10% Jump Height"
+      "Eng": "-10% Jump Height",
+      "Por": "-10% Altura no Pulo"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-20% Status Resistance"
+      "Eng": "-20% Status Resistance",
+      "Por": "-20% Resistência a Status"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "110% Base Power with Sniper Rifles, Assault Rifles, and Shotguns."
+      "Eng": "110% Base Power with Sniper Rifles, Assault Rifles, and Shotguns.",
+      "Por": "110% Poder Base com Rifles Sniper, Rifles de Assalto, e Espingardas."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Base Power while using One-Handed Guns in combination with Grenades."
+      "Eng": "120% Base Power while using One-Handed Guns in combination with Grenades.",
+      "Por": "120% Poder Base quando utilizando Armas de Fogo de Uma Mão em combinação com Granadas."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Double Jump, press [Space] to dash. You can dash in all cardinal directions, as well as change direction mid-dash. Dash Duration scales with Agility. You can dash twice in mid-air."
+      "Eng": "An upgrade to Double Jump, press [Space] to dash. You can dash in all cardinal directions, as well as change direction mid-dash. Dash Duration scales with Agility. You can dash twice in mid-air.",
+      "Por": "Uma Melhoria para o Pulo Duplo, pressione [Espaço] para arrancar em uma direção de sua escolha. Você pode mudar ligeiramente a sua trajetória enquanto estiver arrancando. A Duração da Arrancada escala com Agilidade. Você pode arrancar duas vezes no meio do ar."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can equip the Broken Protectorate Broadsword."
+      "Eng": "Can equip the Broken Protectorate Broadsword.",
+      "Por": "Pode equipar a Broken Protectorate Broadsword."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cannot use Melee Weapons.\nCannot use Magic Weapons.\nCannot Dual-Wield.\nCannot use Erchius Eye."
+      "Eng": "Cannot use Melee Weapons.\nCannot use Magic Weapons.\nCannot Dual-Wield.\nCannot use Erchius Eye.",
+      "Por": "Não pode usar Armas Corpo-a-corpo.\nNão pode usar Armas Mágicas.\nNão pode Usar Duas Armas.\nNão pode usar o Erchius Eye."
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [F] to eat an MRE (Meal Ready to Eat), gaining a bit of food and all your energy. There is a cooldown of 90 seconds before you can do this again. While the cooldown is active, you gain slight health regen, but your overall speed is decreased."
+      "Eng": "Press [F] to eat an MRE (Meal Ready to Eat), gaining a bit of food and all your energy. There is a cooldown of 90 seconds before you can do this again. While the cooldown is active, you gain slight health regen, but your overall speed is decreased.",
+      "Por": "Pressione [F] para comer uma MRE (Refeição Pronta para Comer), ganhando um pouco de comida e toda a sua energia. Há um tempo de recarga de 90 segundos antes que você possa fazer isso novamente. Enquanto o tempo de recarga estiver ativo, você ganha um pouco de regeneração de vida, mas sua velocidade geral diminui."
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [F] to switch to a slow-moving Spike Sphere. Left click to shoot a missile using some energy. Hold right click to drain your energy in order to shield yourself from damage.\nCreated by SushiSquid!"
+      "Eng": "Press [F] to switch to a slow-moving Spike Sphere. Left click to shoot a missile using some energy. Hold right click to drain your energy in order to shield yourself from damage.\nCreated by SushiSquid!",
+      "Por": "Pressione [F] para mudar para uma Esfera de Espinhos de movimento lento. Clique com o botão esquerdo para disparar um míssil usando energia. Mantenha pressionado o botão direito para drenar sua energia para se proteger contra dano."
     }
   },
   {
@@ -128,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [G] (Bind [G] in your Controls) to gain extra weapon damage with ranged weapons and decreased energy regen block time: however, speed and resistance are decreased. You can end the effect by pressing [G] again. The cooldown shortens if so."
+      "Eng": "Press [G] (Bind [G] in your Controls) to gain extra weapon damage with ranged weapons and decreased energy regen block time: however, speed and resistance are decreased. You can end the effect by pressing [G] again. The cooldown shortens if so.",
+      "Por": "Pressione [G] (Vincule [G] em seus Controles) para ganhar dano extra com armas de longo alcance e diminuição do tempo de regeneração de energia: no entanto, a velocidade e a resistência são diminuídas. Você pode encerrar o efeito pressionando [G] novamente. O tempo de recarga encurta se assim for."
     }
   }
 ]
