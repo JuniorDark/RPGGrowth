@@ -14,7 +14,7 @@
     "classes": {
       "classDescriptions.config.json": 6,
       "default.config.json": 1,
-      "explorer.config.json": 0,
+      "explorer.config.json": 10,
       "knight.config.json": 0,
       "ninja.config.json": 0,
       "rogue.config.json": 0,

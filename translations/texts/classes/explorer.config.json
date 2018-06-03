@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10% Physical Resistance."
+      "Eng": "+10% Physical Resistance.",
+      "Por": "+10% Resistência Física."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-15% Power Multiplier"
+      "Eng": "-15% Power Multiplier",
+      "Por": "-15% Multiplicador de Poder"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "110% Base Power while using Grappling Hooks, Rope, Mining Tools, Throwable Light Sources, or Flashlights."
+      "Eng": "110% Base Power while using Grappling Hooks, Rope, Mining Tools, Throwable Light Sources, or Flashlights.",
+      "Por": "110% Poder Base ao usar Ganchos, Cordas, Ferramentas de Mineração, Fontes de Luz Arremessáveis ou Lanternas."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "115% Max Health and Energy."
+      "Eng": "115% Max Health and Energy.",
+      "Por": "115% Vida e Energia Máxima."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Double Jump, hold [W] to glide forward, slowly losing altitude. You can use your double jump while gliding. Glide energy cost decreases with higher Agility."
+      "Eng": "An upgrade to Double Jump, hold [W] to glide forward, slowly losing altitude. You can use your double jump while gliding. Glide energy cost decreases with higher Agility.",
+      "Por": "Uma Melhoria para o Pulo Duplo, segure [W] para planar para frente, lentamente perdendo altitude. Você pode usar o seu pulo duplo enquanto plana. O custo da energia do Planar diminui com Agilidade alta.\n"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Glide. Gain another three midair jumps and a wall jump. Midair jumps are 85% as effective. You cling to walls slightly longer than the normal Wall Jump and slide down slower as well. Glide energy cost decreases with higher Agility."
+      "Eng": "An upgrade to Glide. Gain another three midair jumps and a wall jump. Midair jumps are 85% as effective. You cling to walls slightly longer than the normal Wall Jump and slide down slower as well. Glide energy cost decreases with higher Agility.",
+      "Por": "Uma Melhoria para o Planar. Ganhe mais três pulos no ar e um pulo na parede. Pulos no ar são 85% tão eficaz. Você se agarra às paredes um pouco mais longo do que o Pulo na Parede normal e desliza mais devagar. O custo de energia do Planar diminui com Agilidade maior.\n"
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Enhanced Jump"
+      "Eng": "Enhanced Jump",
+      "Por": "Pulo Aprimorado"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [G] (Bind [G] in your Controls) to switch between Enhanced Airdash and Enhanced Sprint. Enhanced Airdash travels further than Air Dash, and has a shorter cooldown. Enhanced Sprint is faster and costs less energy than Sprint."
+      "Eng": "Press [G] (Bind [G] in your Controls) to switch between Enhanced Airdash and Enhanced Sprint. Enhanced Airdash travels further than Air Dash, and has a shorter cooldown. Enhanced Sprint is faster and costs less energy than Sprint.",
+      "Por": "Pressione [G] (Vincule [G] em seus Controles) para alternar entre Arrancada Aérea Melhorada e Corrida Melhorada. Arrancada Aérea Melhorada viaja mais do que Arrancada Aérea, e tem um tempo de recarga mais curto. Corrida Melhorada é mais rápida e custa menos energia do que a Corrida."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [H] (Bind [H] in your Controls) to transform into a fast Spike Sphere that can jump. Press [F] to drill down at incredible speed, draining your energy. You can drill whether or not you are transformed."
+      "Eng": "Press [H] (Bind [H] in your Controls) to transform into a fast Spike Sphere that can jump. Press [F] to drill down at incredible speed, draining your energy. You can drill whether or not you are transformed.",
+      "Por": "Pressione [H] (Vincule [H] em seus Controles) para se transformar em uma Esfera de Espinhos rápida que pode pular. Pressione [F] para perfurar em velocidade incrível, drenando sua energia. Você pode perfurar se você está ou não transformado."
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "While Health is greater than half, provide a bright yellow Glow."
+      "Eng": "While Health is greater than half, provide a bright yellow Glow.",
+      "Por": "Enquanto a Vida for maior que a metade, fornece um Brilho amarelo brilhante."
     }
   }
 ]
