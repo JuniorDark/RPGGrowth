@@ -354,7 +354,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Classic Mode negates damage with certain weapons.\n^red;Check the Info Tab (I) for more information!^reset;"
+      "Eng": "Classic Mode negates damage with certain weapons.\n^red;Check the Info Tab (I) for more information!^reset;",
+      "Por": "Modo Clássico nega dano com certas armas.\n^red;Verifique a Aba Informações(I) para mais informações!^reset;"
     }
   },
   {
@@ -582,7 +583,8 @@
       ]
     },
     "Texts": {
-      "Eng": "No Specialization"
+      "Eng": "No Specialization",
+      "Por": "Sem Especialização"
     }
   },
   {
@@ -841,7 +843,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Stat:\n^red;Health Multiplier:^reset;\n^green;Energy Multiplier:\nEnergy Recharge Rate:\nEnergy Recharge Delay:^reset;\n^orange;Hunger Rate Deduction:^reset;\n^gray;Knockback Resistance:\nFall Damage Multiplier:\nShield Health Multiplier:^reset;\n^red;Bleed Chance:\nBleed Length:^reset;\n\n\nDamage Resistance:\n^gray;Physical:^reset;\n^green;Poison:^reset;\n^blue;Ice:^reset;\n^red;Fire:^reset;\n^yellow;Electric:^reset;\n^green;Radiation (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cosmic (FU):^reset;"
+      "Eng": "Stat:\n^red;Health Multiplier:^reset;\n^green;Energy Multiplier:\nEnergy Recharge Rate:\nEnergy Recharge Delay:^reset;\n^orange;Hunger Rate Deduction:^reset;\n^gray;Knockback Resistance:\nFall Damage Multiplier:\nShield Health Multiplier:^reset;\n^red;Bleed Chance:\nBleed Length:^reset;\n\n\nDamage Resistance:\n^gray;Physical:^reset;\n^green;Poison:^reset;\n^blue;Ice:^reset;\n^red;Fire:^reset;\n^yellow;Electric:^reset;\n^green;Radiation (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cosmic (FU):^reset;",
+      "Por": "Status:\n^red;Multiplicador de Vida:^reset;\n^green;Multiplicador de Energia:\nTaxa de Recarga de Energia:\nAtraso de Recarga de Energia:^reset;\n^orange;Dedução da Taxa de Fome:^reset;\n^gray;Resistência a Knockback:\nMultiplicador de Dano de Queda:\nMultiplicador de Vida do Escudo:^reset;\n^red;Chance de Sangramento:\nDuração do Sangramento:^reset;\n\n\nResistência a Dano:\n^gray;Fisico:^reset;\n^green;Veneno:^reset;\n^blue;Gelo:^reset;\n^red;Fogo:^reset;\n^yellow;Elétrico:^reset;\n^green;Radiação (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cosmic (FU):^reset;"
     }
   },
   {
