@@ -18,7 +18,7 @@
       "knight.config.json": 12,
       "ninja.config.json": 0,
       "rogue.config.json": 0,
-      "shared_.config.json": 0,
+      "shared_.config.json": 1,
       "soldier.config.json": 0,
       "wizard.config.json": 0
     },
