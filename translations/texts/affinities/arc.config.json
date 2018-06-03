@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+30% chance to Overload enemies when dealing damage. Overloaded enemies have -25% Speed and chain electrifying lightning to nearby enemies."
+      "Eng": "+30% chance to Overload enemies when dealing damage. Overloaded enemies have -25% Speed and chain electrifying lightning to nearby enemies.",
+      "Por": "30% chance de Sobrecarregar inimigos ao causar dano. Os inimigos Sobrecarregados têm -25% Velocidade e passam um relâmpago eletrizante para inimigos próximos.\n "
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "70% Max Health while submerged"
+      "Eng": "70% Max Health while submerged",
+      "Por": "70% Vida Maxima enquanto submerso"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Arc"
+      "Eng": "Arc",
+      "Por": "Arc"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Electric Damage"
+      "Eng": "Electric Damage",
+      "Por": "Danos Elétrico"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Radiation"
+      "Eng": "Radiation",
+      "Por": "Radiação"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Shadow (FU)"
+      "Eng": "Shadow (FU)",
+      "Por": "Shadow (FU)"
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^yellow;Upon expending all Energy, release an Electric explosion that deals massive damage and causes Overload."
+      "Eng": "^yellow;Upon expending all Energy, release an Electric explosion that deals massive damage and causes Overload.",
+      "Por": "^yellow;Ao gastar toda a Energia, libere uma explosão Elétrica que causa dano maciço e causa Sobrecarregar."
     }
   }
 ]
