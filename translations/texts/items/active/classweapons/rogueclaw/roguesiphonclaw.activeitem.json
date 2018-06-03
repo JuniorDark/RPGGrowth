@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/rogueclaw/roguesiphonclaw.activeitem": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Siphon",
-      "Por": "Siphon"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/active/classweapons/rogueclaw/roguesiphonclaw.activeitem": [
         "/description"
       ]
     },

@@ -1,0 +1,145 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10% Bleed Chance and 0.5s Bleed Length during Nighttime or while Underground."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10% Speed and Jump Height."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/passive/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-10% Fall Damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/classic/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-50% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/weaponBonuses/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "110% Base Power while using Chakrams, Daggers, or Whips."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/weaponBonuses/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "115% Base Power while using Throwing Daggers, Knives, Kunai, Stars, or Shurikens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/techs/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "An upgrade to Flash Jump. Cling to walls by moving against them during a jump, and refresh your jumps upon doing so. Press [S] to slide down while clinging. Press [Space] while clinging or sliding to jump. Move away from the wall to get off."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can use Hunting Bows and the\nBroken Protectorate Broadsword."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/classic/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can use the Adaptable Crossbow,\nEnergy Whips, and all Katanas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cannot use Two-Handed Weapons.\nCannot use Ranged Weapons.\n Cannot use Magic Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/techs/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [F] to morph into an invulnerable spike ball. Energy drains quickly while active. The invulnerability ends when you run out of energy or press [F] while transformed. Unlike other Spike Spheres, Vanish Sphere's speed scales with Aglity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/techs/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [G] (Bind [G] in your Controls) to vanish. After 2 seconds, you appear at your cursor (if possible). If holding a sharp weapon, slash where you appear. During the cooldown, lose 20% Physical Resistance. Energy Cost depends on Distance and Agility."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/techs/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [Space] while midair to burst forward. For a short time after jumping, you are invulnerable to damage. As long as you remain in the air with energy remaining, you are invulnerable to fall damage. You may do this twice while midair."
+    }
+  }
+]

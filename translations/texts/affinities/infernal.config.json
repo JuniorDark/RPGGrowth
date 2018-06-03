@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/infernal.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+30% chance to Sear enemies when dealing damage. Seared enemies have -25% Power and are Burned for the duration of Sear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/infernal.config": [
+        "/immunity/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extreme Heat (FU)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/infernal.config": [
+        "/immunity/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fire Damage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/infernal.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Infernal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/infernal.config": [
+        "/immunity/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lava"
+    }
+  }
+]

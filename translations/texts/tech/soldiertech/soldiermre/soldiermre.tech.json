@@ -10,17 +10,5 @@
       "Eng": "Food Gain: 5%. Cooldown: 90s",
       "Por": "Ganho de Comida: 5%. Tempo de Recarga: 90s"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tech/soldiertech/soldiermre/soldiermre.tech": [
-        "/shortDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "MRE",
-      "Por": "MRE"
-    }
   }
 ]

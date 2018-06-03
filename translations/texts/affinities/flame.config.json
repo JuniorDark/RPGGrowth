@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/flame.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10% chance to Sear enemies when dealing damage. Seared enemies have -25% Power and are Burned for the duration of Sear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/flame.config": [
+        "/immunity/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fire Status"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/flame.config": [
+        "/immunity/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heat"
+    }
+  }
+]

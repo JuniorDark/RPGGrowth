@@ -10,17 +10,5 @@
       "Eng": "Jump Cost: 15e.",
       "Por": "Custo do Pulo: 15e."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tech/ninjatech/ninjawallcling/ninjawallcling.tech": [
-        "/shortDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Wall Cling",
-      "Por": "Agarrar Parede"
-    }
   }
 ]

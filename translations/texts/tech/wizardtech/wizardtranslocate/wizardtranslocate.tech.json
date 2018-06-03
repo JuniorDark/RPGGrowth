@@ -10,17 +10,5 @@
       "Eng": "Cost: 20-100% Max Energy. Cooldown: 2s.",
       "Por": "Custo: 20-100% Energia Máxima. Tempo de Recarga: 2s."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tech/wizardtech/wizardtranslocate/wizardtranslocate.tech": [
-        "/shortDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Translocate",
-      "Por": "Translocar"
-    }
   }
 ]

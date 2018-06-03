@@ -1,0 +1,288 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/intelligence/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decreases Energy Recharge Delay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/agility/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decreases Fall Damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/vitality/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decreases Hunger Rate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/intelligence/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greatly Increases Energy Recharge Rate and Staff Damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/vigor/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greatly Increases Energy Recharge Rate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/strength/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greatly Increases Shield Health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/agility/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increases Jump Height."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/endurance/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increases Knockback Resistance and Physical Resistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/dexterity/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increases Ranged Weapon Damage, Bleed Chance and Bleed Length."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/strength/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Minimally Increases Physical Resistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/endurance/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moderately Increases All Other Resistances."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/vigor/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Significantly Increases Max Energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/vitality/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Significantly Increases Max Health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/agility/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Significantly Increases Speed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/strength/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Significantly Increases Two-Handed Melee Damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/dexterity/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slightly Decreases Fall Damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/strength/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slightly Increases One-Handed Melee Weapon Damage.^red; Doesn't stack with Dex.!^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/dexterity/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slightly Increases One-Handed Weapon Damage.^red; Doesn't stack with Strength!^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/intelligence/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slightly Increases Wand Damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/agility/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Starting From 20 Agility:^reset;\nClassic Mode penalty for Speed and Jump Height halved.\nSpecialization penalty for Speed and Jump Height halved."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/dexterity/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Starting From 20 Dexterity:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Ranged Weapons,\nlowered to -50% for Dual-Wielded Ranged and Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee and Ranged Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/endurance/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Starting From 20 Endurance:^reset;\nClassic Mode penalty for all Resistances halved.\nSpecialization penalty for all Resistances halved."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/intelligence/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Starting From 20 Intelligence:^reset;\nClassic Mode penalty lowered to -50% for Staffs,\nand lowered to -25% for Mono-Wielded Wands."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/strength/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Starting From 20 Strength:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/vigor/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Starting From 20 Vigor:^reset;\nClassic Mode penalty for Max Energy and Energy Regeneration halved.\nSpecialization penalty for Max Energy and Energy Regeneration halved."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/vitality/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Starting From 20 Vitality:^reset;\nClassic Mode penalty for Max Health and Food Delta halved.\nSpecialization penalty for Max Health and Food Delta halved."
+    }
+  }
+]

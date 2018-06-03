@@ -26,6 +26,48 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "classes/knight.config": [
+        "/weapon/title"
+      ],
+      "items/active/classweapons/knightsword/knightaegissword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aegis",
+      "Por": "Aegis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/weapon/title"
+      ],
+      "items/active/classweapons/ninjashuriken/ninjaaetherdagger.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/classweapons/ninjashuriken/ninjaaethershuriken.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aether",
+      "Por": "Aether"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/explorer.config": [
+        "/scaling/1/text"
+      ],
+      "classes/ninja.config": [
+        "/scaling/1/text"
+      ],
+      "classes/rogue.config": [
+        "/scaling/1/text"
+      ],
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/agilitytext/value"
       ],
@@ -116,6 +158,36 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "classes/classDescriptions.config": [
+        "/default/text"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/classdescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Click a Class' icon to see how that Class plays.",
+      "Por": "Clique em um ícone de classe para informações sobre essa classe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/statdescription/value"
+      ],
+      "stats.config": [
+        "/default/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Click a stat's icon to see what occurs\nwhen that stat is raised.",
+      "Por": "Clique no ícone de um status para ver o que ocorre\nquando esse status é aumentado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/upgrade chips/affinity/ivrpguccoldheart.activeitem": [
         "/shortdescription"
       ],
@@ -161,6 +233,27 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "classes/ninja.config": [
+        "/scaling/0/text"
+      ],
+      "classes/rogue.config": [
+        "/scaling/0/text"
+      ],
+      "classes/soldier.config": [
+        "/scaling/1/text"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/dexteritytext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dexterity",
+      "Por": "Destreza"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/upgrade chips/affinity/ivrpgucdischarge.activeitem": [
         "/shortdescription"
       ],
@@ -171,6 +264,27 @@
     "Texts": {
       "Eng": "Discharge",
       "Por": "Descarga"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/explorer.config": [
+        "/scaling/2/text"
+      ],
+      "classes/knight.config": [
+        "/scaling/1/text"
+      ],
+      "classes/soldier.config": [
+        "/scaling/2/text"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/endurancetext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Endurance",
+      "Por": "Resistência"
     }
   },
   {
@@ -221,6 +335,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "classes/explorer.config": [
+        "/title"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/explorertitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explorer",
+      "Por": "Explorador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/upgrade chips/affinity/ivrpgucfeedbackloop.activeitem": [
         "/shortdescription"
       ],
@@ -236,6 +365,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "affinities/flame.config": [
+        "/title"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitieslayout/children/firetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flame",
+      "Por": "Fogo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/upgrade chips/tech/ivrpgucfourthwall.activeitem": [
         "/shortdescription"
       ],
@@ -246,6 +390,21 @@
     "Texts": {
       "Eng": "Fourth Wall",
       "Por": "Quarta Parede"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/frost.config": [
+        "/title"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitieslayout/children/icetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frost",
+      "Por": "Gelo"
     }
   },
   {
@@ -314,6 +473,39 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "classes/wizard.config": [
+        "/scaling/0/text"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/intelligencetext/value"
+      ],
+      "specs/paladin.config": [
+        "/effects/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intelligence",
+      "Por": "Inteligência"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/title"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/knighttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Knight",
+      "Por": "Cavaleiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/upgrade chips/affinity/ivrpgucmiasma.activeitem": [
         "/shortdescription"
       ],
@@ -324,6 +516,69 @@
     "Texts": {
       "Eng": "Miasma",
       "Por": "Miasma"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/title"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/ninjatitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ninja",
+      "Por": "Ninja"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/default.config": [
+        "/title"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/affinitytitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "No Affinity",
+      "Por": "Sem Afinidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/default.config": [
+        "/title"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/classtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "No Class",
+      "Por": "Sem Classe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/weapon/title"
+      ],
+      "items/active/classweapons/wizardstaff/novastaffexplosion.weaponability": [
+        "/ability/name"
+      ],
+      "items/active/classweapons/wizardstaff/wizardnovastaff.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nova",
+      "Por": "Nova"
     }
   },
   {
@@ -449,6 +704,51 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "classes/rogue.config": [
+        "/title"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/roguetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rogue",
+      "Por": "Ladino"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/shock.config": [
+        "/title"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/affinitieslayout/children/electrictitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shock",
+      "Por": "Eletricidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/weapon/title"
+      ],
+      "items/active/classweapons/rogueclaw/roguesiphonclaw.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Siphon",
+      "Por": "Siphon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/upgrade chips/affinity/ivrpgucskadisblessing.activeitem": [
         "/shortdescription"
       ],
@@ -464,6 +764,39 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "affinities/arc.config": [
+        "/immunity/1/text"
+      ],
+      "affinities/shock.config": [
+        "/immunity/0/text"
+      ],
+      "monsters/ivrpgElementEffects/ivrpgembrittle/ivrpgembrittle.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slow",
+      "Por": "Lentidão"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/title"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/soldiertitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soldier",
+      "Por": "Soldado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/upgrade chips/weapon/ivrpgucspintowin.activeitem": [
         "/shortdescription"
       ],
@@ -474,6 +807,36 @@
     "Texts": {
       "Eng": "Spin to Win",
       "Por": "Gire para Ganhar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/explorer.config": [
+        "/weapon/title"
+      ],
+      "items/active/classweapons/explorerdrill/explorerspiradrill.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spira",
+      "Por": "Spira"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/scaling/0/text"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/strengthtext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strength",
+      "Por": "Força"
     }
   },
   {
@@ -513,7 +876,7 @@
         "/shortdescription"
       ],
       "specs/paladin.config": [
-        "/text/weapon/title"
+        "/weapon/title"
       ],
       "specs/samurai.config": [
         "/text/weapon/title"
@@ -542,6 +905,48 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "classes/soldier.config": [
+        "/weapon/title"
+      ],
+      "items/active/classweapons/soldiergun/soldierversa.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Versa",
+      "Por": "Versa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/explorer.config": [
+        "/scaling/3/text"
+      ],
+      "classes/rogue.config": [
+        "/scaling/2/text"
+      ],
+      "classes/soldier.config": [
+        "/scaling/0/text"
+      ],
+      "classes/wizard.config": [
+        "/scaling/1/text"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/vigortext/value"
+      ],
+      "specs/paladin.config": [
+        "/effects/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vigor",
+      "Por": "Vigor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/upgrade chips/affinity/ivrpgucvikingfuneral.activeitem": [
         "/shortdescription"
       ],
@@ -557,6 +962,27 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "classes/explorer.config": [
+        "/scaling/0/text"
+      ],
+      "classes/knight.config": [
+        "/scaling/2/text"
+      ],
+      "classes/soldier.config": [
+        "/scaling/3/text"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/statslayout/children/vitalitytext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vitality",
+      "Por": "Vitalidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/upgrade chips/tech/ivrpgucwavedash.activeitem": [
         "/shortdescription"
       ],
@@ -567,6 +993,21 @@
     "Texts": {
       "Eng": "Wavedash",
       "Por": "Wavedash"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/title"
+      ],
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/classeslayout/children/wizardtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wizard",
+      "Por": "Feiticeiro"
     }
   }
 ]

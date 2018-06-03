@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tech/knighttech/knightslam/knightslam.tech": [
-        "/shortDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Slam",
-      "Por": "Batida"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tech/knighttech/knightslam/knightslam.tech": [
         "/description"
       ]
     },

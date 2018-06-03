@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/techs/0/title"
+      ],
+      "tech/ninjatech/flashjump/ninjaflashjump.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flash Jump",
+      "Por": "Pulo Flash"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/techs/2/title"
+      ],
+      "tech/ninjatech/ninjaassassinate/ninjaassassinate.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Step",
+      "Por": "Passo das Sombras"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/techs/1/title"
+      ],
+      "tech/ninjatech/vanishsphere/ninjavanishsphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanish Sphere",
+      "Por": "Esfera Desaparecedora"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/techs/3/title"
+      ],
+      "tech/ninjatech/ninjawallcling/ninjawallcling.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall Cling",
+      "Por": "Agarrar Parede"
+    }
+  }
+]

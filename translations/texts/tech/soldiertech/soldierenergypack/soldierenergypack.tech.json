@@ -10,17 +10,5 @@
       "Eng": "Dash Duration: 0.20s.",
       "Por": "Duração da Arrancada: 0.20s."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tech/soldiertech/soldierenergypack/soldierenergypack.tech": [
-        "/shortDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Energize",
-      "Por": "Energizar"
-    }
   }
 ]

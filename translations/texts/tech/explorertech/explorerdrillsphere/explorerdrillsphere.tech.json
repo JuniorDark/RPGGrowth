@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tech/explorertech/explorerdrillsphere/explorerdrillsphere.tech": [
-        "/shortDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Drill Sphere",
-      "Por": "Esfera Broca"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tech/explorertech/explorerdrillsphere/explorerdrillsphere.tech": [
         "/description"
       ]
     },

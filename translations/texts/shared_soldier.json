@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/techs/2/title"
+      ],
+      "tech/soldiertech/soldierenergypack/soldierenergypack.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energize",
+      "Por": "Energizar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/techs/0/title"
+      ],
+      "tech/soldiertech/soldiermre/soldiermre.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "MRE",
+      "Por": "MRE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/techs/1/title"
+      ],
+      "tech/soldiertech/soldiermarksman/soldiermarksman.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Marksman",
+      "Por": "Atirador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/techs/3/title"
+      ],
+      "tech/soldiertech/soldiertanksphere/soldiertanksphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tank Sphere",
+      "Por": "Esfera Tanque"
+    }
+  }
+]

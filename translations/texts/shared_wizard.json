@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/techs/0/title"
+      ],
+      "tech/wizardtech/wizardgravitysphere/wizardgravitysphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravity Sphere",
+      "Por": "Esfera de Gravidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/techs/3/title"
+      ],
+      "tech/wizardtech/wizardmagicshield/wizardmagicshield.tech": [
+        "/shortDescription"
+      ],
+      "tech/wizardtech/wizardmagicshield/wizardshield.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magic Shield",
+      "Por": "Escudo Mágico"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/techs/2/title"
+      ],
+      "tech/wizardtech/wizardtranslocate/wizardtranslocate.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Translocate",
+      "Por": "Translocar"
+    }
+  }
+]

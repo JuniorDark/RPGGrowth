@@ -10,17 +10,5 @@
       "Eng": "Charge Cost: 125eps.",
       "Por": "Custo da Investida: 125eps."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tech/knighttech/knightcharge!/knightcharge!.tech": [
-        "/shortDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Charge!",
-      "Por": "Investida!"
-    }
   }
 ]

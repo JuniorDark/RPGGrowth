@@ -3,12 +3,88 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/paladin.config": [
-        "/text/tech/text"
+        "/tech/text"
       ]
     },
     "Texts": {
-      "Eng": " Pressing [W] toggles Immaculate Shield, a buff that halves Shield Stamina, but provides bonuses for your shield. While Immaculate Shield is active, monsters that hit your shield are stricken with Judgement Status, and Perfect Shields provide a short but strong burst of healing to yourself and nearby allies.",
-      "Por": "Pressionar [W] ativa o Escudo Imaculado, um bônus que reduz pela metade a Stamina do Escudo, mas fornece bônus para o seu escudo.\nEnquanto o Escudo Imaculado estiver ativo, os monstros que acertam o seu escudo são atingidos com o Status Julgamento, e os Escudos Perfeitos proporcionam uma explosão curta mas forte de cura para você e seus aliados próximos."
+      "Eng": " Pressing [W] toggles Immaculate Shield, a buff that halves Shield Stamina, but provides bonuses for your shield. While Immaculate Shield is active, monsters that hit your shield are stricken with Judgement Status, and Perfect Shields provide Health Regeneration to yourself and nearby allies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/effects/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10% Elemental Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+50% Power with Shields:\nScales with Str. and Int."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-10% Speed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-20% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect Shields restore 5% of max Shield Stamina."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wands enabled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;50% Base Power while a\nShield is not equipped."
     }
   }
 ]

@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/techs/2/title"
+      ],
+      "tech/knighttech/knightarmorsphere/knightarmorsphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Armor Sphere",
+      "Por": "Esfera Blindada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/techs/0/title"
+      ],
+      "tech/knighttech/knightbash/knightbash.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bash",
+      "Por": "Esmagar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/techs/3/title"
+      ],
+      "tech/knighttech/knightcharge!/knightcharge!.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charge!",
+      "Por": "Investida!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/techs/1/title"
+      ],
+      "tech/knighttech/knightslam/knightslam.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slam",
+      "Por": "Batida"
+    }
+  }
+]

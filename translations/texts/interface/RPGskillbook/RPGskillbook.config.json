@@ -354,32 +354,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Classic Mode lowers damage with weapons your Class can't use.\n^red;Check Info (I)!^reset;",
-      "Por": "O Modo Clássico reduz o dano com armas que sua Classe não pode usar.\n^red;Verifique Informações (I)!^reset;"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/classeslayout/children/classdescription/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Click a Class' icon to see how that Class plays.",
-      "Por": "Clique em um ícone de classe para informações sobre essa classe."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/statslayout/children/statdescription/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Click a stat's icon to see what occurs\nwhen that stat is raised.",
-      "Por": "Clique no ícone de um status para ver o que ocorre\nquando esse status é aumentado."
+      "Eng": "Classic Mode negates damage with certain weapons.\n^red;Check the Info Tab (I) for more information!^reset;"
     }
   },
   {
@@ -422,42 +397,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/statslayout/children/dexteritytext/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Dexterity",
-      "Por": "Destreza"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/statslayout/children/endurancetext/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Endurance",
-      "Por": "Resistência"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/classeslayout/children/explorertitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Explorer",
-      "Por": "Explorador"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/xpovertitle/value"
       ]
     },
@@ -476,30 +415,6 @@
     "Texts": {
       "Eng": "Find and use a Specialization Scroll!",
       "Por": "Encontre e use um Pergaminho de Especialização!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/affinitieslayout/children/firetitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Flame",
-      "Por": "Fogo"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/affinitieslayout/children/icetitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Frost",
-      "Por": "Gelo"
     }
   },
   {
@@ -542,36 +457,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/statslayout/children/intelligencetext/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Intelligence",
-      "Por": "Inteligência"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/upgradelayout/children/upgradetext/value"
       ]
     },
     "Texts": {
       "Eng": "Keep an eye out for Upgrade Chips, which can drop from monsters,\nor be purchased using Mastery via the Mastery Shop.\nWhen you use an Upgrade Chip (like a consumable),\nit will be equipped here. You can use this Tab to read exact details,\nas well as unequip Upgrade Chips.\n^red;More Upgrades will be added in future updates.^reset;",
       "Por": "Fique de olho nos Upgrade Chips, que podem cair dos monstros,\nou ser comprado usando Mestria na Loja de Mestria.\nQuando você usa um Upgrade Chip (como um consumível),\nserá equipado aqui. Você pode usar esta guia para ler os detalhes exatos,\nbem como desequipar Upgrade Chips.\n^red;Mais Upgrades serão adicionadas em futuras atualizações.^reset;\n\n"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/classeslayout/children/knighttitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Knight",
-      "Por": "Cavaleiro"
     }
   },
   {
@@ -663,30 +554,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/classeslayout/children/ninjatitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Ninja",
-      "Por": "Ninja"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/overviewlayout/children/affinitytitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "No Affinity",
-      "Por": "Sem Afinidade"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/affinitytitle/value"
       ]
     },
@@ -699,24 +566,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/overviewlayout/children/classtitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "No Class",
-      "Por": "Sem Classe"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/classtitle/value"
       ]
     },
     "Texts": {
       "Eng": "No Class Yet",
       "Por": "Sem Classe Ainda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/spectitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "No Specialization"
     }
   },
   {
@@ -844,36 +710,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/classeslayout/children/roguetitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Rogue",
-      "Por": "Ladino"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/techtext/value"
       ]
     },
     "Texts": {
       "Eng": "Select a skill to read about it and unlock it if possible.",
       "Por": "Selecione uma habilidade para ler sobre ela e desbloqueá-la se possível."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/affinitieslayout/children/electrictitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Shock",
-      "Por": "Eletricidade"
     }
   },
   {
@@ -940,18 +782,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/classeslayout/children/soldiertitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Soldier",
-      "Por": "Soldado"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/immunitytext/value",
         "/gui/affinitylayout/children/statscalingtext/value",
         "/gui/affinitylayout/children/statscalingtitle/value",
@@ -1011,20 +841,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Stat:\n^red;Health Multiplier:^reset;\n^green;Energy Multiplier:\nEnergy Recharge Rate:\nEnergy Recharge Delay:^reset;\n^orange;Hunger Rate Deduction:^reset;\n^gray;Knockback Resistance:\nFall Damage Multiplier:\nShield Health Multiplier:^reset;\n^red;Bleed Chance:\nBleed Length:^reset;\n\n\nDamage Resistance:\n^gray;Physical:^reset;\n^magenta;Poison:^reset;\n^blue;Ice:^reset;\n^red;Fire:^reset;\n^yellow;Electric:^reset;\n^green;Radiation (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cosmic (FU):^reset;",
-      "Por": "Status\n^red;Multiplicador de Vida:^reset;\n^green;Multiplicador de Energia:\nTaxa de Recarga de Energia:\nAtraso de Recarga de Energia:^reset;\n^orange;Dedução da Taxa de Fome:^reset;\n^gray;Resistência a Knockback:\nMultiplicador de Dano de Queda:\nMultiplicador de Vida do Escudo:^reset;\n^red;Chance de Sangramento:\nDuração do Sangramento:^reset;\n\n\nResistência a Dano:\n^gray;Fisico:^reset;\n^magenta;Veneno:^reset;\n^blue;Gelo:^reset;\n^red;Fogo:^reset;\n^yellow;Eletricidade:^reset;\n^green;Radiação (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cósmico (FU):^reset;"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/statslayout/children/strengthtext/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Strength",
-      "Por": "Força"
+      "Eng": "Stat:\n^red;Health Multiplier:^reset;\n^green;Energy Multiplier:\nEnergy Recharge Rate:\nEnergy Recharge Delay:^reset;\n^orange;Hunger Rate Deduction:^reset;\n^gray;Knockback Resistance:\nFall Damage Multiplier:\nShield Health Multiplier:^reset;\n^red;Bleed Chance:\nBleed Length:^reset;\n\n\nDamage Resistance:\n^gray;Physical:^reset;\n^green;Poison:^reset;\n^blue;Ice:^reset;\n^red;Fire:^reset;\n^yellow;Electric:^reset;\n^green;Radiation (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cosmic (FU):^reset;"
     }
   },
   {
@@ -1179,30 +996,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/statslayout/children/vigortext/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Vigor",
-      "Por": "Vigor"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/statslayout/children/vitalitytext/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Vitality",
-      "Por": "Vitalidade"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/weaknesstitle/value"
       ]
     },
@@ -1246,18 +1039,6 @@
     "Texts": {
       "Eng": "Weapon Title",
       "Por": "Título da Arma"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/classeslayout/children/wizardtitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Wizard",
-      "Por": "Feiticeiro"
     }
   },
   {

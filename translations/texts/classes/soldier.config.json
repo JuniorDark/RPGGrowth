@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10% Chance to Stun monsters on hit. Stun Length depends on damage dealt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10% Power when Energy is full.\nCancelled when Energy drops below 75%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/classic/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-10% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/classic/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-20% Status Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/weaponBonuses/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "110% Base Power with Sniper Rifles, Assault Rifles, and Shotguns."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/weaponBonuses/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Base Power while using One-Handed Guns in combination with Grenades."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/techs/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "An upgrade to Double Jump, press [Space] to dash. You can dash in all cardinal directions, as well as change direction mid-dash. Dash Duration scales with Agility. You can dash twice in mid-air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can equip the Broken Protectorate Broadsword."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cannot use Melee Weapons.\nCannot use Magic Weapons.\nCannot Dual-Wield.\nCannot use Erchius Eye."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/techs/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [F] to eat an MRE (Meal Ready to Eat), gaining a bit of food and all your energy. There is a cooldown of 90 seconds before you can do this again. While the cooldown is active, you gain slight health regen, but your overall speed is decreased."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/techs/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [F] to switch to a slow-moving Spike Sphere. Left click to shoot a missile using some energy. Hold right click to drain your energy in order to shield yourself from damage.\nCreated by SushiSquid!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/techs/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [G] (Bind [G] in your Controls) to gain extra weapon damage with ranged weapons and decreased energy regen block time: however, speed and resistance are decreased. You can end the effect by pressing [G] again. The cooldown shortens if so."
+    }
+  }
+]

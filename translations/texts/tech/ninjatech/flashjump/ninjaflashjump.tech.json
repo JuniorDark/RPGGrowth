@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tech/ninjatech/flashjump/ninjaflashjump.tech": [
-        "/shortDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Flash Jump",
-      "Por": "Pulo Flash"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tech/ninjatech/flashjump/ninjaflashjump.tech": [
         "/description"
       ]
     },

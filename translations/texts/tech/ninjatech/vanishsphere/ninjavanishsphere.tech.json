@@ -10,17 +10,5 @@
       "Eng": "Transformation Cost: 25e. Active Cost: 50eps.",
       "Por": "Custo de Transformação: 25e. Custo de Ativação: 50eps."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tech/ninjatech/vanishsphere/ninjavanishsphere.tech": [
-        "/shortDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Vanish Sphere",
-      "Por": "Esfera Desaparecedora"
-    }
   }
 ]

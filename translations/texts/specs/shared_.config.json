@@ -3,7 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/paladin.config": [
-        "/text/title"
+        "/title"
       ],
       "specs/samurai.config": [
         "/text/title"

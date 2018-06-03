@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/shock.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10% chance to Overload enemies when dealing damage. Overloaded enemies have -25% Speed and chain electrifying lightning to nearby enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/shock.config": [
+        "/weakness/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-30% Health while submerged"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/shock.config": [
+        "/immunity/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electric Status"
+    }
+  }
+]

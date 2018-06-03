@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tech/soldiertech/soldiertanksphere/soldiertanksphere.tech": [
-        "/shortDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tank Sphere",
-      "Por": "Esfera Tanque"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tech/soldiertech/soldiertanksphere/soldiertanksphere.tech": [
         "/description"
       ]
     },

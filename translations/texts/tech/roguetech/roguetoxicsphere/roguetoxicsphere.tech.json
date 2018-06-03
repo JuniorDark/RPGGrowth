@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tech/roguetech/roguetoxicsphere/roguetoxicsphere.tech": [
-        "/shortDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Toxic Sphere",
-      "Por": "Esfera Tóxica"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tech/roguetech/roguetoxicsphere/roguetoxicsphere.tech": [
         "/description"
       ]
     },

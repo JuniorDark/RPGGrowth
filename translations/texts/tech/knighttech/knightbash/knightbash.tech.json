@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tech/knighttech/knightbash/knightbash.tech": [
-        "/shortDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Bash",
-      "Por": "Esmagar"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tech/knighttech/knightbash/knightbash.tech": [
         "/description"
       ]
     },

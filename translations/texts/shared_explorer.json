@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/explorer.config": [
+        "/techs/2/title"
+      ],
+      "tech/explorertech/explorerdrillsphere/explorerdrillsphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drill Sphere",
+      "Por": "Esfera Broca"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/explorer.config": [
+        "/techs/1/title"
+      ],
+      "tech/explorertech/explorerenhancedmovement/explorerenhancedmovement.tech": [
+        "/shortDescription"
+      ],
+      "tech/explorertech/explorerenhancedmovement/explorermovementdash.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enhanced Dash",
+      "Por": "Arrancada Melhorada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/explorer.config": [
+        "/techs/0/title"
+      ],
+      "tech/explorertech/explorerglide/explorerglide.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glide",
+      "Por": "Planar"
+    }
+  }
+]

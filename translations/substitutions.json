@@ -1,17 +1,152 @@
 {
+  "affinities/arc.config": {
+    "/immunity/1/text": "texts/wide_spread_fields.json",
+    "/weakness/0/text": "texts/affinities/shared_.config.json",
+    "/weakness/2/text": "texts/affinities/shared_.config.json"
+  },
+  "affinities/cryo.config": {
+    "/immunity/1/text": "texts/affinities/shared_.config.json",
+    "/weakness/0/text": "texts/affinities/shared_.config.json",
+    "/weakness/1/text": "texts/affinities/shared_.config.json",
+    "/weakness/2/text": "texts/affinities/shared_.config.json"
+  },
+  "affinities/default.config": {
+    "/title": "texts/wide_spread_fields.json"
+  },
+  "affinities/flame.config": {
+    "/title": "texts/wide_spread_fields.json",
+    "/weakness/0/text": "texts/affinities/shared_.config.json",
+    "/weakness/1/text": "texts/affinities/shared_.config.json",
+    "/weakness/2/text": "texts/affinities/shared_.config.json"
+  },
+  "affinities/frost.config": {
+    "/immunity/1/text": "texts/affinities/shared_.config.json",
+    "/title": "texts/wide_spread_fields.json",
+    "/weakness/0/text": "texts/affinities/shared_.config.json",
+    "/weakness/1/text": "texts/affinities/shared_.config.json",
+    "/weakness/2/text": "texts/affinities/shared_.config.json"
+  },
+  "affinities/infernal.config": {
+    "/weakness/0/text": "texts/affinities/shared_.config.json",
+    "/weakness/1/text": "texts/affinities/shared_.config.json",
+    "/weakness/2/text": "texts/affinities/shared_.config.json"
+  },
+  "affinities/shock.config": {
+    "/immunity/0/text": "texts/wide_spread_fields.json",
+    "/title": "texts/wide_spread_fields.json",
+    "/weakness/0/text": "texts/affinities/shared_.config.json",
+    "/weakness/2/text": "texts/affinities/shared_.config.json"
+  },
+  "classes/classDescriptions.config": {
+    "/default/text": "texts/wide_spread_fields.json"
+  },
+  "classes/default.config": {
+    "/title": "texts/wide_spread_fields.json"
+  },
+  "classes/explorer.config": {
+    "/scaling/0/text": "texts/wide_spread_fields.json",
+    "/scaling/1/text": "texts/wide_spread_fields.json",
+    "/scaling/2/text": "texts/wide_spread_fields.json",
+    "/scaling/3/text": "texts/wide_spread_fields.json",
+    "/techs/0/title": "texts/shared_explorer.json",
+    "/techs/1/title": "texts/shared_explorer.json",
+    "/techs/2/title": "texts/shared_explorer.json",
+    "/title": "texts/wide_spread_fields.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
+  },
+  "classes/knight.config": {
+    "/scaling/0/text": "texts/wide_spread_fields.json",
+    "/scaling/1/text": "texts/wide_spread_fields.json",
+    "/scaling/2/text": "texts/wide_spread_fields.json",
+    "/techs/0/title": "texts/shared_knight.json",
+    "/techs/1/title": "texts/shared_knight.json",
+    "/techs/2/title": "texts/shared_knight.json",
+    "/techs/3/title": "texts/shared_knight.json",
+    "/title": "texts/wide_spread_fields.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
+  },
+  "classes/ninja.config": {
+    "/scaling/0/text": "texts/wide_spread_fields.json",
+    "/scaling/1/text": "texts/wide_spread_fields.json",
+    "/techs/0/title": "texts/shared_ninja.json",
+    "/techs/1/title": "texts/shared_ninja.json",
+    "/techs/2/title": "texts/shared_ninja.json",
+    "/techs/3/title": "texts/shared_ninja.json",
+    "/title": "texts/wide_spread_fields.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
+  },
+  "classes/rogue.config": {
+    "/classic/2/text": "texts/classes/shared_.config.json",
+    "/scaling/0/text": "texts/wide_spread_fields.json",
+    "/scaling/1/text": "texts/wide_spread_fields.json",
+    "/scaling/2/text": "texts/wide_spread_fields.json",
+    "/techs/0/title": "texts/shared_rogue.json",
+    "/techs/1/title": "texts/shared_rogue.json",
+    "/techs/2/title": "texts/shared_rogue.json",
+    "/techs/3/title": "texts/shared_rogue.json",
+    "/title": "texts/wide_spread_fields.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
+  },
+  "classes/soldier.config": {
+    "/scaling/0/text": "texts/wide_spread_fields.json",
+    "/scaling/1/text": "texts/wide_spread_fields.json",
+    "/scaling/2/text": "texts/wide_spread_fields.json",
+    "/scaling/3/text": "texts/wide_spread_fields.json",
+    "/techs/0/title": "texts/shared_soldier.json",
+    "/techs/1/title": "texts/shared_soldier.json",
+    "/techs/2/title": "texts/shared_soldier.json",
+    "/techs/3/title": "texts/shared_soldier.json",
+    "/title": "texts/wide_spread_fields.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
+  },
+  "classes/wizard.config": {
+    "/classic/2/text": "texts/classes/shared_.config.json",
+    "/scaling/0/text": "texts/wide_spread_fields.json",
+    "/scaling/1/text": "texts/wide_spread_fields.json",
+    "/techs/0/title": "texts/shared_wizard.json",
+    "/techs/2/title": "texts/shared_wizard.json",
+    "/techs/3/title": "texts/shared_wizard.json",
+    "/title": "texts/wide_spread_fields.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
+  },
   "interface/RPGskillbook/RPGskillbook.config": {
+    "/gui/affinitieslayout/children/electrictitle/value": "texts/wide_spread_fields.json",
+    "/gui/affinitieslayout/children/firetitle/value": "texts/wide_spread_fields.json",
+    "/gui/affinitieslayout/children/icetitle/value": "texts/wide_spread_fields.json",
+    "/gui/classeslayout/children/classdescription/value": "texts/wide_spread_fields.json",
+    "/gui/classeslayout/children/explorertitle/value": "texts/wide_spread_fields.json",
+    "/gui/classeslayout/children/knighttitle/value": "texts/wide_spread_fields.json",
+    "/gui/classeslayout/children/ninjatitle/value": "texts/wide_spread_fields.json",
+    "/gui/classeslayout/children/roguetitle/value": "texts/wide_spread_fields.json",
+    "/gui/classeslayout/children/soldiertitle/value": "texts/wide_spread_fields.json",
+    "/gui/classeslayout/children/wizardtitle/value": "texts/wide_spread_fields.json",
     "/gui/masterylayout/children/masterypoints/value": "texts/wide_spread_fields.json",
+    "/gui/overviewlayout/children/affinitytitle/value": "texts/wide_spread_fields.json",
+    "/gui/overviewlayout/children/classtitle/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/agilityamount/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/agilitytext/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/dexterityamount/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/dexteritytext/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/enduranceamount/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/endurancetext/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/intelligenceamount/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/intelligencetext/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/statdescription/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/statpointsleft/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/strengthamount/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/strengthtext/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/totalstatsamount/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/vigoramount/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/vigortext/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/vitalityamount/value": "texts/wide_spread_fields.json",
+    "/gui/statslayout/children/vitalitytext/value": "texts/wide_spread_fields.json",
     "/gui/windowtitle/title": "texts/shared_skillbook/shared_RPGskillbook..json"
+  },
+  "items/active/classweapons/explorerdrill/explorerspiradrill.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/active/classweapons/knightsword/knightaegissword.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/active/classweapons/knightsword/knightaegissword3.activeitem": {
     "/description": "texts/items/active/classweapons/knightsword/shared_knightaegissword.json",
@@ -23,20 +158,26 @@
   },
   "items/active/classweapons/ninjashuriken/ninjaaetherdagger.activeitem": {
     "/description": "texts/items/active/classweapons/ninjashuriken/shared_ninjaaether.json",
-    "/shortdescription": "texts/items/active/classweapons/ninjashuriken/shared_ninjaaether.json"
+    "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/active/classweapons/ninjashuriken/ninjaaethershuriken.thrownitem": {
     "/description": "texts/items/active/classweapons/ninjashuriken/shared_ninjaaether.json",
-    "/shortdescription": "texts/items/active/classweapons/ninjashuriken/shared_ninjaaether.json"
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/active/classweapons/rogueclaw/roguesiphonclaw.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/active/classweapons/soldiergun/soldierversa.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/active/classweapons/wizardstaff/novastaffexplosion.weaponability": {
-    "/ability/name": "texts/items/active/classweapons/wizardstaff/shared_novastaff.json"
+    "/ability/name": "texts/wide_spread_fields.json"
   },
   "items/active/classweapons/wizardstaff/novastaffswitch.weaponability": {
     "/ability/name": "texts/items/active/shared_weapons.json"
   },
   "items/active/classweapons/wizardstaff/wizardnovastaff.activeitem": {
-    "/shortdescription": "texts/items/active/classweapons/wizardstaff/shared_novastaff.json"
+    "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/active/specweapons/paladin/ivrpgtrueaegis.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
@@ -240,6 +381,9 @@
     "/upgrades/weapon/ivrpguctriggerhappy/title": "texts/wide_spread_fields.json",
     "/upgrades/weapon/ivrpgucvampirescaress/title": "texts/wide_spread_fields.json"
   },
+  "monsters/ivrpgElementEffects/ivrpgembrittle/ivrpgembrittle.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
+  },
   "objects/mastery/shop/ivrpgmasteryshop.config": {
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json"
   },
@@ -315,9 +459,11 @@
     "/label": "texts/scripts/explorerglow/shared_.statuseffect.json"
   },
   "specs/paladin.config": {
-    "/text/tech/title": "texts/specs.json",
-    "/text/title": "texts/specs/shared_.config.json",
-    "/text/weapon/title": "texts/wide_spread_fields.json"
+    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/effects/1/text": "texts/wide_spread_fields.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/specs/shared_.config.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
   },
   "specs/samurai.config": {
     "/text/tech/title": "texts/specs.json",
@@ -330,11 +476,27 @@
   "specs/techs/paladin/immaculateshieldstatus.statuseffect": {
     "/label": "texts/specs.json"
   },
+  "stats.config": {
+    "/default/0/text": "texts/wide_spread_fields.json"
+  },
+  "tech/explorertech/explorerdrillsphere/explorerdrillsphere.tech": {
+    "/shortDescription": "texts/shared_explorer.json"
+  },
   "tech/explorertech/explorerenhancedjump/explorerenhancedjump.tech": {
     "/description": "texts/tech/explorertech/shared_explorer/shared_explorer.json"
   },
+  "tech/explorertech/explorerenhancedmovement/explorerenhancedmovement.tech": {
+    "/shortDescription": "texts/shared_explorer.json"
+  },
+  "tech/explorertech/explorerenhancedmovement/explorermovementdash.statuseffect": {
+    "/label": "texts/shared_explorer.json"
+  },
   "tech/explorertech/explorerglide/explorerglide.tech": {
-    "/description": "texts/tech/explorertech/shared_explorer/shared_explorer.json"
+    "/description": "texts/tech/explorertech/shared_explorer/shared_explorer.json",
+    "/shortDescription": "texts/shared_explorer.json"
+  },
+  "tech/knighttech/knightarmorsphere/knightarmorsphere.tech": {
+    "/shortDescription": "texts/shared_knight.json"
   },
   "tech/knighttech/knightarmorsphere/knightspikes.statuseffect": {
     "/label": "texts/tech/knighttech/shared_knight/shared_.statuseffect.json"
@@ -342,20 +504,46 @@
   "tech/knighttech/knightarmorsphere/stun/knightarmorspherecontact.statuseffect": {
     "/label": "texts/shared_stun.json"
   },
+  "tech/knighttech/knightbash/knightbash.tech": {
+    "/shortDescription": "texts/shared_knight.json"
+  },
   "tech/knighttech/knightbash/knightbashattack.statuseffect": {
     "/label": "texts/tech/knighttech/shared_knight/shared_.statuseffect.json"
+  },
+  "tech/knighttech/knightcharge!/knightcharge!.tech": {
+    "/shortDescription": "texts/shared_knight.json"
   },
   "tech/knighttech/knightcharge!/knightchargeattack.statuseffect": {
     "/label": "texts/tech/knighttech/shared_knight/shared_.statuseffect.json"
   },
+  "tech/knighttech/knightslam/knightslam.tech": {
+    "/shortDescription": "texts/shared_knight.json"
+  },
+  "tech/ninjatech/flashjump/ninjaflashjump.tech": {
+    "/shortDescription": "texts/shared_ninja.json"
+  },
+  "tech/ninjatech/ninjaassassinate/ninjaassassinate.tech": {
+    "/shortDescription": "texts/shared_ninja.json"
+  },
+  "tech/ninjatech/ninjawallcling/ninjawallcling.tech": {
+    "/shortDescription": "texts/shared_ninja.json"
+  },
   "tech/ninjatech/vanishsphere/ghost/ninjavanishsphereghost.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
   },
+  "tech/ninjatech/vanishsphere/ninjavanishsphere.tech": {
+    "/shortDescription": "texts/shared_ninja.json"
+  },
   "tech/roguetech/roguedeadlystance/roguedeadlystance.tech": {
-    "/description": "texts/tech/roguetech/shared_rogue/shared_rogue.json"
+    "/description": "texts/tech/roguetech/shared_rogue/shared_rogue.json",
+    "/shortDescription": "texts/shared_rogue.json"
+  },
+  "tech/roguetech/rogueescape/rogueescape.tech": {
+    "/shortDescription": "texts/shared_rogue.json"
   },
   "tech/roguetech/roguetoxicaura/roguetoxicaura.tech": {
-    "/description": "texts/tech/roguetech/shared_rogue/shared_rogue.json"
+    "/description": "texts/tech/roguetech/shared_rogue/shared_rogue.json",
+    "/shortDescription": "texts/shared_rogue.json"
   },
   "tech/roguetech/roguetoxiccapsule/roguecapsule.statuseffect": {
     "/label": "texts/tech/roguetech/roguetoxiccapsule/shared_capsule..json"
@@ -363,10 +551,31 @@
   "tech/roguetech/roguetoxiccapsule/roguetoxiccapsule.tech": {
     "/shortDescription": "texts/tech/roguetech/roguetoxiccapsule/shared_capsule..json"
   },
+  "tech/roguetech/roguetoxicsphere/roguetoxicsphere.tech": {
+    "/shortDescription": "texts/shared_rogue.json"
+  },
+  "tech/soldiertech/soldierenergypack/soldierenergypack.tech": {
+    "/shortDescription": "texts/shared_soldier.json"
+  },
+  "tech/soldiertech/soldiermarksman/soldiermarksman.tech": {
+    "/shortDescription": "texts/shared_soldier.json"
+  },
+  "tech/soldiertech/soldiermre/soldiermre.tech": {
+    "/shortDescription": "texts/shared_soldier.json"
+  },
+  "tech/soldiertech/soldiertanksphere/soldiertanksphere.tech": {
+    "/shortDescription": "texts/shared_soldier.json"
+  },
+  "tech/wizardtech/wizardgravitysphere/wizardgravitysphere.tech": {
+    "/shortDescription": "texts/shared_wizard.json"
+  },
   "tech/wizardtech/wizardmagicshield/wizardmagicshield.tech": {
-    "/shortDescription": "texts/tech/wizardtech/wizardmagicshield/shared_shield..json"
+    "/shortDescription": "texts/shared_wizard.json"
   },
   "tech/wizardtech/wizardmagicshield/wizardshield.statuseffect": {
-    "/label": "texts/tech/wizardtech/wizardmagicshield/shared_shield..json"
+    "/label": "texts/shared_wizard.json"
+  },
+  "tech/wizardtech/wizardtranslocate/wizardtranslocate.tech": {
+    "/shortDescription": "texts/shared_wizard.json"
   }
 }

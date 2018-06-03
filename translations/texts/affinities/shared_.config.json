@@ -1,0 +1,128 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/weakness/2/text"
+      ],
+      "affinities/shock.config": [
+        "/weakness/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-1 E/s while submerged"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/flame.config": [
+        "/weakness/2/text"
+      ],
+      "affinities/infernal.config": [
+        "/weakness/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-1 HP/s while submerged"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/cryo.config": [
+        "/weakness/2/text"
+      ],
+      "affinities/frost.config": [
+        "/weakness/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-15% Jump"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/cryo.config": [
+        "/weakness/1/text"
+      ],
+      "affinities/frost.config": [
+        "/weakness/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-15% Speed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/cryo.config": [
+        "/weakness/0/text"
+      ],
+      "affinities/frost.config": [
+        "/weakness/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-25% Fire Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/weakness/0/text"
+      ],
+      "affinities/shock.config": [
+        "/weakness/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-25% Ice Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/flame.config": [
+        "/weakness/0/text"
+      ],
+      "affinities/infernal.config": [
+        "/weakness/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-25% Poison Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/flame.config": [
+        "/weakness/1/text"
+      ],
+      "affinities/infernal.config": [
+        "/weakness/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-30% Energy while submerged"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/cryo.config": [
+        "/immunity/1/text"
+      ],
+      "affinities/frost.config": [
+        "/immunity/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wet"
+    }
+  }
+]

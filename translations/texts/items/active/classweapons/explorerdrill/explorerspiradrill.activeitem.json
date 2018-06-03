@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/explorerdrill/explorerspiradrill.activeitem": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Spira",
-      "Por": "Spira"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/active/classweapons/explorerdrill/explorerspiradrill.activeitem": [
         "/description"
       ]
     },

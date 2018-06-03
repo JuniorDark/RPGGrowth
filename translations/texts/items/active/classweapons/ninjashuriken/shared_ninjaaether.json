@@ -3,21 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/ninjashuriken/ninjaaetherdagger.activeitem": [
-        "/shortdescription"
-      ],
-      "items/active/classweapons/ninjashuriken/ninjaaethershuriken.thrownitem": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Aether",
-      "Por": "Aether"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/active/classweapons/ninjashuriken/ninjaaetherdagger.activeitem": [
         "/description"
       ],
       "items/active/classweapons/ninjashuriken/ninjaaethershuriken.thrownitem": [

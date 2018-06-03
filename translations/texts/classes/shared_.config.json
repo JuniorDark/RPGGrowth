@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/classic/2/text"
+      ],
+      "classes/wizard.config": [
+        "/classic/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can equip Hunting Bows and the\nBroken Protectorate Broadsword."
+    }
+  }
+]

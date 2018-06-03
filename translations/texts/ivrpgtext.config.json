@@ -261,8 +261,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Frost & Cryo Affinity Upgrade. ^red;Females Only.^reset;\nDeal +75% Damage with Whips, Claws, and Daggers.\nNo Speed decrease while wielding Whips.",
-      "Por": "Melhoria para a Afinidade Gelo & Crio. ^red;Apenas para Personagens Femininos.^reset;\nCausa + 75% de dano com Chicotes, Garras e Adagas.\nSem diminuição na Velocidade ao usar Chicotes."
+      "Eng": "Frost & Cryo Affinity Upgrade. ^red;Females Only.^reset;\nDeal +75% Damage with Whips, Claws, and Daggers.\nNo Affinity Speed decrease while wielding Whips."
     }
   },
   {

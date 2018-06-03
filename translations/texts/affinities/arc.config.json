@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+30% chance to Overload enemies when dealing damage. Overloaded enemies have -25% Speed and chain electrifying lightning to nearby enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/weakness/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "70% Max Health while submerged"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arc"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/immunity/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electric Damage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/immunity/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radiation"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/immunity/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow (FU)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/passive/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Upon expending all Energy, release an Electric explosion that deals massive damage and causes Overload."
+    }
+  }
+]

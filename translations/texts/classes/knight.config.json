@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+20% Knockback Resistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/classic/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-10% Speed\n-30% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/classic/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-25% Max Energy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/weaponBonuses/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Base Power while using a Shield with a Shortsword, Mace, or Axe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/weaponBonuses/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Base Power with Broadswords and Greataxes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/techs/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "An upgrade to Bash. While sprinting, the player receives physical resistance. While damage remains the same, enemies are stunned on hit. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/techs/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "An upgrade to Double Jump, press [G] (Bind [G] in your Controls) while midair to slam downwards. You take no fall damage upon landing, and cause a small explosion, damaging enemies. Damage scales with Strength and distance fallen from activation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/techs/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "An upgrade to Spike Sphere, while transformed, ignore knockback and deal contact damage to enemies. Armor is also increased while transformed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/techs/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "An upgrade to Sprint, while running, enemies receive damage and knockback. Damage is doubled when holding up a shield. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can equip Hunting Bows."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect Shields increase Damage by +20% for a short period."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Cannot equip Magic or Ranged Weapons.\nCannot Dual-Wield Weapons."
+    }
+  }
+]
