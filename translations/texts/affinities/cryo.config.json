@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+30% chance to Embrittle enemies when dealing damage. Embrittled enemies have -25% Physical Resistance and shatter when killed. This Ice Explosion deals Cold Damage and Frost Slows enemies."
+      "Eng": "+30% chance to Embrittle enemies when dealing damage. Embrittled enemies have -25% Physical Resistance and shatter when killed. This Ice Explosion deals Cold Damage and Frost Slows enemies.",
+      "Por": "+30% de chance de Fragilizar inimigos ao causar dano. Os inimigos Fragilizados têm -25% de Resistência Física e se despedaçam quando são mortos. Esta Explosão de Gelo causa Dano de Gelo e deixa inimigos Lentos.\n"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cryo"
+      "Eng": "Cryo",
+      "Por": "Crio"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Extreme Cold (FU)"
+      "Eng": "Extreme Cold (FU)",
+      "Por": "Frio Extremo (FU)"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ice Damage"
+      "Eng": "Ice Damage",
+      "Por": "Dano de Gelo"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Suffocation"
+      "Eng": "Suffocation",
+      "Por": "Asfixia"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^blue;When your Health falls below one third, nearby enemies are knocked back and slowed."
+      "Eng": "^blue;When your Health falls below one third, nearby enemies are knocked back and slowed.",
+      "Por": "^blue;Quando sua Vida cai abaixo de um terço, os inimigos próximos são empurrados para traz e desacelerados."
     }
   }
 ]

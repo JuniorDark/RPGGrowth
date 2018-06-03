@@ -4,7 +4,7 @@
     "affinities": {
       "affinityDescriptions.config.json": 5,
       "arc.config.json": 7,
-      "cryo.config.json": 0,
+      "cryo.config.json": 6,
       "flame.config.json": 0,
       "frost.config.json": 0,
       "infernal.config.json": 0,
