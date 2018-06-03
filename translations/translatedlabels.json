@@ -12,7 +12,7 @@
       "shock.config.json": 3
     },
     "classes": {
-      "classDescriptions.config.json": 0,
+      "classDescriptions.config.json": 6,
       "default.config.json": 0,
       "explorer.config.json": 0,
       "knight.config.json": 0,

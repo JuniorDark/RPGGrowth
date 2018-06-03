@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Explorer: Evasive Utility. Does better with Tools, like Pickaxes, Flashlights, or the Matter Manipulator. The Explorer's skills mostly improve movement and mining. The Explorer glows while Health is greater than half, and is slightly more Resistant to Physical Damage."
+      "Eng": "The Explorer: Evasive Utility. Does better with Tools, like Pickaxes, Flashlights, or the Matter Manipulator. The Explorer's skills mostly improve movement and mining. The Explorer glows while Health is greater than half, and is slightly more Resistant to Physical Damage.",
+      "Por": "O Explorador: Utilitário Evasivo. É melhor com Ferramentas, como Picaretas, Lanternas ou o Manipulador de Matéria. As habilidades do Explorador principalmente melhoram movimento e mineração. O Explorador brilha enquanto a Vida é maior que a metade e é um pouco mais resistente a Dano Físico.\n"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Knight: Melee Tank. Does better with Two-Handed Melee Weapons, but still does great with Sword and Shield. The Knight's skills mostly improve defensive capabilities, though all have offensive measures as well. The Knight can heal via Perfect Shielding, and has higher Knockback Resistance."
+      "Eng": "The Knight: Melee Tank. Does better with Two-Handed Melee Weapons, but still does great with Sword and Shield. The Knight's skills mostly improve defensive capabilities, though all have offensive measures as well. The Knight can heal via Perfect Shielding, and has higher Knockback Resistance.",
+      "Por": "O Cavaleiro: Tanque Corpo-a-corpo. É melhor com Armas Corpo-a-corpo de Duas Mãos, mas ainda é excelente com Espada e Escudo. As habilidades do Cavaleiro melhoram principalmente as capacidades defensivas, embora todas tenham medidas ofensivas também. O Cavaleiro pode curar através do Bloqueio Perfeito, e tem alta Resistência a Knockback.\n"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Ninja: Mixed-Range, Evasive DPS. Does better with Shurikens, but still does great with One-Handed (Non-Ranged) Weapons. The Ninja's skills mostly improve movement and evasion. The Ninja has an easier time getting Critical Hits, and can easily avoid Fall Damage."
+      "Eng": "The Ninja: Mixed-Range, Evasive DPS. Does better with Shurikens, but still does great with One-Handed (Non-Ranged) Weapons. The Ninja's skills mostly improve movement and evasion. The Ninja has an easier time getting Critical Hits, and can easily avoid Fall Damage.",
+      "Por": "O Ninja: Longo Alcance-Misto, DPS Evasivo. É melhor com Shurikens, mas ainda é ótimo com Armas de Uma Mão (que não seja de Ataque à Distância). As habilidades do Ninja principalmente melhoram o movimento e evasão. O Ninja tem mais facilidade de obter golpes críticos, e pode facilmente evitar Dano de Queda.\n"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Rogue: Mixed-Range CC. Does better with One-Handed Weapons. The Rogue's skills mostly improve offensive capabilities, though also increase Physical, Poison, and Knockback Resistance. The Rogue can randomly Poison enemies, and is more Resistant to Poison while Food is near full."
+      "Eng": "The Rogue: Mixed-Range CC. Does better with One-Handed Weapons. The Rogue's skills mostly improve offensive capabilities, though also increase Physical, Poison, and Knockback Resistance. The Rogue can randomly Poison enemies, and is more Resistant to Poison while Food is near full.",
+      "Por": "O Ladino: Longo Alcance-Misto de Controle Coletivo (CC). É melhor com Armas de Uma Mão. As habilidades do Ladino principalmente melhoram as capacidades ofensivas, mas também aumentam a Resistência Física, Venenosa e Knockback. O Ladino pode aleatoriamente Envenenar os inimigos e é mais resistente a Veneno enquanto a Barra de Comida está quase cheia.\n "
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Soldier: Ranged Tank. Does better with Two-Handed Ranged Weapons, but can still utilize One-Handed Ranged Weapons fairly well. The Soldier's skills mostly improve utility and defense. The Soldier does more damage while at full Energy, and can randomly stun enemies while hitting them."
+      "Eng": "The Soldier: Ranged Tank. Does better with Two-Handed Ranged Weapons, but can still utilize One-Handed Ranged Weapons fairly well. The Soldier's skills mostly improve utility and defense. The Soldier does more damage while at full Energy, and can randomly stun enemies while hitting them.",
+      "Por": "O Soldado: Tanque de Longo Alcance. É melhor com Armas de Longo Alcance de Duas Mãos , mas ainda pode utilizar Armas de Longo Alcance de Uma Mão razoavelmente bem. As habilidades do Soldado principalmente melhoram a utilidade e defesa. O soldado da mais dano enquanto está com a Energia cheia, e pode atordoar aleatoriamente inimigos ao bater neles.\n"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Wizard: Ranged Utility. Does better with Staffs and Wands. The Wizard's skills mostly improve utility and movement. The Wizard can randomly apply Elemental Status (Fire, Ice, Lightning) to enemies while hitting them, and fares better against the Elements while holding Wands or Staffs."
+      "Eng": "The Wizard: Ranged Utility. Does better with Staffs and Wands. The Wizard's skills mostly improve utility and movement. The Wizard can randomly apply Elemental Status (Fire, Ice, Lightning) to enemies while hitting them, and fares better against the Elements while holding Wands or Staffs.",
+      "Por": "O Feiticeiro: Utilitário Longo Alcance. É melhor com Cajados e Varinhas. As habilidades do Feiticeiro principalmente melhoram a utilidade e movimento. O Feiticeiro pode aplicar aleatoriamente Status Elementais (Fogo, Gelo, Raio) aos inimigos ao bater neles, e se da melhor contra os Elementos, enquanto usando Varinhas ou Cajados.\n"
     }
   }
 ]
