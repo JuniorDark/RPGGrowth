@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10% chance to Embrittle enemies when dealing damage. Embrittled enemies have -25% Physical Resistance and shatter when killed. This Ice Explosion deals Cold Damage and Frost Slows enemies."
+      "Eng": "+10% chance to Embrittle enemies when dealing damage. Embrittled enemies have -25% Physical Resistance and shatter when killed. This Ice Explosion deals Cold Damage and Frost Slows enemies.",
+      "Por": "+10% de chance de Fragilizar inimigos ao causar dano. Inimigos Fragilizados têm -25% de Resistência Física e se despedaçam quando são mortos. Esta Explosão de Gelo causa Dano de Gelo e deixa inimigos Lentos.\n"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cold"
+      "Eng": "Cold",
+      "Por": "Frio"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ice Status"
+      "Eng": "Ice Status",
+      "Por": "Status de Gelo"
     }
   }
 ]
