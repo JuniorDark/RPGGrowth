@@ -1,22 +1,43 @@
 {
   "texts": {
     "_metadata.json": 2,
+    "affinities": {
+      "affinityDescriptions.config.json": 0,
+      "arc.config.json": 0,
+      "cryo.config.json": 0,
+      "flame.config.json": 0,
+      "frost.config.json": 0,
+      "infernal.config.json": 0,
+      "shared_.config.json": 0,
+      "shock.config.json": 0
+    },
+    "classes": {
+      "classDescriptions.config.json": 0,
+      "default.config.json": 0,
+      "explorer.config.json": 0,
+      "knight.config.json": 0,
+      "ninja.config.json": 0,
+      "rogue.config.json": 0,
+      "shared_.config.json": 0,
+      "soldier.config.json": 0,
+      "wizard.config.json": 0
+    },
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 107
+        "RPGskillbook.config.json": 86
       }
     },
     "items": {
       "active": {
         "classweapons": {
           "explorerdrill": {
-            "explorerspiradrill.activeitem.json": 2,
+            "explorerspiradrill.activeitem.json": 1,
             "explorerspiradrill2.activeitem.json": 2,
             "explorerspiradrill3.activeitem.json": 2
           },
           "knightsword": {
             "aegisswordcombo.weaponability.json": 1,
-            "knightaegissword.activeitem.json": 2,
+            "knightaegissword.activeitem.json": 1,
             "knightaegissword2.activeitem.json": 2,
             "parryshield.weaponability.json": 1,
             "shared_knightaegissword.json": 2
@@ -24,10 +45,10 @@
           "ninjashuriken": {
             "ninjaaethershuriken2.thrownitem.json": 2,
             "ninjaaethershuriken3.thrownitem.json": 2,
-            "shared_ninjaaether.json": 2
+            "shared_ninjaaether.json": 1
           },
           "rogueclaw": {
-            "roguesiphonclaw.activeitem.json": 2,
+            "roguesiphonclaw.activeitem.json": 1,
             "roguesiphonclaw2s.activeitem.json": 2,
             "roguesiphonclaw2v.activeitem.json": 2,
             "roguesiphonclaw3e.activeitem.json": 2,
@@ -35,13 +56,12 @@
             "roguesiphonclaw3v.activeitem.json": 2
           },
           "soldiergun": {
-            "soldierversa.activeitem.json": 2,
+            "soldierversa.activeitem.json": 1,
             "soldierversa2.activeitem.json": 2,
             "soldierversa3.activeitem.json": 2,
             "versaarfire.weaponability.json": 1
           },
           "wizardstaff": {
-            "shared_novastaff.json": 1,
             "wizardnovastaff.activeitem.json": 1,
             "wizardnovastaff2.activeitem.json": 2,
             "wizardnovastaff3.activeitem.json": 2
@@ -166,7 +186,7 @@
         "scrolltoxic.activeitem.json": 2,
         "specs": {
           "knight": {
-            "scrollpaladin.activeitem.json": 2
+            "scrollpaladin.activeitem.json": 1
           }
         }
       },
@@ -241,12 +261,9 @@
         }
       }
     },
-    "ivrpgtext.config.json": 58,
+    "ivrpgtext.config.json": 57,
     "monsters": {
       "ivrpgElementEffects": {
-        "ivrpgembrittle": {
-          "ivrpgembrittle.statuseffect.json": 1
-        },
         "ivrpgoverload": {
           "ivrpgoverload.statuseffect.json": 1
         },
@@ -367,17 +384,23 @@
         "wizardaffinity.statuseffect.json": 1
       }
     },
+    "shared_explorer.json": 3,
+    "shared_knight.json": 4,
+    "shared_ninja.json": 4,
+    "shared_rogue.json": 4,
     "shared_skillbook": {
       "shared_RPGskillbook..json": 1
     },
+    "shared_soldier.json": 4,
     "shared_stun.json": 1,
+    "shared_wizard.json": 3,
     "specs": {
       "abilities": {
         "paladin": {
           "perfectbarrier.statuseffect.json": 1
         }
       },
-      "paladin.config.json": 1,
+      "paladin.config.json": 0,
       "samurai.config.json": 2,
       "shared_.config.json": 1,
       "techs": {
@@ -387,24 +410,21 @@
       }
     },
     "specs.json": 1,
+    "stats.config.json": 0,
     "tech": {
       "explorertech": {
         "explorerdrill": {
           "explorerdrill.tech.json": 2
         },
         "explorerdrillsphere": {
-          "explorerdrillsphere.tech.json": 2
+          "explorerdrillsphere.tech.json": 1
         },
         "explorerenhancedjump": {
-          "explorerenhancedjump.tech.json": 1
+          "explorerenhancedjump.tech.json": 0
         },
         "explorerenhancedmovement": {
-          "explorerenhancedmovement.tech.json": 2,
-          "explorermovementdash.statuseffect.json": 1,
+          "explorerenhancedmovement.tech.json": 1,
           "explorermovementsprint.statuseffect.json": 1
-        },
-        "explorerglide": {
-          "explorerglide.tech.json": 1
         },
         "shared_explorer": {
           "shared_explorer.json": 1
@@ -419,16 +439,16 @@
           "contact": {
             "knightarmorspherecontact.statuseffect.json": 1
           },
-          "knightarmorsphere.tech.json": 2
+          "knightarmorsphere.tech.json": 1
         },
         "knightbash": {
-          "knightbash.tech.json": 2
+          "knightbash.tech.json": 1
         },
         "knightcharge!": {
-          "knightcharge!.tech.json": 2
+          "knightcharge!.tech.json": 1
         },
         "knightslam": {
-          "knightslam.tech.json": 2,
+          "knightslam.tech.json": 1,
           "nofalldamageks.statuseffect.json": 1
         },
         "shared_knight": {
@@ -437,18 +457,18 @@
       },
       "ninjatech": {
         "flashjump": {
-          "ninjaflashjump.tech.json": 2
+          "ninjaflashjump.tech.json": 1
         },
         "ninjaassassinate": {
-          "ninjaassassinate.tech.json": 2,
+          "ninjaassassinate.tech.json": 1,
           "ninjaassassinatecooldown.statuseffect.json": 1
         },
         "ninjawallcling": {
-          "ninjawallcling.tech.json": 2
+          "ninjawallcling.tech.json": 1
         },
         "vanishsphere": {
           "camouflageninja.statuseffect.json": 1,
-          "ninjavanishsphere.tech.json": 2
+          "ninjavanishsphere.tech.json": 1
         }
       },
       "roguetech": {
@@ -456,17 +476,13 @@
           "cloudjump.tech.json": 2,
           "roguecloudjumpcooldown.statuseffect.json": 1
         },
-        "roguedeadlystance": {
-          "roguedeadlystance.tech.json": 1
-        },
         "rogueescape": {
-          "rogueescape.tech.json": 2
+          "rogueescape.tech.json": 1
         },
         "roguepoisondash": {
           "roguepoisondash.tech.json": 2
         },
         "roguetoxicaura": {
-          "roguetoxicaura.tech.json": 1,
           "roguetoxicauracooldown.statuseffect.json": 1,
           "rogueweaken.statuseffect.json": 1,
           "rtoxicaura.statuseffect.json": 1
@@ -480,7 +496,7 @@
           "hunger": {
             "roguetoxicsphereconsume.statuseffect.json": 1
           },
-          "roguetoxicsphere.tech.json": 2
+          "roguetoxicsphere.tech.json": 1
         },
         "shared_rogue": {
           "shared_rogue.json": 1
@@ -488,12 +504,12 @@
       },
       "soldiertech": {
         "soldierenergypack": {
-          "soldierenergypack.tech.json": 2,
+          "soldierenergypack.tech.json": 1,
           "soldierenergypackcooldown.statuseffect.json": 1
         },
         "soldiermarksman": {
           "soldierfocus.statuseffect.json": 1,
-          "soldiermarksman.tech.json": 2,
+          "soldiermarksman.tech.json": 1,
           "soldiermarksmancooldown.statuseffect.json": 1
         },
         "soldiermissilestrike": {
@@ -502,33 +518,32 @@
         },
         "soldiermre": {
           "soldiermre.statuseffect.json": 1,
-          "soldiermre.tech.json": 2
+          "soldiermre.tech.json": 1
         },
         "soldiertanksphere": {
           "shield": {
             "soldiertanksphereimmune.statuseffect.json": 1
           },
-          "soldiertanksphere.tech.json": 2
+          "soldiertanksphere.tech.json": 1
         }
       },
       "wizardtech": {
         "wizardgravitysphere": {
-          "wizardgravitysphere.tech.json": 2,
+          "wizardgravitysphere.tech.json": 1,
           "wizardlowgrav.statuseffect.json": 1
         },
         "wizardhover": {
           "wizardhover.tech.json": 2
         },
         "wizardmagicshield": {
-          "shared_shield..json": 1,
           "wizardmagicshield.tech.json": 1,
           "wizardmagicshieldcooldown.statuseffect.json": 1
         },
         "wizardtranslocate": {
-          "wizardtranslocate.tech.json": 2
+          "wizardtranslocate.tech.json": 1
         }
       }
     },
-    "wide_spread_fields.json": 37
+    "wide_spread_fields.json": 63
   }
 }
