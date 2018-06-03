@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+20% Knockback Resistance."
+      "Eng": "+20% Knockback Resistance.",
+      "Por": "+20% Resistência a Knockback."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-10% Speed\n-30% Jump Height"
+      "Eng": "-10% Speed\n-30% Jump Height",
+      "Por": "-10% Velocidade\n-30% Altura no Pulo"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-25% Max Energy"
+      "Eng": "-25% Max Energy",
+      "Por": "-25% Energia Máxima"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Base Power while using a Shield with a Shortsword, Mace, or Axe."
+      "Eng": "120% Base Power while using a Shield with a Shortsword, Mace, or Axe.",
+      "Por": "20% Poder Base enquanto estiver usando um Escudo com um Espada Curta, Maça ou Machado."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Base Power with Broadswords and Greataxes."
+      "Eng": "120% Base Power with Broadswords and Greataxes.",
+      "Por": "120% Poder Base com Espadas Largas e Machados Grandes."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Bash. While sprinting, the player receives physical resistance. While damage remains the same, enemies are stunned on hit. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility."
+      "Eng": "An upgrade to Bash. While sprinting, the player receives physical resistance. While damage remains the same, enemies are stunned on hit. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility.",
+      "Por": "Uma melhoria para o Esmagar. Enquanto corre, o jogador recebe Resistência Física. Enquanto o dano permanece o mesmo, inimigos são atordoados ao acertar. O Dano escala com Força e Velocidade de Corrida. O Custo de Energia diminui com Agilidade alta."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Double Jump, press [G] (Bind [G] in your Controls) while midair to slam downwards. You take no fall damage upon landing, and cause a small explosion, damaging enemies. Damage scales with Strength and distance fallen from activation."
+      "Eng": "An upgrade to Double Jump, press [G] (Bind [G] in your Controls) while midair to slam downwards. You take no fall damage upon landing, and cause a small explosion, damaging enemies. Damage scales with Strength and distance fallen from activation.",
+      "Por": "Uma melhoria para o Pulo Duplo, pressione [G] (Vincule [G] em seus Controles) enquanto no meio do ar para bater para baixo. Você não leva nenhum dano de queda ao pousar, e causa uma pequena explosão, causando dano a inimigos. O Dano escala com Força e distância de queda da ativação."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Spike Sphere, while transformed, ignore knockback and deal contact damage to enemies. Armor is also increased while transformed."
+      "Eng": "An upgrade to Spike Sphere, while transformed, ignore knockback and deal contact damage to enemies. Armor is also increased while transformed.",
+      "Por": "Uma melhoria para a Esfera de Espinhos, enquanto transformado, ignora knockback e causa dano de contato nos inimigos. A Armadura também é aumentada enquanto transformado."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Sprint, while running, enemies receive damage and knockback. Damage is doubled when holding up a shield. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility."
+      "Eng": "An upgrade to Sprint, while running, enemies receive damage and knockback. Damage is doubled when holding up a shield. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility.",
+      "Por": "Uma melhoria para a Corrida, enquanto corre, os inimigos recebem dano e knockback. O dano é duplicado ao segurar um escudo. Dano escala com Força e Velocidade de Corrida. O custo de energia diminui com Agilidade maior."
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can equip Hunting Bows."
+      "Eng": "Can equip Hunting Bows.",
+      "Por": "Pode equipar Arcos de Caça."
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Perfect Shields increase Damage by +20% for a short period."
+      "Eng": "Perfect Shields increase Damage by +20% for a short period.",
+      "Por": "Escudos Perfeitos aumentam o Dano em + 20% por um curto período."
     }
   },
   {
@@ -128,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Cannot equip Magic or Ranged Weapons.\nCannot Dual-Wield Weapons."
+      "Eng": "^red;Cannot equip Magic or Ranged Weapons.\nCannot Dual-Wield Weapons.",
+      "Por": "^red;Não pode equipar Armas Mágicas ou Armas de Longo Alcance.\nNão pode usar Armas Duplas."
     }
   }
 ]
