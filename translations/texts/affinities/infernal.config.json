@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+30% chance to Sear enemies when dealing damage. Seared enemies have -25% Power and are Burned for the duration of Sear."
+      "Eng": "+30% chance to Sear enemies when dealing damage. Seared enemies have -25% Power and are Burned for the duration of Sear.",
+      "Por": "+30% de chance de Cauterizar inimigos ao causar dano. Inimigos Cauterizados têm -25% de Poder e são Queimados durante a duração do Cauterizar.\n"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Extreme Heat (FU)"
+      "Eng": "Extreme Heat (FU)",
+      "Por": "Calor Extremo (FU)"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fire Damage"
+      "Eng": "Fire Damage",
+      "Por": "Dano de Fogo"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Infernal"
+      "Eng": "Infernal",
+      "Por": "Infernal"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lava"
+      "Eng": "Lava",
+      "Por": "Lava"
     }
   }
 ]
