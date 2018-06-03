@@ -307,7 +307,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Starting From 20 Vitality:^reset;\nClassic Mode penalty for Max Health and Food Delta halved.\nSpecialization penalty for Max Health and Food Delta halved."
+      "Eng": "^green;Starting From 20 Vitality:^reset;\nClassic Mode penalty for Max Health and Food Delta halved.\nSpecialization penalty for Max Health and Food Delta halved.",
+      "Por": "^green;Começando de 20 Vitalidade:^reset;\nPenalidade do Modo Clássico para Vida Máxima e Comida Delta reduzido pela metade.\nPenalidade de Especialização para Vida Máxima e Comida Delta reduzido pela metade."
     }
   }
 ]
