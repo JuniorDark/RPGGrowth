@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+20% Chance to Poison monsters on hit."
+      "Eng": "+20% Chance to Poison monsters on hit.",
+      "Por": "+ 20% de Chance de Envenenar monstros ao acertar."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+20% Hunger Rate\n-20% Max Health"
+      "Eng": "+20% Hunger Rate\n-20% Max Health",
+      "Por": "+20% Taxa de Fome\n-20% Vida Máxima"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Base Power while dual-wielding One-Handed Weapons."
+      "Eng": "120% Base Power while dual-wielding One-Handed Weapons.",
+      "Por": "120% de Poder Base enquanto empunhando 2 Armas de Uma Mão."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Double Jump, press [Space] to launch yourself in a direction of your choosing, leaving a cloud of smoke behind that disorients enemies. Disoriented enemies are slowed and do less damage. Defaults to a backwards launch."
+      "Eng": "An upgrade to Double Jump, press [Space] to launch yourself in a direction of your choosing, leaving a cloud of smoke behind that disorients enemies. Disoriented enemies are slowed and do less damage. Defaults to a backwards launch.",
+      "Por": "Uma Melhoria para o Pulo Duplo, pressione [Espaço] para se lançar em uma direção à sua escolha, deixando uma nuvem de fumaça para trás que desorienta inimigos. Inimigos desorientados ficam lentos e causam menos dano. O padrão é um lançamento para trás."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can equip the Energy Whip."
+      "Eng": "Can equip the Energy Whip.",
+      "Por": "Pode equipar o Energy Whip."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cannot use Two-Handed Weapons.\nCannot use Magical Weapons."
+      "Eng": "Cannot use Two-Handed Weapons.\nCannot use Magical Weapons.",
+      "Por": "Não pode usar Armas de Duas Mãos.\nNão pode usar Armas Mágicas."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [F] to transform into a poison-immune Spike Sphere. Left click while transformed to shoot out a ring of poison clouds (Damage scales with Dexterity). Hold Right Click while transformed to decrease your Hunger Bar to regenerate Health and Energy."
+      "Eng": "Press [F] to transform into a poison-immune Spike Sphere. Left click while transformed to shoot out a ring of poison clouds (Damage scales with Dexterity). Hold Right Click while transformed to decrease your Hunger Bar to regenerate Health and Energy.",
+      "Por": "Pressione [F] para se transformar em uma Esfera de Espinhos imune a veneno. Botão esquerdo enquanto transformado para disparar um anel de nuvens de veneno (o Dano escala com Destreza). Mantenha o botão direito do mouse pressionado enquanto transformado para diminuir sua Barra de Fome para regenerar Vida e Energia."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [G] (Bind [G] in your Controls) to toggle a toxic field that inflicts enemies with a weakening poison. These enemies take more poison and bleed damage. Drains energy while active, and is toggled off when no energy remains."
+      "Eng": "Press [G] (Bind [G] in your Controls) to toggle a toxic field that inflicts enemies with a weakening poison. These enemies take more poison and bleed damage. Drains energy while active, and is toggled off when no energy remains.",
+      "Por": "Pressione [G] (Vincule [G] em seus Controles) para ativar um campo tóxico que atinge inimigos com um veneno enfraquecedor. Esses inimigos tomam mais dano de veneno e sangramento. Drena energia enquanto está ativo, e é desativado quando não há energia."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [G] (Bind [G] in your Controls) to toggle an ability that increases Physical and Poison Resistance and grants Knockback Immunity. Drains energy while active, and is toggled off when no energy remains."
+      "Eng": "Press [G] (Bind [G] in your Controls) to toggle an ability that increases Physical and Poison Resistance and grants Knockback Immunity. Drains energy while active, and is toggled off when no energy remains.",
+      "Por": "Pressione [G] (Vincule [G] em seus Controles) para ativar uma habilidade que aumenta o Físico e Resistência a Veneno e concede imunidade a Knockback. Drena energia enquanto está ativo, e é desativado quando não há energia."
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "While your Food Meter is filled at least halfway, gain +20% Poison Resistance."
+      "Eng": "While your Food Meter is filled at least halfway, gain +20% Poison Resistance.",
+      "Por": "Enquanto seu Medidor de Fome estiver cheio pelo menos até a metade, ganhe + 20% de Resistência a Veneno."
     }
   }
 ]
