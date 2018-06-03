@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10% chance to Overload enemies when dealing damage. Overloaded enemies have -25% Speed and chain electrifying lightning to nearby enemies."
+      "Eng": "+10% chance to Overload enemies when dealing damage. Overloaded enemies have -25% Speed and chain electrifying lightning to nearby enemies.",
+      "Por": "10% chance de Sobrecarregar inimigos ao causar dano. Os inimigos Sobrecarregados têm -25% Velocidade e passam um relâmpago eletrizante para inimigos próximos.\n"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-30% Health while submerged"
+      "Eng": "-30% Health while submerged",
+      "Por": "-30% de Vida enquanto submerso"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Electric Status"
+      "Eng": "Electric Status",
+      "Por": "Status Elétrico"
     }
   }
 ]
