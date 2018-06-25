@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/knightsword/knightaegissword3.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The light reflecting off the blade feels welcoming.\n^blue;Attack Combo by Ribs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/knightsword/knightaegissword3.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Vital Aegis"
+    }
+  }
+]

@@ -1,0 +1,376 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adepts are Ninjas who have harnessed chaotic energy, so much so that they have become unstable. Because of this, Adepts can utilize Wands, and can lighten themselves and nearby matter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battle Mage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/0/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cannoneer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/2/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captain"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/4/description",
+        "/1/4/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crusaders are holy fighters."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deadshot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/3/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elementalist"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/3/description",
+        "/5/3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Juggernaut"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/0/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mechanist"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/0/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Necromancers fight via dark magic and through raising the dead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/0/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Paladins are holy shields, blocking attacks from every angle with a sturdy grip. Paladins are masters with Shields, and have slight magical affinity, moreso than most other Knights."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/0/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pioneer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Saboteur"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/2/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Samurai"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scout"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/2/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seductress"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/0/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stalker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/1/unlockText",
+        "/0/2/unlockText",
+        "/0/3/unlockText",
+        "/1/1/unlockText",
+        "/1/2/unlockText",
+        "/1/3/unlockText",
+        "/2/0/unlockText",
+        "/2/1/unlockText",
+        "/2/2/unlockText",
+        "/3/0/unlockText",
+        "/3/1/unlockText",
+        "/4/0/unlockText",
+        "/4/1/unlockText",
+        "/4/2/unlockText",
+        "/5/0/unlockText",
+        "/5/1/unlockText",
+        "/5/2/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Still unknown! New updates may shed light on this requirement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/2/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlocked by defeating bandits with ranged weaponry as a Soldier."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/0/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlocked by defeating enemies while at low health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/5/unlockText",
+        "/4/3/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlocked by defeating ghosts as a Rogue or Wizard with high Intelligence."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/0/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlocked by perfect shielding the Ruin as a Knight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/3/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlocked by raising Intelligence and Agility as a Wizard or Ninja."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/4/unlockText",
+        "/1/4/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlocked by using a Broadsword to defeat enemies as either a Knight or a Wizard. Unlocked faster by defeating Cultists and Avian Temple Guards."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/3/unlockText",
+        "/5/3/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use ranged weaponry to defeat enemies while up close and personal as a Soldier or Explorer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/3/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Valkryie"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/2/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vigilantes use their own moral system to enact justice as they see fit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/2/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vinetender"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/2/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warlock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/5/description",
+        "/4/3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wraiths are spirits, no longer corporeal."
+    }
+  }
+]

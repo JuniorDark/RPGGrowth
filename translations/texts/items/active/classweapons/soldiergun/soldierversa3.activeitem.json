@@ -3,24 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/soldiergun/soldierversa3.activeitem": [
-        "/shortdescription"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Versa Ricochet",
-      "Por": "Versa Ricochet"
+      "Eng": "Sometimes you need to kill enemies behind you, too."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/soldiergun/soldierversa3.activeitem": [
-        "/description"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Versa Ricochet, a gun that can decimate enemies from everywhere: even behind you.",
-      "Por": "Versa Ricochet, uma arma que pode dizimar inimigos de todos os lugares: até mesmo atrás de você."
+      "Eng": "^orange;Versa Ricochet"
     }
   }
 ]

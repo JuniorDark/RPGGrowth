@@ -19,8 +19,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Siphon Flux",
-      "Por": "Siphon Flux"
+      "Eng": "^yellow;Siphon Flux"
     }
   }
 ]

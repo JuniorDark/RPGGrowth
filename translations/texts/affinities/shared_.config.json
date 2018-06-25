@@ -32,6 +32,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "affinities/toxic.config": [
+        "/weakness/1/text"
+      ],
+      "affinities/venom.config": [
+        "/weakness/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-15% Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "affinities/cryo.config": [
         "/weakness/2/text"
       ],
@@ -57,6 +71,20 @@
     "Texts": {
       "Eng": "-15% Speed",
       "Por": "-15% Velocidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/toxic.config": [
+        "/weakness/0/text"
+      ],
+      "affinities/venom.config": [
+        "/weakness/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-25% Electric Resistance"
     }
   },
   {
@@ -117,6 +145,35 @@
     "Texts": {
       "Eng": "-30% Energy while submerged",
       "Por": "-30% Energia enquanto submerso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/immunity/2/text"
+      ],
+      "affinities/venom.config": [
+        "/immunity/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radiation",
+      "Por": "Radiação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/toxic.config": [
+        "/immunity/1/text"
+      ],
+      "affinities/venom.config": [
+        "/immunity/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tar"
     }
   },
   {

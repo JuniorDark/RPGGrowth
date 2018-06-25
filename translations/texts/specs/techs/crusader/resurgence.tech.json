@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/crusader/resurgence.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crusader Only"
+    }
+  }
+]

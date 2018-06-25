@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/vigilante/anne.activeitem": [
+        "/description"
+      ],
+      "items/active/specweapons/vigilante/marie.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A revolver with a booming heart."
+    }
+  }
+]

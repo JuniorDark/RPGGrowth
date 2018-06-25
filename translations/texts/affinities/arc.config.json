@@ -51,18 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "affinities/arc.config": [
-        "/immunity/2/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Radiation",
-      "Por": "Radiação"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "affinities/arc.config": [
         "/immunity/3/text"
       ]
     },

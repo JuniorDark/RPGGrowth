@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/classic/3/text"
+      ],
+      "specs/necromancer.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "50% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/classic/3/text"
+      ],
+      "specs/vigilante.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "75% Max Energy"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/wraith/betweenworlds.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Between Worlds"
+    }
+  }
+]

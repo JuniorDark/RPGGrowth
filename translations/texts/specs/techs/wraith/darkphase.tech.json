@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/wraith/darkphase.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wraith Only"
+    }
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vanguard.config": [
+        "/effects/7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10% Hunger Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vanguard.config": [
+        "/effects/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+25% Electric Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vanguard.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+25% Knockback Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vanguard.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-50% Poison, Fire, and Ice Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vanguard.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Base Power with Machine Pistols"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vanguard.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "150% Base Power with Shotguns"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vanguard.config": [
+        "/effects/8/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "75% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vanguard.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can use Machine Pistols with other Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vanguard.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can use Melee Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vanguard.config": [
+        "/classic/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cannot use Sniper Rifles, Rocket Launchers, or Grenade Launchers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vanguard.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased Physical Resistance, Energy, and Speed while near enemies. Decreased Power and Energy while far from enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vanguard.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressing [G] while your cursor points near an enemy allows you to near-instantly travel towards that enemy. While traveling, you are immune to damage and can phase through walls. Upon reappearing, create a large electrical explosion that stuns. Explosion Damage scales with Agility and Dexterity. Energy Cost is 150. ^red;You cannot use Rush on enemies inside blocks."
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/crusader.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+15% Electric Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/crusader.config": [
+        "/effects/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+25% Fire Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/crusader.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-50% Poison, Demonic, and Shadow (FU) Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/crusader.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Speed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/crusader.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "150% Base Power with Broadswords"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/crusader.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "After killing an enemy, Power and Resistance increase, and hits cause Judgement. Receiving Contact Damage decreases your Speed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/crusader.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "An upgrade to Knight's Bash. Cause Judgement while sprinting. Bash damage is doubled while wielding a Broadsword instead of a rasied Shield. When taking fatal damage, create a holy explosion and immediately regenerate all Health and Energy. Speed increases for 2 seconds afterwards. Has a cooldown of 180 seconds. Explosion damage scales with Vigor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/crusader.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can use Broadswords"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/crusader.config": [
+        "/effects/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holy Immunity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/crusader.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;10% Base Power while a\nBroadsword is not equipped"
+    }
+  }
+]

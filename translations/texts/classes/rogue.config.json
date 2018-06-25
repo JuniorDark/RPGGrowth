@@ -15,12 +15,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/rogue.config": [
-        "/classic/3/text"
+        "/classic/2/text"
       ]
     },
     "Texts": {
-      "Eng": "+20% Hunger Rate\n-20% Max Health",
-      "Por": "+20% Taxa de Fome\n-20% Vida Máxima"
+      "Eng": "+20% Hunger Rate\n80% Max Health"
     }
   },
   {
@@ -51,24 +50,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/rogue.config": [
-        "/classic/1/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Can equip the Energy Whip.",
-      "Por": "Pode equipar o Energy Whip."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "classes/rogue.config": [
         "/classic/0/text"
       ]
     },
     "Texts": {
-      "Eng": "Cannot use Two-Handed Weapons.\nCannot use Magical Weapons.",
-      "Por": "Não pode usar Armas de Duas Mãos.\nNão pode usar Armas Mágicas."
+      "Eng": "Cannot use Two-Handed Ranged Weapons or Magic Weapons."
     }
   },
   {

@@ -1,0 +1,112 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/wraith.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Base Power with Fist Weapons and Wands"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/wraith.config": [
+        "/effects/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "150% Max Energy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/wraith.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "30% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/wraith.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can Dual-Wield Wands and Melee Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/wraith.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravity barely affects you. Upon taking the damage, become invulnerable and ethereal for a short time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/wraith.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison, Fire, Demonic and Shadow (FU) Immunity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/wraith.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soulless Whisper"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/wraith.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suffocation Immunity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/wraith.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upon attempting to jump, you hover towards the direction you are holding instead. While doing so, you are completely immune to damage, and can phase through blocks. Costs 40 Energy per second. Travel speed scales with Agility. Holding [Shift] while doing so will remove the invulnerability and phase-ability, and halves the overall Energy cost."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/wraith.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Cannot Wield Two-Handed Weapons.^reset;"
+    }
+  }
+]

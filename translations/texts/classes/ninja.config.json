@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/ninja.config": [
-        "/passive/0/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "+10% Speed and Jump Height.",
-      "Por": "+ 10% de Velocidade e Altura no Pulo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "classes/ninja.config": [
         "/passive/1/text"
       ]
     },
@@ -39,24 +27,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/ninja.config": [
-        "/classic/3/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "-50% Max Health",
-      "Por": "-50% de Vida Máxima"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "classes/ninja.config": [
         "/weaponBonuses/1/text"
       ]
     },
     "Texts": {
       "Eng": "110% Base Power while using Chakrams, Daggers, or Whips.",
       "Por": "110% de Poder Base ao usar Chakrams, Adagas ou Chicotes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "110% Speed and Jump Height."
     }
   },
   {

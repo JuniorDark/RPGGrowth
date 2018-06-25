@@ -2,16 +2,15 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "specs/paladin.config": [
-        "/title"
+      "specs/necromancer.config": [
+        "/effects/6/text"
       ],
-      "specs/samurai.config": [
-        "/text/title"
+      "specs/wraith.config": [
+        "/effects/7/text"
       ]
     },
     "Texts": {
-      "Eng": "Paladin",
-      "Por": "Paladino"
+      "Eng": "-20% Holy Resistance"
     }
   }
 ]

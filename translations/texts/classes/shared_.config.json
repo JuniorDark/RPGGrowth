@@ -2,16 +2,16 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "classes/rogue.config": [
-        "/classic/2/text"
+      "classes/knight.config": [
+        "/classic/1/text"
       ],
-      "classes/wizard.config": [
-        "/classic/2/text"
+      "classes/rogue.config": [
+        "/classic/1/text"
       ]
     },
     "Texts": {
-      "Eng": "Can equip Hunting Bows and the\nBroken Protectorate Broadsword.",
-      "Por": "Pode equipar Arcos de Caça e a Broken Protectorate Broadsword."
+      "Eng": "Can equip Hunting Bows.",
+      "Por": "Pode equipar Arcos de Caça."
     }
   }
 ]

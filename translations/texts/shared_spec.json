@@ -1,0 +1,104 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/3/title"
+      ],
+      "specs/adept.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adept"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/4/title",
+        "/1/4/title"
+      ],
+      "specs/crusader.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crusader"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/0/title"
+      ],
+      "specs/necromancer.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Necromancer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/0/title"
+      ],
+      "specs/paladin.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Paladin",
+      "Por": "Paladino"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/3/title",
+        "/5/3/title"
+      ],
+      "specs/vanguard.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/2/title"
+      ],
+      "specs/vigilante.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vigilante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/5/title",
+        "/4/3/title"
+      ],
+      "specs/wraith.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wraith"
+    }
+  }
+]

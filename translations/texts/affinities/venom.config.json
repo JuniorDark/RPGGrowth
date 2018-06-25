@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/venom.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10% chance to Toxify enemies when dealing damage. Toxified enemies have -25% Max Health and are Poisoned for the duration of Toxify."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/venom.config": [
+        "/immunity/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Status"
+    }
+  }
+]

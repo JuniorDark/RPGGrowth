@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/adept.config": [
+        "/effects/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+25% Elemental Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/adept.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-25% Physical Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/adept.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "115% Base Power with Wands: Scales with Dex."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/adept.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "75% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/adept.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can Wield Wands."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/adept.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upon attempting to jump, you instantly teleport towards the direction you are holding instead. Energy Cost is 10 per Flash Step and decreases with higher Intelligence. Distance scales with Agility, from 10 up to a max of 15, and is halved when holding [Shift]. After 8 quick Flash Steps, each within 1.5 seconds of each other, subsequent Flash Steps cause strain on the body and begin to deal damage. ^red;You can Flash Step through and into walls, so be careful.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/adept.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "When Energy fully recharges, you and nearby allies gain a temporary Speed Boost. You are immune to Fall Damage at Max Energy."
+    }
+  }
+]

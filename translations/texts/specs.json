@@ -2,11 +2,53 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "specs/paladin.config": [
+      "specs/techs/wraith/darkphase.tech": [
+        "/shortDescription"
+      ],
+      "specs/wraith.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Phase"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/vigilante/desperado.tech": [
+        "/shortDescription"
+      ],
+      "specs/techs/vigilante/desperadostatus.statuseffect": [
+        "/label"
+      ],
+      "specs/vigilante.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/adept.config": [
         "/tech/title"
       ],
-      "specs/samurai.config": [
-        "/text/tech/title"
+      "specs/techs/adept/flashstep.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flash Step"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/tech/title"
       ],
       "specs/techs/paladin/immaculateshield.tech": [
         "/shortDescription"
@@ -18,6 +60,48 @@
     "Texts": {
       "Eng": "Immaculate Shield",
       "Por": "Escudo Imaculado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/necromancer.config": [
+        "/tech/title"
+      ],
+      "specs/techs/necromancer/reap.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/crusader.config": [
+        "/tech/title"
+      ],
+      "specs/techs/crusader/resurgence.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resurgence"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/vanguard/rush.tech": [
+        "/shortDescription"
+      ],
+      "specs/vanguard.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rush"
     }
   }
 ]

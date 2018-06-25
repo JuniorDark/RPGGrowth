@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/paladin.config": [
-        "/tech/text"
-      ]
-    },
-    "Texts": {
-      "Eng": " Pressing [W] toggles Immaculate Shield, a buff that halves Shield Stamina, but provides bonuses for your shield. While Immaculate Shield is active, monsters that hit your shield are stricken with Judgement Status, and Perfect Shields provide Health Regeneration to yourself and nearby allies.",
-      "Por": "Pressionar [W] ativa o Escudo Imaculado, um bônus que reduz pela metade a Stamina do Escudo, mas fornece bônus para o seu escudo. Enquanto o Escudo Imaculado estiver ativo, os monstros que acertam o seu escudo são atingidos com o Status Julgamento, e os Escudos Perfeitos proporcionam uma explosão curta mas forte de cura para você e seus aliados próximos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/paladin.config": [
         "/effects/2/text"
       ]
     },
@@ -31,20 +19,7 @@
       ]
     },
     "Texts": {
-      "Eng": "+50% Power with Shields:\nScales with Str. and Int.",
-      "Por": "+50% Poder com Escudos:\nEscala com Força e Inteligencia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/paladin.config": [
-        "/effects/4/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "-10% Speed",
-      "Por": "-10% Velocidade"
+      "Eng": "150% Base Power with Shields:\nScales with Str. and Int."
     }
   },
   {
@@ -55,8 +30,29 @@
       ]
     },
     "Texts": {
-      "Eng": "-20% Jump Height",
-      "Por": "-20% Altura no Pulo"
+      "Eng": "80% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "90% Speed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can use Wands."
     }
   },
   {
@@ -75,12 +71,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/paladin.config": [
-        "/classic/0/text"
+        "/tech/text"
       ]
     },
     "Texts": {
-      "Eng": "Wands enabled.",
-      "Por": "Varinhas habilitadas."
+      "Eng": "Pressing [W] toggles Immaculate Shield, a buff that halves Shield Stamina, but provides bonuses for your shield. While Immaculate Shield is active, monsters that hit your shield are stricken with Judgement Status, and Perfect Shields provide Health Regeneration to yourself and nearby allies."
     }
   },
   {

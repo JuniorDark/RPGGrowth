@@ -1,6 +1,7 @@
 {
   "affinities/arc.config": {
     "/immunity/1/text": "texts/wide_spread_fields.json",
+    "/immunity/2/text": "texts/affinities/shared_.config.json",
     "/weakness/0/text": "texts/affinities/shared_.config.json",
     "/weakness/2/text": "texts/affinities/shared_.config.json"
   },
@@ -37,6 +38,18 @@
     "/weakness/0/text": "texts/affinities/shared_.config.json",
     "/weakness/2/text": "texts/affinities/shared_.config.json"
   },
+  "affinities/toxic.config": {
+    "/immunity/1/text": "texts/affinities/shared_.config.json",
+    "/weakness/0/text": "texts/affinities/shared_.config.json",
+    "/weakness/1/text": "texts/affinities/shared_.config.json"
+  },
+  "affinities/venom.config": {
+    "/immunity/1/text": "texts/affinities/shared_.config.json",
+    "/immunity/2/text": "texts/affinities/shared_.config.json",
+    "/title": "texts/wide_spread_fields.json",
+    "/weakness/0/text": "texts/affinities/shared_.config.json",
+    "/weakness/1/text": "texts/affinities/shared_.config.json"
+  },
   "classes/classDescriptions.config": {
     "/default/text": "texts/wide_spread_fields.json"
   },
@@ -55,6 +68,8 @@
     "/weapon/title": "texts/wide_spread_fields.json"
   },
   "classes/knight.config": {
+    "/classic/1/text": "texts/classes/shared_.config.json",
+    "/classic/3/text": "texts/shared_.config.json",
     "/scaling/0/text": "texts/wide_spread_fields.json",
     "/scaling/1/text": "texts/wide_spread_fields.json",
     "/scaling/2/text": "texts/wide_spread_fields.json",
@@ -66,6 +81,7 @@
     "/weapon/title": "texts/wide_spread_fields.json"
   },
   "classes/ninja.config": {
+    "/classic/3/text": "texts/shared_.config.json",
     "/scaling/0/text": "texts/wide_spread_fields.json",
     "/scaling/1/text": "texts/wide_spread_fields.json",
     "/techs/0/title": "texts/shared_ninja.json",
@@ -76,7 +92,7 @@
     "/weapon/title": "texts/wide_spread_fields.json"
   },
   "classes/rogue.config": {
-    "/classic/2/text": "texts/classes/shared_.config.json",
+    "/classic/1/text": "texts/classes/shared_.config.json",
     "/scaling/0/text": "texts/wide_spread_fields.json",
     "/scaling/1/text": "texts/wide_spread_fields.json",
     "/scaling/2/text": "texts/wide_spread_fields.json",
@@ -100,7 +116,6 @@
     "/weapon/title": "texts/wide_spread_fields.json"
   },
   "classes/wizard.config": {
-    "/classic/2/text": "texts/classes/shared_.config.json",
     "/scaling/0/text": "texts/wide_spread_fields.json",
     "/scaling/1/text": "texts/wide_spread_fields.json",
     "/techs/0/title": "texts/shared_wizard.json",
@@ -113,6 +128,7 @@
     "/gui/affinitieslayout/children/electrictitle/value": "texts/wide_spread_fields.json",
     "/gui/affinitieslayout/children/firetitle/value": "texts/wide_spread_fields.json",
     "/gui/affinitieslayout/children/icetitle/value": "texts/wide_spread_fields.json",
+    "/gui/affinitieslayout/children/poisontitle/value": "texts/wide_spread_fields.json",
     "/gui/classeslayout/children/classdescription/value": "texts/wide_spread_fields.json",
     "/gui/classeslayout/children/explorertitle/value": "texts/wide_spread_fields.json",
     "/gui/classeslayout/children/knighttitle/value": "texts/wide_spread_fields.json",
@@ -123,6 +139,8 @@
     "/gui/masterylayout/children/masterypoints/value": "texts/wide_spread_fields.json",
     "/gui/overviewlayout/children/affinitytitle/value": "texts/wide_spread_fields.json",
     "/gui/overviewlayout/children/classtitle/value": "texts/wide_spread_fields.json",
+    "/gui/specializationslayout/children/desctext/value": "texts/wide_spread_fields.json",
+    "/gui/specializationslayout/children/desctitle/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/agilityamount/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/agilitytext/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/dexterityamount/value": "texts/wide_spread_fields.json",
@@ -140,21 +158,20 @@
     "/gui/statslayout/children/vigortext/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/vitalityamount/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/vitalitytext/value": "texts/wide_spread_fields.json",
+    "/gui/upgradelayout/children/affinitytext/value": "texts/wide_spread_fields.json",
+    "/gui/upgradelayout/children/generaltext/value": "texts/wide_spread_fields.json",
+    "/gui/upgradelayout/children/techtext/value": "texts/wide_spread_fields.json",
+    "/gui/upgradelayout/children/weapontext/value": "texts/wide_spread_fields.json",
     "/gui/windowtitle/title": "texts/shared_skillbook/shared_RPGskillbook..json"
   },
   "items/active/classweapons/explorerdrill/explorerspiradrill.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
+  "items/active/classweapons/knightsword/aegisswordcombo.weaponability": {
+    "/ability/name": "texts/items/active/shared_weapons/shared_dcombo.weaponability.json"
+  },
   "items/active/classweapons/knightsword/knightaegissword.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
-  },
-  "items/active/classweapons/knightsword/knightaegissword3.activeitem": {
-    "/description": "texts/items/active/classweapons/knightsword/shared_knightaegissword.json",
-    "/shortdescription": "texts/items/active/classweapons/knightsword/shared_knightaegissword.json"
-  },
-  "items/active/classweapons/knightsword/knightaegissword4.activeitem": {
-    "/description": "texts/items/active/classweapons/knightsword/shared_knightaegissword.json",
-    "/shortdescription": "texts/items/active/classweapons/knightsword/shared_knightaegissword.json"
   },
   "items/active/classweapons/ninjashuriken/ninjaaetherdagger.activeitem": {
     "/description": "texts/items/active/classweapons/ninjashuriken/shared_ninjaaether.json",
@@ -179,8 +196,26 @@
   "items/active/classweapons/wizardstaff/wizardnovastaff.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
+  "items/active/specweapons/adept/phaseshift.weaponability": {
+    "/ability/name": "texts/wide_spread_fields.json"
+  },
+  "items/active/specweapons/crusader/oathkeeper.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/active/specweapons/necromancer/forusall.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/active/specweapons/necromancer/largeedgedcombo.weaponability": {
+    "/ability/name": "texts/items/active/shared_weapons/shared_dcombo.weaponability.json"
+  },
   "items/active/specweapons/paladin/ivrpgtrueaegis.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/active/specweapons/vigilante/anne.activeitem": {
+    "/description": "texts/items/active/specweapons/vigilante/shared_e.activeitem.json"
+  },
+  "items/active/specweapons/vigilante/marie.activeitem": {
+    "/description": "texts/items/active/specweapons/vigilante/shared_e.activeitem.json"
   },
   "items/active/weapons/melee/broadsword/abhorrentstygiansword.activeitem": {
     "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
@@ -359,6 +394,22 @@
     "/upgrades/affinity/ivrpgucplasmacore/title": "texts/wide_spread_fields.json",
     "/upgrades/affinity/ivrpgucskadisblessing/title": "texts/wide_spread_fields.json",
     "/upgrades/affinity/ivrpgucvikingfuneral/title": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpguc/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpgucdangerclose/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpgucdangerclose/title": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpgucdecay/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpgucearlybird/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpgucitsatrap/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpguclaststand/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpgucmasochism/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpgucmomentum/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpgucmonstermaster/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpgucphotosynthesis/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpgucsadism/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpguctotalblackout/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpguctruevampire/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpgucunstoppable/description": "texts/wide_spread_fields.json",
+    "/upgrades/tech/ivrpguc/description": "texts/wide_spread_fields.json",
     "/upgrades/tech/ivrpgucbatterypack/title": "texts/wide_spread_fields.json",
     "/upgrades/tech/ivrpgucfourthwall/title": "texts/wide_spread_fields.json",
     "/upgrades/tech/ivrpgucghost/title": "texts/wide_spread_fields.json",
@@ -392,6 +443,24 @@
   },
   "objects/stats/agilitypoint.currency": {
     "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "particles/damagenumbers/bleeddamagenumber.particle": {
+    "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
+  },
+  "particles/damagenumbers/bleeddamagenumberstrong.particle": {
+    "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
+  },
+  "particles/damagenumbers/bleeddamagenumberweak.particle": {
+    "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
+  },
+  "particles/damagenumbers/demonicdamagenumber.particle": {
+    "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
+  },
+  "particles/damagenumbers/demonicdamagenumberstrong.particle": {
+    "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
+  },
+  "particles/damagenumbers/demonicdamagenumberweak.particle": {
+    "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
   },
   "particles/damagenumbers/holydamagenumber.particle": {
     "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
@@ -458,23 +527,121 @@
   "scripts/explorerglow/explorerresist.statuseffect": {
     "/label": "texts/scripts/explorerglow/shared_.statuseffect.json"
   },
+  "specList.config": {
+    "/0/0/title": "texts/shared_spec.json",
+    "/0/1/description": "texts/wide_spread_fields.json",
+    "/0/2/description": "texts/wide_spread_fields.json",
+    "/0/3/description": "texts/wide_spread_fields.json",
+    "/0/4/title": "texts/shared_spec.json",
+    "/1/0/title": "texts/shared_spec.json",
+    "/1/1/description": "texts/wide_spread_fields.json",
+    "/1/2/description": "texts/wide_spread_fields.json",
+    "/1/3/description": "texts/wide_spread_fields.json",
+    "/1/4/title": "texts/shared_spec.json",
+    "/1/5/title": "texts/shared_spec.json",
+    "/2/0/description": "texts/wide_spread_fields.json",
+    "/2/1/description": "texts/wide_spread_fields.json",
+    "/2/2/description": "texts/wide_spread_fields.json",
+    "/2/3/title": "texts/shared_spec.json",
+    "/3/0/description": "texts/wide_spread_fields.json",
+    "/3/1/description": "texts/wide_spread_fields.json",
+    "/3/2/title": "texts/shared_spec.json",
+    "/3/3/title": "texts/shared_spec.json",
+    "/4/0/description": "texts/wide_spread_fields.json",
+    "/4/1/description": "texts/wide_spread_fields.json",
+    "/4/2/description": "texts/wide_spread_fields.json",
+    "/4/3/title": "texts/shared_spec.json",
+    "/5/0/description": "texts/wide_spread_fields.json",
+    "/5/1/description": "texts/wide_spread_fields.json",
+    "/5/2/description": "texts/wide_spread_fields.json",
+    "/5/3/title": "texts/shared_spec.json"
+  },
+  "specs/abilities/adept/agilemagic.statuseffect": {
+    "/label": "texts/specs/abilities/adept/shared_.statuseffect.json"
+  },
+  "specs/abilities/adept/agilemagicspeed.statuseffect": {
+    "/label": "texts/specs/abilities/adept/shared_.statuseffect.json"
+  },
+  "specs/adept.config": {
+    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/effects/1/text": "texts/wide_spread_fields.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
+  },
+  "specs/crusader.config": {
+    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
+  },
+  "specs/necromancer.config": {
+    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/effects/1/text": "texts/wide_spread_fields.json",
+    "/effects/5/text": "texts/shared_.config.json",
+    "/effects/6/text": "texts/specs/shared_.config.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
+  },
   "specs/paladin.config": {
     "/effects/0/text": "texts/wide_spread_fields.json",
     "/effects/1/text": "texts/wide_spread_fields.json",
     "/tech/title": "texts/specs.json",
-    "/title": "texts/specs/shared_.config.json",
+    "/title": "texts/shared_spec.json",
     "/weapon/title": "texts/wide_spread_fields.json"
   },
-  "specs/samurai.config": {
-    "/text/tech/title": "texts/specs.json",
-    "/text/title": "texts/specs/shared_.config.json",
-    "/text/weapon/title": "texts/wide_spread_fields.json"
+  "specs/techs/adept/flashstep.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/crusader/crusaderbashattack.statuseffect": {
+    "/label": "texts/shared_tech/shared_.statuseffect.json"
+  },
+  "specs/techs/crusader/resurgence.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/necromancer/reap.tech": {
+    "/shortDescription": "texts/specs.json"
   },
   "specs/techs/paladin/immaculateshield.tech": {
     "/shortDescription": "texts/specs.json"
   },
   "specs/techs/paladin/immaculateshieldstatus.statuseffect": {
     "/label": "texts/specs.json"
+  },
+  "specs/techs/vanguard/rush.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/vigilante/desperado.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/vigilante/desperadostatus.statuseffect": {
+    "/label": "texts/specs.json"
+  },
+  "specs/techs/wraith/darkphase.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
+  "specs/vanguard.config": {
+    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/effects/1/text": "texts/wide_spread_fields.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
+  },
+  "specs/vigilante.config": {
+    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/effects/1/text": "texts/wide_spread_fields.json",
+    "/effects/2/text": "texts/wide_spread_fields.json",
+    "/effects/6/text": "texts/shared_.config.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json"
+  },
+  "specs/wraith.config": {
+    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/effects/1/text": "texts/wide_spread_fields.json",
+    "/effects/7/text": "texts/specs/shared_.config.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json"
   },
   "stats.config": {
     "/default/0/text": "texts/wide_spread_fields.json"
@@ -499,7 +666,7 @@
     "/shortDescription": "texts/shared_knight.json"
   },
   "tech/knighttech/knightarmorsphere/knightspikes.statuseffect": {
-    "/label": "texts/tech/knighttech/shared_knight/shared_.statuseffect.json"
+    "/label": "texts/shared_tech/shared_.statuseffect.json"
   },
   "tech/knighttech/knightarmorsphere/stun/knightarmorspherecontact.statuseffect": {
     "/label": "texts/shared_stun.json"
@@ -508,13 +675,13 @@
     "/shortDescription": "texts/shared_knight.json"
   },
   "tech/knighttech/knightbash/knightbashattack.statuseffect": {
-    "/label": "texts/tech/knighttech/shared_knight/shared_.statuseffect.json"
+    "/label": "texts/shared_tech/shared_.statuseffect.json"
   },
   "tech/knighttech/knightcharge!/knightcharge!.tech": {
     "/shortDescription": "texts/shared_knight.json"
   },
   "tech/knighttech/knightcharge!/knightchargeattack.statuseffect": {
-    "/label": "texts/tech/knighttech/shared_knight/shared_.statuseffect.json"
+    "/label": "texts/shared_tech/shared_.statuseffect.json"
   },
   "tech/knighttech/knightslam/knightslam.tech": {
     "/shortDescription": "texts/shared_knight.json"

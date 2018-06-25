@@ -2,6 +2,24 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "particles/damagenumbers/bleeddamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/bleeddamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/bleeddamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/demonicdamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/demonicdamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/demonicdamagenumberweak.particle": [
+        "/definition/text"
+      ],
       "particles/damagenumbers/holydamagenumber.particle": [
         "/definition/text"
       ],

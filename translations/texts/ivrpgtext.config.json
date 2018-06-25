@@ -51,50 +51,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
-        "/upgrades/general/ivrpgucdangerclose/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Danger Close",
-      "Por": "Perigo Próximo"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "ivrpgtext.config": [
         "/upgrades/general/ivrpgucdecay/title"
       ]
     },
     "Texts": {
       "Eng": "Decay",
       "Por": "Decadência"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "ivrpgtext.config": [
-        "/upgrades/general/ivrpguc/description",
-        "/upgrades/general/ivrpgucdangerclose/description",
-        "/upgrades/general/ivrpgucdecay/description",
-        "/upgrades/general/ivrpgucearlybird/description",
-        "/upgrades/general/ivrpgucitsatrap/description",
-        "/upgrades/general/ivrpguclaststand/description",
-        "/upgrades/general/ivrpgucmasochism/description",
-        "/upgrades/general/ivrpgucmomentum/description",
-        "/upgrades/general/ivrpgucmonstermaster/description",
-        "/upgrades/general/ivrpgucphotosynthesis/description",
-        "/upgrades/general/ivrpgucsadism/description",
-        "/upgrades/general/ivrpguctotalblackout/description",
-        "/upgrades/general/ivrpguctruevampire/description",
-        "/upgrades/general/ivrpgucunstoppable/description",
-        "/upgrades/tech/ivrpguc/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Description",
-      "Por": "Descrição"
     }
   },
   {
@@ -695,8 +657,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Vital Aegis Upgrade.\nThe 8th and 9th Combo Steps Stun enemies on hit.",
-      "Por": "Melhoria para o Vital Aegis.\nO 8th e o 9th Combo Steps Atordoa inimigos ao acertar."
+      "Eng": "Vital Aegis Upgrade.\nAll Combo Steps cause Judgement.\nThe 8th and 9th Combo Steps also Stun enemies on hit."
     }
   },
   {

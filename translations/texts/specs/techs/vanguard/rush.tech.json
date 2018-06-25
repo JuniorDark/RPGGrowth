@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/vanguard/rush.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Only"
+    }
+  }
+]

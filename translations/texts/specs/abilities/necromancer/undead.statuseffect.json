@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/necromancer/undead.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Undead"
+    }
+  }
+]

@@ -15,30 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
-        "/ability/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "+10% Power when Energy is full.\nCancelled when Energy drops below 75%.",
-      "Por": "+10% Poder quando a Energia está cheia.\nCancelado quando a Energia cai abaixo de 75%."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "classes/soldier.config": [
-        "/classic/2/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "-10% Jump Height",
-      "Por": "-10% Altura no Pulo"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "classes/soldier.config": [
         "/classic/3/text"
       ]
     },
@@ -63,12 +39,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "110% Power when Energy reaches full.\nCancelled when Energy drops below 75%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
         "/weaponBonuses/0/text"
       ]
     },
     "Texts": {
       "Eng": "120% Base Power while using One-Handed Guns in combination with Grenades.",
       "Por": "120% Poder Base quando utilizando Armas de Fogo de Uma Mão em combinação com Granadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/classic/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "90% Jump Height"
     }
   },
   {

@@ -3,24 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/explorerdrill/explorerspiradrill3.activeitem": [
-        "/shortdescription"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Ravenous Spira",
-      "Por": "Ravenous Spira"
+      "Eng": "Pierce the Heavens!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/explorerdrill/explorerspiradrill3.activeitem": [
-        "/description"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Ravenous Spira, the drill that can pierce through the heavens.",
-      "Por": "Ravenous Spira, a broca que pode perfurar através dos céus."
+      "Eng": "^yellow;Ravenous Spira"
     }
   }
 ]

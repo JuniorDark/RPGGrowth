@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/crusader/purity.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purity"
+    }
+  }
+]

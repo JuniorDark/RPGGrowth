@@ -7,8 +7,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Nova, a staff that holds limitless, highly volatile, elemental energy.",
-      "Por": "Primed Nova, um cajado que possui energia elementar ilimitada, altamente volátil."
+      "Eng": "Explosions. Explosions everywhere."
     }
   },
   {
@@ -19,8 +18,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Primed Nova",
-      "Por": "Primed Nova"
+      "Eng": "^magenta;Primed Nova"
     }
   }
 ]

@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/explorer.config": [
-        "/classic/0/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "-15% Power Multiplier",
-      "Por": "-15% Multiplicador de Poder"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "classes/explorer.config": [
         "/weaponBonuses/0/text"
       ]
     },
@@ -45,6 +33,17 @@
     "Texts": {
       "Eng": "115% Max Health and Energy.",
       "Por": "115% Vida e Energia Máxima."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/explorer.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "85% Base Power Multiplier"
     }
   },
   {

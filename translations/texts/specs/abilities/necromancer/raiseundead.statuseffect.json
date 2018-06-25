@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/necromancer/raiseundead.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raise Undead"
+    }
+  }
+]

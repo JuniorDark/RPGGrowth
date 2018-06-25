@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/vigilante/desperadocooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperado Cooldown"
+    }
+  }
+]

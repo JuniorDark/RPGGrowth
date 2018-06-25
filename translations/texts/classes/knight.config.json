@@ -15,30 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/knight.config": [
-        "/classic/2/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "-10% Speed\n-30% Jump Height",
-      "Por": "-10% Velocidade\n-30% Altura no Pulo"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "classes/knight.config": [
-        "/classic/3/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "-25% Max Energy",
-      "Por": "-25% Energia Máxima"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "classes/knight.config": [
         "/weaponBonuses/0/text"
       ]
     },
@@ -57,6 +33,17 @@
     "Texts": {
       "Eng": "120% Base Power with Broadswords and Greataxes.",
       "Por": "120% Poder Base com Espadas Largas e Machados Grandes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/classic/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "90% Speed\n70% Jump Height"
     }
   },
   {
@@ -111,12 +98,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/knight.config": [
-        "/classic/1/text"
+        "/classic/0/text"
       ]
     },
     "Texts": {
-      "Eng": "Can equip Hunting Bows.",
-      "Por": "Pode equipar Arcos de Caça."
+      "Eng": "Cannot equip Ranged or Magic Weapons.\nCannot Dual-Wield Weapons."
     }
   },
   {
@@ -129,18 +115,6 @@
     "Texts": {
       "Eng": "Perfect Shields increase Damage by +20% for a short period.",
       "Por": "Escudos Perfeitos aumentam o Dano em + 20% por um curto período."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "classes/knight.config": [
-        "/classic/0/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "^red;Cannot equip Magic or Ranged Weapons.\nCannot Dual-Wield Weapons.",
-      "Por": "^red;Não pode equipar Armas Mágicas ou Armas de Longo Alcance.\nNão pode usar Armas Duplas."
     }
   }
 ]

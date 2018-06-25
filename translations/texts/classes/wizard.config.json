@@ -27,18 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
-        "/classic/4/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "-20% Speed\n-20% Jump Height",
-      "Por": "-20% de Velocidade\n-20% de Altura no Pulo"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "classes/wizard.config": [
         "/weaponBonuses/0/text"
       ]
     },
@@ -63,6 +51,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
+        "/classic/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "80% Speed and Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
         "/techs/0/text"
       ]
     },
@@ -75,12 +74,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
+        "/classic/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can equip Hunting Bows and the\nBroken Protectorate Broadsword.",
+      "Por": "Pode equipar Arcos de Caça e a Broken Protectorate Broadsword."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
         "/classic/1/text"
       ]
     },
     "Texts": {
-      "Eng": "Can equip the Erchius Eye, the Evil Eye, and Magnorbs",
-      "Por": "Pode equipar o Erchius Eye, o Evil Eye e a Magnorbs"
+      "Eng": "Can equip the\nErchius Eye, Evil Eye, and Magnorbs"
     }
   },
   {
@@ -91,8 +101,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Cannot use Ranged Weapons.\nCannot use Two-Handed Melee Weapons.",
-      "Por": "Não pode usar Armas de Longo Alcance.\nNão pode usar Armas Corpo-a-corpo de Duas Mãos."
+      "Eng": "Cannot use Ranged Weapons.\nCannot use Two-Handed Melee Weapons.\nCannot Dual-Wield Non-Magic Weapons."
     }
   },
   {
@@ -151,8 +160,7 @@
       ]
     },
     "Texts": {
-      "Eng": "While using Wands or Staves, gain +10% Fire, Poison, and Ice Resistance.",
-      "Por": "Enquanto usando Varinhas ou Cajados, ganha +10% de Resistência a Fogo, Veneno, e Gelo."
+      "Eng": "While using Wands or Staves, gain +10% Fire, Electric, and Ice Resistance."
     }
   }
 ]

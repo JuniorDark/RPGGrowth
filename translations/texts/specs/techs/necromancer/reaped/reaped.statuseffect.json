@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/necromancer/reaped/reaped.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reaped!"
+    }
+  }
+]

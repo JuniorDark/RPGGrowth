@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/vigilante/bymyownhands.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "By My Own Hands"
+    }
+  }
+]

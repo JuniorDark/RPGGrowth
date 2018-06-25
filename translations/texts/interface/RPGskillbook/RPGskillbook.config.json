@@ -52,21 +52,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/upgradelayout/children/affinitytext/value",
-        "/gui/upgradelayout/children/generaltext/value",
-        "/gui/upgradelayout/children/techtext/value",
-        "/gui/upgradelayout/children/weapontext/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "-",
-      "Por": "-"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/overviewlayout/children/hardcoretext/value"
       ]
     },
@@ -507,24 +492,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/specializationlockedlayout/children/locked/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Locked until Level 35!\n(Will be Implemented Soon!)",
-      "Por": "Bloqueado até o Nível 35!\n(Será Implementado em Breve!)"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylockedlayout/children/locked/value"
       ]
     },
     "Texts": {
       "Eng": "Locked until Level 50!",
       "Por": "Bloqueado até o Nível 50!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationslayout/children/loretitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lore"
     }
   },
   {
@@ -784,6 +768,39 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationslayout/children/title/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Specialization Select"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationslayout/children/spectitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Specialization Title"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationslayout/children/subtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Specializations can be unlocked by accomplishing certain tasks.\nUse the arrows to navigate through available Specializations."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/immunitytext/value",
         "/gui/affinitylayout/children/statscalingtext/value",
         "/gui/affinitylayout/children/statscalingtitle/value",
@@ -843,8 +860,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Stat:\n^red;Health Multiplier:^reset;\n^green;Energy Multiplier:\nEnergy Recharge Rate:\nEnergy Recharge Delay:^reset;\n^orange;Hunger Rate Deduction:^reset;\n^gray;Knockback Resistance:\nFall Damage Multiplier:\nShield Health Multiplier:^reset;\n^red;Bleed Chance:\nBleed Length:^reset;\n\n\nDamage Resistance:\n^gray;Physical:^reset;\n^green;Poison:^reset;\n^blue;Ice:^reset;\n^red;Fire:^reset;\n^yellow;Electric:^reset;\n^green;Radiation (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cosmic (FU):^reset;",
-      "Por": "Status:\n^red;Multiplicador de Vida:^reset;\n^green;Multiplicador de Energia:\nTaxa de Recarga de Energia:\nAtraso de Recarga de Energia:^reset;\n^orange;Dedução da Taxa de Fome:^reset;\n^gray;Resistência a Knockback:\nMultiplicador de Dano de Queda:\nMultiplicador de Vida do Escudo:^reset;\n^red;Chance de Sangramento:\nDuração do Sangramento:^reset;\n\n\nResistência a Dano:\n^gray;Fisico:^reset;\n^green;Veneno:^reset;\n^blue;Gelo:^reset;\n^red;Fogo:^reset;\n^yellow;Elétrico:^reset;\n^green;Radiação (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cosmic (FU):^reset;"
+      "Eng": "Stat:\n^red;Health Multiplier:^reset;\n^green;Energy Multiplier:\nEnergy Recharge Rate:\nEnergy Recharge Delay:^reset;\n^orange;Hunger Rate Deduction:^reset;\n^gray;Knockback Resistance:\nFall Damage Multiplier:\nShield Health Multiplier:^reset;\n^red;Bleed Chance:\nBleed Length:^reset;\n\n\nDamage Resistance:\n^gray;Physical:^reset;\n^green;Poison:^reset;\n^blue;Ice:^reset;\n^red;Fire:^reset;\n^yellow;Electric:^reset;\n^magenta;Nova:\n^black;Demonic:\n^yellow;Holy:\n^green;Radioactive (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cosmic (FU):^reset;"
     }
   },
   {
@@ -951,6 +967,29 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationslayout/children/loretext/value",
+        "/gui/specializationslayout/children/unlocktext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlocked Via"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationlockedlayout/children/locked/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlocked at Level 35!\nClass Required!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/unlockedtext/value"
       ]
     },
@@ -987,18 +1026,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/affinitieslayout/children/poisontitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Venom",
-      "Por": "Veneno"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/weaknesstitle/value"
       ]
     },
@@ -1012,12 +1039,24 @@
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationlayout/children/specweaponicontitle/value",
+        "/gui/specializationslayout/children/weapontext/value",
         "/gui/upgradelayout/children/weapontitle/value"
       ]
     },
     "Texts": {
       "Eng": "Weapon",
       "Por": "Arma"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/specializationslayout/children/weapontitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon & Tech"
     }
   },
   {

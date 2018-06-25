@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/adept/flashstep.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adept Only"
+    }
+  }
+]

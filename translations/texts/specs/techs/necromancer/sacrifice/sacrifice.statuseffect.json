@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/necromancer/sacrifice/sacrifice.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cursed"
+    }
+  }
+]

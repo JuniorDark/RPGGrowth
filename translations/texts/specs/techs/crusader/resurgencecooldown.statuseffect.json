@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/crusader/resurgencecooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resurgence Cooldown"
+    }
+  }
+]

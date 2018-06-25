@@ -2,6 +2,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "specs/techs/crusader/crusaderbashattack.statuseffect": [
+        "/label"
+      ],
       "tech/knighttech/knightarmorsphere/knightspikes.statuseffect": [
         "/label"
       ],

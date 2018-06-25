@@ -2,9 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "items/active/classweapons/knightsword/knightaegissword3.activeitem": [
-        "/shortdescription"
-      ],
       "items/active/classweapons/knightsword/knightaegissword4.activeitem": [
         "/shortdescription"
       ]
@@ -17,9 +14,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "items/active/classweapons/knightsword/knightaegissword3.activeitem": [
-        "/description"
-      ],
       "items/active/classweapons/knightsword/knightaegissword4.activeitem": [
         "/description"
       ]

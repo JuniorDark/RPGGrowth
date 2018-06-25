@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/necromancer.config": [
+        "/effects/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+20% Demonic Resistance\n+20% Poison Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/necromancer.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Base Power with Daggers and Scythes: Scales with Int."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/necromancer.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can Dual-Wield Daggers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/necromancer.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can Wield Scythes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/necromancer.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [G] to use 10 Health and reach out with a dangerous demonic magic. Any enemy hit by this magic with Current Health less than (Intelligence/3+15)% of their Max Health are immediately killed. Enemies killed by this magic explode into a mist that heals yourself and allies with a potent demonic energy, yet causes enemies to slowly deteriorate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/necromancer.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Immunity (FU)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/necromancer.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is a 20% chance that enemies killed with a Dagger, Scythe, or Demonic Magic will revive and help you in battle for a short time."
+    }
+  }
+]

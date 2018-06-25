@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/toxic.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+30% chance to Toxify enemies when dealing damage. Toxified enemies have -25% Max Health and are Poisoned for the duration of Toxify."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/toxic.config": [
+        "/immunity/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extreme Radiation (FU)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/toxic.config": [
+        "/immunity/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Damage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/toxic.config": [
+        "/immunity/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proto (FU)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/toxic.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic"
+    }
+  }
+]

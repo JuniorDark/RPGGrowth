@@ -3,28 +3,30 @@
     "_metadata.json": 2,
     "affinities": {
       "affinityDescriptions.config.json": 5,
-      "arc.config.json": 7,
+      "arc.config.json": 6,
       "cryo.config.json": 6,
       "flame.config.json": 3,
       "frost.config.json": 3,
       "infernal.config.json": 5,
-      "shared_.config.json": 9,
-      "shock.config.json": 3
+      "shared_.config.json": 13,
+      "shock.config.json": 3,
+      "toxic.config.json": 5,
+      "venom.config.json": 2
     },
     "classes": {
       "classDescriptions.config.json": 6,
       "default.config.json": 1,
       "explorer.config.json": 10,
-      "knight.config.json": 12,
-      "ninja.config.json": 13,
-      "rogue.config.json": 10,
+      "knight.config.json": 10,
+      "ninja.config.json": 12,
+      "rogue.config.json": 9,
       "shared_.config.json": 1,
       "soldier.config.json": 12,
-      "wizard.config.json": 13
+      "wizard.config.json": 14
     },
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 89
+        "RPGskillbook.config.json": 93
       }
     },
     "items": {
@@ -36,11 +38,11 @@
             "explorerspiradrill3.activeitem.json": 2
           },
           "knightsword": {
-            "aegisswordcombo.weaponability.json": 1,
             "knightaegissword.activeitem.json": 1,
             "knightaegissword2.activeitem.json": 2,
-            "parryshield.weaponability.json": 1,
-            "shared_knightaegissword.json": 2
+            "knightaegissword3.activeitem.json": 2,
+            "knightaegissword4.activeitem.json": 2,
+            "parryshield.weaponability.json": 1
           },
           "ninjashuriken": {
             "ninjaaethershuriken2.thrownitem.json": 2,
@@ -67,13 +69,30 @@
             "wizardnovastaff3.activeitem.json": 2
           }
         },
+        "shared_weapons": {
+          "shared_dcombo.weaponability.json": 1
+        },
         "shared_weapons.json": 1,
         "specweapons": {
+          "adept": {
+            "phaseshift.activeitem.json": 2
+          },
+          "crusader": {
+            "oathkeeper.activeitem.json": 1
+          },
+          "necromancer": {
+            "forusall.activeitem.json": 1
+          },
           "paladin": {
             "ivrpgtrueaegis.activeitem.json": 1,
             "judgement": {
               "ivrpgjudgement.statuseffect.json": 1
             }
+          },
+          "vigilante": {
+            "anne.activeitem.json": 1,
+            "marie.activeitem.json": 1,
+            "shared_e.activeitem.json": 1
           }
         },
         "weapons": {
@@ -261,7 +280,7 @@
         }
       }
     },
-    "ivrpgtext.config.json": 58,
+    "ivrpgtext.config.json": 56,
     "monsters": {
       "ivrpgElementEffects": {
         "ivrpgoverload": {
@@ -384,6 +403,7 @@
         "wizardaffinity.statuseffect.json": 1
       }
     },
+    "shared_.config.json": 2,
     "shared_explorer.json": 3,
     "shared_knight.json": 4,
     "shared_ninja.json": 4,
@@ -392,24 +412,82 @@
       "shared_RPGskillbook..json": 1
     },
     "shared_soldier.json": 4,
+    "shared_spec.json": 7,
     "shared_stun.json": 1,
+    "shared_tech": {
+      "shared_.statuseffect.json": 1
+    },
     "shared_wizard.json": 3,
+    "specList.config.json": 32,
     "specs": {
       "abilities": {
+        "adept": {
+          "shared_.statuseffect.json": 1
+        },
+        "crusader": {
+          "purity.statuseffect.json": 1
+        },
+        "necromancer": {
+          "raiseundead.statuseffect.json": 1,
+          "undead.statuseffect.json": 1
+        },
         "paladin": {
           "perfectbarrier.statuseffect.json": 1
+        },
+        "vanguard": {
+          "inthefray.statuseffect.json": 1
+        },
+        "vigilante": {
+          "bymyownhands.statuseffect.json": 1
+        },
+        "wraith": {
+          "betweenworlds.statuseffect.json": 1
         }
       },
+      "adept.config.json": 7,
+      "crusader.config.json": 10,
+      "necromancer.config.json": 7,
       "paladin.config.json": 8,
-      "samurai.config.json": 2,
       "shared_.config.json": 1,
       "techs": {
+        "adept": {
+          "flashstep.tech.json": 1
+        },
+        "crusader": {
+          "resurgence.tech.json": 1,
+          "resurgencecooldown.statuseffect.json": 1
+        },
+        "necromancer": {
+          "reap.tech.json": 1,
+          "reaped": {
+            "reaped.statuseffect.json": 1
+          },
+          "reapedexplosion": {
+            "demonicregeneration.statuseffect.json": 1
+          },
+          "sacrifice": {
+            "sacrifice.statuseffect.json": 1
+          }
+        },
         "paladin": {
           "immaculateshield.tech.json": 1
+        },
+        "vanguard": {
+          "rush.tech.json": 1
+        },
+        "vigilante": {
+          "desperado.tech.json": 1,
+          "desperadocooldown.statuseffect.json": 1
+        },
+        "wraith": {
+          "darkphase.tech.json": 1
         }
-      }
+      },
+      "vanguard.config.json": 12,
+      "vigilante.config.json": 7,
+      "wraith.config.json": 10
     },
-    "specs.json": 1,
+    "specs.json": 7,
     "stats.config.json": 26,
     "tech": {
       "explorertech": {
@@ -450,9 +528,6 @@
         "knightslam": {
           "knightslam.tech.json": 1,
           "nofalldamageks.statuseffect.json": 1
-        },
-        "shared_knight": {
-          "shared_.statuseffect.json": 1
         }
       },
       "ninjatech": {
@@ -544,6 +619,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 63
+    "wide_spread_fields.json": 70
   }
 }

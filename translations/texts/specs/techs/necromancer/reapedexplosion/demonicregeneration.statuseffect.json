@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/necromancer/reapedexplosion/demonicregeneration.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Demonic Regeneration"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/vanguard/inthefray.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "In the Fray"
+    }
+  }
+]

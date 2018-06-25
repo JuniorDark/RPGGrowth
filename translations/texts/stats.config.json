@@ -63,6 +63,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
+        "/vigor/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greatly Increases Max Energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/vitality/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greatly Increases Max Health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
         "/strength/0/text"
       ]
     },
@@ -129,30 +151,6 @@
     "Texts": {
       "Eng": "Moderately Increases All Other Resistances.",
       "Por": "Aumenta Moderadamente Todas as Outras Resistências."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "stats.config": [
-        "/vigor/0/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Significantly Increases Max Energy.",
-      "Por": "Aumenta Significativamente a Energia Máxima."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "stats.config": [
-        "/vitality/0/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Significantly Increases Max Health.",
-      "Por": "Aumenta Significativamente a Vida Máxima"
     }
   },
   {
