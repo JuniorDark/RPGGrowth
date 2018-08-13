@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10% chance to Toxify enemies when dealing damage. Toxified enemies have -25% Max Health and are Poisoned for the duration of Toxify."
+      "Eng": "+10% chance to Toxify enemies when dealing damage. Toxified enemies have -25% Max Health and are Poisoned for the duration of Toxify.",
+      "Por": "+10% chance de Intoxicar os inimigos ao causar dano. Inimigos Intoxicados têm -25% de Vida Máxima e são Envenenados pela duração do Intoxicar."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Poison Status"
+      "Eng": "Poison Status",
+      "Por": "Status de Veneno"
     }
   }
 ]
