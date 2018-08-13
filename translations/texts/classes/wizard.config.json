@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "+6% Chance to Freeze, Burn, or Electrify enemies on hit. These effects can stack.",
-      "Por": "+ 6% de Chance de Congelar, Queimar ou Eletrificar inimigos ao acertar. Esses efeitos podem acumular."
+      "Por": "+6% de Chance de Congelar, Queimar ou Eletrificar inimigos ao acertar. Esses efeitos podem acumular."
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "110% Base Power while using a Wand in either hand without any other weapon equipped.",
-      "Por": "110% Poder Base quando utilizando uma Varinha em qualquer mão sem estar com outra arma equipada. "
+      "Por": "110% Força Base quando utilizando uma Varinha em qualquer mão sem estar com outra arma equipada. "
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "110% Base Power with Staves.",
-      "Por": "110% Poder Base com Cajados."
+      "Por": "110% Força Base com Cajados."
     }
   },
   {
@@ -55,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "80% Speed and Jump Height"
+      "Eng": "80% Speed and Jump Height",
+      "Por": "80% Velocidade e Altura no Pulo"
     }
   },
   {
@@ -90,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can equip the\nErchius Eye, Evil Eye, and Magnorbs"
+      "Eng": "Can equip the\nErchius Eye, Evil Eye, and Magnorbs",
+      "Por": "Pode equipar o\nErchius Eye, Evil Eye, e Magnorbs"
     }
   },
   {
@@ -101,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cannot use Ranged Weapons.\nCannot use Two-Handed Melee Weapons.\nCannot Dual-Wield Non-Magic Weapons."
+      "Eng": "Cannot use Ranged Weapons.\nCannot use Two-Handed Melee Weapons.\nCannot Dual-Wield Non-Magic Weapons.",
+      "Por": "Não pode usar Armas de Longo Alcance\nNão pode usar Armas Corpo a Corpo de Duas Mãos\nNão pode empunhar Duas Armas Não Mágicas."
     }
   },
   {
@@ -160,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "While using Wands or Staves, gain +10% Fire, Electric, and Ice Resistance."
+      "Eng": "While using Wands or Staves, gain +10% Fire, Electric, and Ice Resistance.",
+      "Por": "Ao usar Varinhas ou Bastões, ganhe +10% de Resistência a Fogo, Elétricidade e Gelo."
     }
   }
 ]
