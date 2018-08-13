@@ -40,7 +40,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-15% Health"
+      "Eng": "-15% Health",
+      "Por": "-15% Vida"
     }
   },
   {
@@ -84,7 +85,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-25% Electric Resistance"
+      "Eng": "-25% Electric Resistance",
+      "Por": "-25% Resistência Elétrica"
     }
   },
   {
@@ -173,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tar"
+      "Eng": "Tar",
+      "Por": "Piche"
     }
   },
   {
