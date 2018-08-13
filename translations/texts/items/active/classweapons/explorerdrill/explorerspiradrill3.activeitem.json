@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pierce the Heavens!"
+      "Eng": "Pierce the Heavens!",
+      "Por": "Perfure os Céus!"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^yellow;Ravenous Spira"
+      "Eng": "^yellow;Ravenous Spira",
+      "Por": "^yellow;Ravenous Spira"
     }
   }
 ]
