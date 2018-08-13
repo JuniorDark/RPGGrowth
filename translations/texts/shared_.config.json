@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "50% Max Health"
+      "Eng": "50% Max Health",
+      "Por": "50% Vida Máxima"
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "75% Max Energy"
+      "Eng": "75% Max Energy",
+      "Por": "75% Vida Máxima"
     }
   }
 ]
