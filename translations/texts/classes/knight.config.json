@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "120% Base Power while using a Shield with a Shortsword, Mace, or Axe.",
-      "Por": "20% Poder Base enquanto estiver usando um Escudo com um Espada Curta, Maça ou Machado."
+      "Por": "20% Força Base enquanto estiver usando um Escudo com um Espada Curta, Maça ou Machado."
     }
   },
   {
@@ -43,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "90% Speed\n70% Jump Height"
+      "Eng": "90% Speed\n70% Jump Height",
+      "Por": "90% Velocidade\n70% Altura no Pulo"
     }
   },
   {
@@ -102,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cannot equip Ranged or Magic Weapons.\nCannot Dual-Wield Weapons."
+      "Eng": "Cannot equip Ranged or Magic Weapons.\nCannot Dual-Wield Weapons.",
+      "Por": "Não pode equipar Armas Mágicas ou de Ataque a Distância.\nNão Pode Empunhar Duas Armas."
     }
   },
   {
@@ -114,7 +116,7 @@
     },
     "Texts": {
       "Eng": "Perfect Shields increase Damage by +20% for a short period.",
-      "Por": "Escudos Perfeitos aumentam o Dano em + 20% por um curto período."
+      "Por": "Escudos Perfeitos aumentam o Dano em +20% por um curto período."
     }
   }
 ]
