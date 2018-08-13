@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Adept"
+      "Eng": "Adept",
+      "Por": "Adepto"
     }
   },
   {
@@ -25,7 +26,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Crusader"
+      "Eng": "Crusader",
+      "Por": "Cruzado"
     }
   },
   {
@@ -39,7 +41,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Necromancer"
+      "Eng": "Necromancer",
+      "Por": "Necromante"
     }
   },
   {
@@ -69,7 +72,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Vanguard"
+      "Eng": "Vanguard",
+      "Por": "Vanguarda"
     }
   },
   {
@@ -83,7 +87,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Vigilante"
+      "Eng": "Vigilante",
+      "Por": "Vigilante"
     }
   },
   {
@@ -98,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wraith"
+      "Eng": "Wraith",
+      "Por": "Aparição"
     }
   }
 ]
