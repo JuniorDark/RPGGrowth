@@ -508,7 +508,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lore"
+      "Eng": "Lore",
+      "Por": "Enredo"
     }
   },
   {
@@ -772,7 +773,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Specialization Select"
+      "Eng": "Specialization Select",
+      "Por": "Seleção de Especialização"
     }
   },
   {
@@ -783,7 +785,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Specialization Title"
+      "Eng": "Specialization Title",
+      "Por": "Título de Especialização"
     }
   },
   {
@@ -794,7 +797,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Specializations can be unlocked by accomplishing certain tasks.\nUse the arrows to navigate through available Specializations."
+      "Eng": "Specializations can be unlocked by accomplishing certain tasks.\nUse the arrows to navigate through available Specializations.",
+      "Por": "Especializações podem ser desbloqueadas através da realização de certas tarefas.\nUse as setas para navegar pelas especializações disponíveis."
     }
   },
   {
@@ -860,7 +864,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Stat:\n^red;Health Multiplier:^reset;\n^green;Energy Multiplier:\nEnergy Recharge Rate:\nEnergy Recharge Delay:^reset;\n^orange;Hunger Rate Deduction:^reset;\n^gray;Knockback Resistance:\nFall Damage Multiplier:\nShield Health Multiplier:^reset;\n^red;Bleed Chance:\nBleed Length:^reset;\n\n\nDamage Resistance:\n^gray;Physical:^reset;\n^green;Poison:^reset;\n^blue;Ice:^reset;\n^red;Fire:^reset;\n^yellow;Electric:^reset;\n^magenta;Nova:\n^black;Demonic:\n^yellow;Holy:\n^green;Radioactive (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cosmic (FU):^reset;"
+      "Eng": "Stat:\n^red;Health Multiplier:^reset;\n^green;Energy Multiplier:\nEnergy Recharge Rate:\nEnergy Recharge Delay:^reset;\n^orange;Hunger Rate Deduction:^reset;\n^gray;Knockback Resistance:\nFall Damage Multiplier:\nShield Health Multiplier:^reset;\n^red;Bleed Chance:\nBleed Length:^reset;\n\n\nDamage Resistance:\n^gray;Physical:^reset;\n^green;Poison:^reset;\n^blue;Ice:^reset;\n^red;Fire:^reset;\n^yellow;Electric:^reset;\n^magenta;Nova:\n^black;Demonic:\n^yellow;Holy:\n^green;Radioactive (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cosmic (FU):^reset;",
+      "Por": "Stat:\n^red;Multiplicador de Vida:^reset;\n^green;Multiplicador de Energia:\nTaxa de Recarga de Energia:\nAtraso de Recarga de Energia:^reset;\n^orange;Dedução da Taxa de Fome:^reset;\n^gray;Resistência a Knockback:\nMultiplicador de Dano de Queda:\nMultiplicador de Vida do Escudo:^reset;\n^red;Chance de Sangramento:\nDuração do Sangramento:^reset;\n\n\nResistência a Dano:\n^gray;Fisico:^reset;\n^green;Veneno:^reset;\n^blue;Gelo:^reset;\n^red;Fogo:^reset;\n^yellow;Eletricidade:^reset;\n^magenta;Nova:\n^black;Demonic:\n^yellow;Holy:\n^green;Radioativo (FU):^reset;\n^gray;Shadow (FU):^reset;\n^magenta;Cósmico (FU):^reset;"
     }
   },
   {
@@ -972,7 +977,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Unlocked Via"
+      "Eng": "Unlocked Via",
+      "Por": "Desbloqueado Via"
     }
   },
   {
@@ -983,7 +989,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Unlocked at Level 35!\nClass Required!"
+      "Eng": "Unlocked at Level 35!\nClass Required!",
+      "Por": "Desbloqueado no Nível 35!\nClasse Obrigatória!"
     }
   },
   {
@@ -1056,7 +1063,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Weapon & Tech"
+      "Eng": "Weapon & Tech",
+      "Por": "Arma e Tecnologia"
     }
   },
   {
