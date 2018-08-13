@@ -59,7 +59,7 @@
             "roguesiphonclaw3v.activeitem.json": 2
           },
           "soldiergun": {
-            "soldierversa.activeitem.json": 0,
+            "soldierversa.activeitem.json": 1,
             "soldierversa2.activeitem.json": 1,
             "soldierversa3.activeitem.json": 0,
             "versaarfire.weaponability.json": 1
