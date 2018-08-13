@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The light reflecting off the blade feels welcoming.\n^blue;Attack Combo by Ribs."
+      "Eng": "The light reflecting off the blade feels welcoming.\n^blue;Attack Combo by Ribs.",
+      "Por": "A luz refletida na lâmina parece acolhedora.\n^blue;Combo de Ataque por Ribs."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^blue;Vital Aegis"
+      "Eng": "^blue;Vital Aegis",
+      "Por": "^blue;Vital Aegis"
     }
   }
 ]
