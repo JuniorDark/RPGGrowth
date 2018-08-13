@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "+20% Chance to Poison monsters on hit.",
-      "Por": "+ 20% de Chance de Envenenar monstros ao acertar."
+      "Por": "+20% de Chance de Envenenar monstros ao acertar."
     }
   },
   {
@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+20% Hunger Rate\n80% Max Health"
+      "Eng": "+20% Hunger Rate\n80% Max Health",
+      "Por": "+20% Taxa de Fome\n80% Vida Máxima"
     }
   },
   {
@@ -31,7 +32,7 @@
     },
     "Texts": {
       "Eng": "120% Base Power while dual-wielding One-Handed Weapons.",
-      "Por": "120% de Poder Base enquanto empunhando 2 Armas de Uma Mão."
+      "Por": "120% de Força Base enquanto empunhando 2 Armas de Uma Mão."
     }
   },
   {
@@ -54,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cannot use Two-Handed Ranged Weapons or Magic Weapons."
+      "Eng": "Cannot use Two-Handed Ranged Weapons or Magic Weapons.",
+      "Por": "Não pode usar Armas de Longo Alcance de Duas Mãos ou Armas Mágicas."
     }
   },
   {
@@ -102,7 +104,7 @@
     },
     "Texts": {
       "Eng": "While your Food Meter is filled at least halfway, gain +20% Poison Resistance.",
-      "Por": "Enquanto seu Medidor de Fome estiver cheio pelo menos até a metade, ganhe + 20% de Resistência a Veneno."
+      "Por": "Enquanto seu Medidor de Fome estiver cheio pelo menos até a metade, ganhe +20% de Resistência a Veneno."
     }
   }
 ]
