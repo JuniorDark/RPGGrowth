@@ -51,7 +51,7 @@
             "shared_ninjaaether.json": 1
           },
           "rogueclaw": {
-            "roguesiphonclaw.activeitem.json": 0,
+            "roguesiphonclaw.activeitem.json": 1,
             "roguesiphonclaw2s.activeitem.json": 1,
             "roguesiphonclaw2v.activeitem.json": 2,
             "roguesiphonclaw3e.activeitem.json": 1,
