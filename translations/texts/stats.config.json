@@ -67,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greatly Increases Max Energy."
+      "Eng": "Greatly Increases Max Energy.",
+      "Por": "Aumenta Grandemente a Energia Máxima."
     }
   },
   {
@@ -78,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greatly Increases Max Health."
+      "Eng": "Greatly Increases Max Health.",
+      "Por": "Aumenta Grandemente a Vida Máxima."
     }
   },
   {
