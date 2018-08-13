@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "+10% Bleed Chance and 0.5s Bleed Length during Nighttime or while Underground.",
-      "Por": "+ 10% Chance de Sangramento e 0.5s Duração do Sangramento durante a noite ou enquanto estiver no Subterrâneo."
+      "Por": "+10% Chance de Sangramento e 0.5s Duração do Sangramento durante a noite ou enquanto estiver no Subterrâneo."
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "110% Base Power while using Chakrams, Daggers, or Whips.",
-      "Por": "110% de Poder Base ao usar Chakrams, Adagas ou Chicotes."
+      "Por": "110% de Força Base ao usar Chakrams, Adagas ou Chicotes."
     }
   },
   {
@@ -43,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "110% Speed and Jump Height."
+      "Eng": "110% Speed and Jump Height.",
+      "Por": "110% de Velocidade e Altura do Pulo."
     }
   },
   {
@@ -55,7 +56,7 @@
     },
     "Texts": {
       "Eng": "115% Base Power while using Throwing Daggers, Knives, Kunai, Stars, or Shurikens.",
-      "Por": "115%de Poder Base enquanto estiver usando Adagas, Facas, Kunai, Estrelas ou Shurikens."
+      "Por": "115% de Força Base enquanto estiver usando Adagas, Facas, Kunai, Estrelas ou Shurikens."
     }
   },
   {
@@ -91,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Can use the Adaptable Crossbow,\nEnergy Whips, and all Katanas",
-      "Por": "Pode usar o Adaptable Crossbow,\nChicotes de Energia e todos as Katanas."
+      "Por": "Pode usar o Adaptable Crossbow,\nChicotes de Energia e todas as Katanas."
     }
   },
   {
@@ -115,7 +116,7 @@
     },
     "Texts": {
       "Eng": "Press [F] to morph into an invulnerable spike ball. Energy drains quickly while active. The invulnerability ends when you run out of energy or press [F] while transformed. Unlike other Spike Spheres, Vanish Sphere's speed scales with Aglity.",
-      "Por": "Pressione [F] para se transformar em uma bola de espinhos invulnerável. A Energia drena rapidamente enquanto estiver ativa. A invulnerabilidade termina quando você fica sem energia ou pressiona [F] enquanto transformado. Ao contrário das outras Esferas de Espinhos, a velocidade da  Esfera Desaparecedora escala com Agilidade."
+      "Por": "Pressione [F] para se transformar em uma bola de espinhos invulnerável. A Energia drena rapidamente enquanto estiver ativa. A invulnerabilidade termina quando você fica sem energia ou pressiona [F] enquanto transformado. Ao contrário das outras Esferas de Espinhos, a velocidade da Esfera Desaparecedora escala com Agilidade."
     }
   },
   {
