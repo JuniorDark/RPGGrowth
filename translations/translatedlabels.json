@@ -38,6 +38,7 @@
             "explorerspiradrill3.activeitem.json": 0
           },
           "knightsword": {
+            "aegisswordcombo.weaponability.json": 1,
             "knightaegissword.activeitem.json": 0,
             "knightaegissword2.activeitem.json": 1,
             "knightaegissword3.activeitem.json": 0,
@@ -69,9 +70,6 @@
             "wizardnovastaff3.activeitem.json": 0
           }
         },
-        "shared_weapons": {
-          "shared_dcombo.weaponability.json": 1
-        },
         "shared_weapons.json": 1,
         "specweapons": {
           "adept": {
@@ -89,10 +87,16 @@
               "ivrpgjudgement.statuseffect.json": 1
             }
           },
+          "vanguard": {
+            "dangerclose.activeitem.json": 0
+          },
           "vigilante": {
             "anne.activeitem.json": 0,
             "marie.activeitem.json": 0,
             "shared_e.activeitem.json": 0
+          },
+          "wraith": {
+            "soullesswhisper.activeitem.json": 0
           }
         },
         "weapons": {
@@ -282,6 +286,11 @@
     },
     "ivrpgtext.config.json": 55,
     "monsters": {
+      "flyers": {
+        "bonepteropod": {
+          "bonepteropod.monstertype.json": 0
+        }
+      },
       "ivrpgElementEffects": {
         "ivrpgoverload": {
           "ivrpgoverload.statuseffect.json": 1
@@ -428,8 +437,7 @@
           "purity.statuseffect.json": 0
         },
         "necromancer": {
-          "raiseundead.statuseffect.json": 0,
-          "undead.statuseffect.json": 0
+          "raiseundead.statuseffect.json": 0
         },
         "paladin": {
           "perfectbarrier.statuseffect.json": 1
@@ -447,6 +455,7 @@
       "adept.config.json": 0,
       "crusader.config.json": 0,
       "necromancer.config.json": 0,
+      "necromancer.json": 0,
       "paladin.config.json": 3,
       "shared_.config.json": 0,
       "techs": {

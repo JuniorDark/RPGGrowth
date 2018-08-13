@@ -47,11 +47,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/necromancer.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "For Us All"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/necromancer.config": [
         "/tech/text"
       ]
     },
     "Texts": {
-      "Eng": "Press [G] to use 10 Health and reach out with a dangerous demonic magic. Any enemy hit by this magic with Current Health less than (Intelligence/3+15)% of their Max Health are immediately killed. Enemies killed by this magic explode into a mist that heals yourself and allies with a potent demonic energy, yet causes enemies to slowly deteriorate."
+      "Eng": "Press [F] to sacrifice 10 Health and unleash a dangerous demonic magic that kills enemies with Current Health less than (Intelligence/3+15)% of their Max Health. Killed enemies explode into a mist that heals allies with a potent demonic energy, yet causes enemies to slowly deteriorate. After killing enemies with Reap, hold [Shift] before pressing [F] to summon a Bone Pteropod for 10 seconds. Its level scales with how many enemies were killed with Reap."
     }
   },
   {

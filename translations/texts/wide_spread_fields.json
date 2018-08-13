@@ -471,20 +471,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "items/active/specweapons/necromancer/forusall.activeitem": [
-        "/shortdescription"
-      ],
-      "specs/necromancer.config": [
-        "/weapon/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "For Us All"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "items/upgrade chips/tech/ivrpgucfourthwall.activeitem": [
         "/shortdescription"
       ],

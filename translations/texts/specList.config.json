@@ -7,7 +7,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Adepts are Ninjas who have harnessed chaotic energy, so much so that they have become unstable. Because of this, Adepts can utilize Wands, and can lighten themselves and nearby matter."
+      "Eng": "Adepts are Ninjas who have harnessed chaotic energy, so much so that they have become unstable. Because of this, Adepts can utilize wands and can lighten themselves and nearby matter. However, the price for such power is costly..."
     }
   },
   {
@@ -52,7 +52,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Crusaders are holy fighters."
+      "Eng": "Crusaders are holy fighters who crush enemies with devasting combos. Zealots who are unable to stomach heathens, Crusaders do poorly when touched by foes, but excel at killing enemies quickly. Crusaders only really use broadswords, but can still poorly wield two-handed melee weapons."
     }
   },
   {
@@ -64,6 +64,29 @@
     },
     "Texts": {
       "Eng": "Deadshot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/0/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Defeat enemies while your current health is lower than 20% of your max health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/5/unlockText",
+        "/4/3/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Defeat ghosts while Intelligence is greater than 40."
     }
   },
   {
@@ -86,7 +109,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly."
+      "Eng": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly. Vanguards excel with Machine Pistols and often utilize melee weapons when they run out of energy."
     }
   },
   {
@@ -119,7 +142,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Necromancers fight via dark magic and through raising the dead."
+      "Eng": "Necromancers fight using demonic magic and can raise the dead, and handle close-range combat much better than most Wizards. Because of their close attunement to death, Necromancers can efficiently wield scythes and daggers, and are often able to drain life from enemies to heal allies."
     }
   },
   {
@@ -130,7 +153,18 @@
       ]
     },
     "Texts": {
-      "Eng": "Paladins are holy shields, blocking attacks from every angle with a sturdy grip. Paladins are masters with Shields, and have slight magical affinity, moreso than most other Knights."
+      "Eng": "Paladins are holy defenders who block attacks from every angle with a sturdy grip. Paladins are masters with shields, and have slight magical affinity, moreso than most other Knights."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/0/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect shield the Heart of Ruin's tentacles."
     }
   },
   {
@@ -241,56 +275,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/3/2/unlockText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Unlocked by defeating bandits with ranged weaponry as a Soldier."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/1/0/unlockText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Unlocked by defeating enemies while at low health."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/1/5/unlockText",
-        "/4/3/unlockText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Unlocked by defeating ghosts as a Rogue or Wizard with high Intelligence."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/0/0/unlockText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Unlocked by perfect shielding the Ruin as a Knight."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
         "/2/3/unlockText"
       ]
     },
     "Texts": {
-      "Eng": "Unlocked by raising Intelligence and Agility as a Wizard or Ninja."
+      "Eng": "Survive for 30 seconds very close to the Heart of Ruin while both Intelligence and Agility are greater than 40."
     }
   },
   {
@@ -302,7 +291,18 @@
       ]
     },
     "Texts": {
-      "Eng": "Unlocked by using a Broadsword to defeat enemies as either a Knight or a Wizard. Unlocked faster by defeating Cultists and Avian Temple Guards."
+      "Eng": "Use a Broadsword to defeat enemies. Unlocked faster by defeating Cultists or Avian Temple Guards."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/2/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use ranged weapons to defeat bandits and outlaws."
     }
   },
   {
@@ -314,7 +314,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Use ranged weaponry to defeat enemies while up close and personal as a Soldier or Explorer."
+      "Eng": "Use ranged weapons to defeat enemies while up close and personal."
     }
   },
   {
@@ -336,7 +336,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Vigilantes use their own moral system to enact justice as they see fit."
+      "Eng": "Vigilantes use their own moral system to enact justice as they see fit. Due to their love of pistols, they can easily dual-wield ranged weapons. When fighting villains, Vigilantes get a rush of power and energy to take matters into their own hands."
     }
   },
   {
@@ -370,7 +370,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Wraiths are spirits, no longer corporeal."
+      "Eng": "Wraiths are spirits, no longer corporeal. Because of this, Wraiths are barely affected by gravity and can phase through matter when threatened. Wraiths are unable to wield large weapons and can no longer use magic."
     }
   }
 ]

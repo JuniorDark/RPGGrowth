@@ -128,7 +128,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Pressing [G] while your cursor points near an enemy allows you to near-instantly travel towards that enemy. While traveling, you are immune to damage and can phase through walls. Upon reappearing, create a large electrical explosion that stuns. Explosion Damage scales with Agility and Dexterity. Energy Cost is 150. ^red;You cannot use Rush on enemies inside blocks."
+      "Eng": "Pressing [G] while your cursor points near an enemy allows you to near-instantly travel towards that enemy. While traveling, you are immune to damage and can phase through walls. Upon reappearing, create a large electrical explosion that stuns, and regenerates 20% Max Energy upon landing a killing blow. Explosion Damage scales with Agility and Dexterity. Energy Cost is 150. ^red;You cannot use Rush on enemies inside blocks."
     }
   }
 ]

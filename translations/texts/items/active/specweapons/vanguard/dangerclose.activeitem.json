@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/vanguard/dangerclose.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sometimes you need to get close to feel that thrill."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/vanguard/dangerclose.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Danger Close"
+    }
+  }
+]

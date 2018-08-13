@@ -38,6 +38,7 @@
             "explorerspiradrill3.activeitem.json": 2
           },
           "knightsword": {
+            "aegisswordcombo.weaponability.json": 1,
             "knightaegissword.activeitem.json": 1,
             "knightaegissword2.activeitem.json": 2,
             "knightaegissword3.activeitem.json": 2,
@@ -69,9 +70,6 @@
             "wizardnovastaff3.activeitem.json": 2
           }
         },
-        "shared_weapons": {
-          "shared_dcombo.weaponability.json": 1
-        },
         "shared_weapons.json": 1,
         "specweapons": {
           "adept": {
@@ -81,7 +79,7 @@
             "oathkeeper.activeitem.json": 1
           },
           "necromancer": {
-            "forusall.activeitem.json": 1
+            "forusall.activeitem.json": 2
           },
           "paladin": {
             "ivrpgtrueaegis.activeitem.json": 1,
@@ -89,10 +87,16 @@
               "ivrpgjudgement.statuseffect.json": 1
             }
           },
+          "vanguard": {
+            "dangerclose.activeitem.json": 2
+          },
           "vigilante": {
             "anne.activeitem.json": 1,
             "marie.activeitem.json": 1,
             "shared_e.activeitem.json": 1
+          },
+          "wraith": {
+            "soullesswhisper.activeitem.json": 2
           }
         },
         "weapons": {
@@ -282,6 +286,11 @@
     },
     "ivrpgtext.config.json": 56,
     "monsters": {
+      "flyers": {
+        "bonepteropod": {
+          "bonepteropod.monstertype.json": 2
+        }
+      },
       "ivrpgElementEffects": {
         "ivrpgoverload": {
           "ivrpgoverload.statuseffect.json": 1
@@ -428,8 +437,7 @@
           "purity.statuseffect.json": 1
         },
         "necromancer": {
-          "raiseundead.statuseffect.json": 1,
-          "undead.statuseffect.json": 1
+          "raiseundead.statuseffect.json": 1
         },
         "paladin": {
           "perfectbarrier.statuseffect.json": 1
@@ -446,7 +454,8 @@
       },
       "adept.config.json": 7,
       "crusader.config.json": 10,
-      "necromancer.config.json": 7,
+      "necromancer.config.json": 8,
+      "necromancer.json": 1,
       "paladin.config.json": 8,
       "shared_.config.json": 1,
       "techs": {
@@ -485,7 +494,7 @@
       },
       "vanguard.config.json": 12,
       "vigilante.config.json": 7,
-      "wraith.config.json": 10
+      "wraith.config.json": 11
     },
     "specs.json": 7,
     "stats.config.json": 26,
@@ -619,6 +628,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 70
+    "wide_spread_fields.json": 69
   }
 }

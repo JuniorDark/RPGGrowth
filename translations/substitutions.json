@@ -167,9 +167,6 @@
   "items/active/classweapons/explorerdrill/explorerspiradrill.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
-  "items/active/classweapons/knightsword/aegisswordcombo.weaponability": {
-    "/ability/name": "texts/items/active/shared_weapons/shared_dcombo.weaponability.json"
-  },
   "items/active/classweapons/knightsword/knightaegissword.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
@@ -201,12 +198,6 @@
   },
   "items/active/specweapons/crusader/oathkeeper.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
-  },
-  "items/active/specweapons/necromancer/forusall.activeitem": {
-    "/shortdescription": "texts/wide_spread_fields.json"
-  },
-  "items/active/specweapons/necromancer/largeedgedcombo.weaponability": {
-    "/ability/name": "texts/items/active/shared_weapons/shared_dcombo.weaponability.json"
   },
   "items/active/specweapons/paladin/ivrpgtrueaegis.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
@@ -562,6 +553,9 @@
   "specs/abilities/adept/agilemagicspeed.statuseffect": {
     "/label": "texts/specs/abilities/adept/shared_.statuseffect.json"
   },
+  "specs/abilities/necromancer/undead.statuseffect": {
+    "/label": "texts/specs/necromancer.json"
+  },
   "specs/adept.config": {
     "/effects/0/text": "texts/wide_spread_fields.json",
     "/effects/1/text": "texts/wide_spread_fields.json",
@@ -581,8 +575,7 @@
     "/effects/5/text": "texts/shared_.config.json",
     "/effects/6/text": "texts/specs/shared_.config.json",
     "/tech/title": "texts/specs.json",
-    "/title": "texts/shared_spec.json",
-    "/weapon/title": "texts/wide_spread_fields.json"
+    "/title": "texts/shared_spec.json"
   },
   "specs/paladin.config": {
     "/effects/0/text": "texts/wide_spread_fields.json",
@@ -602,6 +595,9 @@
   },
   "specs/techs/necromancer/reap.tech": {
     "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/necromancer/sacrifice/bonemonster.statuseffect": {
+    "/label": "texts/specs/necromancer.json"
   },
   "specs/techs/paladin/immaculateshield.tech": {
     "/shortDescription": "texts/specs.json"

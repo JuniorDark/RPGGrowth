@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/bonepteropod/bonepteropod.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Pteropod trapped in time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/bonepteropod/bonepteropod.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Pteropod"
+    }
+  }
+]

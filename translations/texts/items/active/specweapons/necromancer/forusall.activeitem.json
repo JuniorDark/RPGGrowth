@@ -3,11 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/active/specweapons/necromancer/forusall.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Collector"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/necromancer/forusall.activeitem": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "Death Comes"
+      "Eng": "Death comes for us all"
     }
   }
 ]

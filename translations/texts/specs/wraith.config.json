@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/wraith.config": [
+        "/effects/8/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-50% Physical Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/wraith.config": [
         "/effects/5/text"
       ]
     },
@@ -40,7 +51,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Can Dual-Wield Wands and Melee Weapons."
+      "Eng": "Can Dual-Wield Melee Weapons."
     }
   },
   {
@@ -106,7 +117,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Cannot Wield Two-Handed Weapons.^reset;"
+      "Eng": "^red;Cannot Wield Two-Handed Weapons, Ranged Weapons, or Magic Weapons.^reset;"
     }
   }
 ]
