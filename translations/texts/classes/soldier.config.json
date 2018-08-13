@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "110% Base Power with Sniper Rifles, Assault Rifles, and Shotguns.",
-      "Por": "110% Poder Base com Rifles Sniper, Rifles de Assalto, e Espingardas."
+      "Por": "110% Força Base com Rifles Sniper, Rifles de Assalto, e Espingardas."
     }
   },
   {
@@ -43,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "110% Power when Energy reaches full.\nCancelled when Energy drops below 75%."
+      "Eng": "110% Power when Energy reaches full.\nCancelled when Energy drops below 75%.",
+      "Por": "110% Força quando a Energia esta cheia.\nCancelado quando a energia cai abaixo de 75%."
     }
   },
   {
@@ -55,7 +56,7 @@
     },
     "Texts": {
       "Eng": "120% Base Power while using One-Handed Guns in combination with Grenades.",
-      "Por": "120% Poder Base quando utilizando Armas de Fogo de Uma Mão em combinação com Granadas."
+      "Por": "120% Força Base quando utilizando Armas de Fogo de Uma Mão em combinação com Granadas."
     }
   },
   {
@@ -66,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "90% Jump Height"
+      "Eng": "90% Jump Height",
+      "Por": "90% Altura no Pulo"
     }
   },
   {
@@ -102,7 +104,7 @@
     },
     "Texts": {
       "Eng": "Cannot use Melee Weapons.\nCannot use Magic Weapons.\nCannot Dual-Wield.\nCannot use Erchius Eye.",
-      "Por": "Não pode usar Armas Corpo-a-corpo.\nNão pode usar Armas Mágicas.\nNão pode Usar Duas Armas.\nNão pode usar o Erchius Eye."
+      "Por": "Não pode usar Armas Corpo-a-corpo.\nNão pode usar Armas Mágicas.\nNão pode empunhar Duas Armas.\nNão pode usar o Erchius Eye."
     }
   },
   {
