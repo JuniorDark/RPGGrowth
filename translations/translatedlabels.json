@@ -40,7 +40,7 @@
           "knightsword": {
             "aegisswordcombo.weaponability.json": 1,
             "knightaegissword.activeitem.json": 1,
-            "knightaegissword2.activeitem.json": 1,
+            "knightaegissword2.activeitem.json": 2,
             "knightaegissword3.activeitem.json": 0,
             "knightaegissword4.activeitem.json": 2,
             "parryshield.weaponability.json": 1
