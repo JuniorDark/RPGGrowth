@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "150% Base Power with Shields:\nScales with Str. and Int."
+      "Eng": "150% Base Power with Shields:\nScales with Str. and Int.",
+      "Por": "150% Força Base com Escudos:\nEscala com Força. e Inteligência."
     }
   },
   {
@@ -30,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "80% Jump Height"
+      "Eng": "80% Jump Height",
+      "Por": "80% Altura no Pulo"
     }
   },
   {
@@ -41,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "90% Speed"
+      "Eng": "90% Speed",
+      "Por": "90% Velocidade"
     }
   },
   {
@@ -52,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can use Wands."
+      "Eng": "Can use Wands.",
+      "Por": "Pode usar Varinhas."
     }
   },
   {
@@ -75,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pressing [W] toggles Immaculate Shield, a buff that halves Shield Stamina, but provides bonuses for your shield. While Immaculate Shield is active, monsters that hit your shield are stricken with Judgement Status, and Perfect Shields provide Health Regeneration to yourself and nearby allies."
+      "Eng": "Pressing [W] toggles Immaculate Shield, a buff that halves Shield Stamina, but provides bonuses for your shield. While Immaculate Shield is active, monsters that hit your shield are stricken with Judgement Status, and Perfect Shields provide Health Regeneration to yourself and nearby allies.",
+      "Por": "Pressionar [W] atica o Escudo Imaculado, um bônus que reduz pela metade a resistência do escudo, mas fornece bônus para o seu escudo. Enquanto o Escudo Imaculado estiver ativo, os monstros que acertam o seu escudo são atingidos com o Status de Julgamento, e os Escudos Perfeitos fornecem Regeneração de Vida para você e seus aliados próximos."
     }
   },
   {
