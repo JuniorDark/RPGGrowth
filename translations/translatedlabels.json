@@ -443,7 +443,7 @@
           "bymyownhands.statuseffect.json": 1
         },
         "wraith": {
-          "betweenworlds.statuseffect.json": 0
+          "betweenworlds.statuseffect.json": 1
         }
       },
       "adept.config.json": 0,
