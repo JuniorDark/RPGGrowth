@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "They say life is important... Well, so is taking it away."
+      "Eng": "They say life is important... Well, so is taking it away.",
+      "Por": "Dizem que a vida é importante... Bem, então isso está levando embora."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^gray;For Us All"
+      "Eng": "^gray;For Us All",
+      "Por": "^gray;For Us All"
     }
   }
 ]
