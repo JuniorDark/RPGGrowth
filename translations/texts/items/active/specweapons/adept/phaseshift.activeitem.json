@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "To you, the Universe is nothing."
+      "Eng": "To you, the Universe is nothing.",
+      "Por": "Para você, o Universo não é nada."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Phase Shift"
+      "Eng": "^red;Phase Shift",
+      "Por": "^red;Phase Shift"
     }
   }
 ]

@@ -73,7 +73,7 @@
         },
         "specweapons": {
           "adept": {
-            "phaseshift.activeitem.json": 0
+            "phaseshift.activeitem.json": 2
           },
           "crusader": {
             "oathkeeper.activeitem.json": 0
