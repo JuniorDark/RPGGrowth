@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sometimes you need to kill enemies behind you, too."
+      "Eng": "Sometimes you need to kill enemies behind you, too.",
+      "Por": "Às vezes você precisa matar inimigos atrás de você também."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Versa Ricochet"
+      "Eng": "^orange;Versa Ricochet",
+      "Por": "^orange;Versa Ricochet"
     }
   }
 ]

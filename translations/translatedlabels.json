@@ -61,7 +61,7 @@
           "soldiergun": {
             "soldierversa.activeitem.json": 1,
             "soldierversa2.activeitem.json": 2,
-            "soldierversa3.activeitem.json": 0,
+            "soldierversa3.activeitem.json": 2,
             "versaarfire.weaponability.json": 1
           },
           "wizardstaff": {
