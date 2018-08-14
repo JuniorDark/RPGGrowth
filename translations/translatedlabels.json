@@ -440,7 +440,7 @@
           "inthefray.statuseffect.json": 1
         },
         "vigilante": {
-          "bymyownhands.statuseffect.json": 0
+          "bymyownhands.statuseffect.json": 1
         },
         "wraith": {
           "betweenworlds.statuseffect.json": 0
