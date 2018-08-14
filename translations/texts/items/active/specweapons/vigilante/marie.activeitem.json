@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "She wasn't very loud, sure, but it don't matter much when your shootin' does the talkin'."
+      "Eng": "She wasn't very loud, sure, but it don't matter much when your shootin' does the talkin'.",
+      "Por": "Ela não era muito barulhenta, claro, mas não importa muito quando seu disparo fala por você."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^blue;Marie"
+      "Eng": "^blue;Marie",
+      "Por": "^blue;Marie"
     }
   }
 ]
