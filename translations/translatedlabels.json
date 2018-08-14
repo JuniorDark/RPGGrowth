@@ -476,7 +476,7 @@
           "rush.tech.json": 1
         },
         "vigilante": {
-          "desperado.tech.json": 0,
+          "desperado.tech.json": 1,
           "desperadocooldown.statuseffect.json": 0
         },
         "wraith": {
