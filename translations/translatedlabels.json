@@ -451,7 +451,7 @@
       "necromancer.config.json": 8,
       "necromancer.json": 1,
       "paladin.config.json": 9,
-      "shared_.config.json": 0,
+      "shared_.config.json": 1,
       "techs": {
         "adept": {
           "flashstep.tech.json": 0
