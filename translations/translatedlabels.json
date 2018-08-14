@@ -477,7 +477,7 @@
         },
         "vigilante": {
           "desperado.tech.json": 1,
-          "desperadocooldown.statuseffect.json": 0
+          "desperadocooldown.statuseffect.json": 1
         },
         "wraith": {
           "darkphase.tech.json": 0
