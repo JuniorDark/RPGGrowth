@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+20% Demonic Resistance\n+20% Poison Resistance"
+      "Eng": "+20% Demonic Resistance\n+20% Poison Resistance",
+      "Por": "+20% Resistência Demoníaca\n+20% Resistência a Veneno"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Base Power with Daggers and Scythes: Scales with Int."
+      "Eng": "120% Base Power with Daggers and Scythes: Scales with Int.",
+      "Por": "120% Força Base com Adagas e Foices: Escala com Inteligencia."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can Dual-Wield Daggers."
+      "Eng": "Can Dual-Wield Daggers.",
+      "Por": "Pode Empunhar Duas Adagas."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can Wield Scythes."
+      "Eng": "Can Wield Scythes.",
+      "Por": "Pode Empunhar Foices."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "For Us All"
+      "Eng": "For Us All",
+      "Por": "Por Todos Nós"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [F] to sacrifice 10 Health and unleash a dangerous demonic magic that kills enemies with Current Health less than (Intelligence/3+15)% of their Max Health. Killed enemies explode into a mist that heals allies with a potent demonic energy, yet causes enemies to slowly deteriorate. After killing enemies with Reap, hold [Shift] before pressing [F] to summon a Bone Pteropod for 10 seconds. Its level scales with how many enemies were killed with Reap."
+      "Eng": "Press [F] to sacrifice 10 Health and unleash a dangerous demonic magic that kills enemies with Current Health less than (Intelligence/3+15)% of their Max Health. Killed enemies explode into a mist that heals allies with a potent demonic energy, yet causes enemies to slowly deteriorate. After killing enemies with Reap, hold [Shift] before pressing [F] to summon a Bone Pteropod for 10 seconds. Its level scales with how many enemies were killed with Reap.",
+      "Por": "Aperte [F] para sacrificar 10 de Vida e liberar uma perigosa magia demoníaca que mata os inimigos com Vida Atual menor que (Inteligência/3+15)% de sua Vida Máxima. Os inimigos mortos explodem em uma névoa que cura os aliados com uma potente energia demoníaca, mas faz com que os inimigos se deteriorem lentamente. Depois de matar inimigos com Ceifar, segure [Shift] antes de pressionar [F] para invocar um Pteropod Bone por 10 segundos. Seu nível escala com quantos inimigos foram mortos com o Ceifar."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Shadow Immunity (FU)"
+      "Eng": "Shadow Immunity (FU)",
+      "Por": "Imunidade a Shadow (FU)"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "There is a 20% chance that enemies killed with a Dagger, Scythe, or Demonic Magic will revive and help you in battle for a short time."
+      "Eng": "There is a 20% chance that enemies killed with a Dagger, Scythe, or Demonic Magic will revive and help you in battle for a short time.",
+      "Por": "Há 20% de chance de que inimigos mortos com Adaga, Foice ou Magia Demoníaca revivam e ajudem você em batalha por um curto período de tempo."
     }
   }
 ]
