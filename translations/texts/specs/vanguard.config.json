@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10% Hunger Rate"
+      "Eng": "+10% Hunger Rate",
+      "Por": "+10% Taxa de Fome"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+25% Electric Resistance"
+      "Eng": "+25% Electric Resistance",
+      "Por": "+25% Resistência Elétrica"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+25% Knockback Resistance"
+      "Eng": "+25% Knockback Resistance",
+      "Por": "+25% Resistência a Knockback"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-50% Poison, Fire, and Ice Resistance"
+      "Eng": "-50% Poison, Fire, and Ice Resistance",
+      "Por": "-50% Resistência ao Veneno, Fogo e Gelo"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Base Power with Machine Pistols"
+      "Eng": "120% Base Power with Machine Pistols",
+      "Por": "120% Poder Base com Machine Pistols"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "150% Base Power with Shotguns"
+      "Eng": "150% Base Power with Shotguns",
+      "Por": "150% Poder Base com Espingardas"
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "75% Jump Height"
+      "Eng": "75% Jump Height",
+      "Por": "75% Altura no Pulo"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can use Machine Pistols with other Weapons."
+      "Eng": "Can use Machine Pistols with other Weapons.",
+      "Por": "Pode usar Machine Pistols com outras Armas."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can use Melee Weapons."
+      "Eng": "Can use Melee Weapons.",
+      "Por": "Pode usar Armas Corpo-a-Corpo."
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cannot use Sniper Rifles, Rocket Launchers, or Grenade Launchers."
+      "Eng": "Cannot use Sniper Rifles, Rocket Launchers, or Grenade Launchers.",
+      "Por": "Não pode usar Rifles Sniper, Lança-Foguetes, ou Lança-Granadas."
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Increased Physical Resistance, Energy, and Speed while near enemies. Decreased Power and Energy while far from enemies."
+      "Eng": "Increased Physical Resistance, Energy, and Speed while near enemies. Decreased Power and Energy while far from enemies.",
+      "Por": "Maior Resistência Física, Energia e Velocidade, enquanto perto de inimigos. Força e Energia diminuídas enquanto longe dos inimigos."
     }
   },
   {
@@ -128,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pressing [G] while your cursor points near an enemy allows you to near-instantly travel towards that enemy. While traveling, you are immune to damage and can phase through walls. Upon reappearing, create a large electrical explosion that stuns, and regenerates 20% Max Energy upon landing a killing blow. Explosion Damage scales with Agility and Dexterity. Energy Cost is 150. ^red;You cannot use Rush on enemies inside blocks."
+      "Eng": "Pressing [G] while your cursor points near an enemy allows you to near-instantly travel towards that enemy. While traveling, you are immune to damage and can phase through walls. Upon reappearing, create a large electrical explosion that stuns, and regenerates 20% Max Energy upon landing a killing blow. Explosion Damage scales with Agility and Dexterity. Energy Cost is 150. ^red;You cannot use Rush on enemies inside blocks.",
+      "Por": "Pressionar [G] enquanto seu cursor aponta para perto de um inimigo permite que você viaje quase instantaneamente em direção a esse inimigo. Ao viajar, você ficaá imune a dano e pode atravessar as paredes. Ao reaparecer, crie uma grande explosão elétrica que atordoa e regenera 20% de Energia máxima ao acertar um golpe fatal. O Dano da Explosão escala com Agilidade e Destreza. O custo de Energia é 150. ^red;Você não pode usar o Rush nos inimigos dentro de blocos."
     }
   }
 ]
