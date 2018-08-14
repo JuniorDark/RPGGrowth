@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dark Phase"
+      "Eng": "Dark Phase",
+      "Por": "Fase Sombria"
     }
   },
   {
@@ -27,7 +28,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Desperado"
+      "Eng": "Desperado",
+      "Por": "Desperado"
     }
   },
   {
@@ -41,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Flash Step"
+      "Eng": "Flash Step",
+      "Por": "Flash Step"
     }
   },
   {
@@ -73,7 +76,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Reap"
+      "Eng": "Reap",
+      "Por": "Ceifar"
     }
   },
   {
@@ -87,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Resurgence"
+      "Eng": "Resurgence",
+      "Por": "Ressurgimento"
     }
   },
   {
@@ -101,7 +106,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Rush"
+      "Eng": "Rush",
+      "Por": "Investida"
     }
   }
 ]
