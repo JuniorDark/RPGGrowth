@@ -454,7 +454,7 @@
       "shared_.config.json": 1,
       "techs": {
         "adept": {
-          "flashstep.tech.json": 0
+          "flashstep.tech.json": 1
         },
         "crusader": {
           "resurgence.tech.json": 0,
