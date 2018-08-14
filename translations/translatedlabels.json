@@ -463,7 +463,7 @@
         "necromancer": {
           "reap.tech.json": 1,
           "reaped": {
-            "reaped.statuseffect.json": 0
+            "reaped.statuseffect.json": 1
           },
           "reapedexplosion": {
             "demonicregeneration.statuseffect.json": 0
