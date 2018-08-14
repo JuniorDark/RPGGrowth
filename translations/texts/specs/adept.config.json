@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+25% Elemental Resistance"
+      "Eng": "+25% Elemental Resistance",
+      "Por": "+25% Resistência Elementar"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-25% Physical Resistance"
+      "Eng": "-25% Physical Resistance",
+      "Por": "-25% Resistência Física"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "115% Base Power with Wands: Scales with Dex."
+      "Eng": "115% Base Power with Wands: Scales with Dex.",
+      "Por": "115% Força Base com Varinhas: Escala com Destreza."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "75% Max Health"
+      "Eng": "75% Max Health",
+      "Por": "75% Vida Máxima"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can Wield Wands."
+      "Eng": "Can Wield Wands.",
+      "Por": "Pode Empunhar Varinhas."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Upon attempting to jump, you instantly teleport towards the direction you are holding instead. Energy Cost is 10 per Flash Step and decreases with higher Intelligence. Distance scales with Agility, from 10 up to a max of 15, and is halved when holding [Shift]. After 8 quick Flash Steps, each within 1.5 seconds of each other, subsequent Flash Steps cause strain on the body and begin to deal damage. ^red;You can Flash Step through and into walls, so be careful.^reset;"
+      "Eng": "Upon attempting to jump, you instantly teleport towards the direction you are holding instead. Energy Cost is 10 per Flash Step and decreases with higher Intelligence. Distance scales with Agility, from 10 up to a max of 15, and is halved when holding [Shift]. After 8 quick Flash Steps, each within 1.5 seconds of each other, subsequent Flash Steps cause strain on the body and begin to deal damage. ^red;You can Flash Step through and into walls, so be careful.^reset;",
+      "Por": "Ao tentar pular, você se teletransporta instantaneamente para a direção que está segurando. O Custo de Energia é 10 por Flash Step e diminui com Inteligência maior. Distancia escala com Agilidade, de 10 até um máximo de 15, e é reduzido pela metade ao segurar [Shift]. Após 8 Flash Steps rápidos, cada Flash Steps dentro de 1.5 segundos um do outro, Flash Steps subsequentes causa tensão no corpo e começa a causar dano. ^red;Você pode usar o Flash Step para passar e entrar nas paredes, então tenha cuidado.^reset;"
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "When Energy fully recharges, you and nearby allies gain a temporary Speed Boost. You are immune to Fall Damage at Max Energy."
+      "Eng": "When Energy fully recharges, you and nearby allies gain a temporary Speed Boost. You are immune to Fall Damage at Max Energy.",
+      "Por": "Quando a Energia esta totalmente recarregada, você e seus aliados próximos ganham um Aumento de Velocidade temporário. Você é imune aDdano de qQueda com Energia Máxima."
     }
   }
 ]
