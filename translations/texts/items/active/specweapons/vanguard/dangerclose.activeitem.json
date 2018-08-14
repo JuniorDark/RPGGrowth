@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It's thrilling getting so close. After all, it lets you hear when their heart stops beating."
+      "Eng": "It's thrilling getting so close. After all, it lets you hear when their heart stops beating.",
+      "Por": "É emocionante ficar tão perto. Afinal, permite que você ouça quando o coração deles param de bater."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Danger Close"
+      "Eng": "^red;Danger Close",
+      "Por": "^red;Danger Close"
     }
   }
 ]
