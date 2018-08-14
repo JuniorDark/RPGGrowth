@@ -480,7 +480,7 @@
           "desperadocooldown.statuseffect.json": 1
         },
         "wraith": {
-          "darkphase.tech.json": 0
+          "darkphase.tech.json": 1
         }
       },
       "vanguard.config.json": 12,
