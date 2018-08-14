@@ -67,7 +67,7 @@
           "wizardstaff": {
             "novastaffswitch.weaponability.json": 1,
             "wizardnovastaff.activeitem.json": 1,
-            "wizardnovastaff2.activeitem.json": 1,
+            "wizardnovastaff2.activeitem.json": 2,
             "wizardnovastaff3.activeitem.json": 0
           }
         },
