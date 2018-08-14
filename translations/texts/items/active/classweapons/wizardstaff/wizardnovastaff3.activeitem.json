@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Explosions. Explosions everywhere."
+      "Eng": "Explosions. Explosions everywhere.",
+      "Por": "Explosões. Explosões por toda parte."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^magenta;Primed Nova"
+      "Eng": "^magenta;Primed Nova",
+      "Por": "^magenta;Primed Nova"
     }
   }
 ]
