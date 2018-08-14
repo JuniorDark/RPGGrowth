@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Adepts are Ninjas who have harnessed chaotic energy, so much so that they have become unstable. Because of this, Adepts can utilize wands and can lighten themselves and nearby matter. However, the price for such power is costly..."
+      "Eng": "Adepts are Ninjas who have harnessed chaotic energy, so much so that they have become unstable. Because of this, Adepts can utilize wands and can lighten themselves and nearby matter. However, the price for such power is costly...",
+      "Por": "Adeptos são ninjas que aproveitaram a energia caótica, tanto que se tornaram instáveis. Por causa disso, Adeptos podem utilizar varinhas e podem iluminar a si mesmos e a matéria próxima. No entanto, o preço de tal poder é caro..."
     }
   },
   {
@@ -19,7 +20,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Assassin"
+      "Eng": "Assassin",
+      "Por": "Assassino"
     }
   },
   {
@@ -30,7 +32,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Battle Mage"
+      "Eng": "Battle Mage",
+      "Por": "Mago de Batalha"
     }
   },
   {
@@ -42,7 +45,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Berserker"
+      "Eng": "Berserker",
+      "Por": "Berserker"
     }
   },
   {
@@ -54,7 +58,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bounty Hunter"
+      "Eng": "Bounty Hunter",
+      "Por": "Caçador de Recompensas"
     }
   },
   {
@@ -65,7 +70,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cannoneer"
+      "Eng": "Cannoneer",
+      "Por": "Artilheiro"
     }
   },
   {
@@ -76,7 +82,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Captain"
+      "Eng": "Captain",
+      "Por": "Capitão"
     }
   },
   {
@@ -88,7 +95,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Changeling"
+      "Eng": "Changeling",
+      "Por": "Changeling"
     }
   },
   {
@@ -100,7 +108,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Cleric"
+      "Eng": "Cleric",
+      "Por": "Clérigo"
     }
   },
   {
@@ -112,7 +121,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Conquistador"
+      "Eng": "Conquistador",
+      "Por": "Conquistador"
     }
   },
   {
@@ -124,7 +134,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Crusaders are holy fighters who crush enemies with devasting combos. Zealots who are unable to stomach heathens, Crusaders do poorly when touched by foes, but excel at killing enemies quickly. Crusaders only really use broadswords, but can still poorly wield two-handed melee weapons."
+      "Eng": "Crusaders are holy fighters who crush enemies with devasting combos. Zealots who are unable to stomach heathens, Crusaders do poorly when touched by foes, but excel at killing enemies quickly. Crusaders only really use broadswords, but can still poorly wield two-handed melee weapons.",
+      "Por": "Cruzados são combatentes sagrados que esmagam inimigos com combinações devastadoras. Zelotes que são incapazes de tolerar os pagãos, Cruzados fazem mal quando tocados por inimigos, mas se superam em matar inimigos rapidamente. Cruzados só usam espadas largas, mas ainda podem usar armas corpo a corpo de duas mãos."
     }
   },
   {
@@ -136,7 +147,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dark Templar"
+      "Eng": "Dark Templar",
+      "Por": "Templário Negro"
     }
   },
   {
@@ -147,7 +159,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Deadshot"
+      "Eng": "Deadshot",
+      "Por": "Pistoleiro"
     }
   },
   {
@@ -158,7 +171,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Defeat enemies while your current health is lower than 20% of your max health."
+      "Eng": "Defeat enemies while your current health is lower than 20% of your max health.",
+      "Por": "Derrote inimigos enquanto sua vida atual estiver abaixo de 20% de sua vida máxima."
     }
   },
   {
@@ -170,7 +184,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Defeat ghosts while Intelligence is greater than 40."
+      "Eng": "Defeat ghosts while Intelligence is greater than 40.",
+      "Por": "Derrote fantasmas enquanto a Inteligência for maior que 40."
     }
   },
   {
@@ -182,7 +197,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dragoon"
+      "Eng": "Dragoon",
+      "Por": "Dragoon"
     }
   },
   {
@@ -193,7 +209,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Elementalist"
+      "Eng": "Elementalist",
+      "Por": "Elementalista"
     }
   },
   {
@@ -205,7 +222,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly. Vanguards excel with Machine Pistols and often utilize melee weapons when they run out of energy."
+      "Eng": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly. Vanguards excel with Machine Pistols and often utilize melee weapons when they run out of energy.",
+      "Por": "Lute nas linhas de frente! Vanguardas são os primeiros a provar o derramamento de sangue, destacando-se em combates de curta distância, mas ruim com combates de longo alcance. Vanguardas são excelentes com Machine Pistols e costumam usar armas corpo a corpo quando ficam sem energia."
     }
   },
   {
@@ -216,7 +234,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hunter"
+      "Eng": "Hunter",
+      "Por": "Caçador"
     }
   },
   {
@@ -227,7 +246,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Juggernaut"
+      "Eng": "Juggernaut",
+      "Por": "Juggernaut"
     }
   },
   {
@@ -238,7 +258,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Mechanist"
+      "Eng": "Mechanist",
+      "Por": "Mecanista"
     }
   },
   {
@@ -250,7 +271,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Mercenary"
+      "Eng": "Mercenary",
+      "Por": "Mercenário"
     }
   },
   {
@@ -261,7 +283,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Necromancers fight using demonic magic and can raise the dead, and handle close-range combat much better than most Wizards. Because of their close attunement to death, Necromancers can efficiently wield scythes and daggers, and are often able to drain life from enemies to heal allies."
+      "Eng": "Necromancers fight using demonic magic and can raise the dead, and handle close-range combat much better than most Wizards. Because of their close attunement to death, Necromancers can efficiently wield scythes and daggers, and are often able to drain life from enemies to heal allies.",
+      "Por": "Necromantes lutam usando magia demoníaca e podem ressuscitar os mortos, e lidam com combates a curta distância muito melhor do que a maioria dos Feiticeiros. Por causa de sua estreita sintonia com a morte, Necromantes podem eficientemente empunhar foices e adagas, e muitas vezes conseguem drenar a vida dos inimigos para curar aliados."
     }
   },
   {
@@ -273,7 +296,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Operative"
+      "Eng": "Operative",
+      "Por": "Operativo"
     }
   },
   {
@@ -284,7 +308,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Paladins are holy defenders who block attacks from every angle with a sturdy grip. Paladins are masters with shields, and have slight magical affinity, moreso than most other Knights."
+      "Eng": "Paladins are holy defenders who block attacks from every angle with a sturdy grip. Paladins are masters with shields, and have slight magical affinity, moreso than most other Knights.",
+      "Por": "Paladinos são defensores sagrados que bloqueiam ataques de todos os ângulos com uma pegada firme. Paladinos são mestres com escudos e têm uma ligeira afinidade mágica, mais do que a maioria dos outros Cavaleiros."
     }
   },
   {
@@ -295,7 +320,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Perfect shield the Heart of Ruin's tentacles."
+      "Eng": "Perfect shield the Heart of Ruin's tentacles.",
+      "Por": "Bloqueie perfeitamente os tentáculos do Coração da Ruína."
     }
   },
   {
@@ -306,7 +332,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pioneer"
+      "Eng": "Pioneer",
+      "Por": "Pioneiro"
     }
   },
   {
@@ -317,7 +344,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Saboteur"
+      "Eng": "Saboteur",
+      "Por": "Sabotador"
     }
   },
   {
@@ -328,7 +356,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Samurai"
+      "Eng": "Samurai",
+      "Por": "Samurai"
     }
   },
   {
@@ -339,7 +368,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Scout"
+      "Eng": "Scout",
+      "Por": "Sentinela"
     }
   },
   {
@@ -350,7 +380,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Seductress"
+      "Eng": "Seductress",
+      "Por": "Sedutora"
     }
   },
   {
@@ -361,7 +392,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Shade"
+      "Eng": "Shade",
+      "Por": "Shade"
     }
   },
   {
@@ -372,7 +404,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Stalker"
+      "Eng": "Stalker",
+      "Por": "Perseguidor"
     }
   },
   {
@@ -426,7 +459,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Still unknown! New updates may shed light on this requirement."
+      "Eng": "Still unknown! New updates may shed light on this requirement.",
+      "Por": "Ainda desconhecido! Novas atualizações podem esclarecer esse requisito."
     }
   },
   {
@@ -437,7 +471,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Survive for 30 seconds very close to the Heart of Ruin while both Intelligence and Agility are greater than 40."
+      "Eng": "Survive for 30 seconds very close to the Heart of Ruin while both Intelligence and Agility are greater than 40.",
+      "Por": "Sobreviva por 30 segundos muito perto do Coração da Ruína, enquanto a Inteligência e Agilidade são maiores que 40."
     }
   },
   {
@@ -449,7 +484,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Technomancer"
+      "Eng": "Technomancer",
+      "Por": "Technomancer"
     }
   },
   {
@@ -460,7 +496,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Titan"
+      "Eng": "Titan",
+      "Por": "Titã"
     }
   },
   {
@@ -472,7 +509,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Use a Broadsword to defeat enemies. Unlocked faster by defeating Cultists or Avian Temple Guards."
+      "Eng": "Use a Broadsword to defeat enemies. Unlocked faster by defeating Cultists or Avian Temple Guards.",
+      "Por": "Usa uma Espada Larga para derrotar os inimigos. Desbloqueado mais rápido derrotando Cultistas ou Guardas do Templo dos Avian."
     }
   },
   {
@@ -483,7 +521,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Use ranged weapons to defeat bandits and outlaws."
+      "Eng": "Use ranged weapons to defeat bandits and outlaws.",
+      "Por": "Usa armas de longo alcance para derrotar bandidos e foras da lei."
     }
   },
   {
@@ -495,7 +534,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Use ranged weapons to defeat enemies while up close and personal."
+      "Eng": "Use ranged weapons to defeat enemies while up close and personal.",
+      "Por": "Usa armas de longo alcance para derrotar os inimigos enquanto estiver próximo e pessoal."
     }
   },
   {
@@ -506,7 +546,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Valkryie"
+      "Eng": "Valkryie",
+      "Por": "Valquíria"
     }
   },
   {
@@ -517,7 +558,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Vigilantes use their own moral system to enact justice as they see fit. Due to their love of pistols, they can easily dual-wield ranged weapons. When fighting villains, Vigilantes get a rush of power and energy to take matters into their own hands."
+      "Eng": "Vigilantes use their own moral system to enact justice as they see fit. Due to their love of pistols, they can easily dual-wield ranged weapons. When fighting villains, Vigilantes get a rush of power and energy to take matters into their own hands.",
+      "Por": "Vigilantes usam seu próprio sistema moral para executar a justiça como entenderem. Devido ao seu amor pelas pistolas, elas podem facilmente usar armas de longo alcance duplas. Ao lutar contra vilões, Vigilantes conseguem um impulso de força e energia para resolver as coisas com as próprias mãos."
     }
   },
   {
@@ -528,7 +570,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Vinetender"
+      "Eng": "Vinetender",
+      "Por": "Vinetender"
     }
   },
   {
@@ -539,7 +582,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Voyager"
+      "Eng": "Voyager",
+      "Por": "Viajante"
     }
   },
   {
@@ -551,7 +595,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wanderer"
+      "Eng": "Wanderer",
+      "Por": "Andarilho"
     }
   },
   {
@@ -562,7 +607,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Warlock"
+      "Eng": "Warlock",
+      "Por": "Bruxo"
     }
   },
   {
@@ -574,7 +620,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wraiths are spirits, no longer corporeal. Because of this, Wraiths are barely affected by gravity and can phase through matter when threatened. Wraiths are unable to wield large weapons and can no longer use magic."
+      "Eng": "Wraiths are spirits, no longer corporeal. Because of this, Wraiths are barely affected by gravity and can phase through matter when threatened. Wraiths are unable to wield large weapons and can no longer use magic.",
+      "Por": "Aparições são espíritos, não mais corpóreos. Por causa disso, Aparições são pouco afetadas pela gravidade e podem atravessar a matéria quando ameaçados. Aparições não podem usar armas grandes e não podem mais usar magia."
     }
   }
 ]
