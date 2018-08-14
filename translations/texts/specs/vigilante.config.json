@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+20% Energy Recharge Rate"
+      "Eng": "+20% Energy Recharge Rate",
+      "Por": "+20% Taxa de Recarga de Energia"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "115% Base Power with Pistols and Submachine Guns."
+      "Eng": "115% Base Power with Pistols and Submachine Guns.",
+      "Por": "115% Força Base com Pistolas e Submetralhadoras."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Base Power with Shotguns."
+      "Eng": "120% Base Power with Shotguns.",
+      "Por": "120% Força Base com Espingardas."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Anne & Marie"
+      "Eng": "Anne & Marie",
+      "Por": "Anne & Marie"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can Dual-Wield One-Handed Ranged Weapons."
+      "Eng": "Can Dual-Wield One-Handed Ranged Weapons.",
+      "Por": "Pode Empunhar Duas Armas de Longo Alcance de Uma Mão."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Increased Speed and Power while near aggressive NPCs.\nNearby allies recharge 10% Energy when you kill an Outlaw or Bandit."
+      "Eng": "Increased Speed and Power while near aggressive NPCs.\nNearby allies recharge 10% Energy when you kill an Outlaw or Bandit.",
+      "Por": "Maior Velocidade e Força enquanto perto de NPCs agressivos.\nAliados próximos recarregam 10% de Energia quando você mata um Bandido ou Fora-da-lei."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [F] to instantly regain all Energy and gain infinite Energy usage for 5 Seconds. The more Energy you would have drained while in this state, the higher your Power increases. After Desperado wears off, Max Energy is decreased by 50% for 30 seconds before it can be used again."
+      "Eng": "Press [F] to instantly regain all Energy and gain infinite Energy usage for 5 Seconds. The more Energy you would have drained while in this state, the higher your Power increases. After Desperado wears off, Max Energy is decreased by 50% for 30 seconds before it can be used again.",
+      "Por": "Pressione [F] para recuperar instantaneamente toda a Energia e ganhar o uso de Energia infinita por 5 segundos. Quanto mais energia você tiver drenado enquanto estiver nesse estado, maior será sua Força. Depois que Desperado passa, a Energia Máxima é reduzida em 50% por 30 segundos antes de poder ser usada novamente."
     }
   }
 ]
