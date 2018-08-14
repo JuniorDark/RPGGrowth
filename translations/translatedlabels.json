@@ -466,7 +466,7 @@
             "reaped.statuseffect.json": 1
           },
           "reapedexplosion": {
-            "demonicregeneration.statuseffect.json": 0
+            "demonicregeneration.statuseffect.json": 1
           }
         },
         "paladin": {
