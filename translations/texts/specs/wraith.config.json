@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-50% Physical Resistance"
+      "Eng": "-50% Physical Resistance",
+      "Por": "-50% Resistência Física"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Base Power with Fist Weapons and Wands"
+      "Eng": "120% Base Power with Fist Weapons and Wands",
+      "Por": "120% Força Base com Armas de Punho e Varinhas"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "150% Max Energy"
+      "Eng": "150% Max Energy",
+      "Por": "150% Energia Máxima"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "30% Max Health"
+      "Eng": "30% Max Health",
+      "Por": "30% Vida Máxima"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can Dual-Wield Melee Weapons."
+      "Eng": "Can Dual-Wield Melee Weapons.",
+      "Por": "Pode Empunhar Duas Armas Corpo-a-Corpo."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gravity barely affects you. Upon taking the damage, become invulnerable and ethereal for a short time."
+      "Eng": "Gravity barely affects you. Upon taking the damage, become invulnerable and ethereal for a short time.",
+      "Por": "A Gravidade mal afeta você. Ao levar dano, torne-se invulnerável e etéreo por um curto período de tempo."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Poison, Fire, Demonic and Shadow (FU) Immunity"
+      "Eng": "Poison, Fire, Demonic and Shadow (FU) Immunity",
+      "Por": "Imunidade a Veneno, Fogo, Demonic e Shadow (FU) "
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Soulless Whisper"
+      "Eng": "Soulless Whisper",
+      "Por": "Sussurro Desalmado"
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Suffocation Immunity"
+      "Eng": "Suffocation Immunity",
+      "Por": "Imunidade a Sufocamento"
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Upon attempting to jump, you hover towards the direction you are holding instead. While doing so, you are completely immune to damage, and can phase through blocks. Costs 40 Energy per second. Travel speed scales with Agility. Holding [Shift] while doing so will remove the invulnerability and phase-ability, and halves the overall Energy cost."
+      "Eng": "Upon attempting to jump, you hover towards the direction you are holding instead. While doing so, you are completely immune to damage, and can phase through blocks. Costs 40 Energy per second. Travel speed scales with Agility. Holding [Shift] while doing so will remove the invulnerability and phase-ability, and halves the overall Energy cost.",
+      "Por": "Ao tentar pular, você plana em direção à direção que está segurando. Ao fazer isso, você é completamente imune a dano e pode atravessar por blocos. Custa 40 Energia por segundo. A Velocidade de viagem escala com Agilidade. Segurar [Shift] ao fazer isso, removerá a invulnerabilidade e a habilidade de atravessar e reduzirá pela metade o custo total de Energia."
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Cannot Wield Two-Handed Weapons, Ranged Weapons, or Magic Weapons.^reset;"
+      "Eng": "^red;Cannot Wield Two-Handed Weapons, Ranged Weapons, or Magic Weapons.^reset;",
+      "Por": "^red;Não pode Empunhar Armas de Duas Mãos, Armas de Longo Alcance, ou Armas Mágicas.^reset;"
     }
   }
 ]
