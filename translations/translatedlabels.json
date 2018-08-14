@@ -437,7 +437,7 @@
           "perfectbarrier.statuseffect.json": 1
         },
         "vanguard": {
-          "inthefray.statuseffect.json": 0
+          "inthefray.statuseffect.json": 1
         },
         "vigilante": {
           "bymyownhands.statuseffect.json": 0
