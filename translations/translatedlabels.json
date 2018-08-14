@@ -431,7 +431,7 @@
           "purity.statuseffect.json": 1
         },
         "necromancer": {
-          "raiseundead.statuseffect.json": 0
+          "raiseundead.statuseffect.json": 1
         },
         "paladin": {
           "perfectbarrier.statuseffect.json": 1
