@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+15% Electric Resistance"
+      "Eng": "+15% Electric Resistance",
+      "Por": "+15% Resistência Elétrica"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+25% Fire Resistance"
+      "Eng": "+25% Fire Resistance",
+      "Por": "+25% Resistência ao Fogo"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-50% Poison, Demonic, and Shadow (FU) Resistance"
+      "Eng": "-50% Poison, Demonic, and Shadow (FU) Resistance",
+      "Por": "-50% Resistência a Veneno, Demonic, e Shadow (FU)"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Speed"
+      "Eng": "120% Speed",
+      "Por": "120% Velocidade"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "150% Base Power with Broadswords"
+      "Eng": "150% Base Power with Broadswords",
+      "Por": "150% Força Base com Espadas Largas"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "After killing an enemy, Power and Resistance increase, and hits cause Judgement. Receiving Contact Damage decreases your Speed."
+      "Eng": "After killing an enemy, Power and Resistance increase, and hits cause Judgement. Receiving Contact Damage decreases your Speed.",
+      "Por": "Depois de matar um inimigo, Força e Resistência aumentam e os acertos causam Julgamento. Receber Dano de Contato diminui sua Velocidade."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Knight's Bash. Cause Judgement while sprinting. Bash damage is doubled while wielding a Broadsword instead of a rasied Shield. When taking fatal damage, create a holy explosion and immediately regenerate all Health and Energy. Speed increases for 2 seconds afterwards. Has a cooldown of 180 seconds. Explosion damage scales with Vigor."
+      "Eng": "An upgrade to Knight's Bash. Cause Judgement while sprinting. Bash damage is doubled while wielding a Broadsword instead of a rasied Shield. When taking fatal damage, create a holy explosion and immediately regenerate all Health and Energy. Speed increases for 2 seconds afterwards. Has a cooldown of 180 seconds. Explosion damage scales with Vigor.",
+      "Por": "Uma melhoria para o Knight's Bash. Causa Julgamento enquanto corre. O dano do Bash é dobrado enquanto empunhando uma Espada Larga ao invés de um Escudo levantado. Ao causar dano fatal, cria uma explosão sagrada e regenera imediatamente toda a Vida e Energia. A Velocidade aumenta por 2 segundos depois. Tem um tempo de recarga de 180 segundos. O dano da explosão escala com Vigor."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can use Two-Handed Melee Weapons."
+      "Eng": "Can use Two-Handed Melee Weapons.",
+      "Por": "Pode usar Armas Corpo a Corpo de Duas Mãos."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Holy Immunity"
+      "Eng": "Holy Immunity",
+      "Por": "Imunidade Sagrada"
     }
   },
   {
@@ -118,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;10% Base Power while a\nBroadsword is not equipped"
+      "Eng": "^red;10% Base Power while a\nBroadsword is not equipped",
+      "Por": "^red;10% Força Base enquanto uma Espada Larga não está equipada"
     }
   }
 ]
