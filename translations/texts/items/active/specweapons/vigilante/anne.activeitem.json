@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Never thought such a rowdy woman could get me right through the heart."
+      "Eng": "Never thought such a rowdy woman could get me right through the heart.",
+      "Por": "Nunca pensei que uma mulher tão barulhenta pudesse me pegar no coração."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Anne"
+      "Eng": "^red;Anne",
+      "Por": "^red;Anne"
     }
   }
 ]
