@@ -428,7 +428,7 @@
           "shared_.statuseffect.json": 1
         },
         "crusader": {
-          "purity.statuseffect.json": 0
+          "purity.statuseffect.json": 1
         },
         "necromancer": {
           "raiseundead.statuseffect.json": 0
