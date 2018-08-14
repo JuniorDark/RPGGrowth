@@ -282,7 +282,7 @@
     "monsters": {
       "flyers": {
         "bonepteropod": {
-          "bonepteropod.monstertype.json": 0
+          "bonepteropod.monstertype.json": 2
         }
       },
       "ivrpgElementEffects": {
