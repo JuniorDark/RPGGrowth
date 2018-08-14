@@ -457,7 +457,7 @@
           "flashstep.tech.json": 1
         },
         "crusader": {
-          "resurgence.tech.json": 0,
+          "resurgence.tech.json": 1,
           "resurgencecooldown.statuseffect.json": 0
         },
         "necromancer": {
