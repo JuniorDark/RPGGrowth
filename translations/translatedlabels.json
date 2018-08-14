@@ -461,7 +461,7 @@
           "resurgencecooldown.statuseffect.json": 1
         },
         "necromancer": {
-          "reap.tech.json": 0,
+          "reap.tech.json": 1,
           "reaped": {
             "reaped.statuseffect.json": 0
           },
