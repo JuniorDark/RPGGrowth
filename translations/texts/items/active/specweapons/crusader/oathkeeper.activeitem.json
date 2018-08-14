@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Purity of the Chosen\n^blue;Forged by Crusader Ribs"
+      "Eng": "Purity of the Chosen\n^blue;Forged by Crusader Ribs",
+      "Por": "Pureza do Escolhido\n^blue;Forjada por Crusader Ribs"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^blue;Oathkeeper"
+      "Eng": "^blue;Oathkeeper",
+      "Por": "^blue;Oathkeeper"
     }
   }
 ]
