@@ -425,7 +425,7 @@
     "specs": {
       "abilities": {
         "adept": {
-          "shared_.statuseffect.json": 0
+          "shared_.statuseffect.json": 1
         },
         "crusader": {
           "purity.statuseffect.json": 0
