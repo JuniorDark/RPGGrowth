@@ -458,7 +458,7 @@
         },
         "crusader": {
           "resurgence.tech.json": 1,
-          "resurgencecooldown.statuseffect.json": 0
+          "resurgencecooldown.statuseffect.json": 1
         },
         "necromancer": {
           "reap.tech.json": 0,
