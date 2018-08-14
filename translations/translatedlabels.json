@@ -47,7 +47,7 @@
           },
           "ninjashuriken": {
             "ninjaaethershuriken2.thrownitem.json": 2,
-            "ninjaaethershuriken3.thrownitem.json": 2,
+            "ninjaaethershuriken3.thrownitem.json": 0,
             "shared_ninjaaether.json": 1
           },
           "rogueclaw": {
@@ -65,12 +65,12 @@
             "versaarfire.weaponability.json": 1
           },
           "wizardstaff": {
+            "novastaffswitch.weaponability.json": 1,
             "wizardnovastaff.activeitem.json": 0,
             "wizardnovastaff2.activeitem.json": 1,
             "wizardnovastaff3.activeitem.json": 0
           }
         },
-        "shared_weapons.json": 1,
         "specweapons": {
           "adept": {
             "phaseshift.activeitem.json": 0
@@ -92,8 +92,7 @@
           },
           "vigilante": {
             "anne.activeitem.json": 0,
-            "marie.activeitem.json": 0,
-            "shared_e.activeitem.json": 0
+            "marie.activeitem.json": 0
           },
           "wraith": {
             "soullesswhisper.activeitem.json": 0
@@ -159,11 +158,6 @@
             },
             "spear": {
               "darktrident.activeitem.json": 2
-            }
-          },
-          "other": {
-            "sbloodrose": {
-              "sbloodrose.activeitem.json": 2
             }
           },
           "ranged": {
@@ -453,10 +447,10 @@
         }
       },
       "adept.config.json": 0,
-      "crusader.config.json": 0,
+      "crusader.config.json": 1,
       "necromancer.config.json": 0,
       "necromancer.json": 0,
-      "paladin.config.json": 3,
+      "paladin.config.json": 4,
       "shared_.config.json": 0,
       "techs": {
         "adept": {
@@ -473,9 +467,6 @@
           },
           "reapedexplosion": {
             "demonicregeneration.statuseffect.json": 0
-          },
-          "sacrifice": {
-            "sacrifice.statuseffect.json": 0
           }
         },
         "paladin": {
@@ -628,6 +619,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 69
+    "wide_spread_fields.json": 67
   }
 }

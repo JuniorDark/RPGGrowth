@@ -82,6 +82,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/paladin.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "True Aegis",
+      "Por": "True Aegis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
         "/classic/1/text"
       ]
     },

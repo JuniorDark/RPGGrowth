@@ -64,8 +64,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/3/3/title",
-        "/5/3/title"
+        "/3/4/title",
+        "/5/4/title"
       ],
       "specs/vanguard.config": [
         "/title"
@@ -96,7 +96,7 @@
     "Files": {
       "specList.config": [
         "/1/5/title",
-        "/4/3/title"
+        "/4/5/title"
       ],
       "specs/wraith.config": [
         "/title"

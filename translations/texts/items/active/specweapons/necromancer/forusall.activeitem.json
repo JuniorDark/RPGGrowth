@@ -3,22 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/active/specweapons/necromancer/forusall.activeitem": [
-        "/shortdescription"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Collector"
+      "Eng": "They say life is important... Well, so is taking it away."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/active/specweapons/necromancer/forusall.activeitem": [
-        "/description"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Death comes for us all"
+      "Eng": "^gray;For Us All"
     }
   }
 ]

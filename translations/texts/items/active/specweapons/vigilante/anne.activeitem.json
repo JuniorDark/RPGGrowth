@@ -3,11 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/active/specweapons/vigilante/anne.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Never thought such a rowdy woman could get me right through the heart."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/vigilante/anne.activeitem": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Anne"
+      "Eng": "^red;Anne"
     }
   }
 ]

@@ -9,5 +9,16 @@
     "Texts": {
       "Eng": "Purity of the Chosen\n^blue;Forged by Crusader Ribs"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/crusader/oathkeeper.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Oathkeeper"
+    }
   }
 ]

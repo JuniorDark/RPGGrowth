@@ -3,11 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/active/specweapons/vigilante/marie.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "She wasn't very loud, sure, but it don't matter much when your shootin' does the talkin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/vigilante/marie.activeitem": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Marie"
+      "Eng": "^blue;Marie"
     }
   }
 ]

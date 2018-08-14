@@ -187,26 +187,14 @@
   "items/active/classweapons/wizardstaff/novastaffexplosion.weaponability": {
     "/ability/name": "texts/wide_spread_fields.json"
   },
-  "items/active/classweapons/wizardstaff/novastaffswitch.weaponability": {
-    "/ability/name": "texts/items/active/shared_weapons.json"
-  },
   "items/active/classweapons/wizardstaff/wizardnovastaff.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/active/specweapons/adept/phaseshift.weaponability": {
     "/ability/name": "texts/wide_spread_fields.json"
   },
-  "items/active/specweapons/crusader/oathkeeper.activeitem": {
-    "/shortdescription": "texts/wide_spread_fields.json"
-  },
-  "items/active/specweapons/paladin/ivrpgtrueaegis.activeitem": {
-    "/shortdescription": "texts/wide_spread_fields.json"
-  },
-  "items/active/specweapons/vigilante/anne.activeitem": {
-    "/description": "texts/items/active/specweapons/vigilante/shared_e.activeitem.json"
-  },
-  "items/active/specweapons/vigilante/marie.activeitem": {
-    "/description": "texts/items/active/specweapons/vigilante/shared_e.activeitem.json"
+  "items/active/specweapons/wraith/combos/cursed.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
   },
   "items/active/weapons/melee/broadsword/abhorrentstygiansword.activeitem": {
     "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
@@ -240,9 +228,6 @@
   },
   "items/active/weapons/melee/shortsword/silvermace.activeitem": {
     "/description": "texts/items/active/weapons/melee/shared_sword/shared_.activeitem.json"
-  },
-  "items/active/weapons/other/sbloodrose/elementswitch.weaponability": {
-    "/ability/name": "texts/items/active/shared_weapons.json"
   },
   "items/active/weapons/ranged/fuelrod.activeitem": {
     "/description": "texts/items/active/weapons/ranged/shared_.activeitem.json"
@@ -524,28 +509,55 @@
     "/0/2/description": "texts/wide_spread_fields.json",
     "/0/3/description": "texts/wide_spread_fields.json",
     "/0/4/title": "texts/shared_spec.json",
+    "/0/5/description": "texts/wide_spread_fields.json",
+    "/0/6/description": "texts/wide_spread_fields.json",
+    "/0/7/description": "texts/wide_spread_fields.json",
+    "/0/8/description": "texts/wide_spread_fields.json",
     "/1/0/title": "texts/shared_spec.json",
     "/1/1/description": "texts/wide_spread_fields.json",
     "/1/2/description": "texts/wide_spread_fields.json",
     "/1/3/description": "texts/wide_spread_fields.json",
     "/1/4/title": "texts/shared_spec.json",
     "/1/5/title": "texts/shared_spec.json",
+    "/1/6/description": "texts/wide_spread_fields.json",
+    "/1/7/description": "texts/wide_spread_fields.json",
+    "/1/8/description": "texts/wide_spread_fields.json",
     "/2/0/description": "texts/wide_spread_fields.json",
     "/2/1/description": "texts/wide_spread_fields.json",
     "/2/2/description": "texts/wide_spread_fields.json",
     "/2/3/title": "texts/shared_spec.json",
+    "/2/4/description": "texts/wide_spread_fields.json",
+    "/2/5/description": "texts/wide_spread_fields.json",
+    "/2/6/description": "texts/wide_spread_fields.json",
+    "/2/7/description": "texts/wide_spread_fields.json",
+    "/2/8/description": "texts/wide_spread_fields.json",
     "/3/0/description": "texts/wide_spread_fields.json",
     "/3/1/description": "texts/wide_spread_fields.json",
     "/3/2/title": "texts/shared_spec.json",
-    "/3/3/title": "texts/shared_spec.json",
+    "/3/3/description": "texts/wide_spread_fields.json",
+    "/3/4/title": "texts/shared_spec.json",
+    "/3/5/description": "texts/wide_spread_fields.json",
+    "/3/6/description": "texts/wide_spread_fields.json",
+    "/3/7/description": "texts/wide_spread_fields.json",
+    "/3/8/description": "texts/wide_spread_fields.json",
     "/4/0/description": "texts/wide_spread_fields.json",
     "/4/1/description": "texts/wide_spread_fields.json",
     "/4/2/description": "texts/wide_spread_fields.json",
-    "/4/3/title": "texts/shared_spec.json",
+    "/4/3/description": "texts/wide_spread_fields.json",
+    "/4/4/description": "texts/wide_spread_fields.json",
+    "/4/5/title": "texts/shared_spec.json",
+    "/4/6/description": "texts/wide_spread_fields.json",
+    "/4/7/description": "texts/wide_spread_fields.json",
+    "/4/8/description": "texts/wide_spread_fields.json",
     "/5/0/description": "texts/wide_spread_fields.json",
     "/5/1/description": "texts/wide_spread_fields.json",
     "/5/2/description": "texts/wide_spread_fields.json",
-    "/5/3/title": "texts/shared_spec.json"
+    "/5/3/description": "texts/wide_spread_fields.json",
+    "/5/4/title": "texts/shared_spec.json",
+    "/5/5/description": "texts/wide_spread_fields.json",
+    "/5/6/description": "texts/wide_spread_fields.json",
+    "/5/7/description": "texts/wide_spread_fields.json",
+    "/5/8/description": "texts/wide_spread_fields.json"
   },
   "specs/abilities/adept/agilemagic.statuseffect": {
     "/label": "texts/specs/abilities/adept/shared_.statuseffect.json"
@@ -566,8 +578,7 @@
   "specs/crusader.config": {
     "/effects/0/text": "texts/wide_spread_fields.json",
     "/tech/title": "texts/specs.json",
-    "/title": "texts/shared_spec.json",
-    "/weapon/title": "texts/wide_spread_fields.json"
+    "/title": "texts/shared_spec.json"
   },
   "specs/necromancer.config": {
     "/effects/0/text": "texts/wide_spread_fields.json",
@@ -581,8 +592,7 @@
     "/effects/0/text": "texts/wide_spread_fields.json",
     "/effects/1/text": "texts/wide_spread_fields.json",
     "/tech/title": "texts/specs.json",
-    "/title": "texts/shared_spec.json",
-    "/weapon/title": "texts/wide_spread_fields.json"
+    "/title": "texts/shared_spec.json"
   },
   "specs/techs/adept/flashstep.tech": {
     "/shortDescription": "texts/specs.json"
@@ -598,6 +608,9 @@
   },
   "specs/techs/necromancer/sacrifice/bonemonster.statuseffect": {
     "/label": "texts/specs/necromancer.json"
+  },
+  "specs/techs/necromancer/sacrifice/sacrifice.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
   },
   "specs/techs/paladin/immaculateshield.tech": {
     "/shortDescription": "texts/specs.json"

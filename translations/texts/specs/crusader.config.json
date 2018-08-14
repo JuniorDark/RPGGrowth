@@ -102,6 +102,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/crusader.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oathkeeper",
+      "Por": "Guardião do Juramento"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/crusader.config": [
         "/classic/1/text"
       ]
     },

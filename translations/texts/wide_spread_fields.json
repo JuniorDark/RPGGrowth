@@ -12,20 +12,47 @@
         "/0/1/description",
         "/0/2/description",
         "/0/3/description",
+        "/0/5/description",
+        "/0/6/description",
+        "/0/7/description",
+        "/0/8/description",
         "/1/1/description",
         "/1/2/description",
         "/1/3/description",
+        "/1/6/description",
+        "/1/7/description",
+        "/1/8/description",
         "/2/0/description",
         "/2/1/description",
         "/2/2/description",
+        "/2/4/description",
+        "/2/5/description",
+        "/2/6/description",
+        "/2/7/description",
+        "/2/8/description",
         "/3/0/description",
         "/3/1/description",
+        "/3/3/description",
+        "/3/5/description",
+        "/3/6/description",
+        "/3/7/description",
+        "/3/8/description",
         "/4/0/description",
         "/4/1/description",
         "/4/2/description",
+        "/4/3/description",
+        "/4/4/description",
+        "/4/6/description",
+        "/4/7/description",
+        "/4/8/description",
         "/5/0/description",
         "/5/1/description",
-        "/5/2/description"
+        "/5/2/description",
+        "/5/3/description",
+        "/5/5/description",
+        "/5/6/description",
+        "/5/7/description",
+        "/5/8/description"
       ]
     },
     "Texts": {
@@ -265,6 +292,20 @@
     "Texts": {
       "Eng": "Contagion",
       "Por": "Contágio"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/wraith/combos/cursed.statuseffect": [
+        "/label"
+      ],
+      "specs/techs/necromancer/sacrifice/sacrifice.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cursed"
     }
   },
   {
@@ -678,21 +719,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "items/active/specweapons/crusader/oathkeeper.activeitem": [
-        "/shortdescription"
-      ],
-      "specs/crusader.config": [
-        "/weapon/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Oathkeeper",
-      "Por": "Guardião do Juramento"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "items/upgrade chips/weapon/ivrpgucpassedprime.activeitem": [
         "/shortdescription"
       ],
@@ -994,21 +1020,6 @@
     "Texts": {
       "Eng": "Trigger Happy",
       "Por": "Trigger Happy"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/active/specweapons/paladin/ivrpgtrueaegis.activeitem": [
-        "/shortdescription"
-      ],
-      "specs/paladin.config": [
-        "/weapon/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "True Aegis",
-      "Por": "True Aegis"
     }
   },
   {

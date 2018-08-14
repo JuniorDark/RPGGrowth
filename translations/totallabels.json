@@ -65,24 +65,24 @@
             "versaarfire.weaponability.json": 1
           },
           "wizardstaff": {
+            "novastaffswitch.weaponability.json": 1,
             "wizardnovastaff.activeitem.json": 1,
             "wizardnovastaff2.activeitem.json": 2,
             "wizardnovastaff3.activeitem.json": 2
           }
         },
-        "shared_weapons.json": 1,
         "specweapons": {
           "adept": {
             "phaseshift.activeitem.json": 2
           },
           "crusader": {
-            "oathkeeper.activeitem.json": 1
+            "oathkeeper.activeitem.json": 2
           },
           "necromancer": {
             "forusall.activeitem.json": 2
           },
           "paladin": {
-            "ivrpgtrueaegis.activeitem.json": 1,
+            "ivrpgtrueaegis.activeitem.json": 2,
             "judgement": {
               "ivrpgjudgement.statuseffect.json": 1
             }
@@ -91,9 +91,8 @@
             "dangerclose.activeitem.json": 2
           },
           "vigilante": {
-            "anne.activeitem.json": 1,
-            "marie.activeitem.json": 1,
-            "shared_e.activeitem.json": 1
+            "anne.activeitem.json": 2,
+            "marie.activeitem.json": 2
           },
           "wraith": {
             "soullesswhisper.activeitem.json": 2
@@ -159,11 +158,6 @@
             },
             "spear": {
               "darktrident.activeitem.json": 2
-            }
-          },
-          "other": {
-            "sbloodrose": {
-              "sbloodrose.activeitem.json": 2
             }
           },
           "ranged": {
@@ -427,7 +421,7 @@
       "shared_.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
-    "specList.config.json": 32,
+    "specList.config.json": 47,
     "specs": {
       "abilities": {
         "adept": {
@@ -453,10 +447,10 @@
         }
       },
       "adept.config.json": 7,
-      "crusader.config.json": 10,
+      "crusader.config.json": 11,
       "necromancer.config.json": 8,
       "necromancer.json": 1,
-      "paladin.config.json": 8,
+      "paladin.config.json": 9,
       "shared_.config.json": 1,
       "techs": {
         "adept": {
@@ -473,9 +467,6 @@
           },
           "reapedexplosion": {
             "demonicregeneration.statuseffect.json": 1
-          },
-          "sacrifice": {
-            "sacrifice.statuseffect.json": 1
           }
         },
         "paladin": {
@@ -628,6 +619,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 69
+    "wide_spread_fields.json": 68
   }
 }

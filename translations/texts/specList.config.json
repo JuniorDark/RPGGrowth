@@ -14,11 +14,47 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/2/4/title",
+        "/4/4/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assassin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/1/1/title"
       ]
     },
     "Texts": {
       "Eng": "Battle Mage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/6/title",
+        "/4/6/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Berserker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/7/title",
+        "/5/7/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bounty Hunter"
     }
   },
   {
@@ -47,12 +83,60 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/1/7/title",
+        "/2/7/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Changeling"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/8/title",
+        "/5/8/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cleric"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/5/title",
+        "/5/5/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Conquistador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/0/4/description",
         "/1/4/description"
       ]
     },
     "Texts": {
       "Eng": "Crusaders are holy fighters who crush enemies with devasting combos. Zealots who are unable to stomach heathens, Crusaders do poorly when touched by foes, but excel at killing enemies quickly. Crusaders only really use broadswords, but can still poorly wield two-handed melee weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/8/title",
+        "/2/8/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Templar"
     }
   },
   {
@@ -82,11 +166,23 @@
     "Files": {
       "specList.config": [
         "/1/5/unlockText",
-        "/4/3/unlockText"
+        "/4/5/unlockText"
       ]
     },
     "Texts": {
       "Eng": "Defeat ghosts while Intelligence is greater than 40."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/7/title",
+        "/3/7/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dragoon"
     }
   },
   {
@@ -104,12 +200,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/3/3/description",
-        "/5/3/description"
+        "/3/4/description",
+        "/5/4/description"
       ]
     },
     "Texts": {
       "Eng": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly. Vanguards excel with Machine Pistols and often utilize melee weapons when they run out of energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/3/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hunter"
     }
   },
   {
@@ -138,11 +245,35 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/3/8/title",
+        "/4/8/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mercenary"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/1/0/description"
       ]
     },
     "Texts": {
       "Eng": "Necromancers fight using demonic magic and can raise the dead, and handle close-range combat much better than most Wizards. Because of their close attunement to death, Necromancers can efficiently wield scythes and daggers, and are often able to drain life from enemies to heal allies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/5/title",
+        "/3/5/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Operative"
     }
   },
   {
@@ -251,20 +382,47 @@
         "/0/1/unlockText",
         "/0/2/unlockText",
         "/0/3/unlockText",
+        "/0/5/unlockText",
+        "/0/6/unlockText",
+        "/0/7/unlockText",
+        "/0/8/unlockText",
         "/1/1/unlockText",
         "/1/2/unlockText",
         "/1/3/unlockText",
+        "/1/6/unlockText",
+        "/1/7/unlockText",
+        "/1/8/unlockText",
         "/2/0/unlockText",
         "/2/1/unlockText",
         "/2/2/unlockText",
+        "/2/4/unlockText",
+        "/2/5/unlockText",
+        "/2/6/unlockText",
+        "/2/7/unlockText",
+        "/2/8/unlockText",
         "/3/0/unlockText",
         "/3/1/unlockText",
+        "/3/3/unlockText",
+        "/3/5/unlockText",
+        "/3/6/unlockText",
+        "/3/7/unlockText",
+        "/3/8/unlockText",
         "/4/0/unlockText",
         "/4/1/unlockText",
         "/4/2/unlockText",
+        "/4/3/unlockText",
+        "/4/4/unlockText",
+        "/4/6/unlockText",
+        "/4/7/unlockText",
+        "/4/8/unlockText",
         "/5/0/unlockText",
         "/5/1/unlockText",
-        "/5/2/unlockText"
+        "/5/2/unlockText",
+        "/5/3/unlockText",
+        "/5/5/unlockText",
+        "/5/6/unlockText",
+        "/5/7/unlockText",
+        "/5/8/unlockText"
       ]
     },
     "Texts": {
@@ -280,6 +438,29 @@
     },
     "Texts": {
       "Eng": "Survive for 30 seconds very close to the Heart of Ruin while both Intelligence and Agility are greater than 40."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/6/title",
+        "/3/6/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Technomancer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/3/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titan"
     }
   },
   {
@@ -309,8 +490,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/3/3/unlockText",
-        "/5/3/unlockText"
+        "/3/4/unlockText",
+        "/5/4/unlockText"
       ]
     },
     "Texts": {
@@ -354,6 +535,29 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/5/3/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Voyager"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/6/title",
+        "/5/6/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanderer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/1/2/title"
       ]
     },
@@ -366,7 +570,7 @@
     "Files": {
       "specList.config": [
         "/1/5/description",
-        "/4/3/description"
+        "/4/5/description"
       ]
     },
     "Texts": {
