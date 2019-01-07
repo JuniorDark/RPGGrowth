@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Beautiful painted petals bely this razor-sharp War-Fan."
+      "Eng": "Beautiful painted petals bely this razor-sharp War-Fan.",
+      "Por": "Lindas pétalas pintadas enfeitam essa lamina afiada."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#ffaafa;Luxuria^white;"
+      "Eng": "^#ffaafa;Luxuria^white;",
+      "Por": "^#ffaafa;Luxuria^white;"
     }
   }
 ]
