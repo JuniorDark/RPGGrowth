@@ -1,6 +1,6 @@
 {
   "texts": {
-    "_metadata.json": 2,
+    "_metadata.json": 1,
     "affinities": {
       "affinityDescriptions.config.json": 5,
       "arc.config.json": 6,
@@ -21,12 +21,15 @@
       "ninja.config.json": 12,
       "rogue.config.json": 9,
       "shared_.config.json": 1,
-      "soldier.config.json": 12,
+      "soldier.config.json": 10,
       "wizard.config.json": 14
     },
     "interface": {
       "RPGskillbook": {
         "RPGskillbook.config.json": 93
+      },
+      "windowconfig": {
+        "charcreation.config.json": 0
       }
     },
     "items": {
@@ -77,6 +80,9 @@
           },
           "crusader": {
             "oathkeeper.activeitem.json": 2
+          },
+          "kunoichi": {
+            "luxuria.activeitem.json": 0
           },
           "necromancer": {
             "forusall.activeitem.json": 2
@@ -278,7 +284,7 @@
         }
       }
     },
-    "ivrpgtext.config.json": 56,
+    "ivrpgtext.config.json": 55,
     "monsters": {
       "flyers": {
         "bonepteropod": {
@@ -406,7 +412,7 @@
         "wizardaffinity.statuseffect.json": 1
       }
     },
-    "shared_.config.json": 2,
+    "shared_.config.json": 3,
     "shared_explorer.json": 3,
     "shared_knight.json": 4,
     "shared_ninja.json": 4,
@@ -415,26 +421,48 @@
       "shared_RPGskillbook..json": 1
     },
     "shared_soldier.json": 4,
-    "shared_spec.json": 7,
+    "shared_spec.json": 11,
     "shared_stun.json": 1,
     "shared_tech": {
       "shared_.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
-    "specList.config.json": 47,
+    "specList.config.json": 41,
     "specs": {
       "abilities": {
         "adept": {
           "shared_.statuseffect.json": 1
         },
+        "cannoneer": {
+          "fightinglion.statuseffect.json": 0
+        },
         "crusader": {
           "purity.statuseffect.json": 1
+        },
+        "dragoon": {
+          "flightless.statuseffect.json": 0
+        },
+        "kunoichi": {
+          "featherfall": {
+            "tranquilwindfeatherfall.statuseffect.json": 0
+          },
+          "tranquilwind.statuseffect.json": 0
         },
         "necromancer": {
           "raiseundead.statuseffect.json": 1
         },
         "paladin": {
           "perfectbarrier.statuseffect.json": 1
+        },
+        "pioneer": {
+          "terranova.statuseffect.json": 0
+        },
+        "titan": {
+          "prometheantactics.statuseffect.json": 0,
+          "prometheantacticsarmorboost.statuseffect.json": 0
+        },
+        "valkyrie": {
+          "flightofthevalkyrie.statuseffect.json": 0
         },
         "vanguard": {
           "inthefray.statuseffect.json": 1
@@ -447,18 +475,32 @@
         }
       },
       "adept.config.json": 7,
+      "cannoneer.config.json": 0,
       "crusader.config.json": 11,
+      "dragoon.config.json": 0,
+      "kunoichi.config.json": 0,
       "necromancer.config.json": 8,
       "necromancer.json": 1,
-      "paladin.config.json": 9,
+      "paladin.config.json": 8,
+      "pioneer.config.json": 0,
       "shared_.config.json": 1,
+      "shared_n.config.json": 1,
       "techs": {
         "adept": {
           "flashstep.tech.json": 1
         },
+        "cannoneer": {
+          "bombsaway.tech.json": 0
+        },
         "crusader": {
           "resurgence.tech.json": 1,
           "resurgencecooldown.statuseffect.json": 1
+        },
+        "dragoon": {
+          "dragonsleap.tech.json": 0
+        },
+        "kunoichi": {
+          "swirlingpetal.tech.json": 0
         },
         "necromancer": {
           "reap.tech.json": 1,
@@ -472,6 +514,20 @@
         "paladin": {
           "immaculateshield.tech.json": 1
         },
+        "pioneer": {
+          "colonize.statuseffect.json": 0,
+          "colonize.tech.json": 0,
+          "flag": {
+            "flagpioneer.object.json": 0
+          }
+        },
+        "titan": {
+          "atlasburden.tech.json": 0,
+          "atlasrelief.statuseffect.json": 0
+        },
+        "valkyrie": {
+          "einherjar.tech.json": 0
+        },
         "vanguard": {
           "rush.tech.json": 1
         },
@@ -483,12 +539,14 @@
           "darkphase.tech.json": 1
         }
       },
+      "titan.config.json": 0,
+      "valkyrie.config.json": 0,
       "vanguard.config.json": 12,
-      "vigilante.config.json": 7,
+      "vigilante.config.json": 6,
       "wraith.config.json": 11
     },
     "specs.json": 7,
-    "stats.config.json": 26,
+    "stats.config.json": 22,
     "tech": {
       "explorertech": {
         "explorerdrill": {
