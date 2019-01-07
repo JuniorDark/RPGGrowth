@@ -440,7 +440,7 @@
           "purity.statuseffect.json": 1
         },
         "dragoon": {
-          "flightless.statuseffect.json": 0
+          "flightless.statuseffect.json": 1
         },
         "kunoichi": {
           "featherfall": {
