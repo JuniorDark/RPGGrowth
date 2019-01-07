@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+50% Fire Resistance"
+      "Eng": "+50% Fire Resistance",
+      "Por": "+50% Resistência a Fogo"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-20% Poison Resistance"
+      "Eng": "-20% Poison Resistance",
+      "Por": "-20% Resistência a Veneno"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Base Power With Rocket Launchers."
+      "Eng": "120% Base Power With Rocket Launchers.",
+      "Por": "120% Poder Base com Lançadores de Foguetes."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "125% Base Power While Dual-Wielding Short Swords and Grenade Launchers."
+      "Eng": "125% Base Power While Dual-Wielding Short Swords and Grenade Launchers.",
+      "Por": "125% Poder Base Enquanto Usando 2 Espadas Curtas e Lançadores de Granadas."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Double Jump. Pressing [Space] fires a large cannonball that blasts through enemies and explodes on impact with blocks, dealing massive AoE damages. Launching this cannonball sends you flying, and it can be directionally launched forwards, backwards, downwards, and upwards using the movement keys [W,A,S,D]."
+      "Eng": "An upgrade to Double Jump. Pressing [Space] fires a large cannonball that blasts through enemies and explodes on impact with blocks, dealing massive AoE damages. Launching this cannonball sends you flying, and it can be directionally launched forwards, backwards, downwards, and upwards using the movement keys [W,A,S,D].",
+      "Por": "Um aprimoramento para o Pulo Duplo. Pressionar [Espaço] dispara uma grande bala de canhão que explode através dos inimigos e explode no impacto com blocos, causando enorme dano em área. Ao lançar esta bala de canhão, você voa e pode ser direcionado para a frente, para trás, para baixo e para cima usando as teclas de movimento [W, A, S, D]."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can Wield Rocket Launchers."
+      "Eng": "Can Wield Rocket Launchers.",
+      "Por": "Pode Empunhar Lançadores de Foguetes."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Landing a hit with a Dagger or Shortsword grants bonus damage for the following second as long as you have a Grenade Launcher in hand."
+      "Eng": "Landing a hit with a Dagger or Shortsword grants bonus damage for the following second as long as you have a Grenade Launcher in hand.",
+      "Por": "Causar um golpe com uma Adaga ou Espada Curta garante um bônus de dano no segundo seguinte, desde que você tenha um Lançador de Granadas na mão."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Outburst"
+      "Eng": "Outburst",
+      "Por": "Outburst"
     }
   }
 ]
