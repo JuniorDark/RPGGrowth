@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "115% Base Power with Whips."
+      "Eng": "115% Base Power with Whips.",
+      "Por": "115% Poder Base com Chicotes."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "125% Base Power with War-Fans."
+      "Eng": "125% Base Power with War-Fans.",
+      "Por": "125% Poder Base com War-Fans."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "90% Max Health"
+      "Eng": "90% Max Health",
+      "Por": "90% de Vida Máxima"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "90% Power Multiplier"
+      "Eng": "90% Power Multiplier",
+      "Por": "90% de Multiplicador de Poder"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can Wield War-Fans."
+      "Eng": "Can Wield War-Fans.",
+      "Por": "Pode Empunhar War-Fans."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dexterity (x2)"
+      "Eng": "Dexterity (x2)",
+      "Por": "Destreza (x2)"
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Increased Movement Speed with Whips and War-Fans"
+      "Eng": "Increased Movement Speed with Whips and War-Fans",
+      "Por": "Velocidade de Movimento Aumentada com Chicotes e War-Fans"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Killing enemies with War-Fans grants Energy and Feather Falling. Killing Male NPCs yields bonus XP."
+      "Eng": "Killing enemies with War-Fans grants Energy and Feather Falling. Killing Male NPCs yields bonus XP.",
+      "Por": "Matar inimigos com War-Fans garante Energia e Peso Pena. Matar NPCs Masculinos rende bônus de XP."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Luxuria"
+      "Eng": "Luxuria",
+      "Por": "Luxuria"
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [W] to flip backwards, releasing a sweet gas into the air as you do. The gas dazes enemies that get hit by it, causing them to move much slower. While mid-flip, you are invulnerable to damage, and hitting the ground immediately stops the flip.\n^red;Cooldown: 1s. Energy Cost: 50e. Does not protect from Status Damage."
+      "Eng": "Press [W] to flip backwards, releasing a sweet gas into the air as you do. The gas dazes enemies that get hit by it, causing them to move much slower. While mid-flip, you are invulnerable to damage, and hitting the ground immediately stops the flip.\n^red;Cooldown: 1s. Energy Cost: 50e. Does not protect from Status Damage.",
+      "Por": "Pressione [W] para dar uma cambalhota para trás, liberando um gás doce no ar. O gás confunde os inimigos atingidos, fazendo com que eles se movam muito mais devagar. Durante a cambalhota, você é invulnerável a dano, e tocar no chão imediatamente pára a cambalhota.\n^red;Recarga: 1s. Custo de Energia: 50e. Não protege contra Dano de Status."
     }
   }
 ]
