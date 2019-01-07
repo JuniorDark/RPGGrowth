@@ -115,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Increases Knockback Resistance."
+      "Eng": "Increases Knockback Resistance.",
+      "Por": "Aumenta a resistência a Knockback."
     }
   },
   {
@@ -138,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Minimally Increases Armor."
+      "Eng": "Minimally Increases Armor.",
+      "Por": "Aumenta Minimamente a Armadura."
     }
   },
   {
@@ -149,7 +151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Moderately Increases All Resistances."
+      "Eng": "Moderately Increases All Resistances.",
+      "Por": "Aumenta Moderadamente Todas as Resistências."
     }
   },
   {
@@ -160,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Significantly Increases Armor."
+      "Eng": "Significantly Increases Armor.",
+      "Por": "Aumenta Significativamente a Armadura."
     }
   },
   {
@@ -171,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Significantly Increases Movement Speed (Including Liquid Movement)."
+      "Eng": "Significantly Increases Movement Speed (Including Liquid Movement).",
+      "Por": "Aumenta Significativamente a Velocidade de Movimento (Incluindo Movimento em Líquidos)."
     }
   },
   {
