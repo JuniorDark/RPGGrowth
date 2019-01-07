@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A Pioneer flag. I can use this as a waypoint for teleportation."
+      "Eng": "A Pioneer flag. I can use this as a waypoint for teleportation.",
+      "Por": "Uma bandeira de Pioneiro. Eu posso usar isso como um ponto de acesso para teletransporte."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I can bookmark this Pioneer flag for quick teleportin'."
+      "Eng": "I can bookmark this Pioneer flag for quick teleportin'.",
+      "Por": "Eu posso favoritar esta bandeira de Pioneiro para um teleporte rápido."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Observant. A small locator module attached to this Pioneer flag allows it to be bookmarked for teleportation."
+      "Eng": "Observant. A small locator module attached to this Pioneer flag allows it to be bookmarked for teleportation.",
+      "Por": "Atento. Um pequeno módulo localizador anexado a esta bandeira de Pioneiro permite que ela seja favoritada para teletransporte."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pioneer Flag"
+      "Eng": "Pioneer Flag",
+      "Por": "Bandeira de Pioneiro"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pioneer flag makess good point to teleport back to ussing teleporter!"
+      "Eng": "Pioneer flag makess good point to teleport back to ussing teleporter!",
+      "Por": "Bandeira de Pioneiro faz bom ponto para teletransssportar de volta para o teletransssportador!"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Pioneer flag. Use ^green;[E]^white; to bookmark a teleportation location."
+      "Eng": "The Pioneer flag. Use ^green;[E]^white; to bookmark a teleportation location.",
+      "Por": "A bandeira do Pioneiro. Use ^green;[E]^white; para favoritar um local de teletransporte."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This Pioneer flag can act as a way point, enabling me to return to this point using a teleporter."
+      "Eng": "This Pioneer flag can act as a way point, enabling me to return to this point using a teleporter.",
+      "Por": "Esta bandeira de Pioneiro pode atuar como um ponto de acesso, permitindo-me retornar a este ponto usando um teleportador."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This Pioneer flag can be bookmarked as a destination for my ship teleporter."
+      "Eng": "This Pioneer flag can be bookmarked as a destination for my ship teleporter.",
+      "Por": "Esta bandeira de Pioneiro pode ser favoritada como um destino para o teletransportador da minha nave."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This Pioneer flag can be saved as a location for my teleporter. Then I can return to it at any time."
+      "Eng": "This Pioneer flag can be saved as a location for my teleporter. Then I can return to it at any time.",
+      "Por": "Esta bandeira de Pioneiro pode ser salva como um local para o meu teleportador. Então eu posso voltar a ela a qualquer momento."
     }
   }
 ]
