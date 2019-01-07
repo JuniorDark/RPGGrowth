@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+33% Energy Recharge Delay"
+      "Eng": "+33% Energy Recharge Delay",
+      "Por": "+33% Atraso de Recarga da Energia"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-33% Energy Recharge Rate"
+      "Eng": "-33% Energy Recharge Rate",
+      "Por": "-33% Atraso de Recarga da Energia"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "110% Base Power with Quarterstaves"
+      "Eng": "110% Base Power with Quarterstaves",
+      "Por": "110% Poder Base com Quarterstaves"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Base Power with Spears and Assault Rifles"
+      "Eng": "120% Base Power with Spears and Assault Rifles",
+      "Por": "120% Poder Base com Lanças e Rifles de Assalto"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Knight's Slam. Pressing [Space] while crouching shoots you up into the air. Doing so provides Invulnerability until you start to fall or hit the ground. Using this prevents you from double jumping in midair."
+      "Eng": "An upgrade to Knight's Slam. Pressing [Space] while crouching shoots you up into the air. Doing so provides Invulnerability until you start to fall or hit the ground. Using this prevents you from double jumping in midair.",
+      "Por": "Um aprimoramento para a Batida do Cavaleiro. Pressionar [Espaço] enquanto agachado lança você no ar. Fazer isso fornece Invulnerabilidade até você começar a cair ou tocar no chão. Usar isso evita que você pule duas vezes no ar."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can use Assault Rifles."
+      "Eng": "Can use Assault Rifles.",
+      "Por": "Pode usar Rifles de Assalto."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can use Spears and Quarterstaves."
+      "Eng": "Can use Spears and Quarterstaves.",
+      "Por": "Pode usar Lanças e Quarterstaves."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dragon's Bane"
+      "Eng": "Dragon's Bane",
+      "Por": "Dragon's Bane"
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fall Damage Immunity"
+      "Eng": "Fall Damage Immunity",
+      "Por": "Imunidade a Dano de Queda"
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fire and Lava Immunity"
+      "Eng": "Fire and Lava Immunity",
+      "Por": "Imunidade a Fogo e Lava"
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Upon landing, create a shockwave that stuns nearby enemies. Stun Duration depends on fall distance and can reach up to seven seconds."
+      "Eng": "Upon landing, create a shockwave that stuns nearby enemies. Stun Duration depends on fall distance and can reach up to seven seconds.",
+      "Por": "Ao aterrissar, crie uma onda de choque que atordoa os inimigos próximos. A duração do atordoamento depende da distância da queda e pode chegar até sete segundos."
     }
   }
 ]
