@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10 Armor with a Shield equipped.\nAfter Perfect Shielding, nearby allies gain +5 Armor for 10 seconds."
+      "Eng": "+10 Armor with a Shield equipped.\nAfter Perfect Shielding, nearby allies gain +5 Armor for 10 seconds.",
+      "Por": "+10 Armadura com um Escudo equipado.\nApós Escudo Perfeito, os aliados próximos ganham +5 Armadura por 10 segundos."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "110% Shield Stamina"
+      "Eng": "110% Shield Stamina",
+      "Por": "110% Stamina do Escudo"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "115% Armor"
+      "Eng": "115% Armor",
+      "Por": "115% Armadura"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "150% Base Power While Dual-Wielding Machine Pistols and Shields."
+      "Eng": "150% Base Power While Dual-Wielding Machine Pistols and Shields.",
+      "Por": "150% Poder Base Enquanto Empunhando 2 Metralhadoras e Escudos"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Epimetheus"
+      "Eng": "Epimetheus",
+      "Por": "Epimetheus"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pressing [W] toggles Atlas' Burden, a buff that halves Shield Stamina and Jump Height, but provides bonuses for your shield. While Atlas' Burden is active, enemies that hit your Shield have a 25% chance to be stunned for half a second; Perfect Shields stun all nearby enemies for two second; and Perfect Shields grant you and nearby allies 110% Base Power Multiplier, 120% Armor, and Knockback Immunity for five seconds."
+      "Eng": "Pressing [W] toggles Atlas' Burden, a buff that halves Shield Stamina and Jump Height, but provides bonuses for your shield. While Atlas' Burden is active, enemies that hit your Shield have a 25% chance to be stunned for half a second; Perfect Shields stun all nearby enemies for two second; and Perfect Shields grant you and nearby allies 110% Base Power Multiplier, 120% Armor, and Knockback Immunity for five seconds.",
+      "Por": "Pressionar [W] ativa Fardo do Atlas, um bônus que reduz pela metade a Resistência do Escudo e a Altura do Pulo, mas oferece bônus para o seu escudo. Enquanto Fardo do Atlas está ativo, inimigos que atingem seu Escudo têm 25% de chance de ficarem atordoados por meio segundo; Escudos Perfeitos atordoam todos os inimigos próximos por dois segundos; e os Escudos Perfeitos concedem a você e aliados próximos 110% de Multiplicador de Poder Base, 120% de Armadura e Imunidade a Knockback por cinco segundos."
     }
   }
 ]
