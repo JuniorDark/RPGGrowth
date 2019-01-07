@@ -57,7 +57,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Blow'em away! Cannoneers are rogues that specialize in explosive weaponry. Normally utilizing Shortswords and Grenade Launchers, Cannoneers can get up close and personal to slice up enemies or stay back and blow them all to bits."
+      "Eng": "Blow'em away! Cannoneers are rogues that specialize in explosive weaponry. Normally utilizing Shortswords and Grenade Launchers, Cannoneers can get up close and personal to slice up enemies or stay back and blow them all to bits.",
+      "Por": "Os Canhoneiros são ladinos especializados em armas explosivas. Normalmente, utilizando Espadas Curtas e Lançadores de Granadas, os Canhoneiros podem chegar perto para fatiar inimigos ou ficar de longe e explodi-los todos em pedaços."
     }
   },
   {
@@ -170,7 +171,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Defeat enemies while your current health is lower than 30% of your max health. Gain more progress the lower your Health."
+      "Eng": "Defeat enemies while your current health is lower than 30% of your max health. Gain more progress the lower your Health.",
+      "Por": "Derrote inimigos enquanto sua vida atual estiver abaixo de 30% de sua vida máxima. Ganhe mais progresso quanto menor sua Vida."
     }
   },
   {
@@ -195,7 +197,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dragoons utilize spears to poke through defenses with crazy accuracy."
+      "Eng": "Dragoons utilize spears to poke through defenses with crazy accuracy.",
+      "Por": "Dragoons utilizam lanças para penetrar nas defesas com uma precisão insana."
     }
   },
   {
@@ -365,7 +368,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Searching new lands to discover hidden treasures, Pioneers are the first to colonize new planets. Able to quickly navigate colonized planets and claim new planets for themselves, Pioneers excel in blazing a trail through the galaxy."
+      "Eng": "Searching new lands to discover hidden treasures, Pioneers are the first to colonize new planets. Able to quickly navigate colonized planets and claim new planets for themselves, Pioneers excel in blazing a trail through the galaxy.",
+      "Por": "Procurando novas terras para descobrir tesouros escondidos, os pioneiros são os primeiros a colonizar novos planetas. Capazes de navegar rapidamente pelos planetas colonizados e reivindicar novos planetas para si próprios, os pioneiros são excelentes em abrir caminho através da galáxia."
     }
   },
   {
@@ -473,7 +477,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a one-handed pistol or smg paired with a shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura."
+      "Eng": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a one-handed pistol or smg paired with a shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura.",
+      "Por": "Titãs são bastiões da linha de frente que ajudam a manter a linha firme com seu escudo. Sua arma de escolha é uma pistola de uma mão ou uma smg emparelhada com um escudo. Enquanto lutadores capazes em todas as distâncias, eles também inspiram aliados próximos com uma aura protetora."
     }
   },
   {
@@ -522,7 +527,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Using a Whip, Kunai, Shuriken, or War-Fan, defeat enemies while Agility is higher than 30."
+      "Eng": "Using a Whip, Kunai, Shuriken, or War-Fan, defeat enemies while Agility is higher than 30.",
+      "Por": "Usando um Chicote, Kunai, Shuriken ou War-Fan, derrote inimigos enquanto a Agilidade for maior que 30."
     }
   },
   {
@@ -545,7 +551,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Valkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies."
+      "Eng": "Valkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies.",
+      "Por": "Valquírias são anjos com domínio sobre a vida que concedem poder ilimitado a aliados dignos. Fenomenal com lanças e Espadas Curtas, Valquírias usam seus poderes sagrados para planar graciosamente pelo campo de batalha, punindo inimigos."
     }
   },
   {
@@ -630,7 +637,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Female Only^white;\nDespite having slightly lower Health\nand dealing a bit less Damage\n^#ffaafa;The Kunoichi\nGracfully Dances Among\nSnaps Of Her War-Fan\n^white;silencing whomever she pleases."
+      "Eng": "^red;Female Only^white;\nDespite having slightly lower Health\nand dealing a bit less Damage\n^#ffaafa;The Kunoichi\nGracfully Dances Among\nSnaps Of Her War-Fan\n^white;silencing whomever she pleases.",
+      "Por": "^red;Apenas Personagem Feminino^white;\nApesar de ter uma Vida ligeiramente inferior\ne causar um pouco menos de Dano\n^#ffaafa;A Kunoichi\nGraciosamente Dança Entre Os\nEstalos De Seu War-Fan\n^white;silenciando quem ela quiser."
     }
   },
   {
@@ -641,7 +649,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nDiscover new planets and use flags to bookmark old planets."
+      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nDiscover new planets and use flags to bookmark old planets.",
+      "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nDescubra novos planetas e use bandeiras para marcar planetas antigos."
     }
   },
   {
@@ -652,7 +661,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nPerfect Shield, or deal damage with Pistols or Machine Pistols."
+      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nPerfect Shield, or deal damage with Pistols or Machine Pistols.",
+      "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nFaça Escudo Perfeito, ou cause dano com Pistolas ou Metralhadoras."
     }
   },
   {
@@ -663,7 +673,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUse Shortswords or Explosive Weapons to defeat enemies."
+      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUse Shortswords or Explosive Weapons to defeat enemies.",
+      "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nUse Espadas Curtas ou Armas Explosivas para derrotar inimigos."
     }
   },
   {
@@ -674,7 +685,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUse Spears or Shortswords to defeat enemies or fall from 500 blocks high."
+      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUse Spears or Shortswords to defeat enemies or fall from 500 blocks high.",
+      "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nUse Lanças ou Espadas Curtas para derrotar inimigos ou caia de 500 blocos de altura."
     }
   },
   {
@@ -686,7 +698,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUsing a Spear, Quarterstaff, or Assault Rifle, defeat enemies. Defeating the Bone Dragon with a Spear provides an immense boost."
+      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUsing a Spear, Quarterstaff, or Assault Rifle, defeat enemies. Defeating the Bone Dragon with a Spear provides an immense boost.",
+      "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nUsando uma Lança, Quarterstaff ou Rifle de Assalto, derrote inimigos. Derrotar o Bone Dragon com uma Lança proporciona um impulso imenso."
     }
   }
 ]
