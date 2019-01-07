@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10% Ice and Electric Resistance"
+      "Eng": "+10% Ice and Electric Resistance",
+      "Por": "+10% de Resistência a Gelo e Eletricidade"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-10% Fire and Poison Resistance"
+      "Eng": "-10% Fire and Poison Resistance",
+      "Por": "-10% de Resistência a Fogo e Veneno"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "115% Base Power with Shortswords."
+      "Eng": "115% Base Power with Shortswords.",
+      "Por": "115% Poder Base com Espadas Curtas."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Base Power with Spears:\nScales with Dex."
+      "Eng": "120% Base Power with Spears:\nScales with Dex.",
+      "Por": "120% Poder Base com Lanças:\nEscala com Destreza."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can dual-wield Shortswords."
+      "Eng": "Can dual-wield Shortswords.",
+      "Por": "Pode empunhar 2 Espadas Curtas."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gain a short period of Low-Gravity upon jumping. Staying airborne triggers Health Regeneration."
+      "Eng": "Gain a short period of Low-Gravity upon jumping. Staying airborne triggers Health Regeneration.",
+      "Por": "Ganhe um curto período de Baixa Gravidade ao pular. Ficar no ar ativa Regeneração de Vida."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gungnir"
+      "Eng": "Gungnir",
+      "Por": "Gungnir"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [F] to target the ally nearest your cursor and grant them Invulnerability and +150% Damage for 5 seconds. Doing so costs 20% of your Max Health and instantly drains all energy."
+      "Eng": "Press [F] to target the ally nearest your cursor and grant them Invulnerability and +150% Damage for 5 seconds. Doing so costs 20% of your Max Health and instantly drains all energy.",
+      "Por": "Pressione [F] para atingir o aliado mais próximo do seu cursor e lhe conceder Invulnerabilidade e +150% de dano por 5 segundos. Fazer isso custa 20% da sua Vida Máxima e instantaneamente drena toda a energia."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Valkyrie"
+      "Eng": "Valkyrie",
+      "Por": "Valquíria"
     }
   }
 ]
