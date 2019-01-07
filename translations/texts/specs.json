@@ -13,7 +13,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Atlas' Burden"
+      "Eng": "Atlas' Burden",
+      "Por": "Fardo do Atlas"
     }
   },
   {
@@ -27,7 +28,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bombs Away"
+      "Eng": "Bombs Away",
+      "Por": "Solte As Bombas"
     }
   },
   {
@@ -41,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Colonize"
+      "Eng": "Colonize",
+      "Por": "Colonizar"
     }
   },
   {
@@ -88,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dragon's Leap"
+      "Eng": "Dragon's Leap",
+      "Por": "Salto do Dragão"
     }
   },
   {
@@ -102,7 +106,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Einherjar"
+      "Eng": "Einherjar",
+      "Por": "Einherjar"
     }
   },
   {
@@ -194,7 +199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Swirling Petal"
+      "Eng": "Swirling Petal",
+      "Por": "Pétala Giratória"
     }
   }
 ]
