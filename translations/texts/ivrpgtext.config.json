@@ -427,7 +427,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Shock & Arc Affinity Upgrade.\nUpon inflicting Overload Status,\nGain Rage for 2 Seconds."
+      "Eng": "Shock & Arc Affinity Upgrade.\nUpon inflicting Overload Status,\nGain Rage for 2 Seconds.",
+      "Por": "Melhoria para a Afinidade Eletricidade & Arc.\nAo infligir o Status 'Sobrecarga',\nGanhe Raiva por 2 Segundos."
     }
   },
   {
