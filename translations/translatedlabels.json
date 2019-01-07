@@ -516,7 +516,7 @@
         },
         "pioneer": {
           "colonize.statuseffect.json": 1,
-          "colonize.tech.json": 0,
+          "colonize.tech.json": 1,
           "flag": {
             "flagpioneer.object.json": 0
           }
