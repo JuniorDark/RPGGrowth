@@ -515,7 +515,7 @@
           "immaculateshield.tech.json": 1
         },
         "pioneer": {
-          "colonize.statuseffect.json": 0,
+          "colonize.statuseffect.json": 1,
           "colonize.tech.json": 0,
           "flag": {
             "flagpioneer.object.json": 0
