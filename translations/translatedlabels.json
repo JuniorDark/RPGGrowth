@@ -446,7 +446,7 @@
           "featherfall": {
             "tranquilwindfeatherfall.statuseffect.json": 1
           },
-          "tranquilwind.statuseffect.json": 0
+          "tranquilwind.statuseffect.json": 1
         },
         "necromancer": {
           "raiseundead.statuseffect.json": 1
