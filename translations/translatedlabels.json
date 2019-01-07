@@ -497,7 +497,7 @@
           "resurgencecooldown.statuseffect.json": 1
         },
         "dragoon": {
-          "dragonsleap.tech.json": 0
+          "dragonsleap.tech.json": 1
         },
         "kunoichi": {
           "swirlingpetal.tech.json": 0
