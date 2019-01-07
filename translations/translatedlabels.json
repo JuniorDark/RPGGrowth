@@ -523,7 +523,7 @@
         },
         "titan": {
           "atlasburden.tech.json": 1,
-          "atlasrelief.statuseffect.json": 0
+          "atlasrelief.statuseffect.json": 1
         },
         "valkyrie": {
           "einherjar.tech.json": 0
