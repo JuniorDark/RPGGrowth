@@ -459,7 +459,7 @@
         },
         "titan": {
           "prometheantactics.statuseffect.json": 1,
-          "prometheantacticsarmorboost.statuseffect.json": 0
+          "prometheantacticsarmorboost.statuseffect.json": 1
         },
         "valkyrie": {
           "flightofthevalkyrie.statuseffect.json": 0
