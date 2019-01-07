@@ -545,7 +545,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Multiple players using Rally Mode strengthens the effect."
+      "Eng": "Multiple players using Rally Mode strengthens the effect.",
+      "Por": "Vários jogadores usando o Modo Rally fortalecem o efeito."
     }
   },
   {
@@ -677,7 +678,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Rally Mode: enemies become stronger as you level up!"
+      "Eng": "Rally Mode: enemies become stronger as you level up!",
+      "Por": "Modo Rally: Inimigos ficam mais fortes à medida que você sobe de nível!"
     }
   },
   {
