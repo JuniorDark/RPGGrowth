@@ -3,6 +3,7 @@ require "/scripts/vec2.lua"
 require "/scripts/rect.lua"
 require "/scripts/poly.lua"
 require "/scripts/drawingutil.lua"
+require "/scripts/ivrpgutil.lua"
 -- engine callbacks
 function init()
   --View:init()
@@ -13,55 +14,22 @@ function init()
   self.system = celestial.currentSystem()
   self.pane = pane
   player.addCurrency("skillbookopen", 1)
-  --initiating level and xp
+
+  -- Initiating Level and XP
   self.xp = player.currency("experienceorb")
   self.level = player.currency("currentlevel")
   self.mastery = player.currency("masterypoint")
-  --Mastery Conversion: 10000 Experience = 1 Mastery!!
-  --initiating stats
-  updateStats()
+  -- Mastery Conversion: 10000 Experience = 1 Mastery!!
+
   self.classTo = 0
   self.class = player.currency("classtype")
-    --[[
-    0: No Class
-    1: Knight
-    2: Feiticeiro
-    3: Ninja
-    4: Soldado
-    5: Ladino
-    6: Explorador
-    ]]
-  self.specTo = 0
+  self.specTo = 1
   self.spec = player.currency("spectype")
-    --[[
-    ]]
   self.profTo = 0
   self.profession = player.currency("proftype")
-    --[[
-    ]]
   self.affinityTo = 0
   self.affinity = player.currency("affinitytype")
-  --[[
-    0: No Affinity
-    1: Flame
-    2: Venom
-    3: Frost
-    4: Shock
-    5: Infernal
-    6: Toxic
-    7: Cryo 
-    8: Arc
-    ]]
-    self.quests = {"ivrpgaegisquest", "ivrpgnovaquest", "ivrpgaetherquest", "ivrpgversaquest", "ivrpgsiphonquest", "ivrpgspiraquest"}
-    self.classWeaponText = {
-      "A Aegis é uma espada que pode ser usada como um escudo. Bloqueio Perfeito ativa a habilidade de classe do Cavaleiro. Bloqueio Perfeito com o Vital Aegis restaura vida.\nAnimações de ataque por ^blue;Ribs^reset;. Confira o ^blue;Project Blade Dance^reset; se você já não tiver!",
-      "A Nova é um cajado que pode trocar de elementos. O cajado troca entre Nova, Fogo, Eletricidade, e Gelo. Nova enfraquece os inimigos para Fogo, Eletricidade e Gelo. Inimigos mortos pelo Primed Nova explodem.", 
-      "O Aether é uma shuriken que nunca se esgota e sempre causa sangramento. O Blood Aether rastreia inimigos e atravessa paredes e inimigos. O rastreamento escala com Destreza, e seu tempo de vida aumenta com Agilidade.", 
-      "A Versa é uma arma que pode disparar em dois modos. Impacto Versa e tiro de espingarda Ricocheteante pode ser mantida para aumentar o dano e esmagar os inimigos. As balas Ricocheteantes da Versa quicam e aumenta o poder toda vez que elas ricocheteiam.", 
-      "A Siphon é uma garra que usa energia para causar danos maciços para o seu finalizador. Finalizadores: Critical Slice causa sangramento e enche a fome. Venom Slice causa envenenamento e enche a vida. Lightning Slice causa energia estática e enche a energia.", 
-      "A Spira é uma broca de uma mão com maior velocidade e uso infinito. Hungry Spira atrai itens pra perto. Pressionando Shift enquanto estiver usando Ravenous Spira faz com que nenhum bloco caia, mas enche a energia enquanto os quebra."
-    }
-    --initiating possible Level Change (thus, level currency should not be used in another script!!!)
+
     self.challengeText = {
       {
         {"Derrote 500 inimigos Tier 4 ou superior.", 500},
@@ -80,21 +48,23 @@ function init()
         {"Derrote o Coração da Ruína.", 1},
         {"Derrote o Coração da Ruína sem levar dano.", 1},
         {"-------------------------------------------------------. <- Período é a duração máxima!"}
-      }
-    }
 
-    self.hardcoreWeaponText = {
-      "Atualmente Pode Equipar Todas as Armas.",
-      "O Cavaleiro pode equipar:^green;\nArmas Corpo-a-corpo de Duas Mãos\nArmas Corpo-a-corpo de Uma Mão ^reset;^red;\n(Não Incluindo Armas de Punho ou Chicotes)\n\nO Cavaleiro não pode usar armas duplas.",
-      "O Feiticeiro pode equipar:^green;\nCajados\nVarinhas\nAdagas ^red;(Apenas na Mão Secundária)^reset;\n^green;Erchius Eye, Evil Eye, e Magnorbs.\n\nO Feiticeiro pode usar armas duplas.^reset;",
-      "O Ninja pode equipar:^green;\nArmas Corpo-a-corpo de Uma Mão\nArmas de Punho e Chicotes\nAdaptable Crossbow e Solus Katana\n\nO Ninja pode usar armas duplas.^reset;",
-      "O Soldado pode equipar:^green;\nArmas de Longo Alcance de Duas Mãos .\nArmas de Longo Alcance de Uma Mão.\n\n^reset;^red;O Soldado não pode usar armas duplas.\nO Soldado não pode usar Varinhas.\nO Soldado não pode usar o Erchius Eye.^reset;",
-      "O Ladino pode equipar:^green;\nArmas Corpo-a-corpo de Uma Mão.\nArmas de Longo Alcance de Uma Mão.\nArmas de Punho e Chicotes\n\nO Ladino pode usar armas duplas.\n^reset;^red;O Ladino não pode usar Varinhas.^reset;",
-      "O Explorador pode equipar:^green;\nQualquer Tipo de Arma\n\nO Explorador pode empunhar armas duplas.^reset;"
     }
+  }
 
-    self.textData = root.assetJson("/ivrpgtext.config")
-    updateLevel()
+  -- Loading Configs
+  self.textData = root.assetJson("/ivrpgtext.config")
+  self.classList = root.assetJson("/classList.config")
+  self.specList = root.assetJson("/specList.config")
+  self.statList = root.assetJson("/stats.config")
+  self.affinityList = root.assetJson("/affinityList.config")
+  self.affinityDescriptions = root.assetJson("/affinities/affinityDescriptions.config")
+
+  updateStats()
+  updateClassInfo()
+  updateAffinityInfo()
+  updateSpecInfo()
+  updateLevel()
 end
 
 function dismissed()
@@ -111,7 +81,7 @@ function update(dt)
     updateLevel()
     if widget.getChecked("bookTabs.2") then
       local checked = widget.getChecked("classlayout.techicon1") and 1 or (widget.getChecked("classlayout.techicon2") and 2 or (widget.getChecked("classlayout.techicon3") and 3 or (widget.getChecked("classlayout.techicon4") and 4 or 0))) 
-      if checked ~= 0 then unlockTechVisible(("techicon" .. tostring(checked)), 2^(checked+1)) end
+      if checked ~= 0 then unlockTechVisible((tostring(checked)), 2^(checked+1)) end
       updateClassWeapon()
     elseif widget.getChecked("bookTabs.3") then
       removeLayouts()
@@ -127,17 +97,32 @@ function update(dt)
 
   if player.currency("classtype") ~= self.class then
     self.class = player.currency("classtype")
+    updateClassInfo()
     if widget.getChecked("bookTabs.2") then
       changeToClasses()
     elseif widget.getChecked("bookTabs.0") then
       changeToOverview()
+    elseif widget.getChecked("bookTabs.5") then
+      changeToSpecialization()
     end
   end
 
   if player.currency("affinitytype") ~= self.affinity then
     self.affinity = player.currency("affinitytype")
+    updateAffinityInfo()
     if widget.getChecked("bookTabs.3") then
       changeToAffinities()
+    elseif widget.getChecked("bookTabs.0") then
+      changeToOverview()
+    end
+  end
+
+  if player.currency("spectype") ~= self.spec then
+    self.spec = player.currency("spectype")
+    updateSpecInfo()
+    unlockSpecWeapon()
+    if widget.getChecked("bookTabs.5") then
+      changeToSpecialization()
     elseif widget.getChecked("bookTabs.0") then
       changeToOverview()
     end
@@ -190,6 +175,30 @@ function updateBookTab()
   end
 end
 
+function updateClassInfo()
+  if self.class > 0 then
+    self.classInfo = root.assetJson("/classes/" .. self.classList[self.class] .. ".config")
+  else
+    self.classInfo = root.assetJson("/classes/default.config")
+  end
+end
+
+function updateSpecInfo()
+  if self.spec > 0 and self.class > 0 then
+    self.specInfo = root.assetJson("/specs/" .. self.specList[self.class][self.spec].name .. ".config")
+  else
+    self.specInfo = nil
+  end
+end
+
+function updateAffinityInfo()
+  if self.affinity > 0 then
+    self.affinityInfo = root.assetJson("/affinities/" .. self.affinityList[self.affinity] .. ".config")
+  else
+    self.affinityInfo = root.assetJson("/affinities/default.config")
+  end
+end
+
 function updateLevel()
   self.xp = player.currency("experienceorb")
   if self.xp < 100 then
@@ -212,13 +221,11 @@ function updateLevel()
 end
 
 function startingStats()
-  player.addCurrency("strengthpoint",1)
-  player.addCurrency("dexteritypoint",1)
-  player.addCurrency("intelligencepoint",1)
-  player.addCurrency("agilitypoint",1)
-  player.addCurrency("endurancepoint",1)
-  player.addCurrency("vitalitypoint",1)
-  player.addCurrency("vigorpoint",1)
+  for k,v in pairs(self.statList) do
+    if k ~= "default" then
+      player.addCurrency(k .. "point", 1)
+    end
+  end
 end
 
 function addStatPoints(newLevel, oldLevel)
@@ -261,66 +268,22 @@ function updateOverview(toNext)
   end
   widget.setText("overviewlayout.statpointsremaining","Pontos de Status Disponíveis: " .. tostring(player.currency("statpoint")))
 
-  if player.currency("classtype") == 0 then
-    widget.setText("overviewlayout.classtitle","Sem Classe")
-    widget.setImage("overviewlayout.classicon","/objects/class/noclass.png")
-    widget.setText("overviewlayout.hardcoretext","Sem Efeitos Negativos")
-  elseif player.currency("classtype") == 1 then
-    widget.setText("overviewlayout.classtitle","Cavaleiro")
-    widget.setImage("overviewlayout.classicon","/objects/class/knight.png")
-    widget.setText("overviewlayout.hardcoretext","-10% Velocidade\n-30% Altura no Pulo\n-25% Energia Maxima")
-  elseif player.currency("classtype") == 2 then
-    widget.setText("overviewlayout.classtitle","Feiticeiro")
-    widget.setImage("overviewlayout.classicon","/objects/class/wizard.png")
-    widget.setText("overviewlayout.hardcoretext","-20% Velocidade\n-20% Altura no Pulo\n-20% Resistência Física")
-  elseif player.currency("classtype") == 3 then
-    widget.setText("overviewlayout.classtitle","Ninja")
-    widget.setImage("overviewlayout.classicon","/objects/class/ninja.png")
-    widget.setText("overviewlayout.hardcoretext","-50% Vida Maxima")
-  elseif player.currency("classtype") == 4 then
-    widget.setText("overviewlayout.classtitle","Soldado")
-    widget.setImage("overviewlayout.classicon","/objects/class/soldier.png")
-    widget.setText("overviewlayout.hardcoretext","-10% Altura no Pulo\n-20% Resistência a Status")
-  elseif player.currency("classtype") == 5 then
-    widget.setText("overviewlayout.classtitle","Ladino")
-    widget.setImage("overviewlayout.classicon","/objects/class/rogue.png")
-    widget.setText("overviewlayout.hardcoretext","+20% Taxa de Fome\n-20% Vida Maxima")
-  elseif player.currency("classtype") == 6 then
-    widget.setText("overviewlayout.classtitle","Explorador")
-    widget.setImage("overviewlayout.classicon","/objects/class/explorer.png")
-    widget.setText("overviewlayout.hardcoretext","-25% Multiplicador de Poder")
+  local classicText = ""
+  for k,v in ipairs(self.classInfo.classic) do
+    if v.type == "movement" or v.type == "status" then
+      classicText = classicText .. v.text .. "\n"
+    end
   end
+  widget.setText("overviewlayout.hardcoretext", classicText)
+  widget.setText("overviewlayout.classtitle", self.classInfo.title)
+  widget.setFontColor("overviewlayout.classtitle", self.classInfo.color)
+  widget.setImage("overviewlayout.classicon", self.classInfo.image)
 
-  local affinity = player.currency("affinitytype")
-  if affinity == 0 then
-    widget.setText("overviewlayout.affinitytitle","Sem Afinidade")
-    widget.setImage("overviewlayout.affinityicon","/objects/class/noclass.png")
-  elseif affinity == 1 then
-    widget.setText("overviewlayout.affinitytitle","Fogo")
-    widget.setImage("overviewlayout.affinityicon","/objects/affinity/flame.png")
-  elseif affinity == 2 then
-    widget.setText("overviewlayout.affinitytitle","Veneno")
-    widget.setImage("overviewlayout.affinityicon","/objects/affinity/venom.png")
-  elseif affinity == 3 then
-    widget.setText("overviewlayout.affinitytitle","Gelo")
-    widget.setImage("overviewlayout.affinityicon","/objects/affinity/frost.png")
-  elseif affinity == 4 then
-    widget.setText("overviewlayout.affinitytitle","Eletricidade")
-    widget.setImage("overviewlayout.affinityicon","/objects/affinity/shock.png")
-  elseif affinity == 5 then
-    widget.setText("overviewlayout.affinitytitle","Infernal")
-    widget.setImage("overviewlayout.affinityicon","/objects/affinity/flame.png")
-  elseif affinity == 6 then
-    widget.setText("overviewlayout.affinitytitle","Tóxico")
-    widget.setImage("overviewlayout.affinityicon","/objects/affinity/venom.png")
-  elseif affinity == 7 then
-    widget.setText("overviewlayout.affinitytitle","Crio")
-    widget.setImage("overviewlayout.affinityicon","/objects/affinity/frost.png")
-  elseif affinity == 8 then
-    widget.setText("overviewlayout.affinitytitle","Arc")
-    widget.setImage("overviewlayout.affinityicon","/objects/affinity/shock.png")
-  end
+  widget.setText("overviewlayout.affinitytitle", self.affinityInfo.title)
+  widget.setFontColor("overviewlayout.affinitytitle", self.affinityInfo.color)
+  widget.setImage("overviewlayout.affinityicon", self.affinityInfo.image)
 
+  widget.setText("overviewlayout.spectitle", (self.specInfo and self.specInfo.title or ""))
   if status.statPositive("ivrpghardcore") then
     widget.setText("overviewlayout.hardcoretoggletext", "Ativo")
     widget.setVisible("overviewlayout.hardcoretext", true)
