@@ -462,7 +462,7 @@
           "prometheantacticsarmorboost.statuseffect.json": 1
         },
         "valkyrie": {
-          "flightofthevalkyrie.statuseffect.json": 0
+          "flightofthevalkyrie.statuseffect.json": 1
         },
         "vanguard": {
           "inthefray.statuseffect.json": 1
