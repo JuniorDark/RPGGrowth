@@ -1,0 +1,112 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/kunoichi.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "115% Base Power with Whips."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/kunoichi.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "125% Base Power with War-Fans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/kunoichi.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "90% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/kunoichi.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "90% Power Multiplier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/kunoichi.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can Wield War-Fans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/kunoichi.config": [
+        "/effects/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dexterity (x2)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/kunoichi.config": [
+        "/effects/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased Movement Speed with Whips and War-Fans"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/kunoichi.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Killing enemies with War-Fans grants Energy and Feather Falling. Killing Male NPCs yields bonus XP."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/kunoichi.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Luxuria"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/kunoichi.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [W] to flip backwards, releasing a sweet gas into the air as you do. The gas dazes enemies that get hit by it, causing them to move much slower. While mid-flip, you are invulnerable to damage, and hitting the ground immediately stops the flip.\n^red;Cooldown: 1s. Energy Cost: 50e. Does not protect from Status Damage."
+    }
+  }
+]

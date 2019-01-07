@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10 Armor with a Shield equipped.\nAfter Perfect Shielding, nearby allies gain +5 Armor for 10 seconds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "110% Shield Stamina"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/effects/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "115% Armor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "150% Base Power While Dual-Wielding Machine Pistols and Shields."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Epimetheus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressing [W] toggles Atlas' Burden, a buff that halves Shield Stamina and Jump Height, but provides bonuses for your shield. While Atlas' Burden is active, enemies that hit your Shield have a 25% chance to be stunned for half a second; Perfect Shields stun all nearby enemies for two second; and Perfect Shields grant you and nearby allies 110% Base Power Multiplier, 120% Armor, and Knockback Immunity for five seconds."
+    }
+  }
+]

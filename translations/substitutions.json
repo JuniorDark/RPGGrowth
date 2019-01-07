@@ -104,6 +104,7 @@
     "/weapon/title": "texts/wide_spread_fields.json"
   },
   "classes/soldier.config": {
+    "/classic/2/text": "texts/shared_.config.json",
     "/scaling/0/text": "texts/wide_spread_fields.json",
     "/scaling/1/text": "texts/wide_spread_fields.json",
     "/scaling/2/text": "texts/wide_spread_fields.json",
@@ -507,11 +508,10 @@
     "/0/0/title": "texts/shared_spec.json",
     "/0/1/description": "texts/wide_spread_fields.json",
     "/0/2/description": "texts/wide_spread_fields.json",
-    "/0/3/description": "texts/wide_spread_fields.json",
     "/0/4/title": "texts/shared_spec.json",
     "/0/5/description": "texts/wide_spread_fields.json",
     "/0/6/description": "texts/wide_spread_fields.json",
-    "/0/7/description": "texts/wide_spread_fields.json",
+    "/0/7/title": "texts/shared_spec.json",
     "/0/8/description": "texts/wide_spread_fields.json",
     "/1/0/title": "texts/shared_spec.json",
     "/1/1/description": "texts/wide_spread_fields.json",
@@ -524,7 +524,7 @@
     "/1/8/description": "texts/wide_spread_fields.json",
     "/2/0/description": "texts/wide_spread_fields.json",
     "/2/1/description": "texts/wide_spread_fields.json",
-    "/2/2/description": "texts/wide_spread_fields.json",
+    "/2/2/title": "texts/shared_spec.json",
     "/2/3/title": "texts/shared_spec.json",
     "/2/4/description": "texts/wide_spread_fields.json",
     "/2/5/description": "texts/wide_spread_fields.json",
@@ -534,13 +534,13 @@
     "/3/0/description": "texts/wide_spread_fields.json",
     "/3/1/description": "texts/wide_spread_fields.json",
     "/3/2/title": "texts/shared_spec.json",
-    "/3/3/description": "texts/wide_spread_fields.json",
+    "/3/3/title": "texts/shared_spec.json",
     "/3/4/title": "texts/shared_spec.json",
     "/3/5/description": "texts/wide_spread_fields.json",
     "/3/6/description": "texts/wide_spread_fields.json",
-    "/3/7/description": "texts/wide_spread_fields.json",
+    "/3/7/title": "texts/shared_spec.json",
     "/3/8/description": "texts/wide_spread_fields.json",
-    "/4/0/description": "texts/wide_spread_fields.json",
+    "/4/0/title": "texts/shared_spec.json",
     "/4/1/description": "texts/wide_spread_fields.json",
     "/4/2/description": "texts/wide_spread_fields.json",
     "/4/3/description": "texts/wide_spread_fields.json",
@@ -549,7 +549,7 @@
     "/4/6/description": "texts/wide_spread_fields.json",
     "/4/7/description": "texts/wide_spread_fields.json",
     "/4/8/description": "texts/wide_spread_fields.json",
-    "/5/0/description": "texts/wide_spread_fields.json",
+    "/5/0/title": "texts/shared_spec.json",
     "/5/1/description": "texts/wide_spread_fields.json",
     "/5/2/description": "texts/wide_spread_fields.json",
     "/5/3/description": "texts/wide_spread_fields.json",
@@ -575,8 +575,28 @@
     "/title": "texts/shared_spec.json",
     "/weapon/title": "texts/wide_spread_fields.json"
   },
+  "specs/cannoneer.config": {
+    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/effects/1/text": "texts/wide_spread_fields.json",
+    "/effects/2/text": "texts/wide_spread_fields.json",
+    "/effects/6/text": "texts/specs/shared_.config.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json"
+  },
   "specs/crusader.config": {
     "/effects/0/text": "texts/wide_spread_fields.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json"
+  },
+  "specs/dragoon.config": {
+    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/effects/1/text": "texts/wide_spread_fields.json",
+    "/effects/2/text": "texts/wide_spread_fields.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json"
+  },
+  "specs/kunoichi.config": {
+    "/effects/1/text": "texts/wide_spread_fields.json",
     "/tech/title": "texts/specs.json",
     "/title": "texts/shared_spec.json"
   },
@@ -589,18 +609,36 @@
     "/title": "texts/shared_spec.json"
   },
   "specs/paladin.config": {
+    "/classic/1/text": "texts/specs/shared_n.config.json",
     "/effects/0/text": "texts/wide_spread_fields.json",
     "/effects/1/text": "texts/wide_spread_fields.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json"
+  },
+  "specs/pioneer.config": {
+    "/classic/0/text": "texts/wide_spread_fields.json",
+    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/effects/1/text": "texts/wide_spread_fields.json",
+    "/effects/2/text": "texts/wide_spread_fields.json",
     "/tech/title": "texts/specs.json",
     "/title": "texts/shared_spec.json"
   },
   "specs/techs/adept/flashstep.tech": {
     "/shortDescription": "texts/specs.json"
   },
+  "specs/techs/cannoneer/bombsaway.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
   "specs/techs/crusader/crusaderbashattack.statuseffect": {
     "/label": "texts/shared_tech/shared_.statuseffect.json"
   },
   "specs/techs/crusader/resurgence.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/dragoon/dragonsleap.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/kunoichi/swirlingpetal.tech": {
     "/shortDescription": "texts/specs.json"
   },
   "specs/techs/necromancer/reap.tech": {
@@ -618,6 +656,18 @@
   "specs/techs/paladin/immaculateshieldstatus.statuseffect": {
     "/label": "texts/specs.json"
   },
+  "specs/techs/pioneer/colonize.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/titan/atlasburden.statuseffect": {
+    "/label": "texts/specs.json"
+  },
+  "specs/techs/titan/atlasburden.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/valkyrie/einherjar.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
   "specs/techs/vanguard/rush.tech": {
     "/shortDescription": "texts/specs.json"
   },
@@ -629,6 +679,21 @@
   },
   "specs/techs/wraith/darkphase.tech": {
     "/shortDescription": "texts/specs.json"
+  },
+  "specs/titan.config": {
+    "/classic/0/text": "texts/specs/shared_n.config.json",
+    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/effects/1/text": "texts/wide_spread_fields.json",
+    "/effects/5/text": "texts/specs/shared_.config.json",
+    "/effects/6/text": "texts/shared_.config.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json"
+  },
+  "specs/valkyrie.config": {
+    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/effects/1/text": "texts/wide_spread_fields.json",
+    "/effects/2/text": "texts/wide_spread_fields.json",
+    "/tech/title": "texts/specs.json"
   },
   "specs/vanguard.config": {
     "/effects/0/text": "texts/wide_spread_fields.json",

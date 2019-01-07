@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+50% Fire Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-20% Poison Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Base Power With Rocket Launchers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "125% Base Power While Dual-Wielding Short Swords and Grenade Launchers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "An upgrade to Double Jump. Pressing [Space] fires a large cannonball that blasts through enemies and explodes on impact with blocks, dealing massive AoE damages. Launching this cannonball sends you flying, and it can be directionally launched forwards, backwards, downwards, and upwards using the movement keys [W,A,S,D]."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can Wield Rocket Launchers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Landing a hit with a Dagger or Shortsword grants bonus damage for the following second as long as you have a Grenade Launcher in hand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outburst"
+    }
+  }
+]

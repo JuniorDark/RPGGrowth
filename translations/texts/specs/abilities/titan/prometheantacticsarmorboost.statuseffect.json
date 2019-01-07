@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/titan/prometheantacticsarmorboost.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ally Promethean Tactics"
+    }
+  }
+]

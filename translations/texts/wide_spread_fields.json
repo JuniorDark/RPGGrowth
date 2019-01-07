@@ -11,10 +11,8 @@
       "specList.config": [
         "/0/1/description",
         "/0/2/description",
-        "/0/3/description",
         "/0/5/description",
         "/0/6/description",
-        "/0/7/description",
         "/0/8/description",
         "/1/1/description",
         "/1/2/description",
@@ -24,7 +22,6 @@
         "/1/8/description",
         "/2/0/description",
         "/2/1/description",
-        "/2/2/description",
         "/2/4/description",
         "/2/5/description",
         "/2/6/description",
@@ -32,12 +29,9 @@
         "/2/8/description",
         "/3/0/description",
         "/3/1/description",
-        "/3/3/description",
         "/3/5/description",
         "/3/6/description",
-        "/3/7/description",
         "/3/8/description",
-        "/4/0/description",
         "/4/1/description",
         "/4/2/description",
         "/4/3/description",
@@ -45,7 +39,6 @@
         "/4/6/description",
         "/4/7/description",
         "/4/8/description",
-        "/5/0/description",
         "/5/1/description",
         "/5/2/description",
         "/5/3/description",
@@ -53,6 +46,9 @@
         "/5/6/description",
         "/5/7/description",
         "/5/8/description"
+      ],
+      "specs/pioneer.config": [
+        "/classic/0/text"
       ]
     },
     "Texts": {
@@ -134,6 +130,18 @@
       ],
       "objects/stats/agilitypoint.currency": [
         "/shortdescription"
+      ],
+      "specs/cannoneer.config": [
+        "/effects/2/text"
+      ],
+      "specs/dragoon.config": [
+        "/effects/1/text"
+      ],
+      "specs/pioneer.config": [
+        "/effects/2/text"
+      ],
+      "specs/valkyrie.config": [
+        "/effects/1/text"
       ],
       "specs/vigilante.config": [
         "/effects/0/text"
@@ -372,6 +380,9 @@
       "specs/necromancer.config": [
         "/effects/0/text"
       ],
+      "specs/valkyrie.config": [
+        "/effects/0/text"
+      ],
       "specs/wraith.config": [
         "/effects/1/text"
       ]
@@ -410,6 +421,18 @@
       ],
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/endurancetext/value"
+      ],
+      "specs/cannoneer.config": [
+        "/effects/1/text"
+      ],
+      "specs/dragoon.config": [
+        "/effects/0/text"
+      ],
+      "specs/pioneer.config": [
+        "/effects/1/text"
+      ],
+      "specs/titan.config": [
+        "/effects/0/text"
       ],
       "specs/vigilante.config": [
         "/effects/2/text"
@@ -986,6 +1009,9 @@
       ],
       "specs/crusader.config": [
         "/effects/0/text"
+      ],
+      "specs/valkyrie.config": [
+        "/effects/2/text"
       ]
     },
     "Texts": {
@@ -1089,10 +1115,19 @@
       "specs/adept.config": [
         "/effects/1/text"
       ],
+      "specs/dragoon.config": [
+        "/effects/2/text"
+      ],
+      "specs/kunoichi.config": [
+        "/effects/1/text"
+      ],
       "specs/necromancer.config": [
         "/effects/1/text"
       ],
       "specs/paladin.config": [
+        "/effects/1/text"
+      ],
+      "specs/titan.config": [
         "/effects/1/text"
       ],
       "specs/vanguard.config": [
@@ -1136,6 +1171,12 @@
       ],
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/vitalitytext/value"
+      ],
+      "specs/cannoneer.config": [
+        "/effects/0/text"
+      ],
+      "specs/pioneer.config": [
+        "/effects/0/text"
       ],
       "specs/vanguard.config": [
         "/effects/0/text"

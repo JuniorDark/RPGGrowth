@@ -53,6 +53,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/4/0/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blow'em away! Cannoneers are rogues that specialize in explosive weaponry. Normally utilizing Shortswords and Grenade Launchers, Cannoneers can get up close and personal to slice up enemies or stay back and blow them all to bits."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/4/7/title",
         "/5/7/title"
       ]
@@ -60,18 +71,6 @@
     "Texts": {
       "Eng": "Bounty Hunter",
       "Por": "Caçador de Recompensas"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/4/0/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Cannoneer",
-      "Por": "Artilheiro"
     }
   },
   {
@@ -171,8 +170,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Defeat enemies while your current health is lower than 20% of your max health.",
-      "Por": "Derrote inimigos enquanto sua vida atual estiver abaixo de 20% de sua vida máxima."
+      "Eng": "Defeat enemies while your current health is lower than 30% of your max health. Gain more progress the lower your Health."
     }
   },
   {
@@ -192,13 +190,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/0/7/title",
-        "/3/7/title"
+        "/0/7/description",
+        "/3/7/description"
       ]
     },
     "Texts": {
-      "Eng": "Dragoon",
-      "Por": "Dragoon"
+      "Eng": "Dragoons utilize spears to poke through defenses with crazy accuracy."
     }
   },
   {
@@ -328,18 +325,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/5/0/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Pioneer",
-      "Por": "Pioneiro"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
         "/4/1/title"
       ]
     },
@@ -376,12 +361,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/2/2/title"
+        "/5/0/description"
       ]
     },
     "Texts": {
-      "Eng": "Seductress",
-      "Por": "Sedutora"
+      "Eng": "Searching new lands to discover hidden treasures, Pioneers are the first to colonize new planets. Able to quickly navigate colonized planets and claim new planets for themselves, Pioneers excel in blazing a trail through the galaxy."
     }
   },
   {
@@ -414,10 +398,8 @@
       "specList.config": [
         "/0/1/unlockText",
         "/0/2/unlockText",
-        "/0/3/unlockText",
         "/0/5/unlockText",
         "/0/6/unlockText",
-        "/0/7/unlockText",
         "/0/8/unlockText",
         "/1/1/unlockText",
         "/1/2/unlockText",
@@ -427,7 +409,6 @@
         "/1/8/unlockText",
         "/2/0/unlockText",
         "/2/1/unlockText",
-        "/2/2/unlockText",
         "/2/4/unlockText",
         "/2/5/unlockText",
         "/2/6/unlockText",
@@ -435,12 +416,9 @@
         "/2/8/unlockText",
         "/3/0/unlockText",
         "/3/1/unlockText",
-        "/3/3/unlockText",
         "/3/5/unlockText",
         "/3/6/unlockText",
-        "/3/7/unlockText",
         "/3/8/unlockText",
-        "/4/0/unlockText",
         "/4/1/unlockText",
         "/4/2/unlockText",
         "/4/3/unlockText",
@@ -448,7 +426,6 @@
         "/4/6/unlockText",
         "/4/7/unlockText",
         "/4/8/unlockText",
-        "/5/0/unlockText",
         "/5/1/unlockText",
         "/5/2/unlockText",
         "/5/3/unlockText",
@@ -492,12 +469,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/3/3/title"
+        "/3/3/description"
       ]
     },
     "Texts": {
-      "Eng": "Titan",
-      "Por": "Titã"
+      "Eng": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a one-handed pistol or smg paired with a shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura."
     }
   },
   {
@@ -542,12 +518,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/2/2/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Using a Whip, Kunai, Shuriken, or War-Fan, defeat enemies while Agility is higher than 30."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/0/3/title"
       ]
     },
     "Texts": {
       "Eng": "Valkryie",
       "Por": "Valquíria"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Valkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies."
     }
   },
   {
@@ -622,6 +620,73 @@
     "Texts": {
       "Eng": "Wraiths are spirits, no longer corporeal. Because of this, Wraiths are barely affected by gravity and can phase through matter when threatened. Wraiths are unable to wield large weapons and can no longer use magic.",
       "Por": "Aparições são espíritos, não mais corpóreos. Por causa disso, Aparições são pouco afetadas pela gravidade e podem atravessar a matéria quando ameaçados. Aparições não podem usar armas grandes e não podem mais usar magia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/2/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Female Only^white;\nDespite having slightly lower Health\nand dealing a bit less Damage\n^#ffaafa;The Kunoichi\nGracfully Dances Among\nSnaps Of Her War-Fan\n^white;silencing whomever she pleases."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/0/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nDiscover new planets and use flags to bookmark old planets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/3/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nPerfect Shield, or deal damage with Pistols or Machine Pistols."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/0/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUse Shortswords or Explosive Weapons to defeat enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/3/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUse Spears or Shortswords to defeat enemies or fall from 500 blocks high."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/7/unlockText",
+        "/3/7/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUsing a Spear, Quarterstaff, or Assault Rifle, defeat enemies. Defeating the Bone Dragon with a Spear provides an immense boost."
     }
   }
 ]

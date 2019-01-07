@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/kunoichi/luxuria.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beautiful painted petals bely this razor-sharp War-Fan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/kunoichi/luxuria.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffaafa;Luxuria^white;"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/cannoneer/fightinglion.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fighting Lion"
+    }
+  }
+]

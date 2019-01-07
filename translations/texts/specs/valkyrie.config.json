@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10% Ice and Electric Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-10% Fire and Poison Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "115% Base Power with Shortswords."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Base Power with Spears:\nScales with Dex."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can dual-wield Shortswords."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain a short period of Low-Gravity upon jumping. Staying airborne triggers Health Regeneration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gungnir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [F] to target the ally nearest your cursor and grant them Invulnerability and +150% Damage for 5 seconds. Doing so costs 20% of your Max Health and instantly drains all energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Valkyrie"
+    }
+  }
+]

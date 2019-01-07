@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/titan/prometheantactics.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Promethean Tactics"
+    }
+  }
+]

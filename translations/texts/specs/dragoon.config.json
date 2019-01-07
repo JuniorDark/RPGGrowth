@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/effects/8/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+33% Energy Recharge Delay"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/effects/7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-33% Energy Recharge Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "110% Base Power with Quarterstaves"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Base Power with Spears and Assault Rifles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "An upgrade to Knight's Slam. Pressing [Space] while crouching shoots you up into the air. Doing so provides Invulnerability until you start to fall or hit the ground. Using this prevents you from double jumping in midair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can use Assault Rifles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can use Spears and Quarterstaves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dragon's Bane"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fall Damage Immunity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fire and Lava Immunity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upon landing, create a shockwave that stuns nearby enemies. Stun Duration depends on fall distance and can reach up to seven seconds."
+    }
+  }
+]

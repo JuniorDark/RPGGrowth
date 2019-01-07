@@ -111,12 +111,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
-        "/endurance/0/text"
+        "/endurance/1/text"
       ]
     },
     "Texts": {
-      "Eng": "Increases Knockback Resistance and Physical Resistance.",
-      "Por": "Aumenta a Resistência a Knockback e a Resistência Física."
+      "Eng": "Increases Knockback Resistance."
     }
   },
   {
@@ -139,20 +138,29 @@
       ]
     },
     "Texts": {
-      "Eng": "Minimally Increases Physical Resistance.",
-      "Por": "Aumenta Minimamente a Resistência Física."
+      "Eng": "Minimally Increases Armor."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
-        "/endurance/1/text"
+        "/endurance/2/text"
       ]
     },
     "Texts": {
-      "Eng": "Moderately Increases All Other Resistances.",
-      "Por": "Aumenta Moderadamente Todas as Outras Resistências."
+      "Eng": "Moderately Increases All Resistances."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/endurance/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Significantly Increases Armor."
     }
   },
   {
@@ -163,8 +171,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Significantly Increases Speed.",
-      "Por": "Aumenta Significativamente a Velocidade."
+      "Eng": "Significantly Increases Movement Speed (Including Liquid Movement)."
     }
   },
   {
@@ -255,7 +262,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
-        "/endurance/2/text"
+        "/endurance/3/text"
       ]
     },
     "Texts": {

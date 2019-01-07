@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/pioneer/colonize.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colonize Cooldown"
+    }
+  }
+]

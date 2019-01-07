@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/cannoneer/bombsaway.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cannoneer Only"
+    }
+  }
+]

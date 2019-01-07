@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/valkyrie/flightofthevalkyrie.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flight of the Valkryie"
+    }
+  }
+]

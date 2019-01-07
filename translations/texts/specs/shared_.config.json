@@ -13,5 +13,19 @@
       "Eng": "-20% Holy Resistance",
       "Por": "-20% Resistência Sagrada"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/6/text"
+      ],
+      "specs/titan.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "80% Speed"
+    }
   }
 ]

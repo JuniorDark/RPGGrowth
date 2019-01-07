@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/dragoon/flightless.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flightless"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/kunoichi/featherfall/tranquilwindfeatherfall.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feather Fall"
+    }
+  }
+]

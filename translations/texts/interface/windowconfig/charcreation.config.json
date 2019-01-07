@@ -1,0 +1,156 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelCasualMode/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "CASUAL"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/cancel/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cancel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/saveChar/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Done"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/mode/buttons/1/data/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eat to survive, drop items on death."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelHardcoreMode/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "HARDCORE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelPortrait/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "HUMAN"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/mode/buttons/0/data/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "No need to eat and no death penalties."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelToggleClothing/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Preview with clothes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/kawaRandomize/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "RANDOMIZE:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelSpeciesRadio/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SPECIES"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelSurvivalMode/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SURVIVAL"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/lblSkipIntro/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skip intro mission"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/mode/buttons/2/data/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "When you die your character stays dead!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/name/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "name"
+    }
+  }
+]

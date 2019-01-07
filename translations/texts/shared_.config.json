@@ -28,5 +28,20 @@
       "Eng": "75% Max Energy",
       "Por": "75% Vida Máxima"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/classic/2/text"
+      ],
+      "specs/titan.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "90% Jump Height",
+      "Por": "90% Altura no Pulo"
+    }
   }
 ]

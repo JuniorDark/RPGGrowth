@@ -117,7 +117,8 @@
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/aestheticstoggletext/value",
         "/gui/classlayout/children/classabilitytoggletext/value",
-        "/gui/overviewlayout/children/hardcoretoggletext/value"
+        "/gui/overviewlayout/children/hardcoretoggletext/value",
+        "/gui/overviewlayout/children/rallymodeactive/value"
       ]
     },
     "Texts": {
@@ -540,6 +541,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/rallymodetext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Multiple players using Rally Mode strengthens the effect."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/affinitytitle/value"
       ]
     },
@@ -655,6 +667,17 @@
     "Texts": {
       "Eng": "Prestige",
       "Por": "Prestígio"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/rallymodetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rally Mode: enemies become stronger as you level up!"
     }
   },
   {

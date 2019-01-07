@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/4/0/title"
+      ],
+      "specs/cannoneer.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cannoneer",
+      "Por": "Artilheiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/0/4/title",
         "/1/4/title"
       ],
@@ -28,6 +43,36 @@
     "Texts": {
       "Eng": "Crusader",
       "Por": "Cruzado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/7/title",
+        "/3/7/title"
+      ],
+      "specs/dragoon.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dragoon",
+      "Por": "Dragoon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/2/title"
+      ],
+      "specs/kunoichi.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kunoichi"
     }
   },
   {
@@ -58,6 +103,36 @@
     "Texts": {
       "Eng": "Paladin",
       "Por": "Paladino"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/0/title"
+      ],
+      "specs/pioneer.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pioneer",
+      "Por": "Pioneiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/3/title"
+      ],
+      "specs/titan.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titan",
+      "Por": "Titã"
     }
   },
   {

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/titan/atlasburden.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titan Only"
+    }
+  }
+]

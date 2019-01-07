@@ -94,17 +94,5 @@
       "Eng": "True Aegis",
       "Por": "True Aegis"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/paladin.config": [
-        "/classic/1/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "^red;50% Base Power while a\nShield is not equipped.",
-      "Por": "^red;50% Poder Base enquanto um Escudo não está equipado."
-    }
   }
 ]

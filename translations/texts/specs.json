@@ -2,6 +2,51 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "specs/techs/titan/atlasburden.statuseffect": [
+        "/label"
+      ],
+      "specs/techs/titan/atlasburden.tech": [
+        "/shortDescription"
+      ],
+      "specs/titan.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Atlas' Burden"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/tech/title"
+      ],
+      "specs/techs/cannoneer/bombsaway.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bombs Away"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/pioneer.config": [
+        "/tech/title"
+      ],
+      "specs/techs/pioneer/colonize.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colonize"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "specs/techs/wraith/darkphase.tech": [
         "/shortDescription"
       ],
@@ -30,6 +75,34 @@
     "Texts": {
       "Eng": "Desperado",
       "Por": "Desperado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/tech/title"
+      ],
+      "specs/techs/dragoon/dragonsleap.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dragon's Leap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/valkyrie/einherjar.tech": [
+        "/shortDescription"
+      ],
+      "specs/valkyrie.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Einherjar"
     }
   },
   {
@@ -108,6 +181,20 @@
     "Texts": {
       "Eng": "Rush",
       "Por": "Investida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/kunoichi.config": [
+        "/tech/title"
+      ],
+      "specs/techs/kunoichi/swirlingpetal.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Swirling Petal"
     }
   }
 ]

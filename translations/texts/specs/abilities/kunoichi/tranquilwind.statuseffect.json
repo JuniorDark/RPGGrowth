@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/kunoichi/tranquilwind.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tranquil Wind"
+    }
+  }
+]

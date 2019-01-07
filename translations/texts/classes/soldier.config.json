@@ -63,24 +63,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
-        "/classic/2/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "90% Jump Height",
-      "Por": "90% Altura no Pulo"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "classes/soldier.config": [
         "/techs/2/text"
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Double Jump, press [Space] to dash. You can dash in all cardinal directions, as well as change direction mid-dash. Dash Duration scales with Agility. You can dash twice in mid-air.",
-      "Por": "Uma Melhoria para o Pulo Duplo, pressione [Espaço] para arrancar em uma direção de sua escolha. Você pode mudar ligeiramente a sua trajetória enquanto estiver arrancando. A Duração da Arrancada escala com Agilidade. Você pode arrancar duas vezes no meio do ar."
+      "Eng": "An upgrade to Double Jump, press [Space] to dash. You can dash in all cardinal directions, as well as change direction mid-dash. Unless [Shift] is held, default direction is upwards. Dash Duration scales with Agility. You can dash twice in mid-air."
     }
   },
   {

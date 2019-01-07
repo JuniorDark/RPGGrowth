@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/pioneer/flag/flagpioneer.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Pioneer flag. I can use this as a waypoint for teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/pioneer/flag/flagpioneer.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can bookmark this Pioneer flag for quick teleportin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/pioneer/flag/flagpioneer.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A small locator module attached to this Pioneer flag allows it to be bookmarked for teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/pioneer/flag/flagpioneer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pioneer Flag"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/pioneer/flag/flagpioneer.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pioneer flag makess good point to teleport back to ussing teleporter!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/pioneer/flag/flagpioneer.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Pioneer flag. Use ^green;[E]^white; to bookmark a teleportation location."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/pioneer/flag/flagpioneer.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Pioneer flag can act as a way point, enabling me to return to this point using a teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/pioneer/flag/flagpioneer.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Pioneer flag can be bookmarked as a destination for my ship teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/pioneer/flag/flagpioneer.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Pioneer flag can be saved as a location for my teleporter. Then I can return to it at any time."
+    }
+  }
+]

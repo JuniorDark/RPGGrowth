@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/pioneer.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+0.5% Hunger Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/pioneer.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "125% Base Power\nWith All Weapons"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/pioneer.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "125% Power Multiplier and Max Energy on Bookmarked Planets.\n120% Speed and +10% Resistance on Non-Bookmarked Planets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/pioneer.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nautilus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/pioneer.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressing [F] places a Colony Flag if possible. Colony Flags can be set as waypoints for easy teleportation access. 600 second cooldown. Teleporting to a new location immediately resets cooldown."
+    }
+  }
+]
