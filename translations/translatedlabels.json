@@ -455,7 +455,7 @@
           "perfectbarrier.statuseffect.json": 1
         },
         "pioneer": {
-          "terranova.statuseffect.json": 0
+          "terranova.statuseffect.json": 1
         },
         "titan": {
           "prometheantactics.statuseffect.json": 0,
