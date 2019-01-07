@@ -458,7 +458,7 @@
           "terranova.statuseffect.json": 1
         },
         "titan": {
-          "prometheantactics.statuseffect.json": 0,
+          "prometheantactics.statuseffect.json": 1,
           "prometheantacticsarmorboost.statuseffect.json": 0
         },
         "valkyrie": {
