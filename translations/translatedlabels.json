@@ -434,7 +434,7 @@
           "shared_.statuseffect.json": 1
         },
         "cannoneer": {
-          "fightinglion.statuseffect.json": 0
+          "fightinglion.statuseffect.json": 1
         },
         "crusader": {
           "purity.statuseffect.json": 1
