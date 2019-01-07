@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+0.5% Hunger Rate"
+      "Eng": "+0.5% Hunger Rate",
+      "Por": "+0.5% Taxa de Fome"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "125% Base Power\nWith All Weapons"
+      "Eng": "125% Base Power\nWith All Weapons",
+      "Por": "125% Poder Base\nCom Todas As Armas"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "125% Power Multiplier and Max Energy on Bookmarked Planets.\n120% Speed and +10% Resistance on Non-Bookmarked Planets."
+      "Eng": "125% Power Multiplier and Max Energy on Bookmarked Planets.\n120% Speed and +10% Resistance on Non-Bookmarked Planets.",
+      "Por": "125% Multiplicador de Poder e Energia Máxima em Planetas Favoritados.\n120% Velocidade e +10% de Resistência em Planetas Não Favoritados."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nautilus"
+      "Eng": "Nautilus",
+      "Por": "Nautilus"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pressing [F] places a Colony Flag if possible. Colony Flags can be set as waypoints for easy teleportation access. 600 second cooldown. Teleporting to a new location immediately resets cooldown."
+      "Eng": "Pressing [F] places a Colony Flag if possible. Colony Flags can be set as waypoints for easy teleportation access. 600 second cooldown. Teleporting to a new location immediately resets cooldown.",
+      "Por": "Pressionar [F] coloca uma Bandeira de Colônia, se possível. As Bandeiras de Colônias podem ser definidas como pontos de referência para facilitar o acesso ao teletransporte. 600 segundos de recarga. Teleportar para um novo local imediatamente reseta a recarga."
     }
   }
 ]
