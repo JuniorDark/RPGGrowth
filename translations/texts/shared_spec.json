@@ -46,7 +46,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Dragoon"
+    ],
     "Files": {
       "specList.config": [
         "/0/7/title",
@@ -58,7 +60,7 @@
     },
     "Texts": {
       "Eng": "Dragoon",
-      "Por": "Dragoon"
+      "Por": "Mercenário"
     }
   },
   {

@@ -164,7 +164,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Derrote inimigos enquanto sua vida atual estiver abaixo de 30% de sua vida máxima. Ganhe mais progresso quanto menor sua Vida."
+    ],
     "Files": {
       "specList.config": [
         "/1/0/unlockText"
@@ -172,7 +174,7 @@
     },
     "Texts": {
       "Eng": "Defeat enemies while your current health is lower than 30% of your max health. Gain more progress the lower your Health.",
-      "Por": "Derrote inimigos enquanto sua vida atual estiver abaixo de 30% de sua vida máxima. Ganhe mais progresso quanto menor sua Vida."
+      "Por": "Derrote inimigos enquanto sua vida atual estiver abaixo de 20% de sua vida máxima."
     }
   },
   {
@@ -189,7 +191,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Dragoons utilizam lanças para penetrar nas defesas com uma precisão insana.",
+      "Os Dragoons utilizam lanças para penetrar nas defesas com uma precisão insana."
+    ],
     "Files": {
       "specList.config": [
         "/0/7/description",
@@ -198,7 +203,7 @@
     },
     "Texts": {
       "Eng": "Dragoons utilize spears to poke through defenses with crazy accuracy.",
-      "Por": "Dragoons utilizam lanças para penetrar nas defesas com uma precisão insana."
+      "Por": "-"
     }
   },
   {
@@ -313,7 +318,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Bloqueie perfeitamente os tentáculos do Coração da Ruína."
+    ],
     "Files": {
       "specList.config": [
         "/0/0/unlockText"
@@ -321,7 +328,7 @@
     },
     "Texts": {
       "Eng": "Perfect shield the Heart of Ruin's tentacles.",
-      "Por": "Bloqueie perfeitamente os tentáculos do Coração da Ruína."
+      "Por": "Escudo Perfeito os tentáculos do Coração da Ruína."
     }
   },
   {
@@ -507,7 +514,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Use armas de longo alcance para derrotar os inimigos enquanto estiver próximo e pessoal."
+    ],
     "Files": {
       "specList.config": [
         "/3/4/unlockText",
@@ -516,7 +525,7 @@
     },
     "Texts": {
       "Eng": "Use ranged weapons to defeat enemies while up close and personal.",
-      "Por": "Use armas de longo alcance para derrotar os inimigos enquanto estiver próximo e pessoal."
+      "Por": "Use armas de longo alcance para derrotar inimigos enquanto estiver próximos a eles."
     }
   },
   {
@@ -690,7 +699,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nUsando uma Lança, Quarterstaff ou Rifle de Assalto, derrote inimigos. Derrotar o Bone Dragon com uma Lança proporciona um impulso imenso."
+    ],
     "Files": {
       "specList.config": [
         "/0/7/unlockText",
@@ -699,7 +710,7 @@
     },
     "Texts": {
       "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUsing a Spear, Quarterstaff, or Assault Rifle, defeat enemies. Defeating the Bone Dragon with a Spear provides an immense boost.",
-      "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nUsando uma Lança, Quarterstaff ou Rifle de Assalto, derrote inimigos. Derrotar o Bone Dragon com uma Lança proporciona um impulso imenso."
+      "Por": "Ainda desconhecido! Novas atualizações podem esclarecer esse requisito."
     }
   }
 ]
