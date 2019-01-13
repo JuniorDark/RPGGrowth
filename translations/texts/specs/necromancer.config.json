@@ -67,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [F] to sacrifice 10 Health and unleash demonic magic that kills enemies with Current Health less than (Intelligence/3+15)% of their Max Health. They then burst into a mist that heals allies, yet causes enemies to deteriorate. Hold [Shift] before pressing [F] to summon up to six Bone Pteropods for 10 seconds, if possible: amount scales with Intelligence and enemies killed, and their Power, Armor, and Health is set to your own."
+      "Eng": "Press [F] to sacrifice 10 Health and unleash demonic magic that kills enemies with Current Health less than (Intelligence/3+15)% of their Max Health. They then burst into a mist that heals allies, yet causes enemies to deteriorate. Hold [Shift] before pressing [F] to summon up to six Bone Pteropods for 10 seconds, if possible: amount scales with Intelligence and enemies killed, and their Power, Armor, and Health is set to your own.",
+      "Por": "Aperte [F] para sacrificar 10 de Vida e liberar magia demoníaca que mata os inimigos com Vida Atual menor que (Inteligência/3+15)% de sua Vida Máxima. Eles então explodem em uma névoa que cura aliados, e faz com que os inimigos se deteriorem. Segure [Shift] antes de pressionar [F] para invocar até seis Bone Pteropods por 10 segundos, se possível: quantidade escala com Inteligência e a Força, Armadura e Vida dos inimigos mortos são dadas para você."
     }
   },
   {
@@ -90,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "There is a 33.3% chance that enemies killed with a Dagger, Scythe, or Demonic Magic will revive and help you in battle for ten seconds."
+      "Eng": "There is a 33.3% chance that enemies killed with a Dagger, Scythe, or Demonic Magic will revive and help you in battle for ten seconds.",
+      "Por": "Há uma chance de 33.3% de que os inimigos mortos com Adaga, Foice ou Magia Demoníaca revivam e ajudem você em batalha por dez segundos."
     }
   }
 ]
