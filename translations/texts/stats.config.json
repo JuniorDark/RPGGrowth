@@ -67,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greatly Increases Staff Damage."
+      "Eng": "Greatly Increases Staff Damage.",
+      "Por": "Aumenta Muito o Dano de Cajado."
     }
   },
   {
@@ -78,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greatly Increases Swim Speed."
+      "Eng": "Greatly Increases Swim Speed.",
+      "Por": "Aumenta Muito a Velocidade de Nadar."
     }
   },
   {
@@ -89,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Increases Energy Recharge Rate."
+      "Eng": "Increases Energy Recharge Rate.",
+      "Por": "Aumenta a Taxa de Recarga de Energia."
     }
   },
   {
@@ -100,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Increases Experience Orb Gain (Cross Party)."
+      "Eng": "Increases Experience Orb Gain (Cross Party).",
+      "Por": "Aumenta o Ganho de Esferas de Experiência (Com o Grupo)."
     }
   },
   {
@@ -123,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Increases Movement Speed."
+      "Eng": "Increases Movement Speed.",
+      "Por": "Aumenta a Velocidade de Movimento."
     }
   },
   {
@@ -158,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Minimally Increases Energy Recharge Rate."
+      "Eng": "Minimally Increases Energy Recharge Rate.",
+      "Por": "Aumenta Minimamente a Taxa de Recarga de Energia."
     }
   },
   {
@@ -181,7 +187,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Significantly Decreases Fall Damage."
+      "Eng": "Significantly Decreases Fall Damage.",
+      "Por": "Diminui Significativamente o Dano de Queda."
     }
   },
   {
@@ -228,7 +235,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Slightly Increases Jump Height."
+      "Eng": "Slightly Increases Jump Height.",
+      "Por": "Aumenta Ligeiramente a Altura do Pulo."
     }
   },
   {
@@ -275,7 +283,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Starting From 20 Agility:^reset;\nClassic Mode penalty for Movement Speed and Jump Height halved.\nSpecialization penalty for Movement Speed and Jump Height halved."
+      "Eng": "^green;Starting From 20 Agility:^reset;\nClassic Mode penalty for Movement Speed and Jump Height halved.\nSpecialization penalty for Movement Speed and Jump Height halved.",
+      "Por": "^green;A Partir de 20 Agilidade:^reset;\nPenalidade do Modo Clássico para a Velocidade de Movimento e Altura do Pulo cortadas pela metade.\nPenalidade de Especialização para a Velocidade de Movimento e Altura do Pulo cortadas pela metade."
     }
   },
   {
@@ -298,7 +307,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Starting From 20 Endurance:^reset;\nClassic Mode penalty for Armor and all Resistances halved.\nSpecialization penalty for Armor and all Resistances halved."
+      "Eng": "^green;Starting From 20 Endurance:^reset;\nClassic Mode penalty for Armor and all Resistances halved.\nSpecialization penalty for Armor and all Resistances halved.",
+      "Por": "^green;A Partir de 20 Resistência:^reset;\nPenalidade do Modo Clássico para Armadura e todas as Resistências cortadas pela metade.\nPenalidade de Especialização para Armadura e todas as Resistências cortadas pela metade."
     }
   },
   {
@@ -333,7 +343,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Starting From 20 Vigor:^reset;\nClassic Mode penalties for Energy halved.\nSpecialization penalties for Energy halved."
+      "Eng": "^green;Starting From 20 Vigor:^reset;\nClassic Mode penalties for Energy halved.\nSpecialization penalties for Energy halved.",
+      "Por": "^green;A Partir de 20 Vigor:^reset;\nPenalidade do Modo Clássico para a Energia cortada pela metade.\nPenalidade de Especialização para a Energia cortada pela metade."
     }
   },
   {

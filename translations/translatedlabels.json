@@ -544,7 +544,7 @@
       "wraith.config.json": 10
     },
     "specs.json": 13,
-    "stats.config.json": 19,
+    "stats.config.json": 30,
     "tech": {
       "explorertech": {
         "explorerdrill": {
