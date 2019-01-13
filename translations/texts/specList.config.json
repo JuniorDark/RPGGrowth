@@ -484,7 +484,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a One-handed Pistol or Machine Pistol with a Shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura."
+      "Eng": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a One-handed Pistol or Machine Pistol with a Shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura.",
+      "Por": "Titãs são bastiões da linha de frente que ajudam a manter a linha firme com seu escudo. Sua arma de escolha é uma Pistola de Uma-Mão ou uma Metralhadora com um Escudo. Enquanto lutadores capazes em todas as distâncias, eles também inspiram aliados próximos com uma aura protetora."
     }
   },
   {
@@ -508,7 +509,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Use ranged weapons to deal damage quickly after Perfect Shielding. Damage that deals a final blow is tripled."
+      "Eng": "Use ranged weapons to deal damage quickly after Perfect Shielding. Damage that deals a final blow is tripled.",
+      "Por": "Use armas de longo alcance para causar dano rapidamente após o Escudo Perfeito. O dano que causa um golpe final é triplicado."
     }
   },
   {
@@ -546,7 +548,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Using a Dagger, Kunai, Shuriken, or War-Fan, defeat enemies while Agility is higher than 30."
+      "Eng": "Using a Dagger, Kunai, Shuriken, or War-Fan, defeat enemies while Agility is higher than 30.",
+      "Por": "Usando uma Adaga, Kunai, Shuriken ou Leque, derrote inimigos enquanto a Agilidade for maior que 30."
     }
   },
   {
