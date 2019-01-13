@@ -43,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "66.6% Max Health"
+      "Eng": "66.6% Max Health",
+      "Por": "66.6% Vida Máxima"
     }
   },
   {
@@ -66,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nearby allies gain a temporary Speed Boost once Energy recharges. 150% Armor at Max Energy, 50% Armor at 0 Energy."
+      "Eng": "Nearby allies gain a temporary Speed Boost once Energy recharges. 150% Armor at Max Energy, 50% Armor at 0 Energy.",
+      "Por": "Aliados próximos ganham um Aumento de Velocidade temporário quando a Energia é recarregada. 150% de Armadura com Energia Máxima, 50% de Armadura com 0 de Energia."
     }
   },
   {
