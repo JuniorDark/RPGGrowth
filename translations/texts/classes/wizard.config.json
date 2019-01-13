@@ -127,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [F] to toggle. While active, damage taken also affects Energy, but half the Energy lost is converted to Health. You will die if the amount of Health gained back would not have been enough to live. While active; Energy cannot lock; and Energy recharges at 10% Max Energy per second, which increases with Int. and Vigor."
+      "Eng": "Press [F] to toggle. While active, damage taken also affects Energy, but half the Energy lost is converted to Health. You will die if the amount of Health gained back would not have been enough to live. While active; Energy cannot lock; and Energy recharges at 10% Max Energy per second, which increases with Int. and Vigor.",
+      "Por": "Pressione [F] para ativar. Enquanto ativo, o dano recebido também afeta a Energia, mas metade da Energia perdida é convertida em Vida. Você vai morrer se a quantidade de Vida recuperada não for suficiente para viver. Enquanto ativo; a Energia não pode ser travada; e a Energia recarrega a 10% da Energia Máxima por segundo, o que aumenta com Inteligencia e Vigor."
     }
   },
   {
