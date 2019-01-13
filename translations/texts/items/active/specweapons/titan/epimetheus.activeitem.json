@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Don't leave even one enemy alive."
+      "Eng": "Don't leave even one enemy alive.",
+      "Por": "Não deixa nem um inimigo vivo."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Epimetheus"
+      "Eng": "^orange;Epimetheus",
+      "Por": "^orange;Epimetheus"
     }
   }
 ]
