@@ -1,6 +1,5 @@
 {
   "texts": {
-    "_metadata.json": 2,
     "affinities": {
       "affinityDescriptions.config.json": 5,
       "arc.config.json": 6,
@@ -27,9 +26,6 @@
     "interface": {
       "RPGskillbook": {
         "RPGskillbook.config.json": 95
-      },
-      "windowconfig": {
-        "charcreation.config.json": 14
       }
     },
     "items": {
@@ -76,7 +72,12 @@
         },
         "specweapons": {
           "adept": {
-            "phaseshift.activeitem.json": 2
+            "phaseshift.activeitem.json": 2,
+            "projectile": {
+              "bolt": {
+                "phaseshiftenergyregen.statuseffect.json": 1
+              }
+            }
           },
           "crusader": {
             "oathkeeper.activeitem.json": 2
@@ -92,6 +93,9 @@
             "judgement": {
               "ivrpgjudgement.statuseffect.json": 1
             }
+          },
+          "titan": {
+            "epimetheus.activeitem.json": 2
           },
           "vanguard": {
             "dangerclose.activeitem.json": 2
@@ -334,14 +338,7 @@
         "spectype.currency.json": 2
       },
       "stats": {
-        "agilitypoint.currency.json": 1,
-        "dexteritypoint.currency.json": 2,
-        "endurancepoint.currency.json": 2,
-        "intelligencepoint.currency.json": 2,
-        "statpoint.currency.json": 1,
-        "strengthpoint.currency.json": 2,
-        "vigorpoint.currency.json": 2,
-        "vitalitypoint.currency.json": 2
+        "statpoint.currency.json": 1
       }
     },
     "particles": {
@@ -431,7 +428,8 @@
     "specs": {
       "abilities": {
         "adept": {
-          "shared_.statuseffect.json": 1
+          "agilemagic.statuseffect.json": 1,
+          "agilemagicspeed.statuseffect.json": 1
         },
         "cannoneer": {
           "fightinglion.statuseffect.json": 1
@@ -483,7 +481,7 @@
       "necromancer.json": 1,
       "paladin.config.json": 8,
       "pioneer.config.json": 5,
-      "shared_.config.json": 2,
+      "shared_.config.json": 3,
       "shared_n.config.json": 1,
       "techs": {
         "adept": {
@@ -546,7 +544,7 @@
       "wraith.config.json": 11
     },
     "specs.json": 13,
-    "stats.config.json": 27,
+    "stats.config.json": 30,
     "tech": {
       "explorertech": {
         "explorerdrill": {

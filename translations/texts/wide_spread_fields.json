@@ -129,6 +129,7 @@
         "/gui/statslayout/children/agilitytext/value"
       ],
       "objects/stats/agilitypoint.currency": [
+        "/description",
         "/shortdescription"
       ],
       "specs/cannoneer.config": [
@@ -377,6 +378,10 @@
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/dexteritytext/value"
       ],
+      "objects/stats/dexteritypoint.currency": [
+        "/description",
+        "/shortdescription"
+      ],
       "specs/necromancer.config": [
         "/effects/0/text"
       ],
@@ -421,6 +426,10 @@
       ],
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/endurancetext/value"
+      ],
+      "objects/stats/endurancepoint.currency": [
+        "/description",
+        "/shortdescription"
       ],
       "specs/cannoneer.config": [
         "/effects/1/text"
@@ -635,11 +644,9 @@
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/intelligencetext/value"
       ],
-      "specs/adept.config": [
-        "/effects/0/text"
-      ],
-      "specs/paladin.config": [
-        "/effects/0/text"
+      "objects/stats/intelligencepoint.currency": [
+        "/description",
+        "/shortdescription"
       ]
     },
     "Texts": {
@@ -1007,6 +1014,10 @@
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/strengthtext/value"
       ],
+      "objects/stats/strengthpoint.currency": [
+        "/description",
+        "/shortdescription"
+      ],
       "specs/crusader.config": [
         "/effects/0/text"
       ],
@@ -1112,6 +1123,10 @@
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/vigortext/value"
       ],
+      "objects/stats/vigorpoint.currency": [
+        "/description",
+        "/shortdescription"
+      ],
       "specs/adept.config": [
         "/effects/1/text"
       ],
@@ -1171,6 +1186,10 @@
       ],
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/vitalitytext/value"
+      ],
+      "objects/stats/vitalitypoint.currency": [
+        "/description",
+        "/shortdescription"
       ],
       "specs/cannoneer.config": [
         "/effects/0/text"

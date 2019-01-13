@@ -67,8 +67,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Perfect Shields restore 5% of max Shield Stamina.",
-      "Por": "Escudos Perfeitos restauram 5% do máximo de Stamina do Escudo."
+      "Eng": "Perfect Shields restore 10% of Max Shield Stamina and grant 5 seconds of +20% Physical, Shadow, Demonic, and Poison Resistance."
     }
   },
   {
@@ -79,8 +78,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Pressing [W] toggles Immaculate Shield, a buff that halves Shield Stamina, but provides bonuses for your shield. While Immaculate Shield is active, monsters that hit your shield are stricken with Judgement Status, and Perfect Shields provide Health Regeneration to yourself and nearby allies.",
-      "Por": "Pressionar [W] atica o Escudo Imaculado, um bônus que reduz pela metade a resistência do escudo, mas fornece bônus para o seu escudo. Enquanto o Escudo Imaculado estiver ativo, os monstros que acertam o seu escudo são atingidos com o Status de Julgamento, e os Escudos Perfeitos fornecem Regeneração de Vida para você e seus aliados próximos."
+      "Eng": "Pressing [W] toggles Immaculate Shield, a buff that halves Shield Stamina, lowers Movement Speed by 25%, but grants bonuses for your shield. While active, monsters that hit your shield are stricken with Judgement Status, and Perfect Shields provide a 110% increase to your Max Health for 3 seconds and 7% of your Max Health as instant Health gain to nearby allies. This scales up to 12% with Strength and Intelligence. "
     }
   },
   {

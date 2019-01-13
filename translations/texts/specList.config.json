@@ -484,8 +484,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a one-handed pistol or smg paired with a shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura.",
-      "Por": "Titãs são bastiões da linha de frente que ajudam a manter a linha firme com seu escudo. Sua arma de escolha é uma pistola de uma mão ou uma smg emparelhada com um escudo. Enquanto lutadores capazes em todas as distâncias, eles também inspiram aliados próximos com uma aura protetora."
+      "Eng": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a One-handed Pistol or Machine Pistol with a Shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura."
     }
   },
   {
@@ -499,6 +498,17 @@
     "Texts": {
       "Eng": "Use a Broadsword to defeat enemies. Unlocked faster by defeating Cultists or Avian Temple Guards.",
       "Por": "Use uma Espada Larga para derrotar os inimigos. Desbloqueado mais rápido derrotando Cultistas ou Guardas do Templo dos Avian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/3/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use ranged weapons to deal damage quickly after Perfect Shielding. Damage that deals a final blow is tripled."
     }
   },
   {
@@ -536,8 +546,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Using a Whip, Kunai, Shuriken, or War-Fan, defeat enemies while Agility is higher than 30.",
-      "Por": "Usando um Chicote, Kunai, Shuriken ou War-Fan, derrote inimigos enquanto a Agilidade for maior que 30."
+      "Eng": "Using a Dagger, Kunai, Shuriken, or War-Fan, defeat enemies while Agility is higher than 30."
     }
   },
   {
@@ -660,18 +669,6 @@
     "Texts": {
       "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nDiscover new planets and use flags to bookmark old planets.",
       "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nDescubra novos planetas e use bandeiras para marcar planetas antigos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/3/3/unlockText"
-      ]
-    },
-    "Texts": {
-      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nPerfect Shield, or deal damage with Pistols or Machine Pistols.",
-      "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nFaça Escudo Perfeito, ou cause dano com Pistolas ou Metralhadoras."
     }
   },
   {

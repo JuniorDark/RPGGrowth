@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/adept/agilemagic.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fluctuation"
+    }
+  }
+]

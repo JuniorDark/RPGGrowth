@@ -28,5 +28,19 @@
       "Eng": "80% Speed",
       "Por": "80% de Velocidade"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/adept.config": [
+        "/effects/0/text"
+      ],
+      "specs/paladin.config": [
+        "/effects/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intelligence x2"
+    }
   }
 ]

@@ -120,17 +120,14 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Melhoria para a Fuga!.\nArrancar no chão proporciona um grande impulso na velocidade.\nO Dano de Queda é negado por um curto período de tempo depois de arrancar."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/tech/ivrpgucwavedash/description"
       ]
     },
     "Texts": {
-      "Eng": "Escape! Upgrade.\nDashing into the ground provides a large boost in speed.\nFall Damage is negated for a short time after dashing.",
-      "Por": "Aprimoramento para a Fuga!.\nArrancar no chão proporciona um grande impulso na velocidade.\nO Dano de Queda é negado por um curto período de tempo depois de arrancar."
+      "Eng": "Escape! Upgrade.\nDashing into the ground provides a large boost in speed.\nFall Damage is negated for a short time after dashing. 60% Aerial Velocity after initial dash."
     }
   },
   {

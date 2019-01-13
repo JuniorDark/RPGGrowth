@@ -1,6 +1,5 @@
 {
   "texts": {
-    "_metadata.json": 2,
     "affinities": {
       "affinityDescriptions.config.json": 5,
       "arc.config.json": 6,
@@ -22,14 +21,11 @@
       "rogue.config.json": 9,
       "shared_.config.json": 1,
       "soldier.config.json": 11,
-      "wizard.config.json": 14
+      "wizard.config.json": 13
     },
     "interface": {
       "RPGskillbook": {
         "RPGskillbook.config.json": 95
-      },
-      "windowconfig": {
-        "charcreation.config.json": 14
       }
     },
     "items": {
@@ -76,7 +72,12 @@
         },
         "specweapons": {
           "adept": {
-            "phaseshift.activeitem.json": 2
+            "phaseshift.activeitem.json": 2,
+            "projectile": {
+              "bolt": {
+                "phaseshiftenergyregen.statuseffect.json": 0
+              }
+            }
           },
           "crusader": {
             "oathkeeper.activeitem.json": 2
@@ -92,6 +93,9 @@
             "judgement": {
               "ivrpgjudgement.statuseffect.json": 1
             }
+          },
+          "titan": {
+            "epimetheus.activeitem.json": 0
           },
           "vanguard": {
             "dangerclose.activeitem.json": 2
@@ -284,7 +288,7 @@
         }
       }
     },
-    "ivrpgtext.config.json": 56,
+    "ivrpgtext.config.json": 55,
     "monsters": {
       "flyers": {
         "bonepteropod": {
@@ -334,14 +338,7 @@
         "spectype.currency.json": 2
       },
       "stats": {
-        "agilitypoint.currency.json": 1,
-        "dexteritypoint.currency.json": 2,
-        "endurancepoint.currency.json": 2,
-        "intelligencepoint.currency.json": 2,
-        "statpoint.currency.json": 1,
-        "strengthpoint.currency.json": 2,
-        "vigorpoint.currency.json": 2,
-        "vitalitypoint.currency.json": 2
+        "statpoint.currency.json": 1
       }
     },
     "particles": {
@@ -427,11 +424,12 @@
       "shared_.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
-    "specList.config.json": 54,
+    "specList.config.json": 51,
     "specs": {
       "abilities": {
         "adept": {
-          "shared_.statuseffect.json": 1
+          "agilemagic.statuseffect.json": 0,
+          "agilemagicspeed.statuseffect.json": 1
         },
         "cannoneer": {
           "fightinglion.statuseffect.json": 1
@@ -474,14 +472,14 @@
           "betweenworlds.statuseffect.json": 1
         }
       },
-      "adept.config.json": 7,
+      "adept.config.json": 5,
       "cannoneer.config.json": 8,
-      "crusader.config.json": 11,
+      "crusader.config.json": 10,
       "dragoon.config.json": 11,
-      "kunoichi.config.json": 10,
-      "necromancer.config.json": 8,
+      "kunoichi.config.json": 9,
+      "necromancer.config.json": 6,
       "necromancer.json": 1,
-      "paladin.config.json": 8,
+      "paladin.config.json": 6,
       "pioneer.config.json": 5,
       "shared_.config.json": 2,
       "shared_n.config.json": 1,
@@ -539,14 +537,14 @@
           "darkphase.tech.json": 1
         }
       },
-      "titan.config.json": 6,
+      "titan.config.json": 5,
       "valkyrie.config.json": 9,
       "vanguard.config.json": 12,
       "vigilante.config.json": 7,
-      "wraith.config.json": 11
+      "wraith.config.json": 10
     },
     "specs.json": 13,
-    "stats.config.json": 27,
+    "stats.config.json": 19,
     "tech": {
       "explorertech": {
         "explorerdrill": {
@@ -669,7 +667,7 @@
           "wizardhover.tech.json": 2
         },
         "wizardmagicshield": {
-          "wizardmagicshield.tech.json": 1,
+          "wizardmagicshield.tech.json": 0,
           "wizardmagicshieldcooldown.statuseffect.json": 1
         },
         "wizardtranslocate": {

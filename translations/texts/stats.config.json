@@ -3,24 +3,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
-        "/intelligence/1/text"
+        "/vigor/2/text"
       ]
     },
     "Texts": {
       "Eng": "Decreases Energy Recharge Delay.",
       "Por": "Diminui o Atraso de Recarga de Energia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "stats.config": [
-        "/agility/2/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Decreases Fall Damage.",
-      "Por": "Diminui o Dano de Queda."
     }
   },
   {
@@ -33,30 +21,6 @@
     "Texts": {
       "Eng": "Decreases Hunger Rate.",
       "Por": "Diminui a Taxa de Fome."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "stats.config": [
-        "/intelligence/0/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Greatly Increases Energy Recharge Rate and Staff Damage.",
-      "Por": "Aumenta Muito a Taxa de Recarga de Energia e o Dano de Cajados."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "stats.config": [
-        "/vigor/1/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Greatly Increases Energy Recharge Rate.",
-      "Por": "Aumenta muito a Taxa de Recarga de Energia."
     }
   },
   {
@@ -99,12 +63,44 @@
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
+        "/intelligence/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greatly Increases Staff Damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
         "/agility/1/text"
       ]
     },
     "Texts": {
-      "Eng": "Increases Jump Height.",
-      "Por": "Aumenta a Altura do Pulo."
+      "Eng": "Greatly Increases Swim Speed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/vigor/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increases Energy Recharge Rate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/intelligence/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increases Experience Orb Gain (Cross Party)."
     }
   },
   {
@@ -117,6 +113,17 @@
     "Texts": {
       "Eng": "Increases Knockback Resistance.",
       "Por": "Aumenta a resistência a Knockback."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
+        "/agility/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increases Movement Speed."
     }
   },
   {
@@ -147,6 +154,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
+        "/intelligence/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Minimally Increases Energy Recharge Rate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
         "/endurance/2/text"
       ]
     },
@@ -159,24 +177,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
-        "/endurance/0/text"
+        "/agility/0/text"
       ]
     },
     "Texts": {
-      "Eng": "Significantly Increases Armor.",
-      "Por": "Aumenta Significativamente a Armadura."
+      "Eng": "Significantly Decreases Fall Damage."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
-        "/agility/0/text"
+        "/endurance/0/text"
       ]
     },
     "Texts": {
-      "Eng": "Significantly Increases Movement Speed (Including Liquid Movement).",
-      "Por": "Aumenta Significativamente a Velocidade de Movimento (Incluindo Movimento em Líquidos)."
+      "Eng": "Significantly Increases Armor.",
+      "Por": "Aumenta Significativamente a Armadura."
     }
   },
   {
@@ -207,6 +224,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
+        "/agility/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slightly Increases Jump Height."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats.config": [
         "/strength/2/text"
       ]
     },
@@ -231,7 +259,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
-        "/intelligence/2/text"
+        "/intelligence/3/text"
       ]
     },
     "Texts": {
@@ -243,12 +271,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
-        "/agility/3/text"
+        "/agility/4/text"
       ]
     },
     "Texts": {
-      "Eng": "^green;Starting From 20 Agility:^reset;\nClassic Mode penalty for Speed and Jump Height halved.\nSpecialization penalty for Speed and Jump Height halved.",
-      "Por": "^green;Começando de 20 Agilidade:^reset;\nPenalidade do Modo Clássico para Velocidade e Altura do Pulo cortada pela metade.\nPenalidade de Especialização para Velocidade e Altura do Pulo cortada pela metade."
+      "Eng": "^green;Starting From 20 Agility:^reset;\nClassic Mode penalty for Movement Speed and Jump Height halved.\nSpecialization penalty for Movement Speed and Jump Height halved."
     }
   },
   {
@@ -271,15 +298,14 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Starting From 20 Endurance:^reset;\nClassic Mode penalty for all Resistances halved.\nSpecialization penalty for all Resistances halved.",
-      "Por": "^green;Começando de 20 Resistência:^reset;\nPenalidade do Modo Clássico para todas as Resistências resuzido pela metade.\nPenalidade de Especialização para todas as Resistências reduzido pela metade."
+      "Eng": "^green;Starting From 20 Endurance:^reset;\nClassic Mode penalty for Armor and all Resistances halved.\nSpecialization penalty for Armor and all Resistances halved."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
-        "/intelligence/3/text"
+        "/intelligence/4/text"
       ]
     },
     "Texts": {
@@ -303,12 +329,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
-        "/vigor/2/text"
+        "/vigor/3/text"
       ]
     },
     "Texts": {
-      "Eng": "^green;Starting From 20 Vigor:^reset;\nClassic Mode penalty for Max Energy and Energy Regeneration halved.\nSpecialization penalty for Max Energy and Energy Regeneration halved.",
-      "Por": "^green;Começando de 20 Vigor:^reset;\nPenalidade do Modo Clássico para Energia Máxima e Regeneração de Energia reduzido pela metade.\nPenalidade de Especialização para Energia Máxima e Regeneração de Energia reduzido pela metade."
+      "Eng": "^green;Starting From 20 Vigor:^reset;\nClassic Mode penalties for Energy halved.\nSpecialization penalties for Energy halved."
     }
   },
   {

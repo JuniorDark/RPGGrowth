@@ -419,6 +419,31 @@
     "/shortdescription": "texts/shared_skillbook/shared_RPGskillbook..json"
   },
   "objects/stats/agilitypoint.currency": {
+    "/description": "texts/wide_spread_fields.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "objects/stats/dexteritypoint.currency": {
+    "/description": "texts/wide_spread_fields.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "objects/stats/endurancepoint.currency": {
+    "/description": "texts/wide_spread_fields.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "objects/stats/intelligencepoint.currency": {
+    "/description": "texts/wide_spread_fields.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "objects/stats/strengthpoint.currency": {
+    "/description": "texts/wide_spread_fields.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "objects/stats/vigorpoint.currency": {
+    "/description": "texts/wide_spread_fields.json",
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "objects/stats/vitalitypoint.currency": {
+    "/description": "texts/wide_spread_fields.json",
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "particles/damagenumbers/bleeddamagenumber.particle": {
@@ -559,17 +584,11 @@
     "/5/7/description": "texts/wide_spread_fields.json",
     "/5/8/description": "texts/wide_spread_fields.json"
   },
-  "specs/abilities/adept/agilemagic.statuseffect": {
-    "/label": "texts/specs/abilities/adept/shared_.statuseffect.json"
-  },
-  "specs/abilities/adept/agilemagicspeed.statuseffect": {
-    "/label": "texts/specs/abilities/adept/shared_.statuseffect.json"
-  },
   "specs/abilities/necromancer/undead.statuseffect": {
     "/label": "texts/specs/necromancer.json"
   },
   "specs/adept.config": {
-    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/effects/0/text": "texts/specs/shared_.config.json",
     "/effects/1/text": "texts/wide_spread_fields.json",
     "/tech/title": "texts/specs.json",
     "/title": "texts/shared_spec.json",
@@ -610,7 +629,7 @@
   },
   "specs/paladin.config": {
     "/classic/1/text": "texts/specs/shared_n.config.json",
-    "/effects/0/text": "texts/wide_spread_fields.json",
+    "/effects/0/text": "texts/specs/shared_.config.json",
     "/effects/1/text": "texts/wide_spread_fields.json",
     "/tech/title": "texts/specs.json",
     "/title": "texts/shared_spec.json"
