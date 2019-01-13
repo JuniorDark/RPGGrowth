@@ -428,7 +428,7 @@
     "specs": {
       "abilities": {
         "adept": {
-          "agilemagic.statuseffect.json": 0,
+          "agilemagic.statuseffect.json": 1,
           "agilemagicspeed.statuseffect.json": 1
         },
         "cannoneer": {
