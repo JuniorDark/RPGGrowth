@@ -667,7 +667,7 @@
           "wizardhover.tech.json": 2
         },
         "wizardmagicshield": {
-          "wizardmagicshield.tech.json": 0,
+          "wizardmagicshield.tech.json": 1,
           "wizardmagicshieldcooldown.statuseffect.json": 1
         },
         "wizardtranslocate": {
