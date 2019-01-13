@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Scroll: +1 Stat Point"
+    ],
     "Files": {
       "items/scrolls/scrolladdstatpoint.activeitem": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Scroll: +1 Stat Point",
-      "Por": "Scroll: +1 Stat Point"
+      "Por": "Pergaminho: +1 Ponto de Status"
     }
   }
 ]

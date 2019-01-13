@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Você é muito mais forte agora! Eu melhorei seu Aegis. Agora você também poderá construir o Prismatic Aegis em uma bigorna melhorada."
+    ],
     "Files": {
       "quests/aegisquest2.questtemplate": [
         "/completionText"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "You're a lot stronger now! I have upgraded your Aegis. You will now also be able to build Prismatic Aegis in an upgraded anvil.",
-      "Por": "Você é muito mais forte agora! Eu melhorei seu Aegis. Agora você também poderá construir o Prismatic Aegis em uma bigorna melhorada."
+      "Por": "Você é muito mais forte agora! Eu melhorei seu Aegis. Agora você também poderá construir o Prismatic Aegis em uma bigorna aprimorada."
     }
   }
 ]

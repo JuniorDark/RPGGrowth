@@ -5,8 +5,8 @@
   "includes" : ["Traducao_PTBR"],
   "link" : "steam://url/CommunityFilePage/1324687499",
   "name" : "RPG_Growth_PTBR",
-  "priority" : 1002,
+  "priority" : 10000,
   "steamContentId" : "1324687499",
   "tags" : "User Interface",
-  "version" : "1.35d"
+  "version" : "1.41b"
 }

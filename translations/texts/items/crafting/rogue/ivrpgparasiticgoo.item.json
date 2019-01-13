@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Parasitic Goo"
+    ],
     "Files": {
       "items/crafting/rogue/ivrpgparasiticgoo.item": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Parasitic Goo",
-      "Por": "Parasitic Goo"
+      "Por": "Gosma Parasitica"
     }
   }
 ]

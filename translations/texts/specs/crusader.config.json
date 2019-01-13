@@ -72,7 +72,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma melhoria para o Knight's Bash. Causa Julgamento enquanto corre. O dano do Bash é dobrado enquanto empunhando uma Espada Larga ao invés de um Escudo levantado. Ao causar dano fatal, cria uma explosão sagrada e regenera imediatamente toda a Vida e Energia. A Velocidade aumenta por 2 segundos depois. Tem um tempo de recarga de 180 segundos. O dano da explosão escala com Vigor."
+    ],
     "Files": {
       "specs/crusader.config": [
         "/tech/text"
@@ -80,7 +82,7 @@
     },
     "Texts": {
       "Eng": "An upgrade to Knight's Bash. Cause Judgement while sprinting. Bash damage is doubled while wielding a Broadsword instead of a rasied Shield. When taking fatal damage, create a holy explosion and immediately regenerate all Health and Energy. Speed increases for 2 seconds afterwards. Has a cooldown of 180 seconds. Explosion damage scales with Vigor.",
-      "Por": "Uma melhoria para o Knight's Bash. Causa Julgamento enquanto corre. O dano do Bash é dobrado enquanto empunhando uma Espada Larga ao invés de um Escudo levantado. Ao causar dano fatal, cria uma explosão sagrada e regenera imediatamente toda a Vida e Energia. A Velocidade aumenta por 2 segundos depois. Tem um tempo de recarga de 180 segundos. O dano da explosão escala com Vigor."
+      "Por": "Um aprimoramento para a Batida do Cavaleiro. Causa Julgamento enquanto corre. O dano da Batida é dobrado enquanto empunhando uma Espada Larga ao invés de um Escudo levantado. Ao causar dano fatal, cria uma explosão sagrada e regenera imediatamente toda a Vida e Energia. A Velocidade aumenta por 2 segundos depois. Tem um tempo de recarga de 180 segundos. O dano da explosão escala com Vigor."
     }
   },
   {

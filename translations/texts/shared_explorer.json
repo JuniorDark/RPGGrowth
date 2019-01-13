@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Arrancada Melhorada"
+    ],
     "Files": {
       "classes/explorer.config": [
         "/techs/1/title"
@@ -29,7 +31,7 @@
     },
     "Texts": {
       "Eng": "Enhanced Dash",
-      "Por": "Arrancada Melhorada"
+      "Por": "Arrancada Aprimorada"
     }
   },
   {

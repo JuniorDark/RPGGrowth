@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma Melhoria para o Pulo Duplo, pressione [Espaço] para se lançar em uma direção à sua escolha, deixando uma nuvem de fumaça para trás que desorienta inimigos. Inimigos desorientados ficam lentos e causam menos dano. O padrão é um lançamento para trás."
+    ],
     "Files": {
       "classes/rogue.config": [
         "/techs/2/text"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "An upgrade to Double Jump, press [Space] to launch yourself in a direction of your choosing, leaving a cloud of smoke behind that disorients enemies. Disoriented enemies are slowed and do less damage. Defaults to a backwards launch.",
-      "Por": "Uma Melhoria para o Pulo Duplo, pressione [Espaço] para se lançar em uma direção à sua escolha, deixando uma nuvem de fumaça para trás que desorienta inimigos. Inimigos desorientados ficam lentos e causam menos dano. O padrão é um lançamento para trás."
+      "Por": "Um Aprimoramento para o Pulo Duplo, pressione [Espaço] para se lançar em uma direção à sua escolha, deixando uma nuvem de fumaça para trás que desorienta inimigos. Inimigos desorientados ficam lentos e causam menos dano. O padrão é um lançamento para trás."
     }
   },
   {

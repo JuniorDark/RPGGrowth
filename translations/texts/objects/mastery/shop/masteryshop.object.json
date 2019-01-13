@@ -48,7 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Master's Desk"
+    ],
     "Files": {
       "objects/mastery/shop/masteryshop.object": [
         "/shortdescription"
@@ -56,7 +58,7 @@
     },
     "Texts": {
       "Eng": "Master's Desk",
-      "Por": "Master's Desk"
+      "Por": "Mesa do Mestre"
     }
   },
   {

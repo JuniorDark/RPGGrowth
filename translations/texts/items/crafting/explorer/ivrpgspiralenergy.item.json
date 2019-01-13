@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Spiral Energy"
+    ],
     "Files": {
       "items/crafting/explorer/ivrpgspiralenergy.item": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Spiral Energy",
-      "Por": "Spiral Energy"
+      "Por": "Energia Espiral"
     }
   },
   {

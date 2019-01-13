@@ -48,7 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma melhoria para o Esmagar. Enquanto corre, o jogador recebe Resistência Física. Enquanto o dano permanece o mesmo, inimigos são atordoados ao acertar. O Dano escala com Força e Velocidade de Corrida. O Custo de Energia diminui com Agilidade alta."
+    ],
     "Files": {
       "classes/knight.config": [
         "/techs/3/text"
@@ -56,11 +58,13 @@
     },
     "Texts": {
       "Eng": "An upgrade to Bash. While sprinting, the player receives physical resistance. While damage remains the same, enemies are stunned on hit. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility.",
-      "Por": "Uma melhoria para o Esmagar. Enquanto corre, o jogador recebe Resistência Física. Enquanto o dano permanece o mesmo, inimigos são atordoados ao acertar. O Dano escala com Força e Velocidade de Corrida. O Custo de Energia diminui com Agilidade alta."
+      "Por": "Um Aprimoramento para o Esmagar. Enquanto corre, o jogador recebe Resistência Física. Enquanto o dano permanece o mesmo, inimigos são atordoados ao acertar. O Dano escala com Força e Velocidade de Corrida. O Custo de Energia diminui com Agilidade alta."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma melhoria para o Pulo Duplo, pressione [G] (Vincule [G] em seus Controles) enquanto no meio do ar para bater para baixo. Você não leva nenhum dano de queda ao pousar, e causa uma pequena explosão, causando dano a inimigos. O Dano escala com Força e distância de queda da ativação."
+    ],
     "Files": {
       "classes/knight.config": [
         "/techs/1/text"
@@ -68,11 +72,13 @@
     },
     "Texts": {
       "Eng": "An upgrade to Double Jump, press [G] (Bind [G] in your Controls) while midair to slam downwards. You take no fall damage upon landing, and cause a small explosion, damaging enemies. Damage scales with Strength and distance fallen from activation.",
-      "Por": "Uma melhoria para o Pulo Duplo, pressione [G] (Vincule [G] em seus Controles) enquanto no meio do ar para bater para baixo. Você não leva nenhum dano de queda ao pousar, e causa uma pequena explosão, causando dano a inimigos. O Dano escala com Força e distância de queda da ativação."
+      "Por": "Um Aprimoramento para o Pulo Duplo, pressione [G] (Vincule [G] em seus Controles) enquanto no meio do ar para bater para baixo. Você não leva nenhum dano de queda ao pousar, e causa uma pequena explosão, causando dano a inimigos. O Dano escala com Força e distância de queda da ativação."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma melhoria para a Esfera de Espinhos, enquanto transformado, ignora knockback e causa dano de contato nos inimigos. A Armadura também é aumentada enquanto transformado."
+    ],
     "Files": {
       "classes/knight.config": [
         "/techs/2/text"
@@ -80,11 +86,13 @@
     },
     "Texts": {
       "Eng": "An upgrade to Spike Sphere, while transformed, ignore knockback and deal contact damage to enemies. Armor is also increased while transformed.",
-      "Por": "Uma melhoria para a Esfera de Espinhos, enquanto transformado, ignora knockback e causa dano de contato nos inimigos. A Armadura também é aumentada enquanto transformado."
+      "Por": "Um Aprimoramento para a Esfera de Espinhos, enquanto transformado, ignora knockback e causa dano de contato nos inimigos. A Armadura também é aumentada enquanto transformado."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma melhoria para a Corrida, enquanto corre, os inimigos recebem dano e knockback. O dano é duplicado ao segurar um escudo. Dano escala com Força e Velocidade de Corrida. O custo de energia diminui com Agilidade maior."
+    ],
     "Files": {
       "classes/knight.config": [
         "/techs/0/text"
@@ -92,7 +100,7 @@
     },
     "Texts": {
       "Eng": "An upgrade to Sprint, while running, enemies receive damage and knockback. Damage is doubled when holding up a shield. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility.",
-      "Por": "Uma melhoria para a Corrida, enquanto corre, os inimigos recebem dano e knockback. O dano é duplicado ao segurar um escudo. Dano escala com Força e Velocidade de Corrida. O custo de energia diminui com Agilidade maior."
+      "Por": "Um Aprimoramento para a Corrida, enquanto corre, os inimigos recebem dano e knockback. O dano é duplicado ao segurar um escudo. Dano escala com Força e Velocidade de Corrida. O custo de energia diminui com Agilidade maior."
     }
   },
   {

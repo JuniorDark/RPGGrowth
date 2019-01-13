@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Scroll: Toxins"
+    ],
     "Files": {
       "items/scrolls/scrolltoxic.activeitem": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Scroll: Toxins",
-      "Por": "Scroll: Toxins"
+      "Por": "Pergaminho: Toxinas"
     }
   },
   {

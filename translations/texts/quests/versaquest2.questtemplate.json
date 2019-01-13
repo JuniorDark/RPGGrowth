@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Você é muito mais preciso agora! Eu melhorei sua Versa. Agora você também poderá construir a Versa Impact em uma bigorna melhorada."
+    ],
     "Files": {
       "quests/versaquest2.questtemplate": [
         "/completionText"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "You're a lot more accurate now! I have upgraded your Versa. You will now also be able to build Versa Impact in an upgraded anvil.",
-      "Por": "Você é muito mais preciso agora! Eu melhorei sua Versa. Agora você também poderá construir a Versa Impact em uma bigorna melhorada."
+      "Por": "Você é muito mais preciso agora! Eu melhorei sua Versa. Agora você também poderá construir a Versa Impact em uma bigorna aprimorada."
     }
   }
 ]

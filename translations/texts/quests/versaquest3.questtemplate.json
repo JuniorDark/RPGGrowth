@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Você é tão preciso quanto pode ser! Eu melhorei sua Versa. Agora você também poderá construir a versa Ricochet em uma bigorna melhorada."
+    ],
     "Files": {
       "quests/versaquest3.questtemplate": [
         "/completionText"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "You're as accurate as you can be! I have upgraded your Versa. You will now also be able to build Versa Ricochet in an upgraded anvil.",
-      "Por": "Você é tão preciso quanto pode ser! Eu melhorei sua Versa. Agora você também poderá construir a versa Ricochet em uma bigorna melhorada."
+      "Por": "Você é tão preciso quanto pode ser! Eu melhorei sua Versa. Agora você também poderá construir a versa Ricochet em uma bigorna aprimorada."
     }
   }
 ]

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Fogo, a Afinidade Poderosa. Esta Afinidade concede Imunidades e Resistências baseadas em Fogo, e um Aumento Médio no Status de Vigor. Fornece melhores Imunidades e um Grande Aumento no Status de Força quando melhorado. Tenha cuidado, pois escolher essa Afinidade enfraquece você enquanto estiver Submerso, e torna-o fraco a Veneno."
+    ],
     "Files": {
       "affinities/affinityDescriptions.config": [
         "/fire/text"
@@ -20,11 +22,13 @@
     },
     "Texts": {
       "Eng": "Flame, the Powerful Affinity. This Affinity grants Fire based Immunities and Resistances, and a Medium Vigor Stat Boost. Provides better Immunities and a Large Strength Stat Boost when upgraded. Be careful, as choosing this Affinity weakens you while Submerged, and makes you weak to Poison.",
-      "Por": "Fogo, a Afinidade Poderosa. Esta Afinidade concede Imunidades e Resistências baseadas em Fogo, e um Aumento Médio no Status de Vigor. Fornece melhores Imunidades e um Grande Aumento no Status de Força quando melhorado. Tenha cuidado, pois escolher essa Afinidade enfraquece você enquanto estiver Submerso, e torna-o fraco a Veneno."
+      "Por": "Fogo, a Afinidade Poderosa. Esta Afinidade concede Imunidades e Resistências baseadas em Fogo, e um Aumento Médio no Status de Vigor. Fornece melhores Imunidades e um Grande Aumento no Status de Força quando aprimorada. Tenha cuidado, pois escolher essa Afinidade enfraquece você enquanto estiver Submerso, e torna-o fraco a Veneno."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Gelo, a Afinidade Protetora. Esta afinidade concede Imunidades e Resistências baseadas no Gelo, e um Aumento Médio no Status de Vitalidade. Fornece melhores Imunidades e um Aumento Grande no Status de Resistência quando melhorado. Tenha cuidado, pois escolher essa Afinidade reduz sua Velocidade e Altura no Pulo, e torna-o fraco a Fogo."
+    ],
     "Files": {
       "affinities/affinityDescriptions.config": [
         "/ice/text"
@@ -32,11 +36,13 @@
     },
     "Texts": {
       "Eng": "Frost, the Protective Affinity. This Affinity grants Ice based Immunities and Resistances, and a Medium Vitality Stat Boost. Provides better Immunities and a Large Endurance Stat Boost when upgraded. Be careful, as choosing this Affinity lowers your Speed and Jump Height, and makes you weak to Fire.",
-      "Por": "Gelo, a Afinidade Protetora. Esta afinidade concede Imunidades e Resistências baseadas no Gelo, e um Aumento Médio no Status de Vitalidade. Fornece melhores Imunidades e um Aumento Grande no Status de Resistência quando melhorado. Tenha cuidado, pois escolher essa Afinidade reduz sua Velocidade e Altura no Pulo, e torna-o fraco a Fogo."
+      "Por": "Gelo, a Afinidade Protetora. Esta afinidade concede Imunidades e Resistências baseadas no Gelo, e um Aumento Médio no Status de Vitalidade. Fornece melhores Imunidades e um Aumento Grande no Status de Resistência quando aprimorada. Tenha cuidado, pois escolher essa Afinidade reduz sua Velocidade e Altura no Pulo, e torna-o fraco a Fogo."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Eletricidade, a Afinidade Perceptiva. Esta Afinidade concede Imunidades e Resistências baseadas em Eletricidade, um Aumento Médio no Status de Agilidade. Fornece melhores Imunidades e um Grande Aumento no Status de Inteligência quando melhorado. Tenha cuidado, pois escolher essa Afinidade enfraquece você enquanto estiver Submerso, e torna você fraco a Gelo."
+    ],
     "Files": {
       "affinities/affinityDescriptions.config": [
         "/electric/text"
@@ -44,11 +50,13 @@
     },
     "Texts": {
       "Eng": "Shock, the Perceptive Affinity. This Affinity grants Electric based Immunities and Resistances, and a Medium Agility Stat Boost. Provides better Immunities and a Large Intelligence Stat Boost when upgraded. Be careful, as choosing this Affinity weakens you while Submerged, and makes you weak to Frost.",
-      "Por": "Eletricidade, a Afinidade Perceptiva. Esta Afinidade concede Imunidades e Resistências baseadas em Eletricidade, um Aumento Médio no Status de Agilidade. Fornece melhores Imunidades e um Grande Aumento no Status de Inteligência quando melhorado. Tenha cuidado, pois escolher essa Afinidade enfraquece você enquanto estiver Submerso, e torna você fraco a Gelo."
+      "Por": "Eletricidade, a Afinidade Perceptiva. Esta Afinidade concede Imunidades e Resistências baseadas em Eletricidade, um Aumento Médio no Status de Agilidade. Fornece melhores Imunidades e um Grande Aumento no Status de Inteligência quando aprimorada. Tenha cuidado, pois escolher essa Afinidade enfraquece você enquanto estiver Submerso, e torna você fraco a Gelo."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Veneno, a Afinidade Proficiente. Esta Afinidade concede Imunidades e Resistências baseadas em Veneno, e um Aumento Pequeno no Status de Vigor, Destreza e Agilidade. Fornece melhores Imunidades e um Grande Aumento no Status de Destreza quando melhorado. Tenha cuidado, pois escolher esta Afinidade diminui a sua Vida Máxima e torna-o fraco a Eletricidade. \n"
+    ],
     "Files": {
       "affinities/affinityDescriptions.config": [
         "/poison/text"
@@ -56,7 +64,7 @@
     },
     "Texts": {
       "Eng": "Venom, the Proficient Affinity. This Affinity grants Poison based Immunities and Resistances, and a Small Vigor, Dexterity, and Agility Stat Boost. Provides better Immunities and a Large Dexterity Stat Boost when upgraded. Be careful, as choosing this Affinity lowers your Max Health and makes you weak to Electricity.",
-      "Por": "Veneno, a Afinidade Proficiente. Esta Afinidade concede Imunidades e Resistências baseadas em Veneno, e um Aumento Pequeno no Status de Vigor, Destreza e Agilidade. Fornece melhores Imunidades e um Grande Aumento no Status de Destreza quando melhorado. Tenha cuidado, pois escolher esta Afinidade diminui a sua Vida Máxima e torna-o fraco a Eletricidade. \n"
+      "Por": "Veneno, a Afinidade Proficiente. Esta Afinidade concede Imunidades e Resistências baseadas em Veneno, e um Aumento Pequeno no Status de Vigor, Destreza e Agilidade. Fornece melhores Imunidades e um Grande Aumento no Status de Destreza quando aprimorada. Tenha cuidado, pois escolher esta Afinidade diminui a sua Vida Máxima e torna-o fraco a Eletricidade. \n"
     }
   }
 ]

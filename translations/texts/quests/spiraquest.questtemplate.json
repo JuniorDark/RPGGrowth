@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Parece que você planeja visitar muitos lugares, e eu acabei de perceber que suas viagens seriam facilitadas se suas ferramentas de mineração fossem melhoradas. Comecei a trabalhar em um protótipo que eu preciso de sua ajuda para construir: se você pudesse derrotar ^green;monstros que podem girar,^reset; talvez eu possa descobrir algo.^white;"
+    ],
     "Files": {
       "quests/spiraquest.questtemplate": [
         "/text"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "You plan to visit many places it seems, and I only realized now that your travels would be made easier if your mining tools were improved. I have begun working on a prototype that I need your help to build: if you can defeat ^green;monsters that can spin,^reset; I may be able to figure something out.^white;",
-      "Por": "Parece que você planeja visitar muitos lugares, e eu acabei de perceber que suas viagens seriam facilitadas se suas ferramentas de mineração fossem melhoradas. Comecei a trabalhar em um protótipo que eu preciso de sua ajuda para construir: se você pudesse derrotar ^green;monstros que podem girar,^reset; talvez eu possa descobrir algo.^white;"
+      "Por": "Parece que você planeja visitar muitos lugares, e eu acabei de perceber que suas viagens seriam facilitadas se suas ferramentas de mineração fossem aprimoradas. Comecei a trabalhar em um protótipo que eu preciso de sua ajuda para construir: se você pudesse derrotar ^green;monstros que podem girar,^reset; talvez eu possa descobrir algo.^white;"
     }
   },
   {

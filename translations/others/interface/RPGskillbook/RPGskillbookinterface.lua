@@ -16,7 +16,7 @@ function init()
   player.addCurrency("skillbookopen", 1)
 
   -- Initiating Level and XP
-  self.xp = math.min(player.currency("experienceorb"), 500000)rb")
+  self.xp = math.min(player.currency("experienceorb"), 500000)
   self.level = player.currency("currentlevel")
   self.mastery = player.currency("masterypoint")
   -- Mastery Conversion: 10000 Experience = 1 Mastery!!
@@ -264,10 +264,10 @@ function updateOverview(toNext)
   widget.setText("overviewlayout.levellabel","Nível " .. tostring(self.level))
   if self.level == 50 then
     widget.setText("overviewlayout.xptglabel","Experiência Necessária Para Subir de Nível: N/D.")
-    widget.setText("overviewlayout.xptotallabel","Total de Orbs de Experiência Coletados: " .. tostring(self.xp))
+    widget.setText("overviewlayout.xptotallabel","Total de Esferas de Experiência Coletadas: " .. tostring(self.xp))
   else
     widget.setText("overviewlayout.xptglabel","Experiência Necessária Para Subir de Nível: " .. tostring(toNext - (math.floor(self.xp-self.level^2*100))))
-    widget.setText("overviewlayout.xptotallabel","Total de Orbs de Experiência Coletados: " .. tostring(self.xp))
+    widget.setText("overviewlayout.xptotallabel","Total de Esferas de Experiência Coletadas: " .. tostring(self.xp))
   end
   widget.setText("overviewlayout.statpointsremaining","Pontos de Status Disponíveis: " .. tostring(player.currency("statpoint")))
 

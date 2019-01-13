@@ -219,7 +219,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Lute nas linhas de frente! Vanguardas são os primeiros a provar o derramamento de sangue, destacando-se em combates de curta distância, mas ruim com combates de longo alcance. Vanguardas são excelentes com Machine Pistols e costumam usar armas corpo a corpo quando ficam sem energia."
+    ],
     "Files": {
       "specList.config": [
         "/3/4/description",
@@ -228,7 +230,7 @@
     },
     "Texts": {
       "Eng": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly. Vanguards excel with Machine Pistols and often utilize melee weapons when they run out of energy.",
-      "Por": "Lute nas linhas de frente! Vanguardas são os primeiros a provar o derramamento de sangue, destacando-se em combates de curta distância, mas ruim com combates de longo alcance. Vanguardas são excelentes com Machine Pistols e costumam usar armas corpo a corpo quando ficam sem energia."
+      "Por": "Lute nas linhas de frente! Vanguardas são os primeiros a provar o derramamento de sangue, destacando-se em combates de curta distância, mas ruim com combates de longo alcance. Vanguardas são excelentes com Metralhadoras e costumam usar armas corpo a corpo quando ficam sem energia."
     }
   },
   {
@@ -477,7 +479,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Titãs são bastiões da linha de frente que ajudam a manter a linha firme com seu escudo. Sua arma de escolha é uma pistola de uma mão ou uma smg emparelhada com um escudo. Enquanto lutadores capazes em todas as distâncias, eles também inspiram aliados próximos com uma aura protetora."
+    ],
     "Files": {
       "specList.config": [
         "/3/3/description"
@@ -502,7 +506,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nFaça Escudo Perfeito, ou cause dano com Pistolas ou Metralhadoras."
+    ],
     "Files": {
       "specList.config": [
         "/3/3/unlockText"
@@ -541,7 +547,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Usando uma Adaga, Kunai, Shuriken ou Leque, derrote inimigos enquanto a Agilidade for maior que 30."
+    ],
     "Files": {
       "specList.config": [
         "/2/2/unlockText"
@@ -549,7 +557,7 @@
     },
     "Texts": {
       "Eng": "Using a Dagger, Kunai, Shuriken, or War-Fan, defeat enemies while Agility is higher than 30.",
-      "Por": "Usando uma Adaga, Kunai, Shuriken ou Leque, derrote inimigos enquanto a Agilidade for maior que 30."
+      "Por": "Usando um Chicote, Kunai, Shuriken ou Leque, derrote inimigos enquanto a Agilidade for maior que 30."
     }
   },
   {
@@ -651,7 +659,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^red;Apenas Personagem Feminino^white;\nApesar de ter uma Vida ligeiramente inferior\ne causar um pouco menos de Dano\n^#ffaafa;A Kunoichi\nGraciosamente Dança Entre Os\nEstalos De Seu War-Fan\n^white;silenciando quem ela quiser."
+    ],
     "Files": {
       "specList.config": [
         "/2/2/description"
@@ -659,7 +669,7 @@
     },
     "Texts": {
       "Eng": "^red;Female Only^white;\nDespite having slightly lower Health\nand dealing a bit less Damage\n^#ffaafa;The Kunoichi\nGracfully Dances Among\nSnaps Of Her War-Fan\n^white;silencing whomever she pleases.",
-      "Por": "^red;Apenas Personagem Feminino^white;\nApesar de ter uma Vida ligeiramente inferior\ne causar um pouco menos de Dano\n^#ffaafa;A Kunoichi\nGraciosamente Dança Entre Os\nEstalos De Seu War-Fan\n^white;silenciando quem ela quiser."
+      "Por": "^red;Apenas Personagem Feminino^white;\nApesar de ter uma Vida ligeiramente inferior\ne causar um pouco menos de Dano\n^#ffaafa;A Kunoichi\nGraciosamente Dança Entre Os\nEstalos De Seu Leque\n^white;silenciando quem ela quiser."
     }
   },
   {

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ether"
+    ],
     "Files": {
       "items/crafting/ninja/ivrpgether.item": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Ether",
-      "Por": "Ether"
+      "Por": "Éter"
     }
   }
 ]

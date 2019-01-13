@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Meteoric Metal"
+    ],
     "Files": {
       "items/crafting/knight/ivrpgmeteoricmetal.item": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Meteoric Metal",
-      "Por": "Meteoric Metal"
+      "Por": "Metal Meteorico"
     }
   }
 ]

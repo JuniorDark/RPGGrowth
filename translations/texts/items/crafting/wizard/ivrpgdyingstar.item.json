@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Dying Star"
+    ],
     "Files": {
       "items/crafting/wizard/ivrpgdyingstar.item": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Dying Star",
-      "Por": "Dying Star"
+      "Por": "Estrela Moribunda"
     }
   }
 ]

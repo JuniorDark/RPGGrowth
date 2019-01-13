@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Scroll: Cryogenics"
+    ],
     "Files": {
       "items/scrolls/scrollcryo.activeitem": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Scroll: Cryogenics",
-      "Por": "Scroll: Cryogenics"
+      "Por": "Pergaminho: Criogenia"
     }
   },
   {

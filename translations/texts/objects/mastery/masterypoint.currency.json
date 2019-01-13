@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Mastery Point"
+    ],
     "Files": {
       "objects/mastery/masterypoint.currency": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Mastery Point",
-      "Por": "Mastery Point"
+      "Por": "Ponto de Mestria"
     }
   },
   {

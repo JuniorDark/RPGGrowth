@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Nova Crystal"
+    ],
     "Files": {
       "items/crafting/wizard/ivrpgnovacrystal.item": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Nova Crystal",
-      "Por": "Nova Crystal"
+      "Por": "Cristal de Nova"
     }
   }
 ]

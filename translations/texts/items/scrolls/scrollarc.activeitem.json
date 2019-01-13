@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Scroll: Lightning"
+    ],
     "Files": {
       "items/scrolls/scrollarc.activeitem": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Scroll: Lightning",
-      "Por": "Scroll: Lightning"
+      "Por": "Pergaminho: Relâmpago"
     }
   },
   {

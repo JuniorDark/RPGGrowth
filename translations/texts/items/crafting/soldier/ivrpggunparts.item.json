@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Gun Parts"
+    ],
     "Files": {
       "items/crafting/soldier/ivrpggunparts.item": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Gun Parts",
-      "Por": "Gun Parts"
+      "Por": "Peças de Armas"
     }
   },
   {

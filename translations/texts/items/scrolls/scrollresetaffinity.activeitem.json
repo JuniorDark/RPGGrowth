@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Affinity Reset Scroll"
+    ],
     "Files": {
       "items/scrolls/scrollresetaffinity.activeitem": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Affinity Reset Scroll",
-      "Por": "Affinity Reset Scroll"
+      "Por": "Pergaminho de Resetar Afinidade"
     }
   },
   {

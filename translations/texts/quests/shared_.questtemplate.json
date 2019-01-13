@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^green;Melhoria de Arma"
+    ],
     "Files": {
       "quests/aegisquest2.questtemplate": [
         "/title"
@@ -41,7 +43,7 @@
     },
     "Texts": {
       "Eng": "^green;Weapon Upgrade",
-      "Por": "^green;Melhoria de Arma"
+      "Por": "^green;Aprimoramento de Arma"
     }
   }
 ]

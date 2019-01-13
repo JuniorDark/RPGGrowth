@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Você é muito mais perigoso agora! Eu melhorei seu Siphon. Agora você também poderá construir o Siphon Kyst e Siphon Slash em uma bigorna melhorada."
+    ],
     "Files": {
       "quests/siphonquest2.questtemplate": [
         "/completionText"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "You're a lot more dangerous now! I have upgraded your Siphon. You will now also be able to build both Siphon Cyst and Siphon Slash in an upgraded anvil.",
-      "Por": "Você é muito mais perigoso agora! Eu melhorei seu Siphon. Agora você também poderá construir o Siphon Kyst e Siphon Slash em uma bigorna melhorada."
+      "Por": "Você é muito mais perigoso agora! Eu melhorei seu Siphon. Agora você também poderá construir o Siphon Kyst e Siphon Slash em uma bigorna aprimorada."
     }
   }
 ]

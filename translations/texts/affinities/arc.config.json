@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Danos Elétrico"
+    ],
     "Files": {
       "affinities/arc.config": [
         "/immunity/0/text"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Electric Damage",
-      "Por": "Danos Elétrico"
+      "Por": "Dano Elétrico"
     }
   },
   {

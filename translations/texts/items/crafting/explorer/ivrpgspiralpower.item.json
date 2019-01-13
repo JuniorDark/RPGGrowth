@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Spiral Power"
+    ],
     "Files": {
       "items/crafting/explorer/ivrpgspiralpower.item": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Spiral Power",
-      "Por": "Spiral Power"
+      "Por": "Poder Espiral"
     }
   },
   {

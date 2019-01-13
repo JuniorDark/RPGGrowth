@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Firing Mechanism"
+    ],
     "Files": {
       "items/crafting/soldier/ivrpgfiringmechanism.item": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Firing Mechanism",
-      "Por": "Firing Mechanism"
+      "Por": "Mecanismo de Disparo"
     }
   }
 ]

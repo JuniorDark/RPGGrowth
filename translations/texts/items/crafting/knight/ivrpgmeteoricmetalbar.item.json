@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Meteoric Metal Bar"
+    ],
     "Files": {
       "items/crafting/knight/ivrpgmeteoricmetalbar.item": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Meteoric Metal Bar",
-      "Por": "Meteoric Metal Bar"
+      "Por": "Barra de Metal Meteorico"
     }
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Scroll: Infernos"
+    ],
     "Files": {
       "items/scrolls/scrollinfernal.activeitem": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Scroll: Infernos",
-      "Por": "Scroll: Infernos"
+      "Por": "Pergaminho: Infernos"
     }
   },
   {

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Squirming Nerve Bundle"
+    ],
     "Files": {
       "items/crafting/rogue/ivrpgparasiticnervebundle.item": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Squirming Nerve Bundle",
-      "Por": "Squirming Nerve Bundle"
+      "Por": "Conjunto de Nervos Contorcidos"
     }
   }
 ]

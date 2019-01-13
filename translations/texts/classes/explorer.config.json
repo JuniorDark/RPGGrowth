@@ -48,7 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma Melhoria para o Pulo Duplo, segure [W] para planar para frente, lentamente perdendo altitude. Você pode usar o seu pulo duplo enquanto plana. O custo da energia do Planar diminui com Agilidade alta.\n"
+    ],
     "Files": {
       "classes/explorer.config": [
         "/techs/0/text"
@@ -56,11 +58,13 @@
     },
     "Texts": {
       "Eng": "An upgrade to Double Jump, hold [W] to glide forward, slowly losing altitude. You can use your double jump while gliding. Glide energy cost decreases with higher Agility.",
-      "Por": "Uma Melhoria para o Pulo Duplo, segure [W] para planar para frente, lentamente perdendo altitude. Você pode usar o seu pulo duplo enquanto plana. O custo da energia do Planar diminui com Agilidade alta.\n"
+      "Por": "Um Aprimoramento para o Pulo Duplo, segure [W] para planar para frente, lentamente perdendo altitude. Você pode usar o seu pulo duplo enquanto plana. O custo da energia do Planar diminui com Agilidade alta.\n"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma Melhoria para o Planar. Ganhe mais três pulos no ar e um pulo na parede. Pulos no ar são 85% tão eficaz. Você se agarra às paredes um pouco mais longo do que o Pulo na Parede normal e desliza mais devagar. O custo de energia do Planar diminui com Agilidade maior.\n"
+    ],
     "Files": {
       "classes/explorer.config": [
         "/techs/3/text"
@@ -68,7 +72,7 @@
     },
     "Texts": {
       "Eng": "An upgrade to Glide. Gain another three midair jumps and a wall jump. Midair jumps are 85% as effective. You cling to walls slightly longer than the normal Wall Jump and slide down slower as well. Glide energy cost decreases with higher Agility.",
-      "Por": "Uma Melhoria para o Planar. Ganhe mais três pulos no ar e um pulo na parede. Pulos no ar são 85% tão eficaz. Você se agarra às paredes um pouco mais longo do que o Pulo na Parede normal e desliza mais devagar. O custo de energia do Planar diminui com Agilidade maior.\n"
+      "Por": "Uma Aprimoramento para o Planar. Ganhe mais três pulos no ar e um pulo na parede. Pulos no ar são 85% tão eficaz. Você se agarra às paredes um pouco mais longo do que o Pulo na Parede normal e desliza mais devagar. O custo de energia do Planar diminui com Agilidade maior.\n"
     }
   },
   {

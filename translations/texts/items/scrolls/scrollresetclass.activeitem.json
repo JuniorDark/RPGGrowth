@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Class Reset Scroll"
+    ],
     "Files": {
       "items/scrolls/scrollresetclass.activeitem": [
         "/shortdescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Class Reset Scroll",
-      "Por": "Class Reset Scroll"
+      "Por": "Pergaminho de Resetar Classe"
     }
   },
   {

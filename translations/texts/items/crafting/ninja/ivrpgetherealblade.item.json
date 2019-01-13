@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ethereal Blade"
+    ],
     "Files": {
       "items/crafting/ninja/ivrpgetherealblade.item": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Ethereal Blade",
-      "Por": "Ethereal Blade"
+      "Por": "Lâmina Etérea"
     }
   }
 ]
