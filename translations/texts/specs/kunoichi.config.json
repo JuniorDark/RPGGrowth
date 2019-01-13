@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "90% Max Health",
-      "Por": "90% de Vida Máxima"
+      "Por": "90% Vida Máxima"
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "90% Power Multiplier",
-      "Por": "90% de Multiplicador de Força"
+      "Por": "90% Multiplicador de Força"
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Can Wield War-Fans.",
-      "Por": "Pode Empunhar War-Fans."
+      "Por": "Pode Empunhar Leques."
     }
   },
   {
@@ -67,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dexterity x2"
+      "Eng": "Dexterity x2",
+      "Por": "Destreza x2"
     }
   },
   {
@@ -79,7 +80,7 @@
     },
     "Texts": {
       "Eng": "Increased Movement Speed with Whips and War-Fans",
-      "Por": "Velocidade de Movimento Aumentada com Chicotes e War-Fans"
+      "Por": "Velocidade de Movimento Aumentada com Chicotes e Leques"
     }
   },
   {
@@ -91,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Killing enemies with War-Fans grants Energy and Feather Falling. Killing Male NPCs yields bonus XP.",
-      "Por": "Matar inimigos com War-Fans garante Energia e Peso Pena. Matar NPCs Masculinos rende bônus de XP."
+      "Por": "Matar inimigos com Leques garante Energia e Peso Pena. Matar NPCs Masculinos rende bônus de XP."
     }
   },
   {
