@@ -75,7 +75,7 @@
             "phaseshift.activeitem.json": 2,
             "projectile": {
               "bolt": {
-                "phaseshiftenergyregen.statuseffect.json": 0
+                "phaseshiftenergyregen.statuseffect.json": 1
               }
             }
           },
