@@ -1,7 +1,7 @@
 [
   {
     "DeniedAlternatives": [
-      "Melhoria para a Esfera Blindada.\nSegure o botão esquerdo enquanto transformado para Atordoar os inimigos no contato.\n^red;Drena Energia enquanto o Atordoamento está ativo."
+      "Melhoria para a Esfera Blindada.Segure o botão esquerdo enquanto transformado para Atordoar os inimigos no contato.^red;Drena Energia enquanto o Atordoamento está ativo."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -15,7 +15,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para o Blood Aether.\nBlood Aether pode sentir inimigos de 10 blocos mais distante.\nAlém disso, um inimigo atingido por seu próprio Blood Aether receberá mais dano de todos os Blood Aethers."
+      "Melhoria para o Blood Aether.Blood Aether pode sentir inimigos de 10 blocos mais distante.Além disso, um inimigo atingido por seu próprio Blood Aether receberá mais dano de todos os Blood Aethers."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -29,7 +29,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para o Blood Aether.\nAo matar um inimigo com Blood Aether, ganha 2 segundos de Raiva e Regeneração fraca."
+      "Melhoria para o Blood Aether.Ao matar um inimigo com Blood Aether, ganha 2 segundos de Raiva e Regeneração fraca."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -67,7 +67,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para o Esfera Broca.\nMovimento no meio do ar melhorado. Ganha um pulo no meio do ar.\nSegure [W] enquanto transformado para Deslizar.\n^red;Drena Energia enquanto Deslizando."
+      "Melhoria para o Esfera Broca.Movimento no meio do ar melhorado. Ganha um pulo no meio do ar.Segure [W] enquanto transformado para Deslizar.^red;Drena Energia enquanto Deslizando."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -93,7 +93,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para o Energizar.\nEnquanto a Energia está cheia,\nOs pulos no chão são melhorados ainda mais,\nO Dano de queda diminui ainda mais,\ne os pulos no ar são aumentados para 3."
+      "Melhoria para o Energizar.Enquanto a Energia está cheia,Os pulos no chão são melhorados ainda mais,O Dano de queda diminui ainda mais,e os pulos no ar são aumentados para 3."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -107,7 +107,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para o Movimento Melhorado.\nVelocidade de Corrida aumentada. Altura de Pulo aumentada ao pular de uma Corrida.\nAumento da Duração da Arrancada. Agora é possível cancelar Arrancadas ao pular."
+      "Melhoria para o Movimento Melhorado.Velocidade de Corrida aumentada. Altura de Pulo aumentada ao pular de uma Corrida.Aumento da Duração da Arrancada. Agora é possível cancelar Arrancadas ao pular."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -127,12 +127,13 @@
       ]
     },
     "Texts": {
-      "Eng": "Escape! Upgrade.\nDashing into the ground provides a large boost in speed.\nFall Damage is negated for a short time after dashing. 60% Aerial Velocity after initial dash."
+      "Eng": "Escape! Upgrade.\nDashing into the ground provides a large boost in speed.\nFall Damage is negated for a short time after dashing. 60% Aerial Velocity after initial dash.",
+      "Por": "Aprimoramento para a Fuga!\nEsquivar para o chão fornece um grande impulso na velocidade.\nDano de Queda é negado por um curto período de tempo depois de esquivar. 60% de Velocidade Aérea após a esquiva inicial."
     }
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para a Fuga!.\nPular na parede é ativado com Fuga!.\nArrancadas no ar são reabastecidas após se agarrar a uma parede."
+      "Melhoria para a Fuga!.Pular na parede é ativado com Fuga!.Arrancadas no ar são reabastecidas após se agarrar a uma parede."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -158,7 +159,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para a Afinidade Fogo & Infernal\nFraquezas de Afinidade já não afetam você."
+      "Melhoria para a Afinidade Fogo & InfernalFraquezas de Afinidade já não afetam você."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -172,7 +173,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para a Afinidade Fogo & Infernal\nCauterizar dura duas vezes mais."
+      "Melhoria para a Afinidade Fogo & InfernalCauterizar dura duas vezes mais."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -186,7 +187,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para a Afinidade Fogo & Infernal\nQuando você mata um inimigo Queimando, Derretendo ou Cauterizado, eles explodem.\nDano da Explosão escala com Multiplicador de Poder."
+      "Melhoria para a Afinidade Fogo & InfernalQuando você mata um inimigo Queimando, Derretendo ou Cauterizado, eles explodem.Dano da Explosão escala com Multiplicador de Poder."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -200,7 +201,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para a Afinidade Gelo & Crio.\nFraquezas de Afinidade já não afetam você."
+      "Melhoria para a Afinidade Gelo & Crio.Fraquezas de Afinidade já não afetam você."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -214,7 +215,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para a Afinidade Gelo & Crio.\nCausa + 50% de dano com Arcos.Golpes com flechas sempre Fragilizam por 3 segundos.\nNão funciona com o Adaptable Crossbow."
+      "Melhoria para a Afinidade Gelo & Crio.Causa + 50% de dano com Arcos.Golpes com flechas sempre Fragilizam por 3 segundos.Não funciona com o Adaptable Crossbow."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -228,7 +229,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para a Afinidade Gelo & Crio.\nQuanto mais tempo um inimigo é Fragilizado,\nmais dano eles tomam de fontes externas."
+      "Melhoria para a Afinidade Gelo & Crio.Quanto mais tempo um inimigo é Fragilizado,mais dano eles tomam de fontes externas."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -242,7 +243,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para a Afinidade Gelo & Crio. ^red;Apenas Feminino.^reset;\nCausa + 75% de dano com Chicotes, Garras e Adagas.\nSem Redução de Velocidade de Afinidade enquanto estiver empunhando Chicotes."
+      "Melhoria para a Afinidade Gelo & Crio. ^red;Apenas Feminino.^reset;Causa + 75% de dano com Chicotes, Garras e Adagas.Sem Redução de Velocidade de Afinidade enquanto estiver empunhando Chicotes."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -256,7 +257,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para a Esfera de Gravidade.\nSegure o Espaço enquanto transformado para Planar em direção ao cursor.\n^red;Drena Energia enquanto o Planar está ativo."
+      "Melhoria para a Esfera de Gravidade.Segure o Espaço enquanto transformado para Planar em direção ao cursor.^red;Drena Energia enquanto o Planar está ativo."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -294,7 +295,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Melhoria para a Batida do Cavaleiro.\nPulos no ar aumentados para 3.\nKnockback da Batida Aumentado.\n^red;Dano da Batida Diminuido."
+      "Melhoria para a Batida do Cavaleiro.Pulos no ar aumentados para 3.Knockback da Batida Aumentado.^red;Dano da Batida Diminuido."
     ],
     "Files": {
       "ivrpgtext.config": [
