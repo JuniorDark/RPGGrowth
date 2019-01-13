@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "150% Base Power While Dual-Wielding Machine Pistols and Shields.",
-      "Por": "150% Força Base Enquanto Empunhando 2 Metralhadoras e Escudos"
+      "Por": "150% Força Base Enquanto Empunhando 2 Metralhadoras / Escudos"
     }
   },
   {
@@ -67,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pressing [W] toggles Atlas' Burden, a buff that halves Shield Stamina and Jump Height, but provides bonuses for your shield. While Atlas' Burden is active, enemies that hit your Shield have a 25% chance to be stunned for half a second; Perfect Shields stun all nearby enemies for one second; and Perfect Shields grant you and nearby allies 110% Base Power Multiplier, 120% Armor, and Knockback Immunity for five seconds."
+      "Eng": "Pressing [W] toggles Atlas' Burden, a buff that halves Shield Stamina and Jump Height, but provides bonuses for your shield. While Atlas' Burden is active, enemies that hit your Shield have a 25% chance to be stunned for half a second; Perfect Shields stun all nearby enemies for one second; and Perfect Shields grant you and nearby allies 110% Base Power Multiplier, 120% Armor, and Knockback Immunity for five seconds.",
+      "Por": "Pressionar [W] ativa o Fardo do Atlas, um bônus que reduz pela metade a Resistência do Escudo e a Altura do Pulo, mas oferece bônus para o seu escudo. Enquanto Fardo do Atlas está ativo, inimigos que atingem seu Escudo têm 25% de chance de ficarem atordoados por meio segundo; Escudos Perfeitos atordoam todos os inimigos próximos por um segundo; e os Escudos Perfeitos concedem a você e aliados próximos 110% de Multiplicador de Força Base, 120% de Armadura e Imunidade a Knockback por cinco segundos."
     }
   }
 ]
