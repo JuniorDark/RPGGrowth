@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+33% Energy\nRecharge Delay"
+      "Eng": "+33% Energy\nRecharge Delay",
+      "Por": "+33% Energia\nAtraso de Recarga"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-33% Energy\nRecharge Rate"
+      "Eng": "-33% Energy\nRecharge Rate",
+      "Por": "-33% Energia\nAtraso de Recarga"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-33% Ice Resistance"
+      "Eng": "-33% Ice Resistance",
+      "Por": "-33% Resistência a Gelo"
     }
   },
   {
@@ -64,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Knight's Slam. Press [Space] while crouching to shoot into the air. Doing so provides Invulnerability until you start to fall or hit the ground. Using this prevents you from double jumping in midair. Press [G] in midair to crash downwards towards your cursor, invulnerable while doing so. Upon landing, flame erupts from the ground, dealing more damage the longer you fell, and scaling with Strength."
+      "Eng": "An upgrade to Knight's Slam. Press [Space] while crouching to shoot into the air. Doing so provides Invulnerability until you start to fall or hit the ground. Using this prevents you from double jumping in midair. Press [G] in midair to crash downwards towards your cursor, invulnerable while doing so. Upon landing, flame erupts from the ground, dealing more damage the longer you fell, and scaling with Strength.",
+      "Por": "Um aprimoramento para a Batida do Cavaleiro. Pressionar [Espaço] enquanto agachado lança você no ar. Fazer isso fornece Invulnerabilidade até você começar a cair ou tocar no chão. Usar isso evita que você pule duas vezes no ar. Pressione [G] no ar para cair em direção ao seu cursor, ficando invulnerável enquanto isso. Ao aterrissar, chamas irrompe do chão, causando mais dano quanto mais você cair e escalando com Força."
     }
   },
   {
@@ -135,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Upon landing from more than 15 blocks up, gain Increased Power and Armor for up to six seconds, scaling with fall distance."
+      "Eng": "Upon landing from more than 15 blocks up, gain Increased Power and Armor for up to six seconds, scaling with fall distance.",
+      "Por": "Ao aterrissar de mais de 15 blocos, ganhe Força e Armadura Aumentadas por até seis segundos, escalando com a distância de queda."
     }
   }
 ]
