@@ -121,7 +121,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Crusaders are holy fighters who crush enemies with devasting combos. Zealots who are unable to stomach heathens, Crusaders do poorly when touched by foes, but excel at killing enemies quickly. Crusaders only really use broadswords, but can still poorly wield other two-handed melee weapons."
+      "Eng": "Crusaders are holy fighters who crush enemies with devasting combos. Zealots who are unable to stomach heathens, Crusaders do poorly when touched by foes, but excel at killing enemies quickly. Crusaders only really use broadswords, but can still poorly wield other two-handed melee weapons.",
+      "Por": "Cruzados são combatentes sagrados que esmagam inimigos com combinações devastadoras. Zelotes que são incapazes de tolerar os pagãos, Cruzados fazem mal quando tocados por inimigos, mas se superam em matar inimigos rapidamente. Cruzados só usam espadas largas, mas ainda podem empunhar outras armas corpo a corpo de duas mãos."
     }
   },
   {
@@ -157,7 +158,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Defeat enemies while dual-wielding Shortswords and Grenade Launchers."
+      "Eng": "Defeat enemies while dual-wielding Shortswords and Grenade Launchers.",
+      "Por": "Derrote inimigos enquanto empunha 2 Espadas Curtas e Lança-granadas ao mesmo tempo."
     }
   },
   {
@@ -196,7 +198,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dragoons wield lances and spears. Coupled with their light armor, they are a force meant to quickly and decisively pierce through all opposition - no matter how durable, or how high in the sky."
+      "Eng": "Dragoons wield lances and spears. Coupled with their light armor, they are a force meant to quickly and decisively pierce through all opposition - no matter how durable, or how high in the sky.",
+      "Por": "Dragoons empunham lanças. Juntamente com sua armadura leve, eles são uma força destinada a penetrar de maneira rápida e decisiva em toda a oposição - não importa quão durável ou quão alto esteja no céu."
     }
   },
   {
@@ -480,7 +483,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thief"
+      "Eng": "Thief",
+      "Por": "Ladrão"
     }
   },
   {
@@ -519,12 +523,13 @@
       ]
     },
     "Texts": {
-      "Eng": "Use a Spear to defeat enemies (the Bone Dragon provides more percentage), or take Fall Damage."
+      "Eng": "Use a Spear to defeat enemies (the Bone Dragon provides more percentage), or take Fall Damage.",
+      "Por": "Use uma Lança para derrotar inimigos (o Bone Dragon fornece mais porcentagem), ou receba Dano de Queda."
     }
   },
   {
     "DeniedAlternatives": [
-      "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nFaça Escudo Perfeito, ou cause dano com Pistolas ou Metralhadoras."
+      "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;Faça Escudo Perfeito, ou cause dano com Pistolas ou Metralhadoras."
     ],
     "Files": {
       "specList.config": [
