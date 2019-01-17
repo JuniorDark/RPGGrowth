@@ -43,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "125% Base Power While Dual-Wielding Shortswords and Grenade Launchers."
+      "Eng": "125% Base Power While Dual-Wielding Shortswords and Grenade Launchers.",
+      "Por": "125% Força Base Enquanto Usando 2 Espadas Curtas e Lança-granadas."
     }
   },
   {
@@ -78,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Landing a hit with a Shortsword grants 150% Power and +20 Energy/Second for two seconds as long as you have a Grenade Launcher in hand."
+      "Eng": "Landing a hit with a Shortsword grants 150% Power and +20 Energy/Second for two seconds as long as you have a Grenade Launcher in hand.",
+      "Por": "Causar um golpe com uma Espada Curta garante 150% Força e +20 Energia/Segundo por dois segundos, contanto que você tenha um Lança-granadas na mão."
     }
   },
   {
