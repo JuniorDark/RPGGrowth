@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ever see a Dragon flee?\nWant to?"
+      "Eng": "Ever see a Dragon flee?\nWant to?",
+      "Por": "Já viu um Dragão fugir?\nQuer?"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#950010;Dragon's Bane^white;"
+      "Eng": "^#950010;Dragon's Bane^white;",
+      "Por": "^#950010;Dragon's Bane^white;"
     }
   }
 ]
