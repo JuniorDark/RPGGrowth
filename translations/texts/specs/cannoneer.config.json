@@ -43,8 +43,7 @@
       ]
     },
     "Texts": {
-      "Eng": "125% Base Power While Dual-Wielding Short Swords and Grenade Launchers.",
-      "Por": "125% Força Base Enquanto Usando 2 Espadas Curtas e Lançadores de Granadas."
+      "Eng": "125% Base Power While Dual-Wielding Shortswords and Grenade Launchers."
     }
   },
   {
@@ -79,8 +78,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Landing a hit with a Dagger or Shortsword grants bonus damage for the following second as long as you have a Grenade Launcher in hand.",
-      "Por": "Causar um golpe com uma Adaga ou Espada Curta garante um bônus de dano no segundo seguinte, desde que você tenha um Lançador de Granadas na mão."
+      "Eng": "Landing a hit with a Shortsword grants 150% Power and +20 Energy/Second for two seconds as long as you have a Grenade Launcher in hand."
     }
   },
   {

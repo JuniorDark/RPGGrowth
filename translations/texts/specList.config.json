@@ -15,19 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/2/4/title",
-        "/4/4/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Assassin",
-      "Por": "Assassino"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
         "/1/1/title"
       ]
     },
@@ -134,8 +121,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Crusaders are holy fighters who crush enemies with devasting combos. Zealots who are unable to stomach heathens, Crusaders do poorly when touched by foes, but excel at killing enemies quickly. Crusaders only really use broadswords, but can still poorly wield two-handed melee weapons.",
-      "Por": "Cruzados são combatentes sagrados que esmagam inimigos com combinações devastadoras. Zelotes que são incapazes de tolerar os pagãos, Cruzados fazem mal quando tocados por inimigos, mas se superam em matar inimigos rapidamente. Cruzados só usam espadas largas, mas ainda podem usar armas corpo a corpo de duas mãos."
+      "Eng": "Crusaders are holy fighters who crush enemies with devasting combos. Zealots who are unable to stomach heathens, Crusaders do poorly when touched by foes, but excel at killing enemies quickly. Crusaders only really use broadswords, but can still poorly wield other two-handed melee weapons."
     }
   },
   {
@@ -161,6 +147,17 @@
     "Texts": {
       "Eng": "Deadshot",
       "Por": "Pistoleiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/0/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Defeat enemies while dual-wielding Shortswords and Grenade Launchers."
     }
   },
   {
@@ -191,10 +188,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Dragoons utilizam lanças para penetrar nas defesas com uma precisão insana.",
-      "Os Dragoons utilizam lanças para penetrar nas defesas com uma precisão insana."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
         "/0/7/description",
@@ -202,8 +196,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Dragoons utilize spears to poke through defenses with crazy accuracy.",
-      "Por": "-"
+      "Eng": "Dragoons wield lances and spears. Coupled with their light armor, they are a force meant to quickly and decisively pierce through all opposition - no matter how durable, or how high in the sky."
     }
   },
   {
@@ -479,6 +472,18 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/4/title",
+        "/4/4/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thief"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Titãs são bastiões da linha de frente que ajudam a manter a linha firme com seu escudo. Sua arma de escolha é uma pistola de uma mão ou uma smg emparelhada com um escudo. Enquanto lutadores capazes em todas as distâncias, eles também inspiram aliados próximos com uma aura protetora."
     ],
@@ -503,6 +508,18 @@
     "Texts": {
       "Eng": "Use a Broadsword to defeat enemies. Unlocked faster by defeating Cultists or Avian Temple Guards.",
       "Por": "Use uma Espada Larga para derrotar os inimigos. Desbloqueado mais rápido derrotando Cultistas ou Guardas do Templo dos Avian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/7/unlockText",
+        "/3/7/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use a Spear to defeat enemies (the Bone Dragon provides more percentage), or take Fall Damage."
     }
   },
   {
@@ -688,39 +705,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/4/0/unlockText"
-      ]
-    },
-    "Texts": {
-      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUse Shortswords or Explosive Weapons to defeat enemies.",
-      "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nUse Espadas Curtas ou Armas Explosivas para derrotar inimigos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
         "/0/3/unlockText"
       ]
     },
     "Texts": {
       "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUse Spears or Shortswords to defeat enemies or fall from 500 blocks high.",
       "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nUse Lanças ou Espadas Curtas para derrotar inimigos ou caia de 500 blocos de altura."
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nUsando uma Lança, Quarterstaff ou Rifle de Assalto, derrote inimigos. Derrotar o Bone Dragon com uma Lança proporciona um impulso imenso."
-    ],
-    "Files": {
-      "specList.config": [
-        "/0/7/unlockText",
-        "/3/7/unlockText"
-      ]
-    },
-    "Texts": {
-      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUsing a Spear, Quarterstaff, or Assault Rifle, defeat enemies. Defeating the Bone Dragon with a Spear provides an immense boost.",
-      "Por": "Ainda desconhecido! Novas atualizações podem esclarecer esse requisito."
     }
   }
 ]

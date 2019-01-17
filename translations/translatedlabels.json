@@ -82,6 +82,9 @@
           "crusader": {
             "oathkeeper.activeitem.json": 2
           },
+          "dragoon": {
+            "dragonsbane.activeitem.json": 0
+          },
           "kunoichi": {
             "luxuria.activeitem.json": 2
           },
@@ -424,7 +427,7 @@
       "shared_.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
-    "specList.config.json": 54,
+    "specList.config.json": 49,
     "specs": {
       "abilities": {
         "adept": {
@@ -473,9 +476,9 @@
         }
       },
       "adept.config.json": 7,
-      "cannoneer.config.json": 8,
+      "cannoneer.config.json": 6,
       "crusader.config.json": 11,
-      "dragoon.config.json": 11,
+      "dragoon.config.json": 7,
       "kunoichi.config.json": 10,
       "necromancer.config.json": 8,
       "necromancer.json": 1,
@@ -495,7 +498,10 @@
           "resurgencecooldown.statuseffect.json": 1
         },
         "dragoon": {
-          "dragonsleap.tech.json": 1
+          "dragonsleap.tech.json": 1,
+          "status": {
+            "dragonscrash.statuseffect.json": 0
+          }
         },
         "kunoichi": {
           "swirlingpetal.tech.json": 1

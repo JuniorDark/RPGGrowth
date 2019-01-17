@@ -3,12 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/dragoon.config": [
+        "/effects/9/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+33% Energy\nRecharge Delay"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
         "/effects/8/text"
       ]
     },
     "Texts": {
-      "Eng": "+33% Energy Recharge Delay",
-      "Por": "+33% Atraso de Recarga da Energia"
+      "Eng": "-33% Energy\nRecharge Rate"
     }
   },
   {
@@ -19,8 +29,7 @@
       ]
     },
     "Texts": {
-      "Eng": "-33% Energy Recharge Rate",
-      "Por": "-33% Atraso de Recarga da Energia"
+      "Eng": "-33% Ice Resistance"
     }
   },
   {
@@ -55,8 +64,7 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Knight's Slam. Pressing [Space] while crouching shoots you up into the air. Doing so provides Invulnerability until you start to fall or hit the ground. Using this prevents you from double jumping in midair.",
-      "Por": "Um aprimoramento para a Batida do Cavaleiro. Pressionar [Espaço] enquanto agachado lança você no ar. Fazer isso fornece Invulnerabilidade até você começar a cair ou tocar no chão. Usar isso evita que você pule duas vezes no ar."
+      "Eng": "An upgrade to Knight's Slam. Press [Space] while crouching to shoot into the air. Doing so provides Invulnerability until you start to fall or hit the ground. Using this prevents you from double jumping in midair. Press [G] in midair to crash downwards towards your cursor, invulnerable while doing so. Upon landing, flame erupts from the ground, dealing more damage the longer you fell, and scaling with Strength."
     }
   },
   {
@@ -127,8 +135,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Upon landing, create a shockwave that stuns nearby enemies. Stun Duration depends on fall distance and can reach up to seven seconds.",
-      "Por": "Ao aterrissar, crie uma onda de choque que atordoa os inimigos próximos. A duração do atordoamento depende da distância da queda e pode chegar até sete segundos."
+      "Eng": "Upon landing from more than 15 blocks up, gain Increased Power and Armor for up to six seconds, scaling with fall distance."
     }
   }
 ]

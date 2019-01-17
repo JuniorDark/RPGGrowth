@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/dragoon/dragonsbane.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ever see a Dragon flee?\nWant to?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/dragoon/dragonsbane.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#950010;Dragon's Bane^white;"
+    }
+  }
+]
