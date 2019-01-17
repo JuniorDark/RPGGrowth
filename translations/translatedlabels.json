@@ -500,7 +500,7 @@
         "dragoon": {
           "dragonsleap.tech.json": 1,
           "status": {
-            "dragonscrash.statuseffect.json": 0
+            "dragonscrash.statuseffect.json": 1
           }
         },
         "kunoichi": {
