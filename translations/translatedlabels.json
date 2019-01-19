@@ -543,7 +543,7 @@
         "valkyrie": {
           "einherjar.tech.json": 1,
           "status": {
-            "einherjarcooldown.statuseffect.json": 0
+            "einherjarcooldown.statuseffect.json": 1
           }
         },
         "vanguard": {
