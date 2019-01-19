@@ -101,6 +101,9 @@
       "specs/techs/valkyrie/einherjar.tech": [
         "/shortDescription"
       ],
+      "specs/techs/valkyrie/status/einherjar.statuseffect": [
+        "/label"
+      ],
       "specs/valkyrie.config": [
         "/tech/title"
       ]

@@ -100,6 +100,17 @@
           "titan": {
             "epimetheus.activeitem.json": 2
           },
+          "valkyrie": {
+            "gungnir.activeitem.json": 0,
+            "mark": {
+              "gungnirthrown": {
+                "holymark.statuseffect.json": 0
+              }
+            },
+            "odinsblessing": {
+              "odinsblessing.statuseffect.json": 0
+            }
+          },
           "vanguard": {
             "dangerclose.activeitem.json": 2
           },
@@ -421,13 +432,13 @@
       "shared_RPGskillbook..json": 1
     },
     "shared_soldier.json": 4,
-    "shared_spec.json": 12,
+    "shared_spec.json": 13,
     "shared_stun.json": 1,
     "shared_tech": {
       "shared_.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
-    "specList.config.json": 54,
+    "specList.config.json": 51,
     "specs": {
       "abilities": {
         "adept": {
@@ -478,7 +489,7 @@
       "adept.config.json": 7,
       "cannoneer.config.json": 8,
       "crusader.config.json": 11,
-      "dragoon.config.json": 12,
+      "dragoon.config.json": 11,
       "kunoichi.config.json": 10,
       "necromancer.config.json": 8,
       "necromancer.json": 1,
@@ -530,7 +541,10 @@
           "atlasrelief.statuseffect.json": 1
         },
         "valkyrie": {
-          "einherjar.tech.json": 1
+          "einherjar.tech.json": 1,
+          "status": {
+            "einherjarcooldown.statuseffect.json": 0
+          }
         },
         "vanguard": {
           "rush.tech.json": 1
@@ -544,7 +558,7 @@
         }
       },
       "titan.config.json": 6,
-      "valkyrie.config.json": 9,
+      "valkyrie.config.json": 6,
       "vanguard.config.json": 12,
       "vigilante.config.json": 7,
       "wraith.config.json": 11

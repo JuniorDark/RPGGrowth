@@ -505,6 +505,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/0/3/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use Spears or Shortswords to defeat enemies. Take damage from a 250-block high fall without dying to unlock immediately."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/0/4/unlockText",
         "/1/4/unlockText"
       ]
@@ -580,30 +591,6 @@
     "Texts": {
       "Eng": "Using a Dagger, Kunai, Shuriken, or War-Fan, defeat enemies while Agility is higher than 30.",
       "Por": "Usando um Chicote, Kunai, Shuriken ou Leque, derrote inimigos enquanto a Agilidade for maior que 30."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/0/3/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Valkryie",
-      "Por": "Valquíria"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/0/3/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Valkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies.",
-      "Por": "Valquírias são anjos com domínio sobre a vida que concedem poder ilimitado a aliados dignos. Fenomenal com lanças e Espadas Curtas, Valquírias usam seus poderes sagrados para planar graciosamente pelo campo de batalha, punindo inimigos."
     }
   },
   {
@@ -698,24 +685,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/5/0/unlockText"
+        "/0/3/description"
       ]
     },
     "Texts": {
-      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nDiscover new planets and use flags to bookmark old planets.",
-      "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nDescubra novos planetas e use bandeiras para marcar planetas antigos."
+      "Eng": "^red;Female Only^white;\nValkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/0/3/unlockText"
+        "/5/0/unlockText"
       ]
     },
     "Texts": {
-      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nUse Spears or Shortswords to defeat enemies or fall from 500 blocks high.",
-      "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nUse Lanças ou Espadas Curtas para derrotar inimigos ou caia de 500 blocos de altura."
+      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nDiscover new planets and use flags to bookmark old planets.",
+      "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nDescubra novos planetas e use bandeiras para marcar planetas antigos."
     }
   }
 ]

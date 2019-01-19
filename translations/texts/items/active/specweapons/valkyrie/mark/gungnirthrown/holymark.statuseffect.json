@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/valkyrie/mark/gungnirthrown/holymark.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holy Mark"
+    }
+  }
+]

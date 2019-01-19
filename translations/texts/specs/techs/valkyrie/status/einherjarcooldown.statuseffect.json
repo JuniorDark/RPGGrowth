@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/valkyrie/status/einherjarcooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Einherjar Cooldown"
+    }
+  }
+]

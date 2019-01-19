@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/valkyrie/odinsblessing/odinsblessing.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Odin's Blessing"
+    }
+  }
+]

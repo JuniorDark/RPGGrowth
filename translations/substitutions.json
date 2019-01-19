@@ -533,6 +533,7 @@
     "/0/0/title": "texts/shared_spec.json",
     "/0/1/description": "texts/wide_spread_fields.json",
     "/0/2/description": "texts/wide_spread_fields.json",
+    "/0/3/title": "texts/shared_spec.json",
     "/0/4/title": "texts/shared_spec.json",
     "/0/5/description": "texts/wide_spread_fields.json",
     "/0/6/description": "texts/wide_spread_fields.json",
@@ -687,6 +688,9 @@
   "specs/techs/valkyrie/einherjar.tech": {
     "/shortDescription": "texts/specs.json"
   },
+  "specs/techs/valkyrie/status/einherjar.statuseffect": {
+    "/label": "texts/specs.json"
+  },
   "specs/techs/vanguard/rush.tech": {
     "/shortDescription": "texts/specs.json"
   },
@@ -712,7 +716,8 @@
     "/effects/0/text": "texts/wide_spread_fields.json",
     "/effects/1/text": "texts/wide_spread_fields.json",
     "/effects/2/text": "texts/wide_spread_fields.json",
-    "/tech/title": "texts/specs.json"
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json"
   },
   "specs/vanguard.config": {
     "/effects/0/text": "texts/wide_spread_fields.json",
