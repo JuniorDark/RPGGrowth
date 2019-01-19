@@ -509,7 +509,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Use Spears or Shortswords to defeat enemies. Take damage from a 250-block high fall without dying to unlock immediately."
+      "Eng": "Use Spears or Shortswords to defeat enemies. Take damage from a 250-block high fall without dying to unlock immediately.",
+      "Por": "Use Lanças ou Espadas Curtas para derrotar inimigos. Leve dano de uma grande queda de 250 blocos sem morrer para destravar imediatamente."
     }
   },
   {
@@ -669,7 +670,7 @@
   },
   {
     "DeniedAlternatives": [
-      "^red;Apenas Personagem Feminino^white;\nApesar de ter uma Vida ligeiramente inferior\ne causar um pouco menos de Dano\n^#ffaafa;A Kunoichi\nGraciosamente Dança Entre Os\nEstalos De Seu War-Fan\n^white;silenciando quem ela quiser."
+      "^red;Apenas Personagem Feminino^white;Apesar de ter uma Vida ligeiramente inferiore causar um pouco menos de Dano^#ffaafa;A KunoichiGraciosamente Dança Entre OsEstalos De Seu War-Fan^white;silenciando quem ela quiser."
     ],
     "Files": {
       "specList.config": [
@@ -689,7 +690,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Female Only^white;\nValkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies."
+      "Eng": "^red;Female Only^white;\nValkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies.",
+      "Por": "^red;Apenas Personagem Feminino^white;\nValquírias são anjos com domínio sobre a vida que concedem poder ilimitado a aliados dignos. Fenomenal com lanças e espadas curtas, Valquírias usam seus poderes sagrados para planar graciosamente pelo campo de batalha, punindo inimigos."
     }
   },
   {
