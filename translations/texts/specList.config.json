@@ -44,7 +44,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Defeat enemies while wielding a Shortsword in one hand and a Grenade Launcher in the other."
+      "Eng": "Defeat enemies while wielding a Shortsword in one hand and a Grenade Launcher in the other.",
+      "Por": "Derrote inimigos enquanto estiver empunhando uma Espada Curta em uma mão e um Lança-granadas na outra."
     }
   },
   {
@@ -58,7 +59,7 @@
     },
     "Texts": {
       "Eng": "Defeat enemies while your current health is lower than 30% of your max health. Gain more progress the lower your Health.",
-      "Por": "Derrote inimigos enquanto sua vida atual estiver abaixo de 20% de sua vida máxima."
+      "Por": "Derrote inimigos enquanto sua vida atual estiver abaixo de 30% de sua vida máxima. Ganhe mais progresso quanto menor a sua Vida."
     }
   },
   {
@@ -99,7 +100,7 @@
     },
     "Texts": {
       "Eng": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly. Vanguards excel with Machine Pistols and often utilize melee weapons when they run out of energy.",
-      "Por": "Lute nas linhas de frente! Vanguardas são os primeiros a provar o derramamento de sangue, destacando-se em combates de curta distância, mas ruim com combates de longo alcance. Vanguardas são excelentes com Metralhadoras e costumam usar armas corpo a corpo quando ficam sem energia."
+      "Por": "Lute nas linhas de frente! Vanguardas são os primeiros a provar o derramamento de sangue, destacando-se em combates de curta distância, mas ruim com combates de longo alcance. Vanguardas são excelentes com Pistolas Automáticas e costumam usar armas corpo a corpo quando ficam sem energia."
     }
   },
   {
@@ -235,7 +236,7 @@
     },
     "Texts": {
       "Eng": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a One-handed Pistol or Machine Pistol with a Shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura.",
-      "Por": "Titãs são bastiões da linha de frente que ajudam a manter a linha firme com seu escudo. Sua arma de escolha é uma Pistola de Uma-Mão ou uma Metralhadora com um Escudo. Enquanto lutadores capazes em todas as distâncias, eles também inspiram aliados próximos com uma aura protetora."
+      "Por": "Titãs são bastiões da linha de frente que ajudam a manter a linha firme com seu escudo. Sua arma de escolha é uma Pistola de Uma-Mão ou uma Pistola Automática com um Escudo. Enquanto lutadores capazes em todas as distâncias, eles também inspiram aliados próximos com uma aura protetora."
     }
   },
   {
@@ -246,7 +247,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Use Spears or Shortswords to defeat enemies. Take damage from a 250-block high fall without dying to unlock immediately."
+      "Eng": "Use Spears or Shortswords to defeat enemies. Take damage from a 250-block high fall without dying to unlock immediately.",
+      "Por": "Use Lanças ou Espadas Curtas para derrotar inimigos. Tome dano de uma queda alta de 250 blocos sem morrer para destravar imediatamente."
     }
   },
   {
@@ -297,7 +299,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Use ranged weapons to defeat bandits, outlaws, cultists, and prisoners."
+      "Eng": "Use ranged weapons to defeat bandits, outlaws, cultists, and prisoners.",
+      "Por": "Use armas de longo alcance para derrotar bandidos, foras da lei, cultistas e prisioneiros."
     }
   },
   {
@@ -326,7 +329,7 @@
     },
     "Texts": {
       "Eng": "Using a Dagger, Kunai, Shuriken, or War-Fan, defeat enemies while Agility is higher than 30.",
-      "Por": "Usando um Chicote, Kunai, Shuriken ou Leque, derrote inimigos enquanto a Agilidade for maior que 30."
+      "Por": "Usando uma Adaga, Kunai, Shuriken ou Leque, derrote inimigos enquanto a Agilidade for maior que 30."
     }
   },
   {
@@ -368,7 +371,7 @@
   },
   {
     "DeniedAlternatives": [
-      "^red;Apenas Personagem Feminino^white;\nApesar de ter uma Vida ligeiramente inferior\ne causar um pouco menos de Dano\n^#ffaafa;A Kunoichi\nGraciosamente Dança Entre Os\nEstalos De Seu War-Fan\n^white;silenciando quem ela quiser."
+      "^red;Apenas Personagem Feminino^white;Apesar de ter uma Vida ligeiramente inferiore causar um pouco menos de Dano^#ffaafa;A KunoichiGraciosamente Dança Entre OsEstalos De Seu War-Fan^white;silenciando quem ela quiser."
     ],
     "Files": {
       "specList.config": [
@@ -388,7 +391,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Female Only^white;\nValkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies."
+      "Eng": "^red;Female Only^white;\nValkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies.",
+      "Por": "red;Apenas Personagem Feminino^white;\nValquírias são anjos com domínio sobre a vida que concedem poder ilimitado a aliados dignos. Fenomenal com lanças e espadas curtas, Valquírias usam seus poderes sagrados para planar graciosamente pelo campo de batalha, punindo inimigos."
     }
   },
   {
