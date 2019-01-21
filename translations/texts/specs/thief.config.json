@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Greedy Purge"
+      "Eng": "Greedy Purge",
+      "Por": "Greedy Purge"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Siphon Prime"
+      "Eng": "Siphon Prime",
+      "Por": "Siphon Prime"
     }
   }
 ]
