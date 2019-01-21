@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Heartbeat Sensor"
+      "Eng": "Heartbeat Sensor",
+      "Por": "Sensor de Batimentos Cardíacos"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Third Eye"
+      "Eng": "Third Eye",
+      "Por": "Terceiro Olho"
     }
   }
 ]
