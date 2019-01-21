@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#32ffb4;Outburst"
+      "Eng": "^#32ffb4;Outburst",
+      "Por": "^#32ffb4;Outburst"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;NOW THAT'S A LOT OF DAMAGE!"
+      "Eng": "^red;NOW THAT'S A LOT OF DAMAGE!",
+      "Por": "^red;ISSO QUE É UM MONTE DE DANO!"
     }
   }
 ]
