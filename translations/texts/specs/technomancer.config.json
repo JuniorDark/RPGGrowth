@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Elemental Overcharge"
+      "Eng": "Elemental Overcharge",
+      "Por": "Sobrecarga Elemental"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "OmniaThrower"
+      "Eng": "OmniaThrower",
+      "Por": "OmniaThrower"
     }
   }
 ]
