@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Entrapment"
+      "Eng": "Entrapment",
+      "Por": "Aprisionamento"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fear"
+      "Eng": "Fear",
+      "Por": "Medo"
     }
   }
 ]
