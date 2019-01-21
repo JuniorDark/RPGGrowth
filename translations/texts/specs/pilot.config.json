@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nanobot overcharge"
+      "Eng": "Nanobot overcharge",
+      "Por": "Sobrecarga de nanobot"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Pilot"
+      "Eng": "Pilot",
+      "Por": "Piloto"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "drunk transformer"
+      "Eng": "drunk transformer",
+      "Por": "drunk transformer"
     }
   }
 ]
