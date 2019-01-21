@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Battle Aura"
+      "Eng": "Battle Aura",
+      "Por": "Aura de Batalha"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Solstice"
+      "Eng": "Solstice",
+      "Por": "Solstício"
     }
   }
 ]
