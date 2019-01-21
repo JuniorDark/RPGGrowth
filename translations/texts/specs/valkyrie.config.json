@@ -43,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Base Power with Spears: Scales with Dex."
+      "Eng": "120% Base Power with Spears: Scales with Dex.",
+      "Por": "120% Força Base com Lanças: Escala com Destreza."
     }
   },
   {
@@ -90,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [F] to target the ally nearest your cursor, other than you, that is within your line of sight. This ally is granted Invulnerability and +150% Power for 5 seconds. Doing so costs 20% of your Max Health, instantly drains all energy, and prevents you from regenerating Energy. The cooldown after successfully using Einherjar is 30 seconds."
+      "Eng": "Press [F] to target the ally nearest your cursor, other than you, that is within your line of sight. This ally is granted Invulnerability and +150% Power for 5 seconds. Doing so costs 20% of your Max Health, instantly drains all energy, and prevents you from regenerating Energy. The cooldown after successfully using Einherjar is 30 seconds.",
+      "Por": "Pressione [F] para atingir o aliado mais próximo do seu cursor, que não seja você, dentro da sua linha de visão. Este aliado recebe Invulnerabilidade e +150% de Força por 5 segundos. Fazer isso custa 20% da sua Vida Máxima, drena instantaneamente toda a Energia e impede a regeneração de Energia. O tempo de recarga após usar com sucesso o Einherjar é de 30 segundos."
     }
   }
 ]
