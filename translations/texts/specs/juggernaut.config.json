@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Crushing Meteor"
+      "Eng": "Crushing Meteor",
+      "Por": "Meteoro Esmagador"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Limit Break"
+      "Eng": "Limit Break",
+      "Por": "Limit Break"
     }
   }
 ]
