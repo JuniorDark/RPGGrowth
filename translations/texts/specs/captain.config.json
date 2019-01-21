@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ally Stance"
+      "Eng": "Ally Stance",
+      "Por": "Postura Aliada"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Leader’s Rally"
+      "Eng": "Leader’s Rally",
+      "Por": "Reagrupamento do Líder"
     }
   }
 ]
