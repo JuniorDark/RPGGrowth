@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/samurai.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iaijutsu"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/samurai.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Samurai Heart"
+    }
+  }
+]

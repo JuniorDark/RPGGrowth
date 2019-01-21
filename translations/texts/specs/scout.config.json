@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/scout.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heartbeat Sensor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/scout.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Third Eye"
+    }
+  }
+]

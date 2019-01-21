@@ -55,8 +55,7 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Double Jump. Pressing [Space] fires a large cannonball that blasts through enemies and explodes on impact with blocks, dealing massive AoE damages. Launching this cannonball sends you flying, and it can be directionally launched forwards, backwards, downwards, and upwards using the movement keys [W,A,S,D].",
-      "Por": "Um aprimoramento para o Pulo Duplo. Pressionar [Espaço] dispara uma grande bala de canhão que explode através dos inimigos e explode no impacto com blocos, causando enorme dano em área. Ao lançar esta bala de canhão, você voa e pode ser direcionado para a frente, para trás, para baixo e para cima usando as teclas de movimento [W, A, S, D]."
+      "Eng": "An upgrade to Double Jump. Pressing [Shift] + [Space] fires a cannonball towards your cursor that blasts through enemies and explodes on impact with blocks. While aerial, pressing [Space] without [Shift] sends the cannonball flying downwards, in the opposite direction of your held horizontal movement key, allowing you to launch yourself twice. Damage scales with Dexterity. ^red;Grounded Fire Cooldown: 2.5 Seconds. Aerial Fire Cooldown: 0.5 Seconds."
     }
   },
   {
@@ -79,8 +78,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Landing a hit with a Shortsword grants 150% Power and +20 Energy/Second for two seconds as long as you have a Grenade Launcher in hand.",
-      "Por": "Causar um golpe com uma Espada Curta garante 150% Força e +20 Energia/Segundo por dois segundos, contanto que você tenha um Lança-granadas na mão."
+      "Eng": "Hits with a Shortsword - Grenade Launcher in hand - grant +50% Power, 10% Energy/Second, and ^green;explosive kills^white; for two seconds."
     }
   },
   {

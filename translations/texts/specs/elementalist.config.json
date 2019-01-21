@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/elementalist.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attune"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/elementalist.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eclipse"
+    }
+  }
+]

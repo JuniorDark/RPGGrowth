@@ -79,6 +79,9 @@
               }
             }
           },
+          "cannoneer": {
+            "outburst.activeitem.json": 2
+          },
           "crusader": {
             "oathkeeper.activeitem.json": 2
           },
@@ -432,13 +435,13 @@
       "shared_RPGskillbook..json": 1
     },
     "shared_soldier.json": 4,
-    "shared_spec.json": 13,
+    "shared_spec.json": 37,
     "shared_stun.json": 1,
     "shared_tech": {
       "shared_.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
-    "specList.config.json": 53,
+    "specList.config.json": 29,
     "specs": {
       "abilities": {
         "adept": {
@@ -487,16 +490,37 @@
         }
       },
       "adept.config.json": 7,
+      "battlemage.config.json": 2,
+      "berserker.config.json": 2,
+      "bountyhunter.config.json": 2,
       "cannoneer.config.json": 8,
+      "captain.config.json": 2,
+      "changeling.config.json": 2,
+      "cleric.config.json": 2,
+      "conquistador.config.json": 2,
       "crusader.config.json": 11,
+      "darktemplar.config.json": 2,
+      "deadshot.config.json": 2,
       "dragoon.config.json": 12,
+      "elementalist.config.json": 2,
+      "juggernaut.config.json": 2,
       "kunoichi.config.json": 10,
+      "mechanist.config.json": 2,
+      "mercenary.config.json": 2,
       "necromancer.config.json": 8,
       "necromancer.json": 1,
+      "operative.config.json": 2,
       "paladin.config.json": 8,
+      "pilot.config.json": 3,
       "pioneer.config.json": 5,
+      "saboteur.config.json": 2,
+      "samurai.config.json": 2,
+      "scout.config.json": 2,
+      "shade.config.json": 2,
       "shared_.config.json": 3,
       "shared_n.config.json": 1,
+      "stalker.config.json": 2,
+      "technomancer.config.json": 2,
       "techs": {
         "adept": {
           "flashstep.tech.json": 1
@@ -557,10 +581,14 @@
           "darkphase.tech.json": 1
         }
       },
+      "thief.config.json": 2,
       "titan.config.json": 6,
       "valkyrie.config.json": 8,
       "vanguard.config.json": 12,
       "vigilante.config.json": 7,
+      "vinetender.config.json": 2,
+      "wanderer.config.json": 2,
+      "warlock.config.json": 2,
       "wraith.config.json": 11
     },
     "specs.json": 13,

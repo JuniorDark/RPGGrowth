@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/juggernaut.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crushing Meteor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/juggernaut.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Limit Break"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/saboteur.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sarin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/saboteur.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shrapnel Mine"
+    }
+  }
+]

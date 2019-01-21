@@ -15,101 +15,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/1/1/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Battle Mage",
-      "Por": "Mago de Batalha"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/0/6/title",
-        "/4/6/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Berserker",
-      "Por": "Berserker"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
         "/4/0/description"
       ]
     },
     "Texts": {
       "Eng": "Blow'em away! Cannoneers are rogues that specialize in explosive weaponry. Normally utilizing Shortswords and Grenade Launchers, Cannoneers can get up close and personal to slice up enemies or stay back and blow them all to bits.",
       "Por": "Os Canhoneiros são ladinos especializados em armas explosivas. Normalmente, utilizando Espadas Curtas e Lançadores de Granadas, os Canhoneiros podem chegar perto para fatiar inimigos ou ficar de longe e explodi-los todos em pedaços."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/4/7/title",
-        "/5/7/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Bounty Hunter",
-      "Por": "Caçador de Recompensas"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/5/2/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Captain",
-      "Por": "Capitão"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/1/7/title",
-        "/2/7/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Changeling",
-      "Por": "Changeling"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/1/8/title",
-        "/5/8/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Cleric",
-      "Por": "Clérigo"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/0/5/title",
-        "/5/5/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Conquistador",
-      "Por": "Conquistador"
     }
   },
   {
@@ -129,37 +40,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/0/8/title",
-        "/2/8/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Dark Templar",
-      "Por": "Templário Negro"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/3/1/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Deadshot",
-      "Por": "Pistoleiro"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
         "/4/0/unlockText"
       ]
     },
     "Texts": {
-      "Eng": "Defeat enemies while dual-wielding Shortswords and Grenade Launchers.",
-      "Por": "Derrote inimigos enquanto empunha 2 Espadas Curtas e Lança-granadas ao mesmo tempo."
+      "Eng": "Defeat enemies while wielding a Shortsword in one hand and a Grenade Launcher in the other."
     }
   },
   {
@@ -203,18 +88,6 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/1/3/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Elementalist",
-      "Por": "Elementalista"
-    }
-  },
-  {
     "DeniedAlternatives": [
       "Lute nas linhas de frente! Vanguardas são os primeiros a provar o derramamento de sangue, destacando-se em combates de curta distância, mas ruim com combates de longo alcance. Vanguardas são excelentes com Machine Pistols e costumam usar armas corpo a corpo quando ficam sem energia."
     ],
@@ -245,62 +118,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/0/1/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Juggernaut",
-      "Por": "Juggernaut"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/3/0/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Mechanist",
-      "Por": "Mecanista"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/3/8/title",
-        "/4/8/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Mercenary",
-      "Por": "Mercenário"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
         "/1/0/description"
       ]
     },
     "Texts": {
       "Eng": "Necromancers fight using demonic magic and can raise the dead, and handle close-range combat much better than most Wizards. Because of their close attunement to death, Necromancers can efficiently wield scythes and daggers, and are often able to drain life from enemies to heal allies.",
       "Por": "Necromantes lutam usando magia demoníaca e podem ressuscitar os mortos, e lidam com combates a curta distância muito melhor do que a maioria dos Feiticeiros. Por causa de sua estreita sintonia com a morte, Necromantes podem eficientemente empunhar foices e adagas, e muitas vezes conseguem drenar a vida dos inimigos para curar aliados."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/2/5/title",
-        "/3/5/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Operative",
-      "Por": "Operativo"
     }
   },
   {
@@ -333,72 +156,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/4/1/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Saboteur",
-      "Por": "Sabotador"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/0/2/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Samurai",
-      "Por": "Samurai"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/5/1/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Scout",
-      "Por": "Sentinela"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
         "/5/0/description"
       ]
     },
     "Texts": {
       "Eng": "Searching new lands to discover hidden treasures, Pioneers are the first to colonize new planets. Able to quickly navigate colonized planets and claim new planets for themselves, Pioneers excel in blazing a trail through the galaxy.",
       "Por": "Procurando novas terras para descobrir tesouros escondidos, os pioneiros são os primeiros a colonizar novos planetas. Capazes de navegar rapidamente pelos planetas colonizados e reivindicar novos planetas para si próprios, os pioneiros são excelentes em abrir caminho através da galáxia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/2/0/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Shade",
-      "Por": "Shade"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/2/1/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Stalker",
-      "Por": "Perseguidor"
     }
   },
   {
@@ -462,32 +225,6 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/1/6/title",
-        "/3/6/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Technomancer",
-      "Por": "Technomancer"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/2/4/title",
-        "/4/4/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Thief",
-      "Por": "Ladrão"
-    }
-  },
-  {
     "DeniedAlternatives": [
       "Titãs são bastiões da linha de frente que ajudam a manter a linha firme com seu escudo. Sua arma de escolha é uma pistola de uma mão ou uma smg emparelhada com um escudo. Enquanto lutadores capazes em todas as distâncias, eles também inspiram aliados próximos com uma aura protetora."
     ],
@@ -509,8 +246,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Use Spears or Shortswords to defeat enemies. Take damage from a 250-block high fall without dying to unlock immediately.",
-      "Por": "Use Lanças ou Espadas Curtas para derrotar inimigos. Leve dano de uma grande queda de 250 blocos sem morrer para destravar imediatamente."
+      "Eng": "Use Spears or Shortswords to defeat enemies. Take damage from a 250-block high fall without dying to unlock immediately."
     }
   },
   {
@@ -561,8 +297,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Use ranged weapons to defeat bandits and outlaws.",
-      "Por": "Use armas de longo alcance para derrotar bandidos e foras da lei."
+      "Eng": "Use ranged weapons to defeat bandits, outlaws, cultists, and prisoners."
     }
   },
   {
@@ -610,49 +345,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
-        "/4/2/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Vinetender",
-      "Por": "Vinetender"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
         "/5/3/title"
       ]
     },
     "Texts": {
       "Eng": "Voyager",
       "Por": "Viajante"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/2/6/title",
-        "/5/6/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Wanderer",
-      "Por": "Andarilho"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/1/2/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Warlock",
-      "Por": "Bruxo"
     }
   },
   {
@@ -670,7 +368,7 @@
   },
   {
     "DeniedAlternatives": [
-      "^red;Apenas Personagem Feminino^white;Apesar de ter uma Vida ligeiramente inferiore causar um pouco menos de Dano^#ffaafa;A KunoichiGraciosamente Dança Entre OsEstalos De Seu War-Fan^white;silenciando quem ela quiser."
+      "^red;Apenas Personagem Feminino^white;\nApesar de ter uma Vida ligeiramente inferior\ne causar um pouco menos de Dano\n^#ffaafa;A Kunoichi\nGraciosamente Dança Entre Os\nEstalos De Seu War-Fan\n^white;silenciando quem ela quiser."
     ],
     "Files": {
       "specList.config": [
@@ -690,8 +388,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Female Only^white;\nValkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies.",
-      "Por": "^red;Apenas Personagem Feminino^white;\nValquírias são anjos com domínio sobre a vida que concedem poder ilimitado a aliados dignos. Fenomenal com lanças e espadas curtas, Valquírias usam seus poderes sagrados para planar graciosamente pelo campo de batalha, punindo inimigos."
+      "Eng": "^red;Female Only^white;\nValkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies."
     }
   },
   {

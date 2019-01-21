@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/technomancer.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elemental Overcharge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/technomancer.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "OmniaThrower"
+    }
+  }
+]

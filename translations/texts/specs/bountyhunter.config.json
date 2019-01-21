@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/bountyhunter.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dead Or Alive"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/bountyhunter.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Headhunter"
+    }
+  }
+]

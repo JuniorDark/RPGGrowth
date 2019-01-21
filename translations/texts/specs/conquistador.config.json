@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/conquistador.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arquebus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/conquistador.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Cavalrys Here"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/mechanist.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ex Mechina"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/mechanist.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "NAME"
+    }
+  }
+]

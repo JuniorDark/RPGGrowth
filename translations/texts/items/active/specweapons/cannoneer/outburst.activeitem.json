@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/cannoneer/outburst.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#32ffb4;Outburst"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/cannoneer/outburst.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;NOW THAT'S A LOT OF DAMAGE!"
+    }
+  }
+]

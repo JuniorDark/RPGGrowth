@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/shade.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hidden Dragon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/shade.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quasar"
+    }
+  }
+]

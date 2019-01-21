@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/berserker.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Berserk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/berserker.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Murderstick"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cleric.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holy Nova"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cleric.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scripture"
+    }
+  }
+]

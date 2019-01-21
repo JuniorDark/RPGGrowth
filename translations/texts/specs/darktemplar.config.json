@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abounding Darkness"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heartless"
+    }
+  }
+]

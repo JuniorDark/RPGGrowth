@@ -79,6 +79,9 @@
               }
             }
           },
+          "cannoneer": {
+            "outburst.activeitem.json": 0
+          },
           "crusader": {
             "oathkeeper.activeitem.json": 2
           },
@@ -101,14 +104,14 @@
             "epimetheus.activeitem.json": 2
           },
           "valkyrie": {
-            "gungnir.activeitem.json": 2,
+            "gungnir.activeitem.json": 0,
             "mark": {
               "gungnirthrown": {
-                "holymark.statuseffect.json": 1
+                "holymark.statuseffect.json": 0
               }
             },
             "odinsblessing": {
-              "odinsblessing.statuseffect.json": 1
+              "odinsblessing.statuseffect.json": 0
             }
           },
           "vanguard": {
@@ -432,13 +435,13 @@
       "shared_RPGskillbook..json": 1
     },
     "shared_soldier.json": 4,
-    "shared_spec.json": 13,
+    "shared_spec.json": 37,
     "shared_stun.json": 1,
     "shared_tech": {
       "shared_.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
-    "specList.config.json": 53,
+    "specList.config.json": 25,
     "specs": {
       "abilities": {
         "adept": {
@@ -487,16 +490,37 @@
         }
       },
       "adept.config.json": 7,
-      "cannoneer.config.json": 8,
+      "battlemage.config.json": 0,
+      "berserker.config.json": 0,
+      "bountyhunter.config.json": 0,
+      "cannoneer.config.json": 6,
+      "captain.config.json": 0,
+      "changeling.config.json": 0,
+      "cleric.config.json": 0,
+      "conquistador.config.json": 0,
       "crusader.config.json": 11,
-      "dragoon.config.json": 12,
+      "darktemplar.config.json": 0,
+      "deadshot.config.json": 0,
+      "dragoon.config.json": 11,
+      "elementalist.config.json": 0,
+      "juggernaut.config.json": 0,
       "kunoichi.config.json": 10,
+      "mechanist.config.json": 0,
+      "mercenary.config.json": 0,
       "necromancer.config.json": 8,
       "necromancer.json": 1,
+      "operative.config.json": 0,
       "paladin.config.json": 8,
+      "pilot.config.json": 0,
       "pioneer.config.json": 5,
+      "saboteur.config.json": 0,
+      "samurai.config.json": 0,
+      "scout.config.json": 0,
+      "shade.config.json": 0,
       "shared_.config.json": 3,
       "shared_n.config.json": 1,
+      "stalker.config.json": 0,
+      "technomancer.config.json": 0,
       "techs": {
         "adept": {
           "flashstep.tech.json": 1
@@ -543,7 +567,7 @@
         "valkyrie": {
           "einherjar.tech.json": 1,
           "status": {
-            "einherjarcooldown.statuseffect.json": 1
+            "einherjarcooldown.statuseffect.json": 0
           }
         },
         "vanguard": {
@@ -557,10 +581,14 @@
           "darkphase.tech.json": 1
         }
       },
+      "thief.config.json": 0,
       "titan.config.json": 6,
-      "valkyrie.config.json": 8,
+      "valkyrie.config.json": 6,
       "vanguard.config.json": 12,
       "vigilante.config.json": 7,
+      "vinetender.config.json": 0,
+      "wanderer.config.json": 0,
+      "warlock.config.json": 0,
       "wraith.config.json": 11
     },
     "specs.json": 13,

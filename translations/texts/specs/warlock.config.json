@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/warlock.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "NovStep"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/warlock.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Orbital"
+    }
+  }
+]

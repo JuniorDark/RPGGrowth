@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "N_A"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shapeshift"
+    }
+  }
+]

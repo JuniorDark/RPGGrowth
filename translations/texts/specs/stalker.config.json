@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/stalker.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Entrapment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/stalker.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fear"
+    }
+  }
+]

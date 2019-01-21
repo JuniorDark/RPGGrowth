@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/deadshot.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ideal Shot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/deadshot.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lotus"
+    }
+  }
+]

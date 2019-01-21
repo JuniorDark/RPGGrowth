@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/mercenary.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Make it Rain"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/mercenary.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shredder"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/wanderer.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomadic Soul"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/wanderer.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soliloquy"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/operative.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Breathless"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/operative.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "EMP Sphere"
+    }
+  }
+]

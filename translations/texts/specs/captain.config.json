@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ally Stance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leader’s Rally"
+    }
+  }
+]

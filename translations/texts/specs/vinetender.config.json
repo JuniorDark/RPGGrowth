@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vinetender.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chrysantha"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/vinetender.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peaceful Aura"
+    }
+  }
+]

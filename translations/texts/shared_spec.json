@@ -18,6 +18,53 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/1/1/title"
+      ],
+      "specs/battlemage.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battle Mage",
+      "Por": "Mago de Batalha"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/6/title",
+        "/4/6/title"
+      ],
+      "specs/berserker.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Berserker",
+      "Por": "Berserker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/7/title",
+        "/5/7/title"
+      ],
+      "specs/bountyhunter.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bounty Hunter",
+      "Por": "Caçador de Recompensas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/4/0/title"
       ],
       "specs/cannoneer.config": [
@@ -27,6 +74,69 @@
     "Texts": {
       "Eng": "Cannoneer",
       "Por": "Artilheiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/2/title"
+      ],
+      "specs/captain.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captain",
+      "Por": "Capitão"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/7/title",
+        "/2/7/title"
+      ],
+      "specs/changeling.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Changeling",
+      "Por": "Changeling"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/8/title",
+        "/5/8/title"
+      ],
+      "specs/cleric.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cleric",
+      "Por": "Clérigo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/5/title",
+        "/5/5/title"
+      ],
+      "specs/conquistador.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Conquistador",
+      "Por": "Conquistador"
     }
   },
   {
@@ -43,6 +153,37 @@
     "Texts": {
       "Eng": "Crusader",
       "Por": "Cruzado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/8/title",
+        "/2/8/title"
+      ],
+      "specs/darktemplar.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Templar",
+      "Por": "Templário Negro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/1/title"
+      ],
+      "specs/deadshot.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deadshot",
+      "Por": "Pistoleiro"
     }
   },
   {
@@ -67,6 +208,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/1/3/title"
+      ],
+      "specs/elementalist.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elementalist",
+      "Por": "Elementalista"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/1/title"
+      ],
+      "specs/juggernaut.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Juggernaut",
+      "Por": "Juggernaut"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/2/2/title"
       ],
       "specs/kunoichi.config": [
@@ -82,6 +253,37 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/3/0/title"
+      ],
+      "specs/mechanist.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mechanist",
+      "Por": "Mecanista"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/8/title",
+        "/4/8/title"
+      ],
+      "specs/mercenary.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mercenary",
+      "Por": "Mercenário"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/1/0/title"
       ],
       "specs/necromancer.config": [
@@ -91,6 +293,22 @@
     "Texts": {
       "Eng": "Necromancer",
       "Por": "Necromante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/5/title",
+        "/3/5/title"
+      ],
+      "specs/operative.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Operative",
+      "Por": "Operativo"
     }
   },
   {
@@ -121,6 +339,113 @@
     "Texts": {
       "Eng": "Pioneer",
       "Por": "Pioneiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/1/title"
+      ],
+      "specs/saboteur.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Saboteur",
+      "Por": "Sabotador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/2/title"
+      ],
+      "specs/samurai.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Samurai",
+      "Por": "Samurai"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/1/title"
+      ],
+      "specs/scout.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scout",
+      "Por": "Sentinela"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/0/title"
+      ],
+      "specs/shade.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shade",
+      "Por": "Shade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/1/title"
+      ],
+      "specs/stalker.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stalker",
+      "Por": "Perseguidor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/6/title",
+        "/3/6/title"
+      ],
+      "specs/technomancer.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Technomancer",
+      "Por": "Technomancer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/4/title",
+        "/4/4/title"
+      ],
+      "specs/thief.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thief",
+      "Por": "Ladrão"
     }
   },
   {
@@ -182,6 +507,52 @@
     "Texts": {
       "Eng": "Vigilante",
       "Por": "Vigilante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/2/title"
+      ],
+      "specs/vinetender.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vinetender",
+      "Por": "Vinetender"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/6/title",
+        "/5/6/title"
+      ],
+      "specs/wanderer.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanderer",
+      "Por": "Andarilho"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/2/title"
+      ],
+      "specs/warlock.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warlock",
+      "Por": "Bruxo"
     }
   },
   {

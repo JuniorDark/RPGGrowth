@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/thief.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greedy Purge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/thief.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Siphon Prime"
+    }
+  }
+]

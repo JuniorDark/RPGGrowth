@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/battlemage.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battle Aura"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/battlemage.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solstice"
+    }
+  }
+]

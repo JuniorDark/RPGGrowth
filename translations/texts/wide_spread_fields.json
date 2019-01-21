@@ -47,8 +47,283 @@
         "/5/7/description",
         "/5/8/description"
       ],
+      "specs/battlemage.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/berserker.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/bountyhunter.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/captain.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/changeling.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/cleric.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/conquistador.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/darktemplar.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/deadshot.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/elementalist.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/juggernaut.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/mechanist.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/mercenary.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/operative.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/pilot.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
       "specs/pioneer.config": [
         "/classic/0/text"
+      ],
+      "specs/saboteur.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/samurai.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/scout.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/shade.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/stalker.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/technomancer.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/thief.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/vinetender.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/wanderer.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
+      ],
+      "specs/warlock.config": [
+        "/ability/text",
+        "/classic/0/text",
+        "/classic/1/text",
+        "/classic/2/text",
+        "/effects/0/text",
+        "/effects/1/text",
+        "/effects/2/text",
+        "/effects/3/text",
+        "/tech/text"
       ]
     },
     "Texts": {
