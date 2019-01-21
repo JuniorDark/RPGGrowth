@@ -107,7 +107,7 @@
             "gungnir.activeitem.json": 2,
             "mark": {
               "gungnirthrown": {
-                "holymark.statuseffect.json": 0
+                "holymark.statuseffect.json": 1
               }
             },
             "odinsblessing": {
