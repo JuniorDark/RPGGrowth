@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "N_A"
+      "Eng": "N_A",
+      "Por": "N_A"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Shapeshift"
+      "Eng": "Shapeshift",
+      "Por": "Mudança de Forma"
     }
   }
 ]
