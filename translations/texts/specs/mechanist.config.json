@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ex Mechina"
+      "Eng": "Ex Mechina",
+      "Por": "Ex Mechina"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "NAME"
+      "Eng": "NAME",
+      "Por": "NOME"
     }
   }
 ]
