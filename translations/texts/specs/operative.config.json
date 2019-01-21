@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Breathless"
+      "Eng": "Breathless",
+      "Por": "Sem Fôlego"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "EMP Sphere"
+      "Eng": "EMP Sphere",
+      "Por": "Esfera EMP"
     }
   }
 ]
