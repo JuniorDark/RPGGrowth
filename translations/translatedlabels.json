@@ -104,7 +104,7 @@
             "epimetheus.activeitem.json": 2
           },
           "valkyrie": {
-            "gungnir.activeitem.json": 0,
+            "gungnir.activeitem.json": 2,
             "mark": {
               "gungnirthrown": {
                 "holymark.statuseffect.json": 0
