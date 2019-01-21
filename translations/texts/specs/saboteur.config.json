@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sarin"
+      "Eng": "Sarin",
+      "Por": "Sarin"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Shrapnel Mine"
+      "Eng": "Shrapnel Mine",
+      "Por": "Mina de Estilhaços"
     }
   }
 ]
