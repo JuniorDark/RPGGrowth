@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "120% Base Power With Rocket Launchers.",
-      "Por": "120% Força Base com Lançadores de Foguetes."
+      "Por": "120% Força Base com Lança-foguetes."
     }
   },
   {
@@ -55,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Double Jump. Pressing [Shift] + [Space] fires a cannonball towards your cursor that blasts through enemies and explodes on impact with blocks. While aerial, pressing [Space] without [Shift] sends the cannonball flying downwards, in the opposite direction of your held horizontal movement key, allowing you to launch yourself twice. Damage scales with Dexterity. ^red;Grounded Fire Cooldown: 2.5 Seconds. Aerial Fire Cooldown: 0.5 Seconds."
+      "Eng": "An upgrade to Double Jump. Pressing [Shift] + [Space] fires a cannonball towards your cursor that blasts through enemies and explodes on impact with blocks. While aerial, pressing [Space] without [Shift] sends the cannonball flying downwards, in the opposite direction of your held horizontal movement key, allowing you to launch yourself twice. Damage scales with Dexterity. ^red;Grounded Fire Cooldown: 2.5 Seconds. Aerial Fire Cooldown: 0.5 Seconds.",
+      "Por": "Um aprimoramento para o Pulo Duplo. Pressionar [Shift] + [Espaço] dispara uma bala de canhão em direção ao seu cursor, que explode através dos inimigos e explode no impacto com blocos. Enquanto no ar, pressionar [Espaço] sem [Shift] envia a bala de canhão para baixo, na direção oposta à tecla de movimento horizontal, permitindo que você se lance duas vezes. Dano escala com Destreza. ^red;Fogo Aterrado Recarga: 2,5 Segundos. Recarga do Fogo Aéreo: 0.5 Segundos."
     }
   },
   {
@@ -67,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Can Wield Rocket Launchers.",
-      "Por": "Pode Empunhar Lançadores de Foguetes."
+      "Por": "Pode Empunhar Lança-foguetes."
     }
   },
   {
@@ -78,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hits with a Shortsword - Grenade Launcher in hand - grant +50% Power, 10% Energy/Second, and ^green;explosive kills^white; for two seconds."
+      "Eng": "Hits with a Shortsword - Grenade Launcher in hand - grant +50% Power, 10% Energy/Second, and ^green;explosive kills^white; for two seconds.",
+      "Por": "Golpes com uma Espada Curta - Lança-granadas em mão - concede +50% Força, 10% Energia/Segundo, e ^green;mortes explosivas^white; por dois segundos."
     }
   },
   {
