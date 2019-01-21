@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Arquebus"
+      "Eng": "Arquebus",
+      "Por": "Arcabuz"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Cavalrys Here"
+      "Eng": "The Cavalrys Here",
+      "Por": "A Cavalaria Chegou"
     }
   }
 ]
