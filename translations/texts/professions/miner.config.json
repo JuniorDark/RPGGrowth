@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner.config": [
+        "/effects/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+20% Fire Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can use Two-Handed Melee Weapons"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner.config": [
+        "/passive/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Provide a glow underground that brightens and changes color when nearing ores in a 10 block radius. However, as your Energy / Max Energy ratio decreases, the glow weakens. The glow will match the color of the rarest nearby ore!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner.config": [
+        "/crafting/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Miner Station allows you to smelt ore with greater yield, create alloys, and craft pickaxes!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "While Deep Underground, gain +10 Armor, +10% Physical Resistance, and 0.8x Fall Damage Multiplier."
+    }
+  }
+]

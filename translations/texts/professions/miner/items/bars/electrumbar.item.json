@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/bars/electrumbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A super-energetic alloy made from Silver and Gold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/bars/electrumbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electrum Bar"
+    }
+  }
+]

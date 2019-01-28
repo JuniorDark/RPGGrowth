@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/miningtools/electrumpickaxe.miningtool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electrum Pickaxe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/miningtools/electrumpickaxe.miningtool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tool mines like a Silver Pickaxe, but lasts thrice as long."
+    }
+  }
+]

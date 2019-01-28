@@ -1,0 +1,112 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/professionDescriptions.config": [
+        "/alchemist/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Alchemist provides allies with unique statuses and inflicts dangerous ailments on enemies. It provides access to craftable, throwable potions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/professionDescriptions.config": [
+        "/bard/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Bard plays music to support allies with increased resistance. It provides access to craftable instruments."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/professionDescriptions.config": [
+        "/botanist/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Botanist grows herbs and gently tends to fields with great efficiency. It provides access to craftable seeds and better farming capabilities."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/professionDescriptions.config": [
+        "/chef/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Chef cooks wonderful delicacies to keep hunger satiated and give various bonuses. It provides access to cheap, craftable unique foods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/professionDescriptions.config": [
+        "/engineer/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Engineer tinkers to create awesome mechanisms and buildings. It provides access to cheap, craftable electronics and scientific components."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/professionDescriptions.config": [
+        "/jeweler/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Jeweler forms beautiful accessories that augment players with unique effects. It provides access to craftable Augments and Collars."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/professionDescriptions.config": [
+        "/medic/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Medic supports their allies with passive healing. It provides access to cheap, craftable medical supplies, such as bandages and salve."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/professionDescriptions.config": [
+        "/miner/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Miner digs deep without fear, lighting up the darkness to find ores. It provides access to better ore conversion, enabling better resource usage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/professionDescriptions.config": [
+        "/smith/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Smith toils away to make dangerous weapons and strong armor. It provides access to cheap, craftable weapons and armor, as well as the items required to make them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/professionDescriptions.config": [
+        "/tamer/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Tamer easily tames monsters and heals tamed creatures on the go. It provides access to cheap, craftable Capture Pods, as well as Advanced Capture Pods."
+    }
+  }
+]

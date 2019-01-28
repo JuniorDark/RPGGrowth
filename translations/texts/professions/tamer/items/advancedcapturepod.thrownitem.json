@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/items/advancedcapturepod.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Advanced Capture Pod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/items/advancedcapturepod.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Capture Pod automatically seeks enemies until it hits a block."
+    }
+  }
+]

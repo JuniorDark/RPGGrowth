@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Medic's Crafting Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Only experienced Medics know what to do with these tools!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Craft"
+    }
+  }
+]

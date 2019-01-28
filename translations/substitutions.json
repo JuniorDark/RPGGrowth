@@ -54,6 +54,7 @@
     "/default/text": "texts/wide_spread_fields.json"
   },
   "classes/default.config": {
+    "/classic/0/text": "texts/default.config.json",
     "/title": "texts/wide_spread_fields.json"
   },
   "classes/explorer.config": {
@@ -140,6 +141,12 @@
     "/gui/masterylayout/children/masterypoints/value": "texts/wide_spread_fields.json",
     "/gui/overviewlayout/children/affinitytitle/value": "texts/wide_spread_fields.json",
     "/gui/overviewlayout/children/classtitle/value": "texts/wide_spread_fields.json",
+    "/gui/professionslayout/children/engineertitle/value": "texts/wide_spread_fields.json",
+    "/gui/professionslayout/children/medictitle/value": "texts/wide_spread_fields.json",
+    "/gui/professionslayout/children/minertitle/value": "texts/wide_spread_fields.json",
+    "/gui/professionslayout/children/pixelamount/value": "texts/wide_spread_fields.json",
+    "/gui/professionslayout/children/professiondescription/value": "texts/wide_spread_fields.json",
+    "/gui/professionslayout/children/tamertitle/value": "texts/wide_spread_fields.json",
     "/gui/specializationslayout/children/desctext/value": "texts/wide_spread_fields.json",
     "/gui/specializationslayout/children/desctitle/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/agilityamount/value": "texts/wide_spread_fields.json",
@@ -413,7 +420,11 @@
     "/label": "texts/wide_spread_fields.json"
   },
   "objects/mastery/shop/ivrpgmasteryshop.config": {
-    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json"
+    "/paneLayout/btnStopCraft/caption": "texts/wide_spread_fields.json",
+    "/paneLayout/filter/hint": "texts/wide_spread_fields.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/wide_spread_fields.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json",
+    "/paneLayout/tbSpinCount/regex": "texts/wide_spread_fields.json"
   },
   "objects/skillbook/RPGskillbook.activeitem": {
     "/shortdescription": "texts/shared_skillbook/shared_RPGskillbook..json"
@@ -481,6 +492,104 @@
   },
   "particles/damagenumbers/novadamagenumberweak.particle": {
     "/definition/text": "texts/particles/damagenumbers/shared_damagenumber.json"
+  },
+  "professions/default.config": {
+    "/classic/0/text": "texts/default.config.json"
+  },
+  "professions/engineer.config": {
+    "/scaling/0/text": "texts/wide_spread_fields.json",
+    "/scaling/1/text": "texts/wide_spread_fields.json",
+    "/title": "texts/wide_spread_fields.json"
+  },
+  "professions/engineer/ivrpgengineerstation.config": {
+    "/paneLayout/btnCraft/caption": "texts/professions/shared_erstation.config.json",
+    "/paneLayout/btnStopCraft/caption": "texts/wide_spread_fields.json",
+    "/paneLayout/filter/hint": "texts/wide_spread_fields.json",
+    "/paneLayout/lblProduct/value": "texts/professions/shared_station.config.json",
+    "/paneLayout/lblProducttitle/value": "texts/professions/shared_station.config.json",
+    "/paneLayout/lblSchematics/value": "texts/professions/shared_station.config.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/wide_spread_fields.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json",
+    "/paneLayout/tbSpinCount/regex": "texts/wide_spread_fields.json"
+  },
+  "professions/engineer/status/ivrpgengineerstatus.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
+  },
+  "professions/ivrpgfakeui.config": {
+    "/paneLayout/filter/hint": "texts/wide_spread_fields.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json",
+    "/paneLayout/tbSpinCount/regex": "texts/wide_spread_fields.json"
+  },
+  "professions/medic.config": {
+    "/classic/0/text": "texts/wide_spread_fields.json",
+    "/scaling/0/text": "texts/wide_spread_fields.json",
+    "/scaling/1/text": "texts/wide_spread_fields.json",
+    "/title": "texts/wide_spread_fields.json"
+  },
+  "professions/medic/ivrpgmedicstation.config": {
+    "/paneLayout/btnStopCraft/caption": "texts/wide_spread_fields.json",
+    "/paneLayout/filter/hint": "texts/wide_spread_fields.json",
+    "/paneLayout/lblProduct/value": "texts/professions/shared_station.config.json",
+    "/paneLayout/lblProducttitle/value": "texts/professions/shared_station.config.json",
+    "/paneLayout/lblSchematics/value": "texts/professions/shared_station.config.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/wide_spread_fields.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json",
+    "/paneLayout/tbSpinCount/regex": "texts/wide_spread_fields.json"
+  },
+  "professions/medic/status/ivrpgmedicstatus.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
+  },
+  "professions/miner.config": {
+    "/scaling/0/text": "texts/wide_spread_fields.json",
+    "/scaling/1/text": "texts/wide_spread_fields.json",
+    "/title": "texts/wide_spread_fields.json"
+  },
+  "professions/miner/ivrpgminerstation.config": {
+    "/paneLayout/btnStopCraft/caption": "texts/wide_spread_fields.json",
+    "/paneLayout/filter/hint": "texts/wide_spread_fields.json",
+    "/paneLayout/lblProduct/value": "texts/professions/shared_station.config.json",
+    "/paneLayout/lblProducttitle/value": "texts/professions/shared_station.config.json",
+    "/paneLayout/lblSchematics/value": "texts/professions/shared_station.config.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/wide_spread_fields.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json",
+    "/paneLayout/tbSpinCount/regex": "texts/wide_spread_fields.json"
+  },
+  "professions/miner/status/ivrpgminerstatus.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
+  },
+  "professions/professionDescriptions.config": {
+    "/default/text": "texts/wide_spread_fields.json"
+  },
+  "professions/tamer.config": {
+    "/scaling/0/text": "texts/wide_spread_fields.json",
+    "/scaling/1/text": "texts/wide_spread_fields.json",
+    "/title": "texts/wide_spread_fields.json"
+  },
+  "professions/tamer/ivrpgtamerstation.config": {
+    "/paneLayout/btnCraft/caption": "texts/professions/shared_erstation.config.json",
+    "/paneLayout/btnStopCraft/caption": "texts/wide_spread_fields.json",
+    "/paneLayout/filter/hint": "texts/wide_spread_fields.json",
+    "/paneLayout/lblProduct/value": "texts/professions/shared_station.config.json",
+    "/paneLayout/lblProducttitle/value": "texts/professions/shared_station.config.json",
+    "/paneLayout/lblSchematics/value": "texts/professions/shared_station.config.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/wide_spread_fields.json",
+    "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json",
+    "/paneLayout/tbSpinCount/regex": "texts/wide_spread_fields.json"
+  },
+  "professions/tamer/status/ivrpgtamerstatus.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
+  },
+  "professions/tamer/status/regen/ivrpgtamermonsterregen.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
+  },
+  "professions/tamer/status/regen/ivrpgtamermonsterregenarmor.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
+  },
+  "professions/tamer/status/regen/ivrpgtamermonsterregendamage.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
+  },
+  "professions/tamer/status/regen/ivrpgtamermonsterregenhealth.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
   },
   "quests/aegisquest2.questtemplate": {
     "/text": "texts/quests/shared_quest2.questtemplate.json",

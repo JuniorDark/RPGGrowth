@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/bars/platinumbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alloy made from Durasteel and Titanium that behaves quite like platinum."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/bars/platinumbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "D-Platinum Bar"
+    }
+  }
+]

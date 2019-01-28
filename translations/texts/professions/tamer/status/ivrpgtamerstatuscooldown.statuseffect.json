@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/status/ivrpgtamerstatuscooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tamer's Feeding Cooldown"
+    }
+  }
+]

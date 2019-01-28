@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Critical. Even though this table looks uninviting, it is able to accomodate for most monsters."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can see sstains from meat and bonesss. Ssadly, meat is for monssters."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was never into whip-play. Well... maybe a bit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wouldn't want to be in that cage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It might look a bit scary at first, but a Tamer treats their pets right.\nDesigned by JM401!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that there's a sturdy lookin' whip!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tamer Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The cage is a bit unpleasant, but overall a solid table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table just doesn't meet my standards, but it will have to do."
+    }
+  }
+]

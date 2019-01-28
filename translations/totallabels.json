@@ -14,7 +14,6 @@
     },
     "classes": {
       "classDescriptions.config.json": 6,
-      "default.config.json": 1,
       "explorer.config.json": 10,
       "knight.config.json": 10,
       "ninja.config.json": 12,
@@ -23,9 +22,10 @@
       "soldier.config.json": 11,
       "wizard.config.json": 14
     },
+    "default.config.json": 1,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 95
+        "RPGskillbook.config.json": 110
       }
     },
     "items": {
@@ -99,6 +99,9 @@
             "judgement": {
               "ivrpgjudgement.statuseffect.json": 1
             }
+          },
+          "pioneer": {
+            "nautilus.activeitem.json": 2
           },
           "titan": {
             "epimetheus.activeitem.json": 2
@@ -341,6 +344,7 @@
       "mastery": {
         "masterypoint.currency.json": 2,
         "shop": {
+          "ivrpgmasteryshop.config.json": 6,
           "masteryshop.object.json": 9
         }
       },
@@ -362,6 +366,69 @@
       "damagenumbers": {
         "shared_damagenumber.json": 1
       }
+    },
+    "professions": {
+      "default.config.json": 1,
+      "engineer": {
+        "items": {
+          "acidsample.item.json": 2,
+          "electromagnet.item.json": 2,
+          "gear.item.json": 2,
+          "magmasample.item.json": 2,
+          "motor.item.json": 2,
+          "spowercell.item.json": 2
+        },
+        "ivrpgengineerstation.config.json": 2,
+        "ivrpgengineerstation.object.json": 9,
+        "status": {
+          "ivrpgengineerenergy.statuseffect.json": 1,
+          "ivrpgengineerstatuscooldown.statuseffect.json": 1
+        }
+      },
+      "engineer.config.json": 6,
+      "medic": {
+        "ivrpgmedicstation.config.json": 3,
+        "ivrpgmedicstation.object.json": 9,
+        "status": {
+          "ivrpgmedicregeneration.statuseffect.json": 1
+        }
+      },
+      "medic.config.json": 5,
+      "miner": {
+        "items": {
+          "bars": {
+            "billoncoin.item.json": 2,
+            "electrumbar.item.json": 2,
+            "platinumbar.item.json": 2,
+            "steelbar.item.json": 2
+          },
+          "miningtools": {
+            "electrumpickaxe.miningtool.json": 2,
+            "steelpickaxe.miningtool.json": 2
+          }
+        },
+        "ivrpgminerstation.config.json": 3,
+        "ivrpgminerstation.object.json": 9
+      },
+      "miner.config.json": 5,
+      "professionDescriptions.config.json": 10,
+      "shared_erstation.config.json": 1,
+      "shared_station.config.json": 3,
+      "tamer": {
+        "items": {
+          "advancedcapturepod.thrownitem.json": 2,
+          "meatcrunch.consumable.json": 2,
+          "tripletreat.consumable.json": 2,
+          "veggiemix.consumable.json": 2
+        },
+        "ivrpgtamerstation.config.json": 2,
+        "ivrpgtamerstation.object.json": 9,
+        "status": {
+          "ivrpgtamermonsterstatus.statuseffect.json": 1,
+          "ivrpgtamerstatuscooldown.statuseffect.json": 1
+        }
+      },
+      "tamer.config.json": 6
     },
     "projectiles": {
       "grenades": {
@@ -722,7 +789,6 @@
           "wizardtranslocate.tech.json": 1
         }
       }
-    },
-    "wide_spread_fields.json": 68
+    }
   }
 }

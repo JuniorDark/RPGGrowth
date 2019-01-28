@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/items/magmasample.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sample of magma used to melt ingredients."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/items/magmasample.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magma Sample"
+    }
+  }
+]

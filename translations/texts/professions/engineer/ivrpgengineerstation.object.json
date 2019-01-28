@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bit cluttered, sure, but an Engineer always gets the job done.\nDesigned by JM401!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table perfect for crafting electronic devices."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Engineer Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joyful. If I can learn how to use these tools, this table should be very useful to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Messssy table not good for cutting open monssters."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now these are tools ye' can use to make some pretty cool contraptions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table isn't very traditional, but I suppose some good can come from it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table kinda reminds of those typical engineering desks. I guess cause it is one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table seems too cluttered to be of much use."
+    }
+  }
+]

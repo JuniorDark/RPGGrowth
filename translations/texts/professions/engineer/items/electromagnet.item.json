@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/items/electromagnet.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A magnet made from iron, copper wire, and come good ol' batteries."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/items/electromagnet.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electromagnet"
+    }
+  }
+]

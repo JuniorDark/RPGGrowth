@@ -14,7 +14,6 @@
     },
     "classes": {
       "classDescriptions.config.json": 6,
-      "default.config.json": 1,
       "explorer.config.json": 10,
       "knight.config.json": 10,
       "ninja.config.json": 12,
@@ -23,9 +22,10 @@
       "soldier.config.json": 11,
       "wizard.config.json": 14
     },
+    "default.config.json": 1,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 95
+        "RPGskillbook.config.json": 93
       }
     },
     "items": {
@@ -80,7 +80,7 @@
             }
           },
           "cannoneer": {
-            "outburst.activeitem.json": 2
+            "outburst.activeitem.json": 1
           },
           "crusader": {
             "oathkeeper.activeitem.json": 2
@@ -100,8 +100,11 @@
               "ivrpgjudgement.statuseffect.json": 1
             }
           },
+          "pioneer": {
+            "nautilus.activeitem.json": 0
+          },
           "titan": {
-            "epimetheus.activeitem.json": 2
+            "epimetheus.activeitem.json": 1
           },
           "valkyrie": {
             "gungnir.activeitem.json": 2,
@@ -341,6 +344,7 @@
       "mastery": {
         "masterypoint.currency.json": 2,
         "shop": {
+          "ivrpgmasteryshop.config.json": 6,
           "masteryshop.object.json": 9
         }
       },
@@ -362,6 +366,69 @@
       "damagenumbers": {
         "shared_damagenumber.json": 1
       }
+    },
+    "professions": {
+      "default.config.json": 0,
+      "engineer": {
+        "items": {
+          "acidsample.item.json": 0,
+          "electromagnet.item.json": 0,
+          "gear.item.json": 0,
+          "magmasample.item.json": 0,
+          "motor.item.json": 0,
+          "spowercell.item.json": 0
+        },
+        "ivrpgengineerstation.config.json": 0,
+        "ivrpgengineerstation.object.json": 0,
+        "status": {
+          "ivrpgengineerenergy.statuseffect.json": 0,
+          "ivrpgengineerstatuscooldown.statuseffect.json": 0
+        }
+      },
+      "engineer.config.json": 0,
+      "medic": {
+        "ivrpgmedicstation.config.json": 0,
+        "ivrpgmedicstation.object.json": 0,
+        "status": {
+          "ivrpgmedicregeneration.statuseffect.json": 0
+        }
+      },
+      "medic.config.json": 0,
+      "miner": {
+        "items": {
+          "bars": {
+            "billoncoin.item.json": 0,
+            "electrumbar.item.json": 0,
+            "platinumbar.item.json": 0,
+            "steelbar.item.json": 0
+          },
+          "miningtools": {
+            "electrumpickaxe.miningtool.json": 0,
+            "steelpickaxe.miningtool.json": 0
+          }
+        },
+        "ivrpgminerstation.config.json": 0,
+        "ivrpgminerstation.object.json": 0
+      },
+      "miner.config.json": 0,
+      "professionDescriptions.config.json": 0,
+      "shared_erstation.config.json": 0,
+      "shared_station.config.json": 0,
+      "tamer": {
+        "items": {
+          "advancedcapturepod.thrownitem.json": 0,
+          "meatcrunch.consumable.json": 0,
+          "tripletreat.consumable.json": 0,
+          "veggiemix.consumable.json": 0
+        },
+        "ivrpgtamerstation.config.json": 0,
+        "ivrpgtamerstation.object.json": 0,
+        "status": {
+          "ivrpgtamermonsterstatus.statuseffect.json": 0,
+          "ivrpgtamerstatuscooldown.statuseffect.json": 0
+        }
+      },
+      "tamer.config.json": 0
     },
     "projectiles": {
       "grenades": {
@@ -441,7 +508,7 @@
       "shared_.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
-    "specList.config.json": 29,
+    "specList.config.json": 28,
     "specs": {
       "abilities": {
         "adept": {
@@ -512,7 +579,7 @@
       "operative.config.json": 2,
       "paladin.config.json": 8,
       "pilot.config.json": 3,
-      "pioneer.config.json": 5,
+      "pioneer.config.json": 4,
       "saboteur.config.json": 2,
       "samurai.config.json": 2,
       "scout.config.json": 2,
@@ -722,7 +789,6 @@
           "wizardtranslocate.tech.json": 1
         }
       }
-    },
-    "wide_spread_fields.json": 68
+    }
   }
 }

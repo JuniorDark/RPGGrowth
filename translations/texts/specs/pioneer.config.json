@@ -31,8 +31,7 @@
       ]
     },
     "Texts": {
-      "Eng": "125% Power Multiplier and Max Energy on Bookmarked Planets.\n120% Speed and +10% Resistance on Non-Bookmarked Planets.",
-      "Por": "125% Multiplicador de Força e Energia Máxima em Planetas Favoritados.\n120% Velocidade e +10% de Resistência em Planetas Não Favoritados."
+      "Eng": "125% Power Multiplier and Max Energy on Nav-Bookmarked Planets.\n120% Speed and +10% Resistance on Non-Nav-Bookmarked Planets."
     }
   },
   {

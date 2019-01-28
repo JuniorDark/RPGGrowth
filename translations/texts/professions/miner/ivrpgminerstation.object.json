@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/ivrpgminerstation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A good ol' furnace combined with a tray to make pickaxes.\nDesigned by JM401!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/ivrpgminerstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A traditional furnace to melt and mix ores. Quite useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/ivrpgminerstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hot, like sun!!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/ivrpgminerstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder if I can use this to cook."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/ivrpgminerstation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joking. This table seems to be quite similar to me. Perhaps it is a long lost relative."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/ivrpgminerstation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Miner Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/ivrpgminerstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ores on this table are just for display, but the furnace seems rather efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/ivrpgminerstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ain't for Smiths, but ye' can make some pretty good picks with the molds at the top."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/ivrpgminerstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This warmth emanating from this is quite pleasing."
+    }
+  }
+]

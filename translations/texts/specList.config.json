@@ -226,6 +226,17 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/0/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take your time exploring various planets."
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Titãs são bastiões da linha de frente que ajudam a manter a linha firme com seu escudo. Sua arma de escolha é uma pistola de uma mão ou uma smg emparelhada com um escudo. Enquanto lutadores capazes em todas as distâncias, eles também inspiram aliados próximos com uma aura protetora."
     ],
@@ -393,18 +404,6 @@
     "Texts": {
       "Eng": "^red;Female Only^white;\nValkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies.",
       "Por": "red;Apenas Personagem Feminino^white;\nValquírias são anjos com domínio sobre a vida que concedem poder ilimitado a aliados dignos. Fenomenal com lanças e espadas curtas, Valquírias usam seus poderes sagrados para planar graciosamente pelo campo de batalha, punindo inimigos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/5/0/unlockText"
-      ]
-    },
-    "Texts": {
-      "Eng": "^white;Not Available Yet. Ignore The Following:^reset;\nDiscover new planets and use flags to bookmark old planets.",
-      "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nDescubra novos planetas e use bandeiras para marcar planetas antigos."
     }
   }
 ]

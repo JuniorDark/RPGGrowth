@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/status/ivrpgtamermonsterstatus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tamer's Pet"
+    }
+  }
+]

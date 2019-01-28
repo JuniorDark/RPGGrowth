@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/bars/billoncoin.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A coin made of a Silver-Copper alloy that fetches a higher price."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/bars/billoncoin.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Billon Coin"
+    }
+  }
+]

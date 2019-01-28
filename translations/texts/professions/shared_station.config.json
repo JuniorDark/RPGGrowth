@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "professions/medic/ivrpgmedicstation.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "professions/miner/ivrpgminerstation.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "professions/tamer/ivrpgtamerstation.config": [
+        "/paneLayout/lblProduct/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MATERIALS AVAILABLE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "professions/medic/ivrpgmedicstation.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "professions/miner/ivrpgminerstation.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "professions/tamer/ivrpgtamerstation.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;BLUEPRINT"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "professions/medic/ivrpgmedicstation.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "professions/miner/ivrpgminerstation.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "professions/tamer/ivrpgtamerstation.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;PRODUCT"
+    }
+  }
+]

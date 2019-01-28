@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/default.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "No Profession"
+    }
+  }
+]

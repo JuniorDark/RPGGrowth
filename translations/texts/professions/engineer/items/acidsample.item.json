@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/items/acidsample.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sample of acid made from some potent venom."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/items/acidsample.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acid Sample"
+    }
+  }
+]

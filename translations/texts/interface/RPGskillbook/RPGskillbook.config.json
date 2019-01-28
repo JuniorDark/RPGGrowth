@@ -130,6 +130,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionlayout/children/passivetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Active Ability"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/aesthetictitle/value"
       ]
     },
@@ -162,6 +173,17 @@
     "Texts": {
       "Eng": "After Upgrade",
       "Por": "Após Aprimorado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionslayout/children/alchemisttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alchemist"
     }
   },
   {
@@ -216,6 +238,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionslayout/children/bardtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bard"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionlayout/children/benefittext/value",
         "/gui/specializationlayout/children/benefittext/value"
       ]
     },
@@ -228,6 +262,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionlayout/children/benefittitle/value",
         "/gui/specializationlayout/children/benefittitle/value"
       ]
     },
@@ -246,6 +281,17 @@
     "Texts": {
       "Eng": "Border/Light",
       "Por": "Borda/Luz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionslayout/children/botanisttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Botanist"
     }
   },
   {
@@ -300,6 +346,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionslayout/children/cheftitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chef"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/classweapontitle/value"
       ]
     },
@@ -313,6 +370,8 @@
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/overviewlayout/children/hardcoretitle/value",
+        "/gui/professionlayout/children/classictext/value",
+        "/gui/professionlayout/children/classictitle/value",
         "/gui/specializationlayout/children/classictext/value",
         "/gui/specializationlayout/children/classictitle/value"
       ]
@@ -356,6 +415,28 @@
     "Texts": {
       "Eng": "Click an Affinity's icon to see how that Affinity plays.",
       "Por": "Clique no ícone de uma Afinidade para ver como essa afinidade é desempenhada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionlayout/children/craftingtext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crafting"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionlayout/children/craftingtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crafting Skill"
     }
   },
   {
@@ -440,6 +521,28 @@
     "Texts": {
       "Eng": "Immunities",
       "Por": "Imunidades"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionlayout/children/passiveactive/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inactive"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionslayout/children/jewelertitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jeweler"
     }
   },
   {
@@ -579,6 +682,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionlayout/children/proftitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "No Profession Yet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/overviewlayout/children/spectitle/value"
       ]
     },
@@ -597,30 +711,6 @@
     "Texts": {
       "Eng": "No Specialization Yet",
       "Por": "Sem Especialização Ainda"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/professionslayout/children/locked/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Not Implemented Yet!",
-      "Por": "Ainda Não Implementado!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/professionlayout/children/locked/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Not Implemented Yet!\nYou cheated to get here, though, didn't you?",
-      "Por": "Ainda Não Implementado!\nMas você trapaceou para chegar aqui, não é?"
     }
   },
   {
@@ -652,6 +742,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionlayout/children/passivetext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Passive Text"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationlayout/children/detrimenttitle/value"
       ]
     },
@@ -670,6 +771,28 @@
     "Texts": {
       "Eng": "Prestige",
       "Por": "Prestígio"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionslayout/children/title/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Profession Select"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionslayout/children/subtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Professions are a valuable asset and can be selected for ^yellow;1000 Pixels.\n^red;You can quit your Profession at any time, but must pay again to re-select!"
     }
   },
   {
@@ -718,6 +841,17 @@
     "Texts": {
       "Eng": "Reset progress, losing XP and unlocks (Affinities, Specializations, etc).\n^green;Class Skills and the Mastery Tab remain unlocked.\n^red;Costs 3 Mastery Points.^reset;",
       "Por": "Reseta o progresso, perdendo XP e desbloqueados (Afinidades, Especializações, etc).\n^green;Habilidades de Classe e a Aba Mestria permanecem destravadas.\n^red;Custa 3 Pontos de Mestria.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionlayout/children/scalingtext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scaling list"
     }
   },
   {
@@ -790,6 +924,17 @@
     "Texts": {
       "Eng": "Skills",
       "Por": "Habilidades"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionslayout/children/smithtitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smith"
     }
   },
   {
@@ -874,6 +1019,7 @@
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/statscalingtext/value",
         "/gui/classlayout/children/statscalingtitle/value",
+        "/gui/professionlayout/children/scalingtitle/value",
         "/gui/specializationlayout/children/statscalingtext/value",
         "/gui/specializationlayout/children/statscalingtitle/value"
       ]
@@ -981,6 +1127,28 @@
     "Texts": {
       "Eng": "UNUSED",
       "Por": "NÃO UTILIZADO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionlayout/children/uniquetitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unique Ability"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionlayout/children/uniquetext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unique List"
     }
   },
   {

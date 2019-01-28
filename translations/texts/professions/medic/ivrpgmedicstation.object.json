@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pristine white cabinet-counter combo covered in medical supplies.\nDesigned by JM401!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope making medicine isn't too heretical."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should be able to make all kinds of medical supplies using this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. Despite being mechanical, I can somehow still use the bandages from this table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medic Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now this looks like a proper medicine cabinet. Better look through it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Table isss very clean. Floran wantss to sstain it red!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pristine counter covered in sanitary tools should be useful for patching up."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table isn't much my style, but I reckon I can still use it if I learn how."
+    }
+  }
+]

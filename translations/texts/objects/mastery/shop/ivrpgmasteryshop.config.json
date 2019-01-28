@@ -51,42 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [
-        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Replace Me",
-      "Por": "Replace Me"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mastery/shop/ivrpgmasteryshop.config": [
-        "/paneLayout/filter/hint"
-      ]
-    },
-    "Texts": {
-      "Eng": "Search",
-      "Por": "Pesquisar"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mastery/shop/ivrpgmasteryshop.config": [
-        "/paneLayout/btnStopCraft/caption"
-      ]
-    },
-    "Texts": {
-      "Eng": "Stop",
-      "Por": "Parar"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mastery/shop/ivrpgmasteryshop.config": [
         "/paneLayout/lblSchematics/value"
       ]
     },
@@ -105,19 +69,6 @@
     "Texts": {
       "Eng": "^#b9b5b2;MASTER PRODUCT",
       "Por": "^#b9b5b2;PRODUTO MESTRE"
-    }
-  },
-  {
-    "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mastery/shop/ivrpgmasteryshop.config": [
-        "/paneLayout/tbSpinCount/regex"
-      ]
-    },
-    "Texts": {
-      "Eng": "x?\\d{0,4}",
-      "Por": "x?\\d{0,4}"
     }
   }
 ]

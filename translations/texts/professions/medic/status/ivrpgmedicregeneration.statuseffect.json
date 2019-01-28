@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/status/ivrpgmedicregeneration.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medic's Healing"
+    }
+  }
+]

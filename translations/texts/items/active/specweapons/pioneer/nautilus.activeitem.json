@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/pioneer/nautilus.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Within the spiral lies a dormant power: the questions is, whose?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/pioneer/nautilus.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Nautilus"
+    }
+  }
+]

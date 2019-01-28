@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/items/tripletreat.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A combination of chicken, steak, and fish. Effect: 150% Power Multiplier."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/items/tripletreat.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Triple Treat"
+    }
+  }
+]

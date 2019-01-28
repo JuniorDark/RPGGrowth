@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/bars/steelbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A useful alloy made from Iron and Coal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/bars/steelbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Steel Bar"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/items/veggiemix.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A combination of various veggies. Effect: 150% Max Health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/items/veggiemix.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Veggie Mix"
+    }
+  }
+]

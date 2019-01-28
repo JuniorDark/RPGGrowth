@@ -4,6 +4,9 @@
     "Files": {
       "classes/default.config": [
         "/classic/0/text"
+      ],
+      "professions/default.config": [
+        "/classic/0/text"
       ]
     },
     "Texts": {

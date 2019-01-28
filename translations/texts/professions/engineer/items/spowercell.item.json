@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/items/spowercell.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electrically charged cell matter made to function like a battery."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/items/spowercell.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "S-Power Cell"
+    }
+  }
+]
