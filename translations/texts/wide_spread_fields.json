@@ -466,7 +466,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "JustiÃ§a Cega"
+    ],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucblindingjustice.activeitem": [
         "/shortdescription"
@@ -477,11 +479,13 @@
     },
     "Texts": {
       "Eng": "Blinding Justice",
-      "Por": "JustiÃ§a Cega"
+      "Por": "Justiça Cega"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "CaÃ§ador de Sangue"
+    ],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucbloodseeker.activeitem": [
         "/shortdescription"
@@ -492,7 +496,7 @@
     },
     "Texts": {
       "Eng": "Blood Seeker",
-      "Por": "CaÃ§ador de Sangue"
+      "Por": "Caçador de Sangue"
     }
   },
   {
@@ -526,7 +530,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Clique em um Ã­cone de classe para informaÃ§Ãµes sobre essa classe."
+    ],
     "Files": {
       "classes/classDescriptions.config": [
         "/default/text"
@@ -537,7 +543,7 @@
     },
     "Texts": {
       "Eng": "Click a Class' icon to see how that Class plays.",
-      "Por": "Clique em um Ã­cone de classe para informaÃ§Ãµes sobre essa classe."
+      "Por": "Clique em um ícone de classe para informações sobre essa classe."
     }
   },
   {
@@ -556,7 +562,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Clique no Ã­cone de um status para ver o que ocorre\nquando esse status Ã© aumentado."
+    ],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/statdescription/value"
@@ -567,11 +575,13 @@
     },
     "Texts": {
       "Eng": "Click a stat's icon to see what occurs\nwhen that stat is raised.",
-      "Por": "Clique no Ã­cone de um status para ver o que ocorre\nquando esse status Ã© aumentado."
+      "Por": "Clique no ícone de um status para ver o que ocorre\nquando esse status é aumentado."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "CoraÃ§Ã£o Frio"
+    ],
     "Files": {
       "items/upgrade chips/affinity/ivrpguccoldheart.activeitem": [
         "/shortdescription"
@@ -582,7 +592,7 @@
     },
     "Texts": {
       "Eng": "Cold Heart",
-      "Por": "CoraÃ§Ã£o Frio"
+      "Por": "Coração Frio"
     }
   },
   {
@@ -601,7 +611,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "ContÃ¡gio"
+    ],
     "Files": {
       "items/upgrade chips/affinity/ivrpguccontagion.activeitem": [
         "/shortdescription"
@@ -612,11 +624,13 @@
     },
     "Texts": {
       "Eng": "Contagion",
-      "Por": "ContÃ¡gio"
+      "Por": "Contágio"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "AmaldiÃ§oado"
+    ],
     "Files": {
       "items/active/specweapons/wraith/combos/cursed.statuseffect": [
         "/label"
@@ -627,11 +641,13 @@
     },
     "Texts": {
       "Eng": "Cursed",
-      "Por": "AmaldiÃ§oado"
+      "Por": "Amaldiçoado"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Perigo PrÃ³ximo"
+    ],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/general/ivrpgucdangerclose/title"
@@ -642,11 +658,13 @@
     },
     "Texts": {
       "Eng": "Danger Close",
-      "Por": "Perigo PrÃ³ximo"
+      "Por": "Perigo Próximo"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "DescriÃ§Ã£o"
+    ],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationslayout/children/desctext/value",
@@ -672,7 +690,7 @@
     },
     "Texts": {
       "Eng": "Description",
-      "Por": "DescriÃ§Ã£o"
+      "Por": "Descrição"
     }
   },
   {
@@ -728,7 +746,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "ResistÃªncia"
+    ],
     "Files": {
       "classes/explorer.config": [
         "/scaling/2/text"
@@ -767,7 +787,7 @@
     },
     "Texts": {
       "Eng": "Endurance",
-      "Por": "ResistÃªncia"
+      "Por": "Resistência"
     }
   },
   {
@@ -957,7 +977,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "IncurÃ¡vel"
+    ],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucincurable.activeitem": [
         "/shortdescription"
@@ -968,11 +990,13 @@
     },
     "Texts": {
       "Eng": "Incurable",
-      "Por": "IncurÃ¡vel"
+      "Por": "Incurável"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "InteligÃªncia"
+    ],
     "Files": {
       "classes/wizard.config": [
         "/scaling/0/text"
@@ -993,7 +1017,7 @@
     },
     "Texts": {
       "Eng": "Intelligence",
-      "Por": "InteligÃªncia"
+      "Por": "Inteligência"
     }
   },
   {
@@ -1141,7 +1165,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Desempenho MÃ¡ximo"
+    ],
     "Files": {
       "items/upgrade chips/tech/ivrpgucpeakperformance.activeitem": [
         "/shortdescription"
@@ -1152,7 +1178,7 @@
     },
     "Texts": {
       "Eng": "Peak Performance",
-      "Por": "Desempenho MÃ¡ximo"
+      "Por": "Desempenho Máximo"
     }
   },
   {
@@ -1171,7 +1197,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "MudanÃ§a de Fase"
+    ],
     "Files": {
       "items/active/specweapons/adept/phaseshift.weaponability": [
         "/ability/name"
@@ -1182,11 +1210,13 @@
     },
     "Texts": {
       "Eng": "Phase Shift",
-      "Por": "MudanÃ§a de Fase"
+      "Por": "Mudança de Fase"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "PrecisÃ£o Precisa"
+    ],
     "Files": {
       "items/upgrade chips/tech/ivrpgucpinpointaccuracy.activeitem": [
         "/shortdescription"
@@ -1197,11 +1227,13 @@
     },
     "Texts": {
       "Eng": "Pinpoint Accuracy",
-      "Por": "PrecisÃ£o Precisa"
+      "Por": "Precisão Precisa"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "NÃºcleo de Plasma"
+    ],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucplasmacore.activeitem": [
         "/shortdescription"
@@ -1212,11 +1244,13 @@
     },
     "Texts": {
       "Eng": "Plasma Core",
-      "Por": "NÃºcleo de Plasma"
+      "Por": "Núcleo de Plasma"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "ImprevisÃ­vel"
+    ],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucquicksilver.activeitem": [
         "/shortdescription"
@@ -1227,7 +1261,7 @@
     },
     "Texts": {
       "Eng": "Quicksilver",
-      "Por": "ImprevisÃ­vel"
+      "Por": "Imprevisível"
     }
   },
   {
@@ -1255,7 +1289,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "BraÃ§o Direito"
+    ],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucrighthandman.activeitem": [
         "/shortdescription"
@@ -1266,11 +1302,13 @@
     },
     "Texts": {
       "Eng": "Right Hand Man",
-      "Por": "BraÃ§o Direito"
+      "Por": "Braço Direito"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "EspÃ­rito de JustiÃ§a"
+    ],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucrighteousness.activeitem": [
         "/shortdescription"
@@ -1281,7 +1319,7 @@
     },
     "Texts": {
       "Eng": "Righteousness",
-      "Por": "EspÃ­rito de JustiÃ§a"
+      "Por": "Espírito de Justiça"
     }
   },
   {
@@ -1357,7 +1395,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "BÃªnÃ§Ã£o de Skadi"
+    ],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucskadisblessing.activeitem": [
         "/shortdescription"
@@ -1368,11 +1408,13 @@
     },
     "Texts": {
       "Eng": "Skadi's Blessing",
-      "Por": "BÃªnÃ§Ã£o de Skadi"
+      "Por": "Bênção de Skadi"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "LentidÃ£o"
+    ],
     "Files": {
       "affinities/arc.config": [
         "/immunity/1/text"
@@ -1386,7 +1428,7 @@
     },
     "Texts": {
       "Eng": "Slow",
-      "Por": "LentidÃ£o"
+      "Por": "Lentidão"
     }
   },
   {
@@ -1459,7 +1501,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "ForÃ§a"
+    ],
     "Files": {
       "classes/knight.config": [
         "/scaling/0/text"
@@ -1483,7 +1527,7 @@
     },
     "Texts": {
       "Eng": "Strength",
-      "Por": "ForÃ§a"
+      "Por": "Força"
     }
   },
   {

@@ -226,7 +226,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Não tenha pressa a explorar vários planetas."
+    ],
     "Files": {
       "specList.config": [
         "/5/0/unlockText"
@@ -234,7 +236,7 @@
     },
     "Texts": {
       "Eng": "Take your time exploring various planets.",
-      "Por": "Não tenha pressa a explorar vários planetas."
+      "Por": "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nDescubra novos planetas e use bandeiras para marcar planetas antigos."
     }
   },
   {

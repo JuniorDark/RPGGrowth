@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^red;ISSO QUE É UM MONTE DE DANO!"
+    ],
     "Files": {
       "items/active/specweapons/cannoneer/outburst.activeitem": [
         "/description"

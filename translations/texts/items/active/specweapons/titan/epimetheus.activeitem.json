@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Não deixa nem um inimigo vivo."
+    ],
     "Files": {
       "items/active/specweapons/titan/epimetheus.activeitem": [
         "/description"

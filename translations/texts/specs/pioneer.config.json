@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "125% Multiplicador de Força e Energia Máxima em Planetas Favoritados.\n120% Velocidade e +10% de Resistência em Planetas Não Favoritados."
+    ],
     "Files": {
       "specs/pioneer.config": [
         "/ability/text"
