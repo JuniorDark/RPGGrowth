@@ -416,7 +416,7 @@
       "shared_station.config.json": 3,
       "tamer": {
         "items": {
-          "advancedcapturepod.thrownitem.json": 0,
+          "advancedcapturepod.thrownitem.json": 2,
           "meatcrunch.consumable.json": 0,
           "tripletreat.consumable.json": 0,
           "veggiemix.consumable.json": 0

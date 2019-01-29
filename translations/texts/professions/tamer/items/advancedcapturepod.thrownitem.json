@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Advanced Capture Pod"
+      "Eng": "Advanced Capture Pod",
+      "Por": "Capture Pod Avançado"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This Capture Pod automatically seeks enemies until it hits a block."
+      "Eng": "This Capture Pod automatically seeks enemies until it hits a block.",
+      "Por": "Este Capture Pod automaticamente procura inimigos até atingir um bloco."
     }
   }
 ]
