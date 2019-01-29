@@ -385,7 +385,7 @@
           "ivrpgengineerstatuscooldown.statuseffect.json": 0
         }
       },
-      "engineer.config.json": 0,
+      "engineer.config.json": 6,
       "medic": {
         "ivrpgmedicstation.config.json": 0,
         "ivrpgmedicstation.object.json": 0,
