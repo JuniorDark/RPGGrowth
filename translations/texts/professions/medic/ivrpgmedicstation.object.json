@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A pristine white cabinet-counter combo covered in medical supplies.\nDesigned by JM401!"
+      "Eng": "A pristine white cabinet-counter combo covered in medical supplies.\nDesigned by JM401!",
+      "Por": "Um armário de balcão branco coberto de suprimentos médicos.\nProjetado por JM401!"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I hope making medicine isn't too heretical."
+      "Eng": "I hope making medicine isn't too heretical.",
+      "Por": "Espero que fazer remédio não seja muito herético."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I should be able to make all kinds of medical supplies using this."
+      "Eng": "I should be able to make all kinds of medical supplies using this.",
+      "Por": "Eu deveria ser capaz de fazer todos os tipos de suprimentos médicos usando isso."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Intrigued. Despite being mechanical, I can somehow still use the bandages from this table."
+      "Eng": "Intrigued. Despite being mechanical, I can somehow still use the bandages from this table.",
+      "Por": "Intrigado. Apesar de ser mecânico, eu ainda posso de alguma forma usar as ataduras desta mesa."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Medic Station"
+      "Eng": "Medic Station",
+      "Por": "Estação Médica"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Now this looks like a proper medicine cabinet. Better look through it."
+      "Eng": "Now this looks like a proper medicine cabinet. Better look through it.",
+      "Por": "Isso parece um armário de remédios adequado. Melhor dar uma olhada nisso."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Table isss very clean. Floran wantss to sstain it red!"
+      "Eng": "Table isss very clean. Floran wantss to sstain it red!",
+      "Por": "Mesa é muito limpa. Floran quer manchar isso de vermelho!"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This pristine counter covered in sanitary tools should be useful for patching up."
+      "Eng": "This pristine counter covered in sanitary tools should be useful for patching up.",
+      "Por": "Este armário de balcão coberto de ferramentas sanitárias deve ser útil para criar remédios."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This table isn't much my style, but I reckon I can still use it if I learn how."
+      "Eng": "This table isn't much my style, but I reckon I can still use it if I learn how.",
+      "Por": "Esta mesa não é muito meu estilo, mas acho que ainda posso usá-la se souber como."
     }
   }
 ]
