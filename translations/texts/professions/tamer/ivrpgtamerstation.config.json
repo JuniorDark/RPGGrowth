@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": " Tamer's Crafting Station"
+      "Eng": " Tamer's Crafting Station",
+      "Por": "Estação de Fabricação do Domador"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": " ^#b9b5b2;Only experienced Tamers know what to do with these tools!"
+      "Eng": " ^#b9b5b2;Only experienced Tamers know what to do with these tools!",
+      "Por": " ^#b9b5b2;Apenas Domadores experientes sabem o que fazer com essas ferramentas!"
     }
   }
 ]

@@ -421,7 +421,7 @@
           "tripletreat.consumable.json": 2,
           "veggiemix.consumable.json": 2
         },
-        "ivrpgtamerstation.config.json": 0,
+        "ivrpgtamerstation.config.json": 2,
         "ivrpgtamerstation.object.json": 0,
         "status": {
           "ivrpgtamermonsterstatus.statuseffect.json": 0,
