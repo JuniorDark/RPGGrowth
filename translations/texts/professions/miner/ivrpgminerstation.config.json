@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": " Miner's Crafting Station"
+      "Eng": " Miner's Crafting Station",
+      "Por": "Estação de Fabricação do Mineiro"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": " ^#b9b5b2;Only experienced Miners know what to do with this!"
+      "Eng": " ^#b9b5b2;Only experienced Miners know what to do with this!",
+      "Por": " ^#b9b5b2;Apenas mineiros experientes sabem o que fazer com isso!"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Form"
+      "Eng": "Form",
+      "Por": "Forjar"
     }
   }
 ]
