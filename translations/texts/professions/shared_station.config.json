@@ -16,7 +16,8 @@
       ]
     },
     "Texts": {
-      "Eng": "MATERIALS AVAILABLE"
+      "Eng": "MATERIALS AVAILABLE",
+      "Por": "MATERIAIS DISPONÍVEIS"
     }
   },
   {
@@ -36,7 +37,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#b9b5b2;BLUEPRINT"
+      "Eng": "^#b9b5b2;BLUEPRINT",
+      "Por": "^#b9b5b2;PROJETO"
     }
   },
   {
@@ -56,7 +58,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#b9b5b2;PRODUCT"
+      "Eng": "^#b9b5b2;PRODUCT",
+      "Por": "^#b9b5b2;PRODUTO"
     }
   }
 ]
