@@ -390,7 +390,7 @@
         "ivrpgmedicstation.config.json": 3,
         "ivrpgmedicstation.object.json": 9,
         "status": {
-          "ivrpgmedicregeneration.statuseffect.json": 0
+          "ivrpgmedicregeneration.statuseffect.json": 1
         }
       },
       "medic.config.json": 5,
