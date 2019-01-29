@@ -425,7 +425,7 @@
         "ivrpgtamerstation.object.json": 9,
         "status": {
           "ivrpgtamermonsterstatus.statuseffect.json": 1,
-          "ivrpgtamerstatuscooldown.statuseffect.json": 0
+          "ivrpgtamerstatuscooldown.statuseffect.json": 1
         }
       },
       "tamer.config.json": 6
