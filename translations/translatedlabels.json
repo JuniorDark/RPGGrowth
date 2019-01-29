@@ -382,7 +382,7 @@
         "ivrpgengineerstation.object.json": 9,
         "status": {
           "ivrpgengineerenergy.statuseffect.json": 1,
-          "ivrpgengineerstatuscooldown.statuseffect.json": 0
+          "ivrpgengineerstatuscooldown.statuseffect.json": 1
         }
       },
       "engineer.config.json": 6,
