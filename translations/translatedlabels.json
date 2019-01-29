@@ -368,7 +368,7 @@
       }
     },
     "professions": {
-      "default.config.json": 0,
+      "default.config.json": 1,
       "engineer": {
         "items": {
           "acidsample.item.json": 0,
