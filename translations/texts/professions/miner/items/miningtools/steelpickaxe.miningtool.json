@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Steel Pickaxe"
+      "Eng": "Steel Pickaxe",
+      "Por": "Picareta de Aço"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This tool mines a bit slower than a Silver Pickaxe, but lasts longer!"
+      "Eng": "This tool mines a bit slower than a Silver Pickaxe, but lasts longer!",
+      "Por": "Esta ferramenta é um pouco mais lenta que uma Picareta de Prata, mas dura mais tempo!"
     }
   }
 ]
