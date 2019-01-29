@@ -134,7 +134,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Active Ability"
+      "Eng": "Active Ability",
+      "Por": "Habilidade Ativa"
     }
   },
   {
@@ -183,7 +184,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Alchemist"
+      "Eng": "Alchemist",
+      "Por": "Alquimista"
     }
   },
   {
@@ -242,7 +244,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bard"
+      "Eng": "Bard",
+      "Por": "Bardo"
     }
   },
   {
@@ -291,7 +294,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Botanist"
+      "Eng": "Botanist",
+      "Por": "Botânico"
     }
   },
   {
@@ -350,7 +354,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Chef"
+      "Eng": "Chef",
+      "Por": "Chefe de Cozinha"
     }
   },
   {
@@ -425,7 +430,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Crafting"
+      "Eng": "Crafting",
+      "Por": "Fabricação"
     }
   },
   {
@@ -436,7 +442,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Crafting Skill"
+      "Eng": "Crafting Skill",
+      "Por": "Habilidade de Fabricação"
     }
   },
   {
@@ -531,7 +538,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Inactive"
+      "Eng": "Inactive",
+      "Por": "Inativo"
     }
   },
   {
@@ -542,7 +550,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Jeweler"
+      "Eng": "Jeweler",
+      "Por": "Joalheiro"
     }
   },
   {
@@ -686,7 +695,8 @@
       ]
     },
     "Texts": {
-      "Eng": "No Profession Yet"
+      "Eng": "No Profession Yet",
+      "Por": "Sem Profissão Ainda"
     }
   },
   {
@@ -746,7 +756,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Passive Text"
+      "Eng": "Passive Text",
+      "Por": "Texto Passivo"
     }
   },
   {
@@ -781,7 +792,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Profession Select"
+      "Eng": "Profession Select",
+      "Por": "Seleção de Profissão"
     }
   },
   {
@@ -792,7 +804,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Professions are a valuable asset and can be selected for ^yellow;1000 Pixels.\n^red;You can quit your Profession at any time, but must pay again to re-select!"
+      "Eng": "Professions are a valuable asset and can be selected for ^yellow;1000 Pixels.\n^red;You can quit your Profession at any time, but must pay again to re-select!",
+      "Por": "As profissões são um recurso valioso e podem ser selecionadas por ^yellow;1000 pixels.\n^red;Você pode sair da sua profissão a qualquer momento, mas deve pagar novamente para selecionar novamente!"
     }
   },
   {
@@ -851,7 +864,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Scaling list"
+      "Eng": "Scaling list",
+      "Por": "Lista de Escala"
     }
   },
   {
@@ -934,7 +948,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Smith"
+      "Eng": "Smith",
+      "Por": "Ferreiro"
     }
   },
   {
@@ -1137,7 +1152,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Unique Ability"
+      "Eng": "Unique Ability",
+      "Por": "Habilidade Única"
     }
   },
   {
@@ -1148,7 +1164,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Unique List"
+      "Eng": "Unique List",
+      "Por": "Lista Única"
     }
   },
   {
