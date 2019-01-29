@@ -393,7 +393,7 @@
           "ivrpgmedicregeneration.statuseffect.json": 0
         }
       },
-      "medic.config.json": 0,
+      "medic.config.json": 5,
       "miner": {
         "items": {
           "bars": {
