@@ -403,7 +403,7 @@
             "steelbar.item.json": 2
           },
           "miningtools": {
-            "electrumpickaxe.miningtool.json": 0,
+            "electrumpickaxe.miningtool.json": 2,
             "steelpickaxe.miningtool.json": 0
           }
         },

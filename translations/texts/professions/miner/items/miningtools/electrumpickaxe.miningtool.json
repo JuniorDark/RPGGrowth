@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Electrum Pickaxe"
+      "Eng": "Electrum Pickaxe",
+      "Por": "Picareta de Electrum"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This tool mines like a Silver Pickaxe, but lasts thrice as long."
+      "Eng": "This tool mines like a Silver Pickaxe, but lasts thrice as long.",
+      "Por": "Esta ferramenta funciona como uma Picareta de Prata, mas dura três vezes mais."
     }
   }
 ]
