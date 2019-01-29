@@ -387,7 +387,7 @@
       },
       "engineer.config.json": 6,
       "medic": {
-        "ivrpgmedicstation.config.json": 0,
+        "ivrpgmedicstation.config.json": 3,
         "ivrpgmedicstation.object.json": 0,
         "status": {
           "ivrpgmedicregeneration.statuseffect.json": 0

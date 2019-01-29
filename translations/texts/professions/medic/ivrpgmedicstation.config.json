@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": " Medic's Crafting Station"
+      "Eng": " Medic's Crafting Station",
+      "Por": "Estação de Fabricação do Médico"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": " ^#b9b5b2;Only experienced Medics know what to do with these tools!"
+      "Eng": " ^#b9b5b2;Only experienced Medics know what to do with these tools!",
+      "Por": "^#b9b5b2;Apenas Médicos experientes sabem o que fazer com essas ferramentas!"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Craft"
+      "Eng": "Craft",
+      "Por": "Criar"
     }
   }
 ]
