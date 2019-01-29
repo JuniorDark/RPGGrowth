@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A useful alloy made from Iron and Coal."
+      "Eng": "A useful alloy made from Iron and Coal.",
+      "Por": "Uma liga útil feita de Ferro e Carvão."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Steel Bar"
+      "Eng": "Steel Bar",
+      "Por": "Barra de Aço"
     }
   }
 ]
