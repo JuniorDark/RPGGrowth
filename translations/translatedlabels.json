@@ -399,7 +399,7 @@
           "bars": {
             "billoncoin.item.json": 2,
             "electrumbar.item.json": 2,
-            "platinumbar.item.json": 0,
+            "platinumbar.item.json": 2,
             "steelbar.item.json": 0
           },
           "miningtools": {

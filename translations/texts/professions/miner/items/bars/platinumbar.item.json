@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An alloy made from Durasteel and Titanium that behaves quite like platinum."
+      "Eng": "An alloy made from Durasteel and Titanium that behaves quite like platinum.",
+      "Por": "Uma liga feita de Durasteel e Titânio que se comporta como platina."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "D-Platinum Bar"
+      "Eng": "D-Platinum Bar",
+      "Por": "Barra de D-Platinum"
     }
   }
 ]
