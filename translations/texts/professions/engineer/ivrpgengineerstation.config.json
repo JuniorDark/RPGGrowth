@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": " Engineer's Crafting Station"
+      "Eng": " Engineer's Crafting Station",
+      "Por": "Estação de Fabricação do Engenheiro"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": " ^#b9b5b2;Only experienced Engineers know what to do with these tools!"
+      "Eng": " ^#b9b5b2;Only experienced Engineers know what to do with these tools!",
+      "Por": "^#b9b5b2;Apenas Engenheiros experientes sabem o que fazer com essas ferramentas!"
     }
   }
 ]
