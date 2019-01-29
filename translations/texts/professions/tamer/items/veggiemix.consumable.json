@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A combination of various veggies. Effect: 150% Max Health."
+      "Eng": "A combination of various veggies. Effect: 150% Max Health.",
+      "Por": "Uma combinação de vários vegetais. Efeito: 150% de Vida Máxima."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Veggie Mix"
+      "Eng": "Veggie Mix",
+      "Por": "Mistura Vegetariana"
     }
   }
 ]
