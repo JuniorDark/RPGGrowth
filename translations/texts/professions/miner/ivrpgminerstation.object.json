@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A good ol' furnace combined with a tray to make pickaxes.\nDesigned by JM401!"
+      "Eng": "A good ol' furnace combined with a tray to make pickaxes.\nDesigned by JM401!",
+      "Por": "Uma boa e velha fornalha combinada com uma forma para fazer picaretas.\nProjetado por JM401!"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A traditional furnace to melt and mix ores. Quite useful."
+      "Eng": "A traditional furnace to melt and mix ores. Quite useful.",
+      "Por": "Uma fornalha tradicional para derreter e misturar minérios. Bem útil."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hot, like sun!!"
+      "Eng": "Hot, like sun!!",
+      "Por": "Quente, como o sol!!"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I wonder if I can use this to cook."
+      "Eng": "I wonder if I can use this to cook.",
+      "Por": "Eu me pergunto se eu posso usar isso para cozinhar."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Joking. This table seems to be quite similar to me. Perhaps it is a long lost relative."
+      "Eng": "Joking. This table seems to be quite similar to me. Perhaps it is a long lost relative.",
+      "Por": "Brincando. Esta mesa parece ser bem parecida comigo. Talvez seja um parente perdido há muito tempo."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Miner Station"
+      "Eng": "Miner Station",
+      "Por": "Estação de Mineiro"
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The ores on this table are just for display, but the furnace seems rather efficient."
+      "Eng": "The ores on this table are just for display, but the furnace seems rather efficient.",
+      "Por": "Os minérios nesta mesa são apenas para exibição, mas a fornalha parece bastante eficiente."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This ain't for Smiths, but ye' can make some pretty good picks with the molds at the top."
+      "Eng": "This ain't for Smiths, but ye' can make some pretty good picks with the molds at the top.",
+      "Por": "Isso não é para Ferreiros, mas você pode fazer algumas boas picaretas com os moldes no topo."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This warmth emanating from this is quite pleasing."
+      "Eng": "This warmth emanating from this is quite pleasing.",
+      "Por": "O calor emanando disto é bastante agradável."
     }
   }
 ]
