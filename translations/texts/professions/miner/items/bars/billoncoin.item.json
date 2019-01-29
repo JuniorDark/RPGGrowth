@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A coin made of a Silver-Copper alloy that fetches a higher price."
+      "Eng": "A coin made of a Silver-Copper alloy that fetches a higher price.",
+      "Por": "Uma moeda feita de uma liga de Prata-Cobre que tem um preço mais alto."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Billon Coin"
+      "Eng": "Billon Coin",
+      "Por": "Moeda de Billon"
     }
   }
 ]

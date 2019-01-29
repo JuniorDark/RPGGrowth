@@ -397,7 +397,7 @@
       "miner": {
         "items": {
           "bars": {
-            "billoncoin.item.json": 0,
+            "billoncoin.item.json": 2,
             "electrumbar.item.json": 0,
             "platinumbar.item.json": 0,
             "steelbar.item.json": 0
