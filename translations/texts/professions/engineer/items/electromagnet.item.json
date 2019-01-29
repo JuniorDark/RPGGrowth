@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A magnet made from iron, copper wire, and come good ol' batteries."
+      "Eng": "A magnet made from iron, copper wire, and come good ol' batteries.",
+      "Por": "Um ímã feito de ferro, fio de cobre e boas baterias."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Electromagnet"
+      "Eng": "Electromagnet",
+      "Por": "Eletroímã"
     }
   }
 ]

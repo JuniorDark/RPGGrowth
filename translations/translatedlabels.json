@@ -372,7 +372,7 @@
       "engineer": {
         "items": {
           "acidsample.item.json": 2,
-          "electromagnet.item.json": 0,
+          "electromagnet.item.json": 2,
           "gear.item.json": 0,
           "magmasample.item.json": 0,
           "motor.item.json": 0,
