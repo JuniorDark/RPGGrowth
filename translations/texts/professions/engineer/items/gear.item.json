@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Steel Gear"
+      "Eng": "Steel Gear",
+      "Por": "Engrenagem de Aço"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You'll need these to make more complex machinery."
+      "Eng": "You'll need these to make more complex machinery.",
+      "Por": "Você precisará disso para fazer máquinas mais complexas."
     }
   }
 ]
