@@ -477,7 +477,7 @@
     },
     "Texts": {
       "Eng": "Blinding Justice",
-      "Por": "Justiça Cega"
+      "Por": "JustiÃ§a Cega"
     }
   },
   {
@@ -492,7 +492,7 @@
     },
     "Texts": {
       "Eng": "Blood Seeker",
-      "Por": "Caçador de Sangue"
+      "Por": "CaÃ§ador de Sangue"
     }
   },
   {
@@ -537,7 +537,7 @@
     },
     "Texts": {
       "Eng": "Click a Class' icon to see how that Class plays.",
-      "Por": "Clique em um ícone de classe para informações sobre essa classe."
+      "Por": "Clique em um Ã­cone de classe para informaÃ§Ãµes sobre essa classe."
     }
   },
   {
@@ -551,7 +551,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Click a Profession's icon to see its benefits."
+      "Eng": "Click a Profession's icon to see its benefits.",
+      "Por": "Clique no ícone de uma profissão para ver seus benefícios."
     }
   },
   {
@@ -566,7 +567,7 @@
     },
     "Texts": {
       "Eng": "Click a stat's icon to see what occurs\nwhen that stat is raised.",
-      "Por": "Clique no ícone de um status para ver o que ocorre\nquando esse status é aumentado."
+      "Por": "Clique no Ã­cone de um status para ver o que ocorre\nquando esse status Ã© aumentado."
     }
   },
   {
@@ -581,7 +582,7 @@
     },
     "Texts": {
       "Eng": "Cold Heart",
-      "Por": "Coração Frio"
+      "Por": "CoraÃ§Ã£o Frio"
     }
   },
   {
@@ -611,7 +612,7 @@
     },
     "Texts": {
       "Eng": "Contagion",
-      "Por": "Contágio"
+      "Por": "ContÃ¡gio"
     }
   },
   {
@@ -626,7 +627,7 @@
     },
     "Texts": {
       "Eng": "Cursed",
-      "Por": "Amaldiçoado"
+      "Por": "AmaldiÃ§oado"
     }
   },
   {
@@ -641,7 +642,7 @@
     },
     "Texts": {
       "Eng": "Danger Close",
-      "Por": "Perigo Próximo"
+      "Por": "Perigo PrÃ³ximo"
     }
   },
   {
@@ -671,7 +672,7 @@
     },
     "Texts": {
       "Eng": "Description",
-      "Por": "Descrição"
+      "Por": "DescriÃ§Ã£o"
     }
   },
   {
@@ -766,7 +767,7 @@
     },
     "Texts": {
       "Eng": "Endurance",
-      "Por": "Resistência"
+      "Por": "ResistÃªncia"
     }
   },
   {
@@ -783,7 +784,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Engineer"
+      "Eng": "Engineer",
+      "Por": "Engenheiro"
     }
   },
   {
@@ -966,7 +968,7 @@
     },
     "Texts": {
       "Eng": "Incurable",
-      "Por": "Incurável"
+      "Por": "IncurÃ¡vel"
     }
   },
   {
@@ -991,7 +993,7 @@
     },
     "Texts": {
       "Eng": "Intelligence",
-      "Por": "Inteligência"
+      "Por": "InteligÃªncia"
     }
   },
   {
@@ -1026,7 +1028,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Medic"
+      "Eng": "Medic",
+      "Por": "Médico"
     }
   },
   {
@@ -1055,7 +1058,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Miner"
+      "Eng": "Miner",
+      "Por": "Mineiro"
     }
   },
   {
@@ -1148,7 +1152,7 @@
     },
     "Texts": {
       "Eng": "Peak Performance",
-      "Por": "Desempenho Máximo"
+      "Por": "Desempenho MÃ¡ximo"
     }
   },
   {
@@ -1178,7 +1182,7 @@
     },
     "Texts": {
       "Eng": "Phase Shift",
-      "Por": "Mudança de Fase"
+      "Por": "MudanÃ§a de Fase"
     }
   },
   {
@@ -1193,7 +1197,7 @@
     },
     "Texts": {
       "Eng": "Pinpoint Accuracy",
-      "Por": "Precisão Precisa"
+      "Por": "PrecisÃ£o Precisa"
     }
   },
   {
@@ -1208,7 +1212,7 @@
     },
     "Texts": {
       "Eng": "Plasma Core",
-      "Por": "Núcleo de Plasma"
+      "Por": "NÃºcleo de Plasma"
     }
   },
   {
@@ -1223,7 +1227,7 @@
     },
     "Texts": {
       "Eng": "Quicksilver",
-      "Por": "Imprevisível"
+      "Por": "ImprevisÃ­vel"
     }
   },
   {
@@ -1262,7 +1266,7 @@
     },
     "Texts": {
       "Eng": "Right Hand Man",
-      "Por": "Braço Direito"
+      "Por": "BraÃ§o Direito"
     }
   },
   {
@@ -1277,7 +1281,7 @@
     },
     "Texts": {
       "Eng": "Righteousness",
-      "Por": "Espírito de Justiça"
+      "Por": "EspÃ­rito de JustiÃ§a"
     }
   },
   {
@@ -1364,7 +1368,7 @@
     },
     "Texts": {
       "Eng": "Skadi's Blessing",
-      "Por": "Bênção de Skadi"
+      "Por": "BÃªnÃ§Ã£o de Skadi"
     }
   },
   {
@@ -1382,7 +1386,7 @@
     },
     "Texts": {
       "Eng": "Slow",
-      "Por": "Lentidão"
+      "Por": "LentidÃ£o"
     }
   },
   {
@@ -1479,7 +1483,7 @@
     },
     "Texts": {
       "Eng": "Strength",
-      "Por": "Força"
+      "Por": "ForÃ§a"
     }
   },
   {
@@ -1523,7 +1527,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tamer"
+      "Eng": "Tamer",
+      "Por": "Domador"
     }
   },
   {
@@ -1727,7 +1732,7 @@
     }
   },
   {
-    "Comment": "Express�o regular (n�o para tradu��o, mas para apoiar nomes em alfabeto cir�lico)",
+    "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
     "DeniedAlternatives": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [
