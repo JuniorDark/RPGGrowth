@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10% Physical Resistance"
+      "Eng": "+10% Physical Resistance",
+      "Por": "+10% Resistência Física"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+5 Armor"
+      "Eng": "+5 Armor",
+      "Por": "+5 Armadura"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can use Whips."
+      "Eng": "Can use Whips.",
+      "Por": "Pode usar Chicotes."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Monster Food crafted in the Tamer Station, Raw Poultry, Fish, and Steak in your inventory are instantly used when your active Captured Monster's Health falls below 50% Max Health. Raw Poultry, Fish, and Steak provide Health Regeneration, while Monster Food provides extra bonuses. Monster Food is prioritized. There is a 30 second cooldown between each activation!"
+      "Eng": "Monster Food crafted in the Tamer Station, Raw Poultry, Fish, and Steak in your inventory are instantly used when your active Captured Monster's Health falls below 50% Max Health. Raw Poultry, Fish, and Steak provide Health Regeneration, while Monster Food provides extra bonuses. Monster Food is prioritized. There is a 30 second cooldown between each activation!",
+      "Por": "Comida de Monstro criada na Estação do Domador, Raw Poultry, Fish e Steak em seu inventário são usados instantaneamente quando a Vida do seu Monstro Capturado fica abaixo de 50% da Vida Máxima. Raw Poultry, Fish, e Steak fornecem regeneração de Vida, enquanto a Comida de Monstro oferece bônus extras. Comida de Monstro é priorizado. Há um tempo de recarga de 30 segundos entre cada ativação!"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nearby friendly Monsters gain Significantly Increased Armor and Increased Power and Movement Speed. This effect gets stronger as your Health / Max Health ratio decreases."
+      "Eng": "Nearby friendly Monsters gain Significantly Increased Armor and Increased Power and Movement Speed. This effect gets stronger as your Health / Max Health ratio decreases.",
+      "Por": "Monstros amigáveis próximos recebem Armadura Aumentada, Maior Força e Velocidade de Movimento. Esse efeito fica mais forte à medida que sua proporção Vida / Vida Máxima diminui."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Tamer Station allows you to craft Capture Pods, Monster Accessories, and Monster Food!"
+      "Eng": "The Tamer Station allows you to craft Capture Pods, Monster Accessories, and Monster Food!",
+      "Por": "A Estação do Domador permite que você crie Capture Pods, Acessórios de Monstro e Comida de Monstro!"
     }
   }
 ]
