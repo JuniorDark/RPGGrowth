@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Within the spiral lies a dormant power: the questions is, whose?"
+      "Eng": "Within the spiral lies a dormant power: the questions is, whose?",
+      "Por": "Dentro da espiral está um poder adormecido: as perguntas são, de quem?"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^yellow;Nautilus"
+      "Eng": "^yellow;Nautilus",
+      "Por": "^yellow;Nautilus"
     }
   }
 ]
