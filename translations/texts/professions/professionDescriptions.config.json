@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Alchemist provides allies with unique statuses and inflicts dangerous ailments on enemies. It provides access to craftable, throwable potions."
+      "Eng": "The Alchemist provides allies with unique statuses and inflicts dangerous ailments on enemies. It provides access to craftable, throwable potions.",
+      "Por": "O Alquimista fornece aos aliados status únicos e inflige doenças perigosas nos inimigos. Ele fornece acesso a criação de poções que podem ser arremessadas."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Bard plays music to support allies with increased resistance. It provides access to craftable instruments."
+      "Eng": "The Bard plays music to support allies with increased resistance. It provides access to craftable instruments.",
+      "Por": "O Bardo toca música para apoiar aliados com resistência aumentada. Ele fornece acesso a criação de instrumentos."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Botanist grows herbs and gently tends to fields with great efficiency. It provides access to craftable seeds and better farming capabilities."
+      "Eng": "The Botanist grows herbs and gently tends to fields with great efficiency. It provides access to craftable seeds and better farming capabilities.",
+      "Por": "O Botânico planta ervas e suavemente cuida de campos com grande eficiência. Ele fornece acesso a criação de sementes e melhores capacidades agrícolas."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Chef cooks wonderful delicacies to keep hunger satiated and give various bonuses. It provides access to cheap, craftable unique foods."
+      "Eng": "The Chef cooks wonderful delicacies to keep hunger satiated and give various bonuses. It provides access to cheap, craftable unique foods.",
+      "Por": "O Chefe cozinha iguarias maravilhosas para manter a fome saciada e dar vários bônus. Ele fornece acesso a criação de alimentos exclusivos e baratos."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Engineer tinkers to create awesome mechanisms and buildings. It provides access to cheap, craftable electronics and scientific components."
+      "Eng": "The Engineer tinkers to create awesome mechanisms and buildings. It provides access to cheap, craftable electronics and scientific components.",
+      "Por": "O Engenheiro trabalha para criar mecanismos e construções incríveis. Fornece acesso a criação de componentes eletrônicos e componentes científicos baratos."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Jeweler forms beautiful accessories that augment players with unique effects. It provides access to craftable Augments and Collars."
+      "Eng": "The Jeweler forms beautiful accessories that augment players with unique effects. It provides access to craftable Augments and Collars.",
+      "Por": "O Joalheiro cria acessórios bonitos que fortalecem jogadores com efeitos únicos. Ele fornece acesso a criação de Augments e Coleiras."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Medic supports their allies with passive healing. It provides access to cheap, craftable medical supplies, such as bandages and salve."
+      "Eng": "The Medic supports their allies with passive healing. It provides access to cheap, craftable medical supplies, such as bandages and salve.",
+      "Por": "O Médico apóia seus aliados com cura passiva. Ele fornece acesso a criação de suprimentos médicos baratos, como ataduras e pomadas."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Miner digs deep without fear, lighting up the darkness to find ores. It provides access to better ore conversion, enabling better resource usage."
+      "Eng": "The Miner digs deep without fear, lighting up the darkness to find ores. It provides access to better ore conversion, enabling better resource usage.",
+      "Por": "O Mineiro cava fundo sem medo, iluminando a escuridão para encontrar minérios. Ele fornece acesso a uma melhor conversão de minérios, permitindo melhor uso de recursos."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Smith toils away to make dangerous weapons and strong armor. It provides access to cheap, craftable weapons and armor, as well as the items required to make them."
+      "Eng": "The Smith toils away to make dangerous weapons and strong armor. It provides access to cheap, craftable weapons and armor, as well as the items required to make them.",
+      "Por": "O Ferreiro trabalha duro para fazer armas perigosas e armaduras fortes. Ele fornece acesso a criação de armas e armaduras baratas, bem como os itens necessários para produzi-las."
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Tamer easily tames monsters and heals tamed creatures on the go. It provides access to cheap, craftable Capture Pods, as well as Advanced Capture Pods."
+      "Eng": "The Tamer easily tames monsters and heals tamed creatures on the go. It provides access to cheap, craftable Capture Pods, as well as Advanced Capture Pods.",
+      "Por": "O Domador facilmente doma monstros e cura criaturas domesticadas. Ele fornece acesso a criação de Capture Pods baratos, além de Capture Pods Avançados."
     }
   }
 ]
