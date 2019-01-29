@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A combination of chicken, steak, and fish. Effect: 150% Power Multiplier."
+      "Eng": "A combination of chicken, steak, and fish. Effect: 150% Power Multiplier.",
+      "Por": "Uma combinação de frango, filé e peixe. Efeito: 150% Multiplicador de Força."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Triple Treat"
+      "Eng": "Triple Treat",
+      "Por": "Refeição Tripla"
     }
   }
 ]
