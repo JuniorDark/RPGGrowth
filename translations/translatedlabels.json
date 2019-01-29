@@ -371,7 +371,7 @@
       "default.config.json": 1,
       "engineer": {
         "items": {
-          "acidsample.item.json": 0,
+          "acidsample.item.json": 2,
           "electromagnet.item.json": 0,
           "gear.item.json": 0,
           "magmasample.item.json": 0,

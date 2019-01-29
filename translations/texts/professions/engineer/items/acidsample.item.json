@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A sample of acid made from some potent venom."
+      "Eng": "A sample of acid made from some potent venom.",
+      "Por": "Uma amostra de ácido feita de algum veneno potente."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Acid Sample"
+      "Eng": "Acid Sample",
+      "Por": "Amostra de Ácido"
     }
   }
 ]
