@@ -379,7 +379,7 @@
           "spowercell.item.json": 2
         },
         "ivrpgengineerstation.config.json": 2,
-        "ivrpgengineerstation.object.json": 0,
+        "ivrpgengineerstation.object.json": 9,
         "status": {
           "ivrpgengineerenergy.statuseffect.json": 0,
           "ivrpgengineerstatuscooldown.statuseffect.json": 0

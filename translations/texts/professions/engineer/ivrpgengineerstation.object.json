@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A bit cluttered, sure, but an Engineer always gets the job done.\nDesigned by JM401!"
+      "Eng": "A bit cluttered, sure, but an Engineer always gets the job done.\nDesigned by JM401!",
+      "Por": "Um pouco desordenada, claro, mas um Engenheiro sempre da conta do recado.\nProjetada por JM401!"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A table perfect for crafting electronic devices."
+      "Eng": "A table perfect for crafting electronic devices.",
+      "Por": "Uma mesa perfeita para criar dispositivos eletrônicos."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Engineer Station"
+      "Eng": "Engineer Station",
+      "Por": "Estação de Engenheiro"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Joyful. If I can learn how to use these tools, this table should be very useful to me."
+      "Eng": "Joyful. If I can learn how to use these tools, this table should be very useful to me.",
+      "Por": "Alegre. Se eu puder aprender a usar essas ferramentas, essa mesa deve ser muito útil para mim."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Messssy table not good for cutting open monssters."
+      "Eng": "Messssy table not good for cutting open monssters.",
+      "Por": "Mesa desssarrumada não é boa para cortar monsstros."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Now these are tools ye' can use to make some pretty cool contraptions."
+      "Eng": "Now these are tools ye' can use to make some pretty cool contraptions.",
+      "Por": "Essas são ferramentas que você pode usar para criar algumas engenhocas bem legais."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This table isn't very traditional, but I suppose some good can come from it."
+      "Eng": "This table isn't very traditional, but I suppose some good can come from it.",
+      "Por": "Esta mesa não é muito tradicional, mas suponho que algo bom possa vir dela."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This table kinda reminds of those typical engineering desks. I guess cause it is one."
+      "Eng": "This table kinda reminds of those typical engineering desks. I guess cause it is one.",
+      "Por": "Esta mesa lembra um pouco daquelas mesas de engenharia típicas. Eu acho que porque é uma."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This table seems too cluttered to be of much use."
+      "Eng": "This table seems too cluttered to be of much use.",
+      "Por": "Esta mesa parece muito desordenada para ser de muita utilidade."
     }
   }
 ]
