@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Motor"
+      "Eng": "Motor",
+      "Por": "Motor"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You'll need this motor for any rotating machinery."
+      "Eng": "You'll need this motor for any rotating machinery.",
+      "Por": "Você precisará deste motor para qualquer máquina rotativa."
     }
   }
 ]

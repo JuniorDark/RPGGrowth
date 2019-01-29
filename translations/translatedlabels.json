@@ -375,7 +375,7 @@
           "electromagnet.item.json": 2,
           "gear.item.json": 2,
           "magmasample.item.json": 2,
-          "motor.item.json": 0,
+          "motor.item.json": 2,
           "spowercell.item.json": 0
         },
         "ivrpgengineerstation.config.json": 0,
