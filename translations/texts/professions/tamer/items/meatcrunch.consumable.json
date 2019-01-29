@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ground bones and meat. Effect: +30 Armor."
+      "Eng": "Ground bones and meat. Effect: +30 Armor.",
+      "Por": "Carne e ossos moídos. Efeito: +30 Armadura."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Meat Crunch"
+      "Eng": "Meat Crunch",
+      "Por": "Carne Moída"
     }
   }
 ]
