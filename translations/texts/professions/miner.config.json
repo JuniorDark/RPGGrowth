@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+20% Fire Resistance"
+      "Eng": "+20% Fire Resistance",
+      "Por": "+20% Resistência a Fogo"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can use Two-Handed Melee Weapons"
+      "Eng": "Can use Two-Handed Melee Weapons",
+      "Por": "Pode usar Armas Corpo-a-corpo de Duas Mãos"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Provide a glow underground that brightens and changes color when nearing ores in a 10 block radius. However, as your Energy / Max Energy ratio decreases, the glow weakens. The glow will match the color of the rarest nearby ore!"
+      "Eng": "Provide a glow underground that brightens and changes color when nearing ores in a 10 block radius. However, as your Energy / Max Energy ratio decreases, the glow weakens. The glow will match the color of the rarest nearby ore!",
+      "Por": "Forneça um brilho subterrâneo que ilumina e muda de cor quando se aproxima de minérios em um raio de 10 blocos. No entanto, à medida que a relação Energia / Energia Máxima diminui, o brilho enfraquece. O brilho vai combinar com a cor do minério mais raro nas proximidades!"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Miner Station allows you to smelt ore with greater yield, create alloys, and craft pickaxes!"
+      "Eng": "The Miner Station allows you to smelt ore with greater yield, create alloys, and craft pickaxes!",
+      "Por": "A Estação de Mineiro permite fundir minério com maior rendimento, criar ligas e criar picaretas!"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "While Deep Underground, gain +10 Armor, +10% Physical Resistance, and 0.8x Fall Damage Multiplier."
+      "Eng": "While Deep Underground, gain +10 Armor, +10% Physical Resistance, and 0.8x Fall Damage Multiplier.",
+      "Por": "Enquanto fundo no Subterrâneo, ganhe +10 de Armadura, +10% de Resistência Física e 0.8x de Multiplicador de Dano de Queda."
     }
   }
 ]
