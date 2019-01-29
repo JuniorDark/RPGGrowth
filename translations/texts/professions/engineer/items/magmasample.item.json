@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A sample of magma used to melt ingredients."
+      "Eng": "A sample of magma used to melt ingredients.",
+      "Por": "Uma amostra de magma usada para derreter ingredientes."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Magma Sample"
+      "Eng": "Magma Sample",
+      "Por": "Amostra de Magma"
     }
   }
 ]

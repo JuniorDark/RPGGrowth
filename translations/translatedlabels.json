@@ -374,7 +374,7 @@
           "acidsample.item.json": 2,
           "electromagnet.item.json": 2,
           "gear.item.json": 2,
-          "magmasample.item.json": 0,
+          "magmasample.item.json": 2,
           "motor.item.json": 0,
           "spowercell.item.json": 0
         },
