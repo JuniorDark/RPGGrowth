@@ -433,7 +433,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Assassino"
+    ],
     "Files": {
       "specList.config": [
         "/2/4/title",

@@ -467,7 +467,8 @@
   },
   {
     "DeniedAlternatives": [
-      "JustiÃÂ§a Cega"
+      "JustiÃÂ§a Cega",
+      "JustiÃ§a Cega"
     ],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucblindingjustice.activeitem": [
@@ -479,11 +480,13 @@
     },
     "Texts": {
       "Eng": "Blinding Justice",
-      "Por": "JustiÃ§a Cega"
+      "Por": "Justiça Cega"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Aprimoramento para o Blood Aether.\nBlood Aether pode sentir inimigos de 10 blocos mais distante.\nAlém disso, um inimigo atingido por seu próprio Blood Aether receberá mais dano de todos os Blood Aethers."
+    ],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucbloodseeker.activeitem": [
         "/description"
@@ -578,7 +581,8 @@
   },
   {
     "DeniedAlternatives": [
-      "CoraÃÂ§ÃÂ£o Frio"
+      "CoraÃÂ§ÃÂ£o Frio",
+      "CoraÃ§Ã£o Frio"
     ],
     "Files": {
       "items/upgrade chips/affinity/ivrpguccoldheart.activeitem": [
@@ -590,7 +594,7 @@
     },
     "Texts": {
       "Eng": "Cold Heart",
-      "Por": "CoraÃ§Ã£o Frio"
+      "Por": "Coração Frio"
     }
   },
   {
@@ -610,7 +614,8 @@
   },
   {
     "DeniedAlternatives": [
-      "ContÃÂ¡gio"
+      "ContÃÂ¡gio",
+      "ContÃ¡gio"
     ],
     "Files": {
       "items/upgrade chips/affinity/ivrpguccontagion.activeitem": [
@@ -622,7 +627,7 @@
     },
     "Texts": {
       "Eng": "Contagion",
-      "Por": "ContÃ¡gio"
+      "Por": "Contágio"
     }
   },
   {
@@ -644,7 +649,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Perigo PrÃÂ³ximo"
+      "Perigo PrÃÂ³ximo",
+      "Perigo PrÃ³ximo"
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -656,12 +662,13 @@
     },
     "Texts": {
       "Eng": "Danger Close",
-      "Por": "Perigo PrÃ³ximo"
+      "Por": "Perigo Próximo"
     }
   },
   {
     "DeniedAlternatives": [
-      "DescriÃÂ§ÃÂ£o"
+      "DescriÃÂ§ÃÂ£o",
+      "DescriÃ§Ã£o"
     ],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
@@ -688,7 +695,7 @@
     },
     "Texts": {
       "Eng": "Description",
-      "Por": "DescriÃ§Ã£o"
+      "Por": "Descrição"
     }
   },
   {
@@ -976,7 +983,8 @@
   },
   {
     "DeniedAlternatives": [
-      "IncurÃÂ¡vel"
+      "IncurÃÂ¡vel",
+      "IncurÃ¡vel"
     ],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucincurable.activeitem": [
@@ -988,7 +996,7 @@
     },
     "Texts": {
       "Eng": "Incurable",
-      "Por": "IncurÃ¡vel"
+      "Por": "Incurável"
     }
   },
   {
@@ -1164,7 +1172,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Desempenho MÃÂ¡ximo"
+      "Desempenho MÃÂ¡ximo",
+      "Desempenho MÃ¡ximo"
     ],
     "Files": {
       "items/upgrade chips/tech/ivrpgucpeakperformance.activeitem": [
@@ -1176,7 +1185,7 @@
     },
     "Texts": {
       "Eng": "Peak Performance",
-      "Por": "Desempenho MÃ¡ximo"
+      "Por": "Desempenho Máximo"
     }
   },
   {
@@ -1213,7 +1222,8 @@
   },
   {
     "DeniedAlternatives": [
-      "PrecisÃÂ£o Precisa"
+      "PrecisÃÂ£o Precisa",
+      "PrecisÃ£o Precisa"
     ],
     "Files": {
       "items/upgrade chips/tech/ivrpgucpinpointaccuracy.activeitem": [
@@ -1225,12 +1235,13 @@
     },
     "Texts": {
       "Eng": "Pinpoint Accuracy",
-      "Por": "PrecisÃ£o Precisa"
+      "Por": "Precisão Precisa"
     }
   },
   {
     "DeniedAlternatives": [
-      "NÃÂºcleo de Plasma"
+      "NÃÂºcleo de Plasma",
+      "NÃºcleo de Plasma"
     ],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucplasmacore.activeitem": [
@@ -1242,12 +1253,13 @@
     },
     "Texts": {
       "Eng": "Plasma Core",
-      "Por": "NÃºcleo de Plasma"
+      "Por": "Núcleo de Plasma"
     }
   },
   {
     "DeniedAlternatives": [
-      "ImprevisÃÂ­vel"
+      "ImprevisÃÂ­vel",
+      "ImprevisÃ­vel"
     ],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucquicksilver.activeitem": [
@@ -1259,7 +1271,7 @@
     },
     "Texts": {
       "Eng": "Quicksilver",
-      "Por": "ImprevisÃ­vel"
+      "Por": "Imprevisível"
     }
   },
   {
@@ -1288,7 +1300,8 @@
   },
   {
     "DeniedAlternatives": [
-      "BraÃÂ§o Direito"
+      "BraÃÂ§o Direito",
+      "BraÃ§o Direito"
     ],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucrighthandman.activeitem": [
@@ -1300,12 +1313,13 @@
     },
     "Texts": {
       "Eng": "Right Hand Man",
-      "Por": "BraÃ§o Direito"
+      "Por": "Braço Direito"
     }
   },
   {
     "DeniedAlternatives": [
-      "EspÃÂ­rito de JustiÃÂ§a"
+      "EspÃÂ­rito de JustiÃÂ§a",
+      "EspÃ­rito de JustiÃ§a"
     ],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucrighteousness.activeitem": [
@@ -1317,7 +1331,7 @@
     },
     "Texts": {
       "Eng": "Righteousness",
-      "Por": "EspÃ­rito de JustiÃ§a"
+      "Por": "Espírito de Justiça"
     }
   },
   {
@@ -1394,7 +1408,8 @@
   },
   {
     "DeniedAlternatives": [
-      "BÃÂªnÃÂ§ÃÂ£o de Skadi"
+      "BÃÂªnÃÂ§ÃÂ£o de Skadi",
+      "BÃªnÃ§Ã£o de Skadi"
     ],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucskadisblessing.activeitem": [
@@ -1406,7 +1421,7 @@
     },
     "Texts": {
       "Eng": "Skadi's Blessing",
-      "Por": "BÃªnÃ§Ã£o de Skadi"
+      "Por": "Bênção de Skadi"
     }
   },
   {

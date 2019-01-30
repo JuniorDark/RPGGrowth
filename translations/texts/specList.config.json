@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Cruzados são combatentes sagrados que esmagam inimigos com combinações devastadoras. Zelotes que são incapazes de tolerar os pagãos, Cruzados fazem mal quando tocados por inimigos, mas se superam em matar inimigos rapidamente. Cruzados só usam espadas largas, mas ainda podem usar armas corpo a corpo de duas mãos."
+    ],
     "Files": {
       "specList.config": [
         "/0/4/description",
@@ -76,7 +78,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Os Dragoons utilizam lanças para penetrar nas defesas com uma precisão insana."
+    ],
     "Files": {
       "specList.config": [
         "/0/7/description",
@@ -254,7 +258,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Use Lanças ou Espadas Curtas para derrotar inimigos. Tome dano de uma queda alta de 250 blocos sem morrer para destravar imediatamente."
+    ],
     "Files": {
       "specList.config": [
         "/0/3/unlockText"
@@ -262,7 +268,7 @@
     },
     "Texts": {
       "Eng": "Use Spears or Shortswords to defeat enemies. Take damage from a 250-block high fall without dying to unlock immediately.",
-      "Por": "Use Lanças ou Espadas Curtas para derrotar inimigos. Tome dano de uma queda alta de 250 blocos sem morrer para destravar imediatamente."
+      "Por": "Use Lanças ou Espadas Curtas para derrotar inimigos. Leve dano de uma grande queda de 250 blocos sem morrer para destravar imediatamente."
     }
   },
   {
@@ -279,7 +285,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ainda desconhecido! Novas atualizações podem esclarecer esse requisito."
+    ],
     "Files": {
       "specList.config": [
         "/0/7/unlockText",
@@ -293,6 +301,7 @@
   },
   {
     "DeniedAlternatives": [
+      "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nFaça Escudo Perfeito, ou cause dano com Pistolas ou Pistola Automáticas.",
       "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;Faça Escudo Perfeito, ou cause dano com Pistolas ou Metralhadoras."
     ],
     "Files": {
@@ -306,7 +315,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Use armas de longo alcance para derrotar bandidos e foras da lei."
+    ],
     "Files": {
       "specList.config": [
         "/3/2/unlockText"
@@ -334,7 +345,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Usando uma Adaga, Kunai, Shuriken ou Leque, derrote inimigos enquanto a Agilidade for maior que 30."
+      "Usando um Chicote, Kunai, Shuriken ou Leque, derrote inimigos enquanto a Agilidade for maior que 30."
     ],
     "Files": {
       "specList.config": [
@@ -398,7 +409,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "red;Apenas Personagem Feminino^white;\nValquírias são anjos com domínio sobre a vida que concedem poder ilimitado a aliados dignos. Fenomenal com lanças e espadas curtas, Valquírias usam seus poderes sagrados para planar graciosamente pelo campo de batalha, punindo inimigos."
+    ],
     "Files": {
       "specList.config": [
         "/0/3/description"
@@ -406,7 +419,7 @@
     },
     "Texts": {
       "Eng": "^red;Female Only^white;\nValkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies.",
-      "Por": "red;Apenas Personagem Feminino^white;\nValquírias são anjos com domínio sobre a vida que concedem poder ilimitado a aliados dignos. Fenomenal com lanças e espadas curtas, Valquírias usam seus poderes sagrados para planar graciosamente pelo campo de batalha, punindo inimigos."
+      "Por": "^red;Apenas Personagem Feminino^white;\nValquírias são anjos com domínio sobre a vida que concedem poder ilimitado a aliados dignos. Fenomenal com lanças e espadas curtas, Valquírias usam seus poderes sagrados para planar graciosamente pelo campo de batalha, punindo inimigos."
     }
   }
 ]
