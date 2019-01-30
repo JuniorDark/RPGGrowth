@@ -297,7 +297,7 @@
         },
         "weapon": {
           "ivrpgucblindingjustice.activeitem.json": 1,
-          "ivrpgucbloodseeker.activeitem.json": 0,
+          "ivrpgucbloodseeker.activeitem.json": 1,
           "ivrpguccharger.activeitem.json": 1,
           "ivrpguccombobreaker.activeitem.json": 1,
           "ivrpguchardlight.activeitem.json": 1,
