@@ -45,7 +45,7 @@
             "parryshield.weaponability.json": 1
           },
           "ninjashuriken": {
-            "aethertanto1.activeitem.json": 0,
+            "aethertanto1.activeitem.json": 1,
             "aethertanto2.activeitem.json": 0,
             "shuriken": {
               "ninjaaethershuriken.thrownitem.json": 0,
