@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Spiral Power"
     ],
     "Files": {
@@ -14,7 +14,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "items/crafting/explorer/ivrpgspiralpower.item": [
         "/description"

@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [
         "/paneLayout/windowtitle/title"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [
         "/paneLayout/windowtitle/subtitle"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [
         "/paneLayout/lblProduct/value"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [
         "/paneLayout/btnCraft/caption"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [
         "/paneLayout/lblSchematics/value"
@@ -60,7 +60,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [
         "/paneLayout/lblProducttitle/value"

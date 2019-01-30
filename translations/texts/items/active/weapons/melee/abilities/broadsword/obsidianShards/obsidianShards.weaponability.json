@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "items/active/weapons/melee/abilities/broadsword/obsidianShards/obsidianShards.weaponability": [
         "/ability/name"

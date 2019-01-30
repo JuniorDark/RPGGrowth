@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/wraith.config": [
         "/effects/8/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/wraith.config": [
         "/effects/5/text"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/wraith.config": [
         "/effects/2/text"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/wraith.config": [
         "/effects/6/text"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/wraith.config": [
         "/classic/0/text"
@@ -60,7 +60,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/wraith.config": [
         "/ability/text"
@@ -72,7 +72,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/wraith.config": [
         "/effects/4/text"
@@ -84,7 +84,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/wraith.config": [
         "/weapon/title"
@@ -96,7 +96,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/wraith.config": [
         "/effects/3/text"
@@ -108,7 +108,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/wraith.config": [
         "/tech/text"
@@ -120,7 +120,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/wraith.config": [
         "/classic/1/text"

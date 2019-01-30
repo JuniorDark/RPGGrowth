@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "projectiles/grenades/shock/shockcharge.thrownitem": [
         "/shortdescription"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "projectiles/grenades/shock/shockcharge.thrownitem": [
         "/description"

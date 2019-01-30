@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "quests/spiraquest.questtemplate": [
         "/completionText"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Parece que você planeja visitar muitos lugares, e eu acabei de perceber que suas viagens seriam facilitadas se suas ferramentas de mineração fossem melhoradas. Comecei a trabalhar em um protótipo que eu preciso de sua ajuda para construir: se você pudesse derrotar ^green;monstros que podem girar,^reset; talvez eu possa descobrir algo.^white;"
     ],
     "Files": {
@@ -26,7 +26,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "quests/spiraquest.questtemplate": [
         "/title"

@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "tech/ninjatech/ninjaassassinate/ninjaassassinate.tech": [
         "/description"

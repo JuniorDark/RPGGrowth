@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/refinetext/value"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/weapontext/value"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/effecttext/value"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/passivetext/value",
@@ -49,7 +49,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/overviewlayout/children/hardcoretext/value"
@@ -61,7 +61,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/classweapontext/value",
@@ -74,7 +74,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/challenge1progress/value",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/xpover/value"
@@ -100,7 +100,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationlayout/children/effecttext/value"
@@ -112,7 +112,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/aestheticstoggletext/value",
@@ -127,7 +127,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionlayout/children/passivetitle/value"
@@ -139,7 +139,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/aesthetictitle/value"
@@ -151,7 +151,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/upgradelayout/children/affinitytitle/value"
@@ -163,7 +163,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Após a Melhoria"
     ],
     "Files": {
@@ -177,7 +177,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/alchemisttitle/value"
@@ -189,7 +189,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/infolayout/children/displaystats/value"
@@ -201,7 +201,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/infolayout/children/displaystatsFU/value"
@@ -213,7 +213,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/areyousure/value"
@@ -225,7 +225,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/overviewlayout/children/areyousure/value"
@@ -237,7 +237,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/bardtitle/value"
@@ -249,7 +249,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionlayout/children/benefittext/value",
@@ -262,7 +262,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionlayout/children/benefittitle/value",
@@ -275,7 +275,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/toggleclassabilitytitle/value"
@@ -287,7 +287,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/botanisttitle/value"
@@ -299,7 +299,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/challenge1/value"
@@ -311,7 +311,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/challenge2/value"
@@ -323,7 +323,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/challenge3/value"
@@ -335,7 +335,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/challengetitle/value"
@@ -347,7 +347,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/cheftitle/value"
@@ -359,7 +359,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/classweapontitle/value"
@@ -371,7 +371,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/overviewlayout/children/hardcoretitle/value",
@@ -387,7 +387,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/infolayout/children/displayWeapons/value"
@@ -399,7 +399,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/overviewlayout/children/hardcoreweapontext/value"
@@ -411,7 +411,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitieslayout/children/affinitydescription/value"
@@ -423,7 +423,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionlayout/children/craftingtext/value"
@@ -435,7 +435,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionlayout/children/craftingtitle/value"
@@ -447,7 +447,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/shoptext/value"
@@ -459,7 +459,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationlayout/children/detrimenttext/value"
@@ -471,7 +471,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/xpovertitle/value"
@@ -483,7 +483,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationslayout/children/locked/value"
@@ -495,7 +495,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/upgradelayout/children/generaltitle/value"
@@ -507,7 +507,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/infolayout/children/displayFU/value"
@@ -519,7 +519,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/immunitytitle/value"
@@ -531,7 +531,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionlayout/children/passiveactive/value"
@@ -543,7 +543,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/jewelertitle/value"
@@ -555,7 +555,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/upgradelayout/children/upgradetext/value"
@@ -567,7 +567,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/levelLabel/value",
@@ -580,7 +580,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionlockedlayout/children/locked/value"
@@ -592,7 +592,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylockedlayout/children/locked/value"
@@ -604,7 +604,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylockedlayout/children/locked/value"
@@ -616,7 +616,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationslayout/children/loretitle/value"
@@ -628,7 +628,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/masterytitle/value"
@@ -640,7 +640,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/shoptitle/value"
@@ -652,7 +652,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/overviewlayout/children/rallymodetext/value"
@@ -664,7 +664,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/affinitytitle/value"
@@ -676,7 +676,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/classtitle/value"
@@ -688,7 +688,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionlayout/children/proftitle/value"
@@ -700,7 +700,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/overviewlayout/children/spectitle/value"
@@ -712,7 +712,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationlayout/children/spectitle/value"
@@ -724,7 +724,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/tabLabel/value"
@@ -736,7 +736,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/passivetitle/value",
@@ -749,7 +749,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionlayout/children/passivetext/value"
@@ -761,7 +761,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationlayout/children/detrimenttitle/value"
@@ -773,7 +773,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/prestigetitle/value"
@@ -785,7 +785,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/title/value"
@@ -797,7 +797,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/subtitle/value"
@@ -809,7 +809,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/overviewlayout/children/rallymodetitle/value"
@@ -821,7 +821,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/reqlvl/value"
@@ -833,7 +833,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/weaponreqlvl/value"
@@ -845,7 +845,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/prestigetext/value"
@@ -857,7 +857,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionlayout/children/scalingtext/value"
@@ -869,7 +869,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/techtext/value"
@@ -881,7 +881,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationlayout/children/techtitle/value"
@@ -893,7 +893,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/techname/value"
@@ -905,7 +905,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationlayout/children/techname/value"
@@ -917,7 +917,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationlayout/children/techtext/value"
@@ -929,7 +929,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/techtitle/value"
@@ -941,7 +941,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/smithtitle/value"
@@ -953,7 +953,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationslayout/children/title/value"
@@ -965,7 +965,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationslayout/children/spectitle/value"
@@ -977,7 +977,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationslayout/children/subtitle/value"
@@ -989,7 +989,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/immunitytext/value",
@@ -1005,7 +1005,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/statpointslefttext/value"
@@ -1017,7 +1017,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/overviewlayout/children/statpointsremaining/value"
@@ -1029,7 +1029,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/statscalingtext/value",
@@ -1045,7 +1045,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/infolayout/children/display/value"
@@ -1057,7 +1057,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/upgradelayout/children/techtitle/value"
@@ -1069,7 +1069,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/techtype/value",
@@ -1082,7 +1082,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/challengetext/value"
@@ -1094,7 +1094,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/totalstatstext/value"
@@ -1106,7 +1106,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/overviewlayout/children/xptotallabel/value"
@@ -1118,7 +1118,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/masterytotal/value"
@@ -1130,7 +1130,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/upgradelayout/children/affinityname/value",
@@ -1145,7 +1145,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionlayout/children/uniquetitle/value"
@@ -1157,7 +1157,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionlayout/children/uniquetext/value"
@@ -1169,7 +1169,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Desbloqueado"
     ],
     "Files": {
@@ -1183,7 +1183,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationslayout/children/loretext/value",
@@ -1196,7 +1196,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationlockedlayout/children/locked/value"
@@ -1208,7 +1208,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/unlockedtext/value"
@@ -1220,7 +1220,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Melhore sua Afinidade usando seu respectivo Pergaminho de Melhoria! Lute contra guardiões que controlam a sua afinidade para a chance de conseguir um! Nível Exigido: 45!"
     ],
     "Files": {
@@ -1234,7 +1234,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Melhorias"
     ],
     "Files": {
@@ -1248,7 +1248,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/affinitylayout/children/weaknesstitle/value"
@@ -1260,7 +1260,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationlayout/children/specweaponicontitle/value",
@@ -1274,7 +1274,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationslayout/children/weapontitle/value"
@@ -1286,7 +1286,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/classlayout/children/weapontitle/value"
@@ -1298,7 +1298,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationlayout/children/specweapontitle/value"
@@ -1310,7 +1310,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/xpLabel/value"
@@ -1322,7 +1322,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/overviewlayout/children/xptglabel/value"
@@ -1334,7 +1334,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/statprevention/value"
@@ -1346,7 +1346,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/windowtitle/subtitle"

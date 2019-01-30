@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "items/active/classweapons/rogueclaw/roguesiphonclaw3v.activeitem": [
         "/description"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "items/active/classweapons/rogueclaw/roguesiphonclaw3v.activeitem": [
         "/shortdescription"

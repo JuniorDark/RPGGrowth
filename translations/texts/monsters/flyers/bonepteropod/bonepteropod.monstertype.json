@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "monsters/flyers/bonepteropod/bonepteropod.monstertype": [
         "/description"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "monsters/flyers/bonepteropod/bonepteropod.monstertype": [
         "/shortdescription"

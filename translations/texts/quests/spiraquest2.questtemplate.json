@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "NAgora que você tem o projeto para uma ferramenta poderosa, você poderá melhora-la. Eu vou te avisar quando chegar a hora.^white;"
     ],
     "Files": {
@@ -14,7 +14,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Você é muito mais vigilante agora! Eu melhorei seu Spira. Agora você também poderá construir o Hungry Spira em uma bigorna melhorada."
     ],
     "Files": {

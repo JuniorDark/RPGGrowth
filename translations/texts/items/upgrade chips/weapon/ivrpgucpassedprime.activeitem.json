@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucpassedprime.activeitem": [
         "/description"

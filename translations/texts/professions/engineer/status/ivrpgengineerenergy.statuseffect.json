@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "professions/engineer/status/ivrpgengineerenergy.statuseffect": [
         "/label"

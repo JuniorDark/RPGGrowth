@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "scripts/soldierdiscipline/soldierdiscipline.statuseffect": [
         "/label"

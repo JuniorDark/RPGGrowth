@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Gun Parts"
     ],
     "Files": {
@@ -14,7 +14,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "items/crafting/soldier/ivrpggunparts.item": [
         "/description"

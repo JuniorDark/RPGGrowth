@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/knight.config": [
         "/passive/0/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/knight.config": [
         "/weaponBonuses/0/text"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/knight.config": [
         "/weaponBonuses/1/text"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/knight.config": [
         "/classic/2/text"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Uma melhoria para o Esmagar. Enquanto corre, o jogador recebe Resistência Física. Enquanto o dano permanece o mesmo, inimigos são atordoados ao acertar. O Dano escala com Força e Velocidade de Corrida. O Custo de Energia diminui com Agilidade alta."
     ],
     "Files": {
@@ -62,7 +62,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Uma melhoria para o Pulo Duplo, pressione [G] (Vincule [G] em seus Controles) enquanto no meio do ar para bater para baixo. Você não leva nenhum dano de queda ao pousar, e causa uma pequena explosão, causando dano a inimigos. O Dano escala com Força e distância de queda da ativação."
     ],
     "Files": {
@@ -76,7 +76,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Uma melhoria para a Esfera de Espinhos, enquanto transformado, ignora knockback e causa dano de contato nos inimigos. A Armadura também é aumentada enquanto transformado."
     ],
     "Files": {
@@ -90,7 +90,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Uma melhoria para a Corrida, enquanto corre, os inimigos recebem dano e knockback. O dano é duplicado ao segurar um escudo. Dano escala com Força e Velocidade de Corrida. O custo de energia diminui com Agilidade maior."
     ],
     "Files": {
@@ -104,7 +104,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/knight.config": [
         "/classic/0/text"
@@ -116,7 +116,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/knight.config": [
         "/ability/text"

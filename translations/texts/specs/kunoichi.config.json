@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/kunoichi.config": [
         "/effects/3/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/kunoichi.config": [
         "/effects/4/text"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/kunoichi.config": [
         "/effects/5/text"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/kunoichi.config": [
         "/effects/6/text"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/kunoichi.config": [
         "/classic/0/text"
@@ -60,7 +60,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/kunoichi.config": [
         "/effects/0/text"
@@ -72,7 +72,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/kunoichi.config": [
         "/effects/2/text"
@@ -84,7 +84,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/kunoichi.config": [
         "/ability/text"
@@ -96,7 +96,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/kunoichi.config": [
         "/weapon/title"
@@ -108,7 +108,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/kunoichi.config": [
         "/tech/text"

@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/techs/valkyrie/status/einherjarcooldown.statuseffect": [
         "/label"

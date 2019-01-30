@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "quests/spiraquest3.questtemplate": [
         "/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Você é tão vigilante quanto pode ser! Eu melhorei sua Spira. Agora você também poderá construir a Ravenous Spira em uma bigorna melhorada."
     ],
     "Files": {

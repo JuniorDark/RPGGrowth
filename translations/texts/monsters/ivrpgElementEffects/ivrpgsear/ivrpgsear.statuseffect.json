@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "monsters/ivrpgElementEffects/ivrpgsear/ivrpgsear.statuseffect": [
         "/label"

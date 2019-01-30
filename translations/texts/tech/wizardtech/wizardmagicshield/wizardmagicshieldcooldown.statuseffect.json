@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "tech/wizardtech/wizardmagicshield/wizardmagicshieldcooldown.statuseffect": [
         "/label"

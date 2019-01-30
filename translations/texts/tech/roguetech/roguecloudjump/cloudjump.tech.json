@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "tech/roguetech/roguecloudjump/cloudjump.tech": [
         "/shortDescription"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "tech/roguetech/roguecloudjump/cloudjump.tech": [
         "/description"

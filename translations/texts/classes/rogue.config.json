@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/rogue.config": [
         "/passive/0/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/rogue.config": [
         "/classic/2/text"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/rogue.config": [
         "/weaponBonuses/0/text"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Uma Melhoria para o Pulo Duplo, pressione [Espaço] para se lançar em uma direção à sua escolha, deixando uma nuvem de fumaça para trás que desorienta inimigos. Inimigos desorientados ficam lentos e causam menos dano. O padrão é um lançamento para trás."
     ],
     "Files": {
@@ -50,7 +50,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/rogue.config": [
         "/classic/0/text"
@@ -62,7 +62,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/rogue.config": [
         "/techs/1/text"
@@ -74,7 +74,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/rogue.config": [
         "/techs/3/text"
@@ -86,7 +86,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/rogue.config": [
         "/techs/0/text"
@@ -98,7 +98,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/rogue.config": [
         "/ability/text"

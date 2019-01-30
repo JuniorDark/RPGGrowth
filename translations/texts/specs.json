@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/techs/titan/atlasburden.statuseffect": [
         "/label"
@@ -18,7 +18,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/cannoneer.config": [
         "/tech/title"
@@ -33,7 +33,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/pioneer.config": [
         "/tech/title"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/techs/wraith/darkphase.tech": [
         "/shortDescription"
@@ -63,7 +63,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/techs/vigilante/desperado.tech": [
         "/shortDescription"
@@ -81,7 +81,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/dragoon.config": [
         "/tech/title"
@@ -96,7 +96,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/techs/valkyrie/einherjar.tech": [
         "/shortDescription"
@@ -114,7 +114,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/adept.config": [
         "/tech/title"
@@ -129,7 +129,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/paladin.config": [
         "/tech/title"
@@ -147,7 +147,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/necromancer.config": [
         "/tech/title"
@@ -162,7 +162,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/crusader.config": [
         "/tech/title"
@@ -177,7 +177,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/techs/vanguard/rush.tech": [
         "/shortDescription"
@@ -192,7 +192,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "specs/kunoichi.config": [
         "/tech/title"

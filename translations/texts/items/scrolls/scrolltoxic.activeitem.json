@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Scroll: Toxins"
     ],
     "Files": {
@@ -14,7 +14,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "items/scrolls/scrolltoxic.activeitem": [
         "/description"

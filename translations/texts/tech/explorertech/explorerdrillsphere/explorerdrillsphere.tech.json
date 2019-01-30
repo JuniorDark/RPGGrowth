@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "tech/explorertech/explorerdrillsphere/explorerdrillsphere.tech": [
         "/description"

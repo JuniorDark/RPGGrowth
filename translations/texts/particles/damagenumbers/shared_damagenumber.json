@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "particles/damagenumbers/bleeddamagenumber.particle": [
         "/definition/text"

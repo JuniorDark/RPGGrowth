@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.config": [
         "/paneLayout/windowtitle/title"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.config": [
         "/paneLayout/windowtitle/subtitle"

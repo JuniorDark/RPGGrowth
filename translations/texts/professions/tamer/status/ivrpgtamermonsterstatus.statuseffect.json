@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "professions/tamer/status/ivrpgtamermonsterstatus.statuseffect": [
         "/label"

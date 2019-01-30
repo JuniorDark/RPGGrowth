@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/masteryshop.object": [
         "/description"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/masteryshop.object": [
         "/novakidDescription"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/masteryshop.object": [
         "/apexDescription"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/masteryshop.object": [
         "/glitchDescription"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Master's Desk"
     ],
     "Files": {
@@ -62,7 +62,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/masteryshop.object": [
         "/floranDescription"
@@ -74,7 +74,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/masteryshop.object": [
         "/avianDescription"
@@ -86,7 +86,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/masteryshop.object": [
         "/humanDescription"
@@ -98,7 +98,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "objects/mastery/shop/masteryshop.object": [
         "/hylotlDescription"

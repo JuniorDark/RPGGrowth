@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken.thrownitem": [
         "/description"

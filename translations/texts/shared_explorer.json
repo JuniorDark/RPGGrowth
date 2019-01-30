@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/explorer.config": [
         "/techs/2/title"
@@ -15,7 +15,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Arrancada Melhorada"
     ],
     "Files": {
@@ -35,7 +35,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/explorer.config": [
         "/techs/0/title"

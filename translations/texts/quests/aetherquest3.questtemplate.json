@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "quests/aetherquest3.questtemplate": [
         "/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Você é tão habilidoso quanto pode ser! Eu melhorei seu Aether. Agora você também poderá construir o Blood Aether em uma bigorna melhorada."
     ],
     "Files": {

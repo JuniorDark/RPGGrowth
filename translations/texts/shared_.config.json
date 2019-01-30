@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/ninja.config": [
         "/classic/3/text"
@@ -15,7 +15,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/knight.config": [
         "/classic/3/text"
@@ -30,7 +30,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/soldier.config": [
         "/classic/2/text"

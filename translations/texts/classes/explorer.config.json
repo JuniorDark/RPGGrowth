@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/explorer.config": [
         "/passive/0/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/explorer.config": [
         "/weaponBonuses/0/text"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/explorer.config": [
         "/passive/1/text"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/explorer.config": [
         "/classic/0/text"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Uma Melhoria para o Pulo Duplo, segure [W] para planar para frente, lentamente perdendo altitude. Você pode usar o seu pulo duplo enquanto plana. O custo da energia do Planar diminui com Agilidade alta.\n"
     ],
     "Files": {
@@ -62,7 +62,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Uma Melhoria para o Planar. Ganhe mais três pulos no ar e um pulo na parede. Pulos no ar são 85% tão eficaz. Você se agarra às paredes um pouco mais longo do que o Pulo na Parede normal e desliza mais devagar. O custo de energia do Planar diminui com Agilidade maior.\n"
     ],
     "Files": {
@@ -76,7 +76,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/explorer.config": [
         "/techs/3/title"
@@ -88,7 +88,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/explorer.config": [
         "/techs/1/text"
@@ -100,7 +100,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/explorer.config": [
         "/techs/2/text"
@@ -112,7 +112,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "classes/explorer.config": [
         "/ability/text"

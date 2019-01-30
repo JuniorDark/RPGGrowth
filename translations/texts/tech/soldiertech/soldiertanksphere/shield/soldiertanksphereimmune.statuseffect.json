@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "tech/soldiertech/soldiertanksphere/shield/soldiertanksphereimmune.statuseffect": [
         "/label"

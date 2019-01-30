@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "quests/novaquest3.questtemplate": [
         "/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Você é tão inteligente quanto pode ser! Eu melhorei sua Nova. Agora você também poderá construir a Primed Nova em uma bigorna melhorada"
     ],
     "Files": {

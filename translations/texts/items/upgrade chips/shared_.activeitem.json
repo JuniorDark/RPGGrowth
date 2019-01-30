@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucaffinitytest.activeitem": [
         "/description"
@@ -21,7 +21,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucaffinitytest.activeitem": [
         "/shortdescription"

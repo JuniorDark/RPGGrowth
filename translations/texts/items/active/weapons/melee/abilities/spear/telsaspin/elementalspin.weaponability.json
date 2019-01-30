@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "items/active/weapons/melee/abilities/spear/telsaspin/elementalspin.weaponability": [
         "/ability/name"

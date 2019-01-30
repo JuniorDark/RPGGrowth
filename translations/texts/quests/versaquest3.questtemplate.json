@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "quests/versaquest3.questtemplate": [
         "/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
+    "DeniedAlternative": [
       "Você é tão preciso quanto pode ser! Eu melhorei sua Versa. Agora você também poderá construir a versa Ricochet em uma bigorna melhorada."
     ],
     "Files": {

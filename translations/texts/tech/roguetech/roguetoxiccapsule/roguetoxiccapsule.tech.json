@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "tech/roguetech/roguetoxiccapsule/roguetoxiccapsule.tech": [
         "/description"

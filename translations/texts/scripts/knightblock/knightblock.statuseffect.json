@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "scripts/knightblock/knightblock.statuseffect": [
         "/label"

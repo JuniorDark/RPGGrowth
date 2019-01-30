@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "tech/soldiertech/soldiermissilestrike/soldiermissilestrike.tech": [
         "/description"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternative": [],
     "Files": {
       "tech/soldiertech/soldiermissilestrike/soldiermissilestrike.tech": [
         "/shortDescription"
