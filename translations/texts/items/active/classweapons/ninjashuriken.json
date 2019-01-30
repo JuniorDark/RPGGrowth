@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Feed me."
+      "Eng": "Feed me.",
+      "Por": "Alimente me."
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Shadow Aether"
+      "Eng": "Shadow Aether",
+      "Por": "Shadow Aether"
     }
   },
   {
@@ -38,7 +40,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Blood Aether"
+      "Eng": "^red;Blood Aether",
+      "Por": "^red;Blood Aether"
     }
   }
 ]
