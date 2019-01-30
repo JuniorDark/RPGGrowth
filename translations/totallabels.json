@@ -45,10 +45,14 @@
             "parryshield.weaponability.json": 1
           },
           "ninjashuriken": {
-            "ninjaaethershuriken2.thrownitem.json": 2,
-            "ninjaaethershuriken3.thrownitem.json": 2,
-            "shared_ninjaaether.json": 1
+            "aethertanto1.activeitem.json": 1,
+            "aethertanto2.activeitem.json": 1,
+            "shuriken": {
+              "ninjaaethershuriken.thrownitem.json": 1,
+              "ninjaaethershuriken2.thrownitem.json": 1
+            }
           },
+          "ninjashuriken.json": 3,
           "rogueclaw": {
             "roguesiphonclaw.activeitem.json": 1,
             "roguesiphonclaw2s.activeitem.json": 2,
@@ -146,7 +150,7 @@
                 "demonsword": {
                   "giantsword.weaponability.json": 1
                 },
-                "energywall": {
+                "ivrpgenergywall": {
                   "elementalpillar.weaponability.json": 1
                 }
               },
@@ -789,7 +793,6 @@
           "wizardtranslocate.tech.json": 1
         }
       }
-    },
-    "wide_spread_fields.json": 77
+    }
   }
 }

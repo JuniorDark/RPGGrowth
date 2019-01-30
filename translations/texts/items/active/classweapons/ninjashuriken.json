@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/ninjashuriken/aethertanto3.activeitem": [
+        "/description"
+      ],
+      "items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken3.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feed me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/ninjashuriken/aethertanto2.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken2.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Aether"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/ninjashuriken/aethertanto3.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken3.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Blood Aether"
+    }
+  }
+]

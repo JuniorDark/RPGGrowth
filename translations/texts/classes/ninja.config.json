@@ -27,18 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/ninja.config": [
-        "/weaponBonuses/1/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "110% Base Power while using Chakrams, Daggers, or Whips.",
-      "Por": "110% de Força Base ao usar Chakrams, Adagas ou Chicotes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "classes/ninja.config": [
         "/passive/0/text"
       ]
     },
@@ -57,6 +45,17 @@
     "Texts": {
       "Eng": "115% Base Power while using Throwing Daggers, Knives, Kunai, Stars, or Shurikens.",
       "Por": "115% de Força Base enquanto estiver usando Adagas, Facas, Kunai, Estrelas ou Shurikens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/weaponBonuses/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Base Power while using Tantōs, Chakrams, Daggers, or Whips."
     }
   },
   {

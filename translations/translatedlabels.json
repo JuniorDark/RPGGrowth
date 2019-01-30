@@ -16,7 +16,7 @@
       "classDescriptions.config.json": 6,
       "explorer.config.json": 10,
       "knight.config.json": 10,
-      "ninja.config.json": 12,
+      "ninja.config.json": 11,
       "rogue.config.json": 9,
       "shared_.config.json": 1,
       "soldier.config.json": 11,
@@ -25,7 +25,7 @@
     "default.config.json": 1,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 110
+        "RPGskillbook.config.json": 109
       }
     },
     "items": {
@@ -45,10 +45,14 @@
             "parryshield.weaponability.json": 1
           },
           "ninjashuriken": {
-            "ninjaaethershuriken2.thrownitem.json": 2,
-            "ninjaaethershuriken3.thrownitem.json": 2,
-            "shared_ninjaaether.json": 1
+            "aethertanto1.activeitem.json": 0,
+            "aethertanto2.activeitem.json": 0,
+            "shuriken": {
+              "ninjaaethershuriken.thrownitem.json": 0,
+              "ninjaaethershuriken2.thrownitem.json": 0
+            }
           },
+          "ninjashuriken.json": 0,
           "rogueclaw": {
             "roguesiphonclaw.activeitem.json": 1,
             "roguesiphonclaw2s.activeitem.json": 2,
@@ -146,8 +150,8 @@
                 "demonsword": {
                   "giantsword.weaponability.json": 1
                 },
-                "energywall": {
-                  "elementalpillar.weaponability.json": 1
+                "ivrpgenergywall": {
+                  "elementalpillar.weaponability.json": 0
                 }
               },
               "spear": {
@@ -293,7 +297,7 @@
         },
         "weapon": {
           "ivrpgucblindingjustice.activeitem.json": 1,
-          "ivrpgucbloodseeker.activeitem.json": 1,
+          "ivrpgucbloodseeker.activeitem.json": 0,
           "ivrpguccharger.activeitem.json": 1,
           "ivrpguccombobreaker.activeitem.json": 1,
           "ivrpguchardlight.activeitem.json": 1,
@@ -304,11 +308,11 @@
           "ivrpgucspintowin.activeitem.json": 1,
           "ivrpgucsymbiosis.activeitem.json": 1,
           "ivrpguctriggerhappy.activeitem.json": 1,
-          "ivrpgucvampirescaress.activeitem.json": 1
+          "ivrpgucvampirescaress.activeitem.json": 0
         }
       }
     },
-    "ivrpgtext.config.json": 56,
+    "ivrpgtext.config.json": 55,
     "monsters": {
       "flyers": {
         "bonepteropod": {
@@ -393,7 +397,7 @@
           "ivrpgmedicregeneration.statuseffect.json": 1
         }
       },
-      "medic.config.json": 5,
+      "medic.config.json": 4,
       "miner": {
         "items": {
           "bars": {
@@ -789,7 +793,6 @@
           "wizardtranslocate.tech.json": 1
         }
       }
-    },
-    "wide_spread_fields.json": 77
+    }
   }
 }

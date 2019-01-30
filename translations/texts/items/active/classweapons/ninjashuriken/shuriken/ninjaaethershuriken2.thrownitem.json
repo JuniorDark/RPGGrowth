@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken2.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Aether, a sharper, shadowy shuriken that duplicates using dark energy."
+    }
+  }
+]

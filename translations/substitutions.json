@@ -178,13 +178,25 @@
   "items/active/classweapons/knightsword/knightaegissword.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
-  "items/active/classweapons/ninjashuriken/ninjaaetherdagger.activeitem": {
-    "/description": "texts/items/active/classweapons/ninjashuriken/shared_ninjaaether.json",
+  "items/active/classweapons/ninjashuriken/aethertanto1.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
-  "items/active/classweapons/ninjashuriken/ninjaaethershuriken.thrownitem": {
-    "/description": "texts/items/active/classweapons/ninjashuriken/shared_ninjaaether.json",
+  "items/active/classweapons/ninjashuriken/aethertanto2.activeitem": {
+    "/shortdescription": "texts/items/active/classweapons/ninjashuriken.json"
+  },
+  "items/active/classweapons/ninjashuriken/aethertanto3.activeitem": {
+    "/description": "texts/items/active/classweapons/ninjashuriken.json",
+    "/shortdescription": "texts/items/active/classweapons/ninjashuriken.json"
+  },
+  "items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken.thrownitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken2.thrownitem": {
+    "/shortdescription": "texts/items/active/classweapons/ninjashuriken.json"
+  },
+  "items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken3.thrownitem": {
+    "/description": "texts/items/active/classweapons/ninjashuriken.json",
+    "/shortdescription": "texts/items/active/classweapons/ninjashuriken.json"
   },
   "items/active/classweapons/rogueclaw/roguesiphonclaw.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
@@ -325,7 +337,7 @@
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/upgrade chips/weapon/ivrpgucbloodseeker.activeitem": {
-    "/shortdescription": "texts/wide_spread_fields.json"
+    "/description": "texts/wide_spread_fields.json"
   },
   "items/upgrade chips/weapon/ivrpguccharger.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
@@ -403,7 +415,7 @@
     "/upgrades/tech/ivrpgucpinpointaccuracy/title": "texts/wide_spread_fields.json",
     "/upgrades/tech/ivrpgucwavedash/title": "texts/wide_spread_fields.json",
     "/upgrades/weapon/ivrpgucblindingjustice/title": "texts/wide_spread_fields.json",
-    "/upgrades/weapon/ivrpgucbloodseeker/title": "texts/wide_spread_fields.json",
+    "/upgrades/weapon/ivrpgucbloodseeker/description": "texts/wide_spread_fields.json",
     "/upgrades/weapon/ivrpguccharger/title": "texts/wide_spread_fields.json",
     "/upgrades/weapon/ivrpguccombobreaker/title": "texts/wide_spread_fields.json",
     "/upgrades/weapon/ivrpguchardlight/title": "texts/wide_spread_fields.json",

@@ -14,31 +14,28 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Melhoria para o Blood Aether.Blood Aether pode sentir inimigos de 10 blocos mais distante.Além disso, um inimigo atingido por seu próprio Blood Aether receberá mais dano de todos os Blood Aethers."
-    ],
-    "Files": {
-      "ivrpgtext.config": [
-        "/upgrades/weapon/ivrpgucbloodseeker/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Blood Aether Upgrade.\nBlood Aether can sense enemies from 10 blocks further.\nIn addition, an enemy hit by your own Blood Aether will take more damage from all Blood Aethers.",
-      "Por": "Aprimoramento para o Blood Aether.\nBlood Aether pode sentir inimigos de 10 blocos mais distante.\nAlém disso, um inimigo atingido por seu próprio Blood Aether receberá mais dano de todos os Blood Aethers."
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Melhoria para o Blood Aether.Ao matar um inimigo com Blood Aether, ganha 2 segundos de Raiva e Regeneração fraca."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/weapon/ivrpgucvampirescaress/description"
       ]
     },
     "Texts": {
-      "Eng": "Blood Aether Upgrade.\nUpon killing an enemy with Blood Aether, gain 2 seconds of Rage and Weak Regeneration.",
-      "Por": "Aprimoramento para o Blood Aether.\nAo matar um inimigo com Blood Aether, ganha 2 segundos de Raiva e Regeneração fraca."
+      "Eng": "Blood Aether Upgrade.\nUpon killing an enemy with Blood Aether, gain 2 seconds of Weak Regeneration."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "CaÃ§ador de Sangue"
+    ],
+    "Files": {
+      "ivrpgtext.config": [
+        "/upgrades/weapon/ivrpgucbloodseeker/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Seeker",
+      "Por": "Caçador de Sangue"
     }
   },
   {

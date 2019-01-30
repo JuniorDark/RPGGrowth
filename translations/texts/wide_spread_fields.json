@@ -395,10 +395,10 @@
       "classes/ninja.config": [
         "/weapon/title"
       ],
-      "items/active/classweapons/ninjashuriken/ninjaaetherdagger.activeitem": [
+      "items/active/classweapons/ninjashuriken/aethertanto1.activeitem": [
         "/shortdescription"
       ],
-      "items/active/classweapons/ninjashuriken/ninjaaethershuriken.thrownitem": [
+      "items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken.thrownitem": [
         "/shortdescription"
       ]
     },
@@ -483,20 +483,17 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Ca√É¬ßador de Sangue"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucbloodseeker.activeitem": [
-        "/shortdescription"
+        "/description"
       ],
       "ivrpgtext.config": [
-        "/upgrades/weapon/ivrpgucbloodseeker/title"
+        "/upgrades/weapon/ivrpgucbloodseeker/description"
       ]
     },
     "Texts": {
-      "Eng": "Blood Seeker",
-      "Por": "Ca√ßador de Sangue"
+      "Eng": "Blood Aether Upgrade.\nEnergy Kunai leave behind disorienting smoke."
     }
   },
   {
@@ -1046,9 +1043,6 @@
       ],
       "professions/medic/status/ivrpgmedicstatus.statuseffect": [
         "/label"
-      ],
-      "professions/miner/status/ivrpgminerstatus.statuseffect": [
-        "/label"
       ]
     },
     "Texts": {
@@ -1079,6 +1073,9 @@
       ],
       "professions/miner.config": [
         "/title"
+      ],
+      "professions/miner/status/ivrpgminerstatus.statuseffect": [
+        "/label"
       ]
     },
     "Texts": {
@@ -1776,7 +1773,7 @@
     }
   },
   {
-    "Comment": "Express√£o regular (n√£o para tradu√ß√£o, mas para apoiar nomes em alfabeto cir√≠lico)",
+    "Comment": "Express„o regular (n„o para traduÁ„o, mas para apoiar nomes em alfabeto cirÌlico)",
     "DeniedAlternatives": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [
