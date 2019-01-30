@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "tech/wizardtech/wizardgravitysphere/wizardgravitysphere.tech": [
         "/description"

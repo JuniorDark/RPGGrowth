@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/crafting/knight/ivrpgmeteoricmetal.item": [
         "/description"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Meteoric Metal"
     ],
     "Files": {

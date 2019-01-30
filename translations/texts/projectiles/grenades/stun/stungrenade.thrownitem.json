@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "projectiles/grenades/stun/stungrenade.thrownitem": [
         "/shortdescription"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "projectiles/grenades/stun/stungrenade.thrownitem": [
         "/description"

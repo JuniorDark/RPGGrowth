@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/necromancer.config": [
         "/effects/2/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/necromancer.config": [
         "/effects/4/text"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/necromancer.config": [
         "/classic/0/text"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/necromancer.config": [
         "/classic/1/text"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/necromancer.config": [
         "/weapon/title"
@@ -60,7 +60,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/necromancer.config": [
         "/tech/text"
@@ -72,7 +72,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/necromancer.config": [
         "/effects/3/text"
@@ -84,7 +84,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/necromancer.config": [
         "/ability/text"

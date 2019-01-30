@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "projectiles/multiplayerxppulse/multiplayerxppulse.statuseffect": [
         "/label"

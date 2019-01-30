@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/affinity/affinitytype.currency": [
         "/shortdescription"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/affinity/affinitytype.currency": [
         "/description"

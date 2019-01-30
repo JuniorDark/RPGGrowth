@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "tech/roguetech/roguepoisondash/roguepoisondash.tech": [
         "/description"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "tech/roguetech/roguepoisondash/roguepoisondash.tech": [
         "/shortDescription"

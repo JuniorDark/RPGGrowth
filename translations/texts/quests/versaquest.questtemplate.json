@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/versaquest.questtemplate": [
         "/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/versaquest.questtemplate": [
         "/completionText"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/versaquest.questtemplate": [
         "/title"

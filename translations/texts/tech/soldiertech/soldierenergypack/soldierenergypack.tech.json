@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "tech/soldiertech/soldierenergypack/soldierenergypack.tech": [
         "/description"

@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/scrolls/scrolladdstatpoint.activeitem": [
         "/description"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Scroll: +1 Stat Point"
     ],
     "Files": {

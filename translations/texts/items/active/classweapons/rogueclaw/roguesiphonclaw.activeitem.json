@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/rogueclaw/roguesiphonclaw.activeitem": [
         "/description"

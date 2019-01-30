@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/affinityDescriptions.config": [
         "/default/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Fogo, a Afinidade Poderosa. Esta Afinidade concede Imunidades e Resistências baseadas em Fogo, e um Aumento Médio no Status de Vigor. Fornece melhores Imunidades e um Grande Aumento no Status de Força quando melhorado. Tenha cuidado, pois escolher essa Afinidade enfraquece você enquanto estiver Submerso, e torna-o fraco a Veneno."
     ],
     "Files": {
@@ -26,7 +26,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Gelo, a Afinidade Protetora. Esta afinidade concede Imunidades e Resistências baseadas no Gelo, e um Aumento Médio no Status de Vitalidade. Fornece melhores Imunidades e um Aumento Grande no Status de Resistência quando melhorado. Tenha cuidado, pois escolher essa Afinidade reduz sua Velocidade e Altura no Pulo, e torna-o fraco a Fogo."
     ],
     "Files": {
@@ -40,7 +40,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Eletricidade, a Afinidade Perceptiva. Esta Afinidade concede Imunidades e Resistências baseadas em Eletricidade, um Aumento Médio no Status de Agilidade. Fornece melhores Imunidades e um Grande Aumento no Status de Inteligência quando melhorado. Tenha cuidado, pois escolher essa Afinidade enfraquece você enquanto estiver Submerso, e torna você fraco a Gelo."
     ],
     "Files": {
@@ -54,7 +54,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Veneno, a Afinidade Proficiente. Esta Afinidade concede Imunidades e Resistências baseadas em Veneno, e um Aumento Pequeno no Status de Vigor, Destreza e Agilidade. Fornece melhores Imunidades e um Grande Aumento no Status de Destreza quando melhorado. Tenha cuidado, pois escolher esta Afinidade diminui a sua Vida Máxima e torna-o fraco a Eletricidade. \n"
     ],
     "Files": {

@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/throwables/shurikens/durasteelshuriken/durasteelshuriken.thrownitem": [
         "/description"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/throwables/shurikens/durasteelshuriken/durasteelshuriken.thrownitem": [
         "/shortdescription"

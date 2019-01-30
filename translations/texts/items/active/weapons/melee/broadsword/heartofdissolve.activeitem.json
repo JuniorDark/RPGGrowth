@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/weapons/melee/broadsword/heartofdissolve.activeitem": [
         "/shortdescription"

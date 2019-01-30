@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/tamer/status/ivrpgtamerstatuscooldown.statuseffect": [
         "/label"

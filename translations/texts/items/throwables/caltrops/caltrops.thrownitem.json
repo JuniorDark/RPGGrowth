@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/throwables/caltrops/caltrops.thrownitem": [
         "/shortdescription"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/throwables/caltrops/caltrops.thrownitem": [
         "/description"

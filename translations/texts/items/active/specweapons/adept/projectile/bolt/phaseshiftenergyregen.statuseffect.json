@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/specweapons/adept/projectile/bolt/phaseshiftenergyregen.statuseffect": [
         "/label"

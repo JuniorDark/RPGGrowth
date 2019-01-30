@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "tech/wizardtech/wizardhover/wizardhover.tech": [
         "/shortDescription"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "tech/wizardtech/wizardhover/wizardhover.tech": [
         "/description"

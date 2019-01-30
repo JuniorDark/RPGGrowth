@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/knightsword/parryshield.weaponability": [
         "/ability/name"

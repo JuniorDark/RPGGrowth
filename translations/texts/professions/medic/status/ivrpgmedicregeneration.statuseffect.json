@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/medic/status/ivrpgmedicregeneration.statuseffect": [
         "/label"

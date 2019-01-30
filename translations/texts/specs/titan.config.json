@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/titan.config": [
         "/ability/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/titan.config": [
         "/effects/3/text"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/titan.config": [
         "/effects/2/text"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/titan.config": [
         "/effects/4/text"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/titan.config": [
         "/weapon/title"
@@ -60,7 +60,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/titan.config": [
         "/tech/text"

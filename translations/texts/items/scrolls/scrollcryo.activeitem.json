@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Scroll: Cryogenics"
     ],
     "Files": {
@@ -14,7 +14,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/scrolls/scrollcryo.activeitem": [
         "/description"

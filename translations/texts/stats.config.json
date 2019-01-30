@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/vigor/2/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/vitality/1/text"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/vigor/0/text"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/vitality/0/text"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/strength/0/text"
@@ -60,7 +60,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/intelligence/0/text"
@@ -72,7 +72,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/agility/1/text"
@@ -84,7 +84,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/vigor/1/text"
@@ -96,7 +96,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/intelligence/2/text"
@@ -108,7 +108,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/endurance/1/text"
@@ -120,7 +120,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/agility/2/text"
@@ -132,7 +132,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/dexterity/0/text"
@@ -144,7 +144,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/strength/3/text"
@@ -156,7 +156,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/intelligence/1/text"
@@ -168,7 +168,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/endurance/2/text"
@@ -180,7 +180,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/agility/0/text"
@@ -192,7 +192,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/endurance/0/text"
@@ -204,7 +204,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/strength/1/text"
@@ -216,7 +216,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/dexterity/2/text"
@@ -228,7 +228,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/agility/3/text"
@@ -240,7 +240,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/strength/2/text"
@@ -252,7 +252,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/dexterity/1/text"
@@ -264,7 +264,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/intelligence/3/text"
@@ -276,7 +276,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/agility/4/text"
@@ -288,7 +288,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/dexterity/3/text"
@@ -300,7 +300,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/endurance/3/text"
@@ -312,7 +312,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/intelligence/4/text"
@@ -324,7 +324,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/strength/4/text"
@@ -336,7 +336,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/vigor/3/text"
@@ -348,7 +348,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "stats.config": [
         "/vitality/2/text"

@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Scroll: Lightning"
     ],
     "Files": {
@@ -14,7 +14,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/scrolls/scrollarc.activeitem": [
         "/description"

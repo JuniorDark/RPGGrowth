@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/skillbook/RPGskillbook.activeitem": [
         "/description"

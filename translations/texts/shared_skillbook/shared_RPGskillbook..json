@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/windowtitle/title"

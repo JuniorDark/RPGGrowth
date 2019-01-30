@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "scripts/ninjacrit/ninjacrit.statuseffect": [
         "/label"

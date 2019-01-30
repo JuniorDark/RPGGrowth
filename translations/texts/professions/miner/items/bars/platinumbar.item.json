@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/miner/items/bars/platinumbar.item": [
         "/description"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/miner/items/bars/platinumbar.item": [
         "/shortdescription"

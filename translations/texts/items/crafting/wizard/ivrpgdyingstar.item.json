@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/crafting/wizard/ivrpgdyingstar.item": [
         "/description"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Dying Star"
     ],
     "Files": {

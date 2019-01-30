@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/wizardstaff/novastaffswitch.weaponability": [
         "/ability/name"

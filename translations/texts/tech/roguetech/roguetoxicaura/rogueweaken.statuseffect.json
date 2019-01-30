@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "tech/roguetech/roguetoxicaura/rogueweaken.statuseffect": [
         "/label"

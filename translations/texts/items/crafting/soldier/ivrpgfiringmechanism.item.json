@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/crafting/soldier/ivrpgfiringmechanism.item": [
         "/description"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Firing Mechanism"
     ],
     "Files": {

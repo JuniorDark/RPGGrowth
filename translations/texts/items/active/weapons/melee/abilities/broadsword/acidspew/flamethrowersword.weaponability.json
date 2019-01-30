@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/weapons/melee/abilities/broadsword/acidspew/flamethrowersword.weaponability": [
         "/ability/name"

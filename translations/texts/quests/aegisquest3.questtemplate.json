@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/aegisquest3.questtemplate": [
         "/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Você é tão forte quanto você pode ser! Eu melhorei seu Aegis. Agora você também poderá construir o Vital Aegis em uma bigorna melhorada."
     ],
     "Files": {

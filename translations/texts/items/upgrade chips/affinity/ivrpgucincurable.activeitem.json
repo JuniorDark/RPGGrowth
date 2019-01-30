@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucincurable.activeitem": [
         "/description"

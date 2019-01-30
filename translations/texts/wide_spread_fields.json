@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/upgradelayout/children/affinitytext/value",
@@ -335,7 +335,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/masterypoints/value",
@@ -375,7 +375,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/knight.config": [
         "/weapon/title"
@@ -390,7 +390,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/ninja.config": [
         "/weapon/title"
@@ -408,7 +408,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/explorer.config": [
         "/scaling/1/text"
@@ -451,7 +451,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/tech/ivrpgucbatterypack.activeitem": [
         "/shortdescription"
@@ -466,7 +466,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "JustiÃÂ§a Cega",
       "JustiÃ§a Cega"
     ],
@@ -484,7 +484,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para o Blood Aether.\nBlood Aether pode sentir inimigos de 10 blocos mais distante.\nAlém disso, um inimigo atingido por seu próprio Blood Aether receberá mais dano de todos os Blood Aethers."
     ],
     "Files": {
@@ -501,7 +501,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucbloom.activeitem": [
         "/shortdescription"
@@ -516,7 +516,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/weapon/ivrpguccharger.activeitem": [
         "/shortdescription"
@@ -531,7 +531,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Clique em um ÃÂ­cone de classe para informaÃÂ§ÃÂµes sobre essa classe."
     ],
     "Files": {
@@ -548,7 +548,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/professiondescription/value"
@@ -563,7 +563,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Clique no ÃÂ­cone de um status para ver o que ocorrequando esse status ÃÂ© aumentado."
     ],
     "Files": {
@@ -580,7 +580,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "CoraÃÂ§ÃÂ£o Frio",
       "CoraÃ§Ã£o Frio"
     ],
@@ -598,7 +598,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/weapon/ivrpguccombobreaker.activeitem": [
         "/shortdescription"
@@ -613,7 +613,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "ContÃÂ¡gio",
       "ContÃ¡gio"
     ],
@@ -631,7 +631,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "AmaldiÃÂ§oado"
     ],
     "Files": {
@@ -648,7 +648,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Perigo PrÃÂ³ximo",
       "Perigo PrÃ³ximo"
     ],
@@ -666,7 +666,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "DescriÃÂ§ÃÂ£o",
       "DescriÃ§Ã£o"
     ],
@@ -699,7 +699,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/ninja.config": [
         "/scaling/0/text"
@@ -736,7 +736,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucdischarge.activeitem": [
         "/shortdescription"
@@ -751,7 +751,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "ResistÃÂªncia"
     ],
     "Files": {
@@ -796,7 +796,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/engineertitle/value"
@@ -814,7 +814,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/affinity/ivrpguceternalflame.activeitem": [
         "/shortdescription"
@@ -829,7 +829,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/tech/ivrpgucmoreenhanced.activeitem": [
         "/shortdescription"
@@ -844,7 +844,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucevergreen.activeitem": [
         "/shortdescription"
@@ -859,7 +859,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/explorer.config": [
         "/title"
@@ -874,7 +874,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucfeedbackloop.activeitem": [
         "/shortdescription"
@@ -889,7 +889,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/flame.config": [
         "/title"
@@ -904,7 +904,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/tech/ivrpgucfourthwall.activeitem": [
         "/shortdescription"
@@ -919,7 +919,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/frost.config": [
         "/title"
@@ -934,7 +934,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/tech/ivrpgucghost.activeitem": [
         "/shortdescription"
@@ -952,7 +952,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/weapon/ivrpguchardlight.activeitem": [
         "/shortdescription"
@@ -967,7 +967,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucicequeen.activeitem": [
         "/shortdescription"
@@ -982,7 +982,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "IncurÃÂ¡vel",
       "IncurÃ¡vel"
     ],
@@ -1000,7 +1000,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "InteligÃÂªncia"
     ],
     "Files": {
@@ -1027,7 +1027,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/knight.config": [
         "/title"
@@ -1042,7 +1042,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/medictitle/value"
@@ -1060,7 +1060,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucmiasma.activeitem": [
         "/shortdescription"
@@ -1075,7 +1075,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/minertitle/value"
@@ -1093,7 +1093,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/ninja.config": [
         "/title"
@@ -1108,7 +1108,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/default.config": [
         "/title"
@@ -1123,7 +1123,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/default.config": [
         "/title"
@@ -1138,7 +1138,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/weapon/title"
@@ -1156,7 +1156,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucpassedprime.activeitem": [
         "/shortdescription"
@@ -1171,7 +1171,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Desempenho MÃÂ¡ximo",
       "Desempenho MÃ¡ximo"
     ],
@@ -1189,7 +1189,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/tech/ivrpgucphaseout.activeitem": [
         "/shortdescription"
@@ -1204,7 +1204,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "MudanÃÂ§a de Fase"
     ],
     "Files": {
@@ -1221,7 +1221,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "PrecisÃÂ£o Precisa",
       "PrecisÃ£o Precisa"
     ],
@@ -1239,7 +1239,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "NÃÂºcleo de Plasma",
       "NÃºcleo de Plasma"
     ],
@@ -1257,7 +1257,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "ImprevisÃÂ­vel",
       "ImprevisÃ­vel"
     ],
@@ -1275,7 +1275,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
@@ -1299,7 +1299,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "BraÃÂ§o Direito",
       "BraÃ§o Direito"
     ],
@@ -1317,7 +1317,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "EspÃÂ­rito de JustiÃÂ§a",
       "EspÃ­rito de JustiÃ§a"
     ],
@@ -1335,7 +1335,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/rogue.config": [
         "/title"
@@ -1350,7 +1350,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [
         "/paneLayout/filter/hint"
@@ -1377,7 +1377,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/shock.config": [
         "/title"
@@ -1392,7 +1392,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/rogue.config": [
         "/weapon/title"
@@ -1407,7 +1407,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "BÃÂªnÃÂ§ÃÂ£o de Skadi",
       "BÃªnÃ§Ã£o de Skadi"
     ],
@@ -1425,7 +1425,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "LentidÃÂ£o"
     ],
     "Files": {
@@ -1445,7 +1445,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
         "/title"
@@ -1460,7 +1460,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucspintowin.activeitem": [
         "/shortdescription"
@@ -1475,7 +1475,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/explorer.config": [
         "/weapon/title"
@@ -1490,7 +1490,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [
         "/paneLayout/btnStopCraft/caption"
@@ -1514,7 +1514,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "ForÃÂ§a"
     ],
     "Files": {
@@ -1544,7 +1544,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucsymbiosis.activeitem": [
         "/shortdescription"
@@ -1559,7 +1559,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/tamertitle/value"
@@ -1589,7 +1589,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/weapon/ivrpguctriggerhappy.activeitem": [
         "/shortdescription"
@@ -1604,7 +1604,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucvampirescaress.activeitem": [
         "/shortdescription"
@@ -1619,7 +1619,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/venom.config": [
         "/title"
@@ -1634,7 +1634,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
         "/weapon/title"
@@ -1649,7 +1649,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/explorer.config": [
         "/scaling/3/text"
@@ -1701,7 +1701,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/affinity/ivrpgucvikingfuneral.activeitem": [
         "/shortdescription"
@@ -1716,7 +1716,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/explorer.config": [
         "/scaling/0/text"
@@ -1759,7 +1759,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/tech/ivrpgucwavedash.activeitem": [
         "/shortdescription"
@@ -1774,7 +1774,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/title"
@@ -1790,7 +1790,7 @@
   },
   {
     "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [
         "/paneLayout/tbSpinCount/regex"

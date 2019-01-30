@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
         "/passive/0/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
         "/classic/3/text"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
         "/weaponBonuses/1/text"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
         "/ability/text"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
         "/weaponBonuses/0/text"
@@ -60,7 +60,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
         "/techs/2/text"
@@ -72,7 +72,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
         "/classic/1/text"
@@ -84,7 +84,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
         "/classic/0/text"
@@ -96,7 +96,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
         "/techs/0/text"
@@ -108,7 +108,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
         "/techs/3/text"
@@ -120,7 +120,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
         "/techs/1/text"

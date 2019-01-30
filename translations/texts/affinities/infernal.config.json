@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "+30% de chance de Cauterizar inimigos ao causar dano. Inimigos Cauterizados têm -25% de Poder e são Queimados durante a duração do Cauterizar.\n"
     ],
     "Files": {
@@ -14,7 +14,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/infernal.config": [
         "/immunity/2/text"
@@ -26,7 +26,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/infernal.config": [
         "/immunity/0/text"
@@ -38,7 +38,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/infernal.config": [
         "/title"
@@ -50,7 +50,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/infernal.config": [
         "/immunity/1/text"

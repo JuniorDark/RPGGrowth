@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/ninja.config": [
         "/techs/0/title"
@@ -15,7 +15,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/ninja.config": [
         "/techs/2/title"
@@ -30,7 +30,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/ninja.config": [
         "/techs/1/title"
@@ -45,7 +45,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/ninja.config": [
         "/techs/3/title"

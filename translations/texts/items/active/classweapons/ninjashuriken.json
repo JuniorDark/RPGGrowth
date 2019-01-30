@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/ninjashuriken/aethertanto3.activeitem": [
         "/description"
@@ -15,7 +15,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/ninjashuriken/aethertanto2.activeitem": [
         "/shortdescription"
@@ -30,7 +30,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/ninjashuriken/aethertanto3.activeitem": [
         "/shortdescription"

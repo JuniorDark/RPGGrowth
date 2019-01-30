@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/weapons/melee/broadsword/heartofdissolve.activeitem": [
         "/description"
@@ -18,7 +18,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/weapons/melee/broadsword/abhorrentstygiansword.activeitem": [
         "/description"

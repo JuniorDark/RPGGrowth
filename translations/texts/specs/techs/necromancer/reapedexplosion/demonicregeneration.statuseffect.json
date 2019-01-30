@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/techs/necromancer/reapedexplosion/demonicregeneration.statuseffect": [
         "/label"

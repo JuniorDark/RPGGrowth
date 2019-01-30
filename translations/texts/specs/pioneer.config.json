@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/pioneer.config": [
         "/effects/4/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/pioneer.config": [
         "/effects/3/text"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "125% Multiplicador de Força e Energia Máxima em Planetas Favoritados.\n120% Velocidade e +10% de Resistência em Planetas Não Favoritados."
     ],
     "Files": {
@@ -38,7 +38,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/pioneer.config": [
         "/weapon/title"
@@ -50,7 +50,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/pioneer.config": [
         "/tech/text"

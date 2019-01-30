@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "tech/soldiertech/soldiermarksman/soldierfocus.statuseffect": [
         "/label"

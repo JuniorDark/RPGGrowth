@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/medic/ivrpgmedicstation.config": [
         "/paneLayout/windowtitle/title"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/medic/ivrpgmedicstation.config": [
         "/paneLayout/windowtitle/subtitle"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/medic/ivrpgmedicstation.config": [
         "/paneLayout/btnCraft/caption"

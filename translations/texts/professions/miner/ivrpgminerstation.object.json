@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/miner/ivrpgminerstation.object": [
         "/description"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/miner/ivrpgminerstation.object": [
         "/hylotlDescription"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/miner/ivrpgminerstation.object": [
         "/floranDescription"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/miner/ivrpgminerstation.object": [
         "/humanDescription"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/miner/ivrpgminerstation.object": [
         "/glitchDescription"
@@ -60,7 +60,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/miner/ivrpgminerstation.object": [
         "/shortdescription"
@@ -72,7 +72,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/miner/ivrpgminerstation.object": [
         "/apexDescription"
@@ -84,7 +84,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/miner/ivrpgminerstation.object": [
         "/novakidDescription"
@@ -96,7 +96,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/miner/ivrpgminerstation.object": [
         "/avianDescription"

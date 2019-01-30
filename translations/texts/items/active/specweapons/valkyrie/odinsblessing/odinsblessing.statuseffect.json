@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/specweapons/valkyrie/odinsblessing/odinsblessing.statuseffect": [
         "/label"

@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.object": [
         "/description"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.object": [
         "/apexDescription"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.object": [
         "/shortdescription"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.object": [
         "/glitchDescription"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.object": [
         "/floranDescription"
@@ -60,7 +60,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.object": [
         "/novakidDescription"
@@ -72,7 +72,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.object": [
         "/hylotlDescription"
@@ -84,7 +84,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.object": [
         "/humanDescription"
@@ -96,7 +96,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.object": [
         "/avianDescription"

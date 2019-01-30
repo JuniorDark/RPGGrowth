@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "tech/knighttech/knightarmorsphere/knightarmorsphere.tech": [
         "/description"

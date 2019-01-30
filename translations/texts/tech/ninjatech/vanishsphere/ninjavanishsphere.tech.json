@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "tech/ninjatech/vanishsphere/ninjavanishsphere.tech": [
         "/description"

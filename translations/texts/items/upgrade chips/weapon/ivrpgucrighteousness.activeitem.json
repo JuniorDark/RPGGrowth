@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucrighteousness.activeitem": [
         "/description"

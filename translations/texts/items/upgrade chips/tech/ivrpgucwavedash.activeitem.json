@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/tech/ivrpgucwavedash.activeitem": [
         "/description"

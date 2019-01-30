@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/arc.config": [
         "/weakness/2/text"
@@ -15,7 +15,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/flame.config": [
         "/weakness/2/text"
@@ -30,7 +30,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/toxic.config": [
         "/weakness/1/text"
@@ -45,7 +45,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/cryo.config": [
         "/weakness/2/text"
@@ -60,7 +60,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/cryo.config": [
         "/weakness/1/text"
@@ -75,7 +75,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/toxic.config": [
         "/weakness/0/text"
@@ -90,7 +90,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/cryo.config": [
         "/weakness/0/text"
@@ -105,7 +105,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/arc.config": [
         "/weakness/0/text"
@@ -120,7 +120,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/flame.config": [
         "/weakness/0/text"
@@ -135,7 +135,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/flame.config": [
         "/weakness/1/text"
@@ -150,7 +150,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/arc.config": [
         "/immunity/2/text"
@@ -165,7 +165,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/toxic.config": [
         "/immunity/1/text"
@@ -180,7 +180,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "affinities/cryo.config": [
         "/immunity/1/text"

@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/weapons/melee/abilities/hammer/demonsword/giantsword.weaponability": [
         "/ability/name"

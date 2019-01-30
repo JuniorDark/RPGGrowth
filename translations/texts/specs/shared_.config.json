@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/necromancer.config": [
         "/effects/6/text"
@@ -15,7 +15,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/cannoneer.config": [
         "/effects/6/text"
@@ -30,7 +30,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "specs/adept.config": [
         "/effects/0/text"

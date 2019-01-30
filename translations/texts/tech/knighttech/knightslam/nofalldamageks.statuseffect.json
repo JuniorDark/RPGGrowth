@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "tech/knighttech/knightslam/nofalldamageks.statuseffect": [
         "/label"

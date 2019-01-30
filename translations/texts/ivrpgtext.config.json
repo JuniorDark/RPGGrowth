@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para a Esfera Blindada.Segure o botão esquerdo enquanto transformado para Atordoar os inimigos no contato.^red;Drena Energia enquanto o Atordoamento está ativo."
     ],
     "Files": {
@@ -14,7 +14,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para o Blood Aether.\nAo matar um inimigo com Blood Aether, ganha 2 segundos de Raiva e Regeneração fraca."
     ],
     "Files": {
@@ -28,7 +28,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "CaÃ§ador de Sangue"
     ],
     "Files": {
@@ -42,7 +42,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/weapon/ivrpgucrighteousness/description"
@@ -54,7 +54,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/general/ivrpgucdecay/title"
@@ -66,7 +66,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para o Esfera Broca.\nMovimento no meio do ar melhorado. Ganha um pulo no meio do ar.\nSegure [W] enquanto transformado para Deslizar.\n^red;Drena Energia enquanto Deslizando.",
       "Melhoria para o Esfera Broca.Movimento no meio do ar melhorado. Ganha um pulo no meio do ar.Segure [W] enquanto transformado para Deslizar.^red;Drena Energia enquanto Deslizando."
     ],
@@ -81,7 +81,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/general/ivrpgucearlybird/title"
@@ -93,7 +93,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para o Energizar.Enquanto a Energia está cheia,Os pulos no chão são melhorados ainda mais,O Dano de queda diminui ainda mais,e os pulos no ar são aumentados para 3."
     ],
     "Files": {
@@ -107,7 +107,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para o Movimento Melhorado.Velocidade de Corrida aumentada. Altura de Pulo aumentada ao pular de uma Corrida.Aumento da Duração da Arrancada. Agora é possível cancelar Arrancadas ao pular."
     ],
     "Files": {
@@ -121,7 +121,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/tech/ivrpgucwavedash/description"
@@ -133,7 +133,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para a Fuga!.Pular na parede é ativado com Fuga!.Arrancadas no ar são reabastecidas após se agarrar a uma parede."
     ],
     "Files": {
@@ -147,7 +147,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/tech/ivrpguchoversphere/title"
@@ -159,7 +159,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para a Afinidade Fogo & InfernalFraquezas de Afinidade já não afetam você."
     ],
     "Files": {
@@ -173,7 +173,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para a Afinidade Fogo & InfernalCauterizar dura duas vezes mais."
     ],
     "Files": {
@@ -187,7 +187,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para a Afinidade Fogo & Infernal\nQuando você mata um inimigo Queimando, Derretendo ou Cauterizado, eles explodem.\nDano da Explosão escala com Multiplicador de Poder.",
       "Melhoria para a Afinidade Fogo & InfernalQuando você mata um inimigo Queimando, Derretendo ou Cauterizado, eles explodem.Dano da Explosão escala com Multiplicador de Poder."
     ],
@@ -202,7 +202,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para a Afinidade Gelo & Crio.\nFraquezas de Afinidade já não afetam você.",
       "Melhoria para a Afinidade Gelo & Crio.Fraquezas de Afinidade já não afetam você."
     ],
@@ -217,7 +217,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para a Afinidade Gelo & Crio.\nCausa + 50% de dano com Arcos. Golpes com flechas sempre Fragilizam por 3 segundos.\nNão funciona com o Adaptable Crossbow.",
       "Melhoria para a Afinidade Gelo & Crio.Causa + 50% de dano com Arcos.Golpes com flechas sempre Fragilizam por 3 segundos.Não funciona com o Adaptable Crossbow."
     ],
@@ -232,7 +232,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para a Afinidade Gelo & Crio.Quanto mais tempo um inimigo é Fragilizado,mais dano eles tomam de fontes externas."
     ],
     "Files": {
@@ -246,7 +246,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para a Afinidade Gelo & Crio. ^red;Apenas Feminino.^reset;\nCausa + 75% de dano com Chicotes, Garras e Adagas.\nSem Redução de Velocidade de Afinidade enquanto estiver empunhando Chicotes.",
       "Melhoria para a Afinidade Gelo & Crio. ^red;Apenas Feminino.^reset;Causa + 75% de dano com Chicotes, Garras e Adagas.Sem Redução de Velocidade de Afinidade enquanto estiver empunhando Chicotes."
     ],
@@ -261,7 +261,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para a Esfera de Gravidade.Segure o Espaço enquanto transformado para Planar em direção ao cursor.^red;Drena Energia enquanto o Planar está ativo."
     ],
     "Files": {
@@ -275,7 +275,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/tech/ivrpgucglidesphere/title"
@@ -287,7 +287,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/general/ivrpgucitsatrap/title"
@@ -299,7 +299,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para a Batida do Cavaleiro.\nPulos no ar aumentados para 3.\nKnockback da Batida Aumentado.\n^red;Dano da Batida Diminuido.",
       "Melhoria para a Batida do Cavaleiro.Pulos no ar aumentados para 3.Knockback da Batida Aumentado.^red;Dano da Batida Diminuido."
     ],
@@ -314,7 +314,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Last Stand"
     ],
     "Files": {
@@ -328,7 +328,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/general/ivrpgucmasochism/title"
@@ -340,7 +340,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/general/ivrpgucmomentum/title"
@@ -352,7 +352,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Monster Master"
     ],
     "Files": {
@@ -366,7 +366,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/general/ivrpgucphotosynthesis/title"
@@ -378,7 +378,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para o Primed Nova.\nPrimed Nova pode ser sobrecarregado,\naumentando Poder. O status causado\npor cada explosão é melhorado.\n^red;Inimigos já não explodem quando mortos.",
       "Melhoria para o Primed Nova.Primed Nova pode ser sobrecarregado,aumentando Poder. O status causadopor cada explosão é melhorado.^red;Inimigos já não explodem quando mortos."
     ],
@@ -393,7 +393,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para o Primed Nova.\nPrimed Nova carrega mais rápido e possui um alcance de projeção maior.\n^red;No entanto, seu Dano geral é Diminuído.",
       "Melhoria para o Primed Nova.Primed Nova carrega mais rápido e possui um alcance de projeção maior.^red;No entanto, seu Dano geral é Diminuído."
     ],
@@ -408,7 +408,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para o Ravenous Spira.\nCausa dobro de dano aos inimigos. Capaz de perfurar mais perto da base da arma.\n^red;A Energia drena no dobro da velocidade.",
       "Melhoria para o Ravenous Spira.Causa dobro de dano aos inimigos. Capaz de perfurar mais perto da base da arma.^red;A Energia drena no dobro da velocidade."
     ],
@@ -423,7 +423,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para o Ravenous Spira.\nRavenous Spira quebra blocos de plano de fundo quando usado na Mão Direita (Mão Secundária).\n^red;A Energia não pode ser recuperada ao quebrar blocos de plano de fundo enquanto segura Shift.",
       "Melhoria para o Ravenous Spira.Ravenous Spira quebra blocos de plano de fundo quando usado na Mão Direita (Mão Secundária).^red;A Energia não pode ser recuperada ao quebrar blocos de plano de fundo enquanto segura Shift."
     ],
@@ -438,7 +438,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/general/ivrpgucsadism/title"
@@ -450,7 +450,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para o Passo das Sombras.\nO Passo das Sombras agora permite o usuário passar por paredes, mesmo que o usuário esteja atualmente em um mundo instanciado.",
       "Melhoria para o Passo das Sombras.O Passo das Sombras agora permite o usuário passar por paredes, mesmo que o usuário esteja atualmente em um mundo instanciado."
     ],
@@ -465,7 +465,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para a Afinidade Eletricidade & Arc.\nFraquezas de Afinidade já não afetam você.",
       "Melhoria para a Afinidade Eletricidade & Arc.Fraquezas de Afinidade já não afetam você."
     ],
@@ -480,7 +480,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para a Afinidade Eletricidade & Arc.Ao infligir o Status 'Sobrecarga',Ganhe Raiva por 2 Segundos."
     ],
     "Files": {
@@ -494,7 +494,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para a Afinidade Eletricidade & Arc.\nEnquanto estiver molhado ou tocando líquido,\nentidades próximas estão eletrificadas repetidamente.",
       "Melhoria para a Afinidade Eletricidade & Arc.Enquanto estiver molhado ou tocando líquido,entidades próximas estão eletrificadas repetidamente."
     ],
@@ -509,7 +509,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para o Siphon Flux.Restaure Energia para Aliados próximos quando Lightning Slice se conecta com um inimigo."
     ],
     "Files": {
@@ -523,7 +523,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para o Siphon Razor.Critical Slice pode ser usado após três ataques em vez de quatro.^red;No entanto, isso impede o uso do combo finalizador da sua outra arma de punho."
     ],
     "Files": {
@@ -537,7 +537,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para o Siphon Spore.Dá mais dano quando sua vida está abaixo de um terço."
     ],
     "Files": {
@@ -551,7 +551,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/tech/ivrpgucstunningsphere/title"
@@ -563,7 +563,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para a Esfera Tanque.Foguetes disparados enquanto transformado ativamente procura alvos com linha de visão direta."
     ],
     "Files": {
@@ -577,7 +577,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/general/ivrpguc.general/description"
@@ -589,7 +589,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/general/ivrpguc.general/title",
@@ -603,7 +603,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/general/ivrpguctotalblackout/title"
@@ -615,7 +615,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para o Translocar.\nTranslocar agora permite ao usuário se teletransportar através de paredes, mesmo que o usuário esteja atualmente em um mundo instanciado.",
       "Melhoria para o Translocar.Translocar agora permite ao usuário se teletransportar através de paredes, mesmo que o usuário esteja atualmente em um mundo instanciado."
     ],
@@ -630,7 +630,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/general/ivrpguctruevampire/title"
@@ -642,7 +642,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/general/ivrpgucunstoppable/title"
@@ -654,7 +654,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para a Esfera Desaparecedora.Esfera Desaparecedora não fornece mais invulnerabilidade.Em vez disso, segure o botão esquerdo enquanto transformado para ativar o modo fantasma, permitindo que você se mova pelas paredes. Você pode perder oxigênio enquanto se move pelas paredes.^red;Drena Energia enquanto Fantasma está ativo."
     ],
     "Files": {
@@ -668,7 +668,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento para a Afinidade Veneno & Tóxico\nFraquezas de Afinidade já não afetam você.",
       "Melhoria para a Afinidade Veneno & TóxicoFraquezas de Afinidade já não afetam você."
     ],
@@ -683,7 +683,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para a Afinidade Veneno & TóxicoAs nuvens invocadas aos seus pés infligem Veneno Fraco."
     ],
     "Files": {
@@ -697,7 +697,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para a Afinidade Veneno & TóxicoInimigos Intoxicados têm uma chance de 5%de Intoxicar inimigos próximos a cada 0,25 segundos."
     ],
     "Files": {
@@ -711,7 +711,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para o Versa Ricochet.Balas quicam para inimigos próximos ao bater nas paredes.^red;Balas não ganham tanto Dano com cada quique."
     ],
     "Files": {
@@ -725,7 +725,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Melhoria para o Versa Ricochet.Versa Ricochet dispara imediatamente quando carregado e leva menos tempo para carregar completamente."
     ],
     "Files": {
@@ -739,7 +739,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Aprimoramento do Vital Aegis.\nTodos as Etapas do Combo causam Julgamento.\nO 8 e 9 Etapas do Combo também atordoa os inimigos ao acertar.",
       "Melhoria do Vital Aegis.Todos as Etapas do Combo causam Julgamento.O 8 e 9 Etapas do Combo também atordoa os inimigos ao acertar."
     ],
@@ -754,7 +754,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
         "/upgrades/tech/ivrpgucwalljump/title"

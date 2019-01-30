@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/status/ivrpgengineerstatuscooldown.statuseffect": [
         "/label"

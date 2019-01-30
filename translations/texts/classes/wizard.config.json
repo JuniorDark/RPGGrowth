@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/passive/0/text"
@@ -12,7 +12,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/classic/3/text"
@@ -24,7 +24,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/weaponBonuses/0/text"
@@ -36,7 +36,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/weaponBonuses/1/text"
@@ -48,7 +48,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/classic/4/text"
@@ -60,7 +60,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Uma melhoria para a Esfera de Espinhos, enquanto transformado você regenera um pouco e é afetado pela baixa gravidade. Além disso, segure o botão esquerdo para criar uma barreira que empurra os inimigos, drenando sua energia."
     ],
     "Files": {
@@ -74,7 +74,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/classic/2/text"
@@ -86,7 +86,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/classic/1/text"
@@ -98,7 +98,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/classic/0/text"
@@ -110,7 +110,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/techs/1/title"
@@ -122,7 +122,7 @@
     }
   },
   {
-    "DeniedAlternative": [
+    "DeniedAlternatives": [
       "Pressione [F] para ativar. Enquanto ativo, o dano recebido também afeta a Energia, mas metade da Energia perdida é convertida em Vida. Você vai morrer se a quantidade de Vida recuperada não for suficiente para viver. Enquanto ativo; a Energia não pode ser travada; e a Energia recarrega a 10% da Energia Máxima por segundo, o que aumenta com Inteligencia e Vigor."
     ],
     "Files": {
@@ -136,7 +136,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/techs/2/text"
@@ -148,7 +148,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/techs/1/text"
@@ -160,7 +160,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "classes/wizard.config": [
         "/ability/text"

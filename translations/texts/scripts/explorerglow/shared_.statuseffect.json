@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "scripts/explorerglow/explorerglow.statuseffect": [
         "/label"

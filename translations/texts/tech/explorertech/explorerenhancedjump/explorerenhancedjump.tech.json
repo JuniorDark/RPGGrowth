@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "tech/explorertech/explorerenhancedjump/explorerenhancedjump.tech": [
         "/shortDescription"

@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.config": [
         "/paneLayout/btnCraft/caption"

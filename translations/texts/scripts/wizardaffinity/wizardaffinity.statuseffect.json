@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "scripts/wizardaffinity/wizardaffinity.statuseffect": [
         "/label"

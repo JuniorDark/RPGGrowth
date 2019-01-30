@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.config": [
         "/paneLayout/lblProduct/value"
@@ -21,7 +21,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.config": [
         "/paneLayout/lblSchematics/value"
@@ -42,7 +42,7 @@
     }
   },
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.config": [
         "/paneLayout/lblProducttitle/value"

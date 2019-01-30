@@ -1,6 +1,6 @@
 [
   {
-    "DeniedAlternative": [],
+    "DeniedAlternatives": [],
     "Files": {
       "monsters/soldierstun/soldierstun.statuseffect": [
         "/label"
