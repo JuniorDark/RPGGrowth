@@ -431,7 +431,7 @@
       "shared_station.config.json": 3,
       "smith": {
         "ivrpgsmithstation.config.json": 1,
-        "ivrpgsmithstation.object.json": 8
+        "ivrpgsmithstation.object.json": 9
       },
       "tamer": {
         "items": {
