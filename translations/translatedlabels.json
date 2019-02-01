@@ -471,7 +471,7 @@
         "knightblock.statuseffect.json": 1
       },
       "levelup": {
-        "ivrpglevelup.animation.json": 0
+        "ivrpglevelup.animation.json": 1
       },
       "ninjacrit": {
         "ninjacrit.statuseffect.json": 1
