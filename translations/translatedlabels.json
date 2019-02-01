@@ -101,7 +101,7 @@
           "paladin": {
             "ivrpgtrueaegis.activeitem.json": 2,
             "judgement": {
-              "ivrpgjudgement.animation.json": 0,
+              "ivrpgjudgement.animation.json": 1,
               "ivrpgjudgement.statuseffect.json": 1
             }
           },
