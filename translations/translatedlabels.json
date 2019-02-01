@@ -649,7 +649,7 @@
           "colonize.statuseffect.json": 1,
           "colonize.tech.json": 1,
           "flag": {
-            "flagpioneer.object.json": 8
+            "flagpioneer.object.json": 9
           }
         },
         "titan": {
