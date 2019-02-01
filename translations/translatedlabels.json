@@ -135,7 +135,7 @@
         },
         "weapons": {
           "crit": {
-            "ivcrithit.animation.json": 0
+            "ivcrithit.animation.json": 1
           },
           "melee": {
             "broadsword": {
