@@ -67,7 +67,7 @@
           },
           "wizardstaff": {
             "novastatus": {
-              "wizardnovastatus.animation.json": 0
+              "wizardnovastatus.animation.json": 1
             },
             "wizardnovastaff.activeitem.json": 1,
             "wizardnovastaff2.activeitem.json": 2,
