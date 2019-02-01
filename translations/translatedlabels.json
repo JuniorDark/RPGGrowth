@@ -312,7 +312,7 @@
         "ivrpgweaken.animation.json": 1
       },
       "soldierstun": {
-        "soldierstun.animation.json": 0,
+        "soldierstun.animation.json": 1,
         "soldierstun.statuseffect.json": 1
       }
     },
