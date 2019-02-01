@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A beautifully crafted anvil for metal-working. Very sleek."
+      "Eng": "A beautifully crafted anvil for metal-working. Very sleek.",
+      "Por": "Uma bigorna lindamente trabalhada para trabalhar metais. Muito elegante."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An anvil perfect for upgrading weapons and armor."
+      "Eng": "An anvil perfect for upgrading weapons and armor.",
+      "Por": "Uma bigorna perfeita para fortificar armas e armaduras."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran makesss sharp sstickssss sharper."
+      "Eng": "Floran makesss sharp sstickssss sharper.",
+      "Por": "Floran deixa varetasss afiadas ainda mais afiadas."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Smith Station"
+      "Eng": "Smith Station",
+      "Por": "Estação do Ferreiro"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The perfect surface to hammer away.\nDesigned by JM401!"
+      "Eng": "The perfect surface to hammer away.\nDesigned by JM401!",
+      "Por": "A superfície perfeita para martelar.\nProjetado por JM401!"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This anvil is advanced enough to even upgrade magic weapons."
+      "Eng": "This anvil is advanced enough to even upgrade magic weapons.",
+      "Por": "Esta bigorna é avançada o suficiente para fortificar armas mágicas."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This anvil will let me upgrade my weapons. I wonder if I can upgrade myself."
+      "Eng": "This anvil will let me upgrade my weapons. I wonder if I can upgrade myself.",
+      "Por": "Esta bigorna vai me deixar fortificar minhas armas. Eu me pergunto se eu posso fortificar a mim mesmo."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This sure is an anvil. Does that logo say 'ACME'?"
+      "Eng": "This sure is an anvil. Does that logo say 'ACME'?",
+      "Por": "Isso com certeza é uma bigorna. Esse logotipo diz 'ACME'?"
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "With this thing right here, I can strengthen most of my equipment."
+      "Eng": "With this thing right here, I can strengthen most of my equipment.",
+      "Por": "Com essa coisa aqui, posso fortalecer a maioria dos meus equipamentos."
     }
   }
 ]
