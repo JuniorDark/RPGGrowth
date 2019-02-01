@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Critical."
+      "Eng": "Critical.",
+      "Por": "Crítico."
     }
   },
   {
@@ -21,7 +22,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Delighted."
+      "Eng": "Delighted.",
+      "Por": "Encantado."
     }
   },
   {
@@ -32,7 +34,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Intrigued."
+      "Eng": "Intrigued.",
+      "Por": "Intrigado."
     }
   },
   {
@@ -43,7 +46,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Joking."
+      "Eng": "Joking.",
+      "Por": "Brincando."
     }
   },
   {
@@ -54,7 +58,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Joyful."
+      "Eng": "Joyful.",
+      "Por": "Alegre."
     }
   },
   {
@@ -65,7 +70,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Observant."
+      "Eng": "Observant.",
+      "Por": "Atento."
     }
   }
 ]
