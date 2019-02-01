@@ -374,7 +374,7 @@
       "engineer.config.json": 6,
       "medic": {
         "ivrpgmedicstation.config.json": 3,
-        "ivrpgmedicstation.object.json": 8,
+        "ivrpgmedicstation.object.json": 9,
         "status": {
           "ivrpgmedicregeneration.statuseffect.json": 1
         }
