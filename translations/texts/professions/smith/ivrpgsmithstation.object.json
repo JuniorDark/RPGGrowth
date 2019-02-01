@@ -27,6 +27,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "professions/smith/ivrpgsmithstation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. This anvil will let me upgrade my weapons. I wonder if I can upgrade myself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/ivrpgsmithstation.object": [
         "/floranDescription"
       ]
     },
@@ -69,18 +80,6 @@
     "Texts": {
       "Eng": "This anvil is advanced enough to even upgrade magic weapons.",
       "Por": "Esta bigorna é avançada o suficiente para fortificar armas mágicas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "professions/smith/ivrpgsmithstation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This anvil will let me upgrade my weapons. I wonder if I can upgrade myself.",
-      "Por": "Esta bigorna vai me deixar fortificar minhas armas. Eu me pergunto se eu posso fortificar a mim mesmo."
     }
   },
   {

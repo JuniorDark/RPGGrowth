@@ -36,6 +36,18 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/masteryshop.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Critical. One swift kick and this table might implode.",
+      "Por": "Crítico. Um chute rápido e esta mesa pode implodir."
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Master's Desk"
     ],
@@ -59,18 +71,6 @@
     "Texts": {
       "Eng": "Old table too fragile for Floran to use for chopping food. But color remindss Floran of meat.",
       "Por": "Mesa velha muito frágil para Floran usar para cortar alimentos. Mas a cor lembra Floran de carne."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mastery/shop/masteryshop.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "One swift kick and this table might implode.",
-      "Por": "Um chute rápido e esta mesa pode implodir."
     }
   },
   {

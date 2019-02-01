@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/abilities/hammer/ivrpgenergywall/elementalpillar.weaponability": [
+        "/ability/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasma Divider",
+      "Por": "Divisor de Plasma"
+    }
+  }
+]

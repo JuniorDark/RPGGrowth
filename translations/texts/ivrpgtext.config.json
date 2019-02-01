@@ -203,6 +203,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Aprimoramento para a Afinidade Gelo & Crio.\nFraquezas de Afinidad não afetam mais você.",
       "Aprimoramento para a Afinidade Gelo & Crio.\nFraquezas de Afinidade já não afetam você.",
       "Melhoria para a Afinidade Gelo & Crio.Fraquezas de Afinidade já não afetam você."
     ],
@@ -213,7 +214,7 @@
     },
     "Texts": {
       "Eng": "Frost & Cryo Affinity Upgrade.\nAffinity Weaknesses no longer affect you.",
-      "Por": "Aprimoramento para a Afinidade Gelo & Crio.\nFraquezas de Afinidad não afetam mais você."
+      "Por": "Aprimoramento para a Afinidade Gelo & Crio.\nFraquezas de Afinidade não afetam mais você."
     }
   },
   {
@@ -741,6 +742,7 @@
   {
     "DeniedAlternatives": [
       "Aprimoramento do Vital Aegis.\nTodos as Etapas do Combo causam Julgamento.\nO 8 e 9 Etapas do Combo também atordoa os inimigos ao acertar.",
+      "Aprimoramento para o Vital Aegis.\nTodos as Etapas do Combo causam Julgamento.\nA 8º e 9º Etapa do Combo também Atordoa inimigos ao acertar.",
       "Melhoria do Vital Aegis.Todos as Etapas do Combo causam Julgamento.O 8 e 9 Etapas do Combo também atordoa os inimigos ao acertar."
     ],
     "Files": {
@@ -750,7 +752,7 @@
     },
     "Texts": {
       "Eng": "Vital Aegis Upgrade.\nAll Combo Steps cause Judgement.\nThe 8th and 9th Combo Steps also Stun enemies on hit.",
-      "Por": "Aprimoramento para o Vital Aegis.\nTodos as Etapas do Combo causam Julgamento.\nA 8º e 9º Etapa do Combo também Atordoa inimigos ao acertar."
+      "Por": "Aprimoramento para o Vital Aegis.\nTodos as Etapas do Combo causam Julgamento.\nA 8th e 9th Etapa do Combo também Atordoa inimigos ao acertar."
     }
   },
   {

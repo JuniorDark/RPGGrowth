@@ -532,7 +532,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Clique em um ÃÂ­cone de classe para informaÃÂ§ÃÂµes sobre essa classe."
+      "Clique em um ÃÂ­cone de classe para informaÃÂ§ÃÂµes sobre essa classe.",
+      "Clique em um Ã­cone de classe para informaÃ§Ãµes sobre essa classe."
     ],
     "Files": {
       "classes/classDescriptions.config": [
@@ -544,11 +545,13 @@
     },
     "Texts": {
       "Eng": "Click a Class' icon to see how that Class plays.",
-      "Por": "Clique em um Ã­cone de classe para informaÃ§Ãµes sobre essa classe."
+      "Por": "Clique em um ícone de classe para informações sobre essa classe."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Clique no Ã­cone de uma profissÃ£o para ver seus benefÃ­cios."
+    ],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/professiondescription/value"
@@ -559,12 +562,13 @@
     },
     "Texts": {
       "Eng": "Click a Profession's icon to see its benefits.",
-      "Por": "Clique no Ã­cone de uma profissÃ£o para ver seus benefÃ­cios."
+      "Por": "Clique no ícone de uma profissão para ver seus benefícios."
     }
   },
   {
     "DeniedAlternatives": [
-      "Clique no ÃÂ­cone de um status para ver o que ocorrequando esse status ÃÂ© aumentado."
+      "Clique no ÃÂ­cone de um status para ver o que ocorrequando esse status ÃÂ© aumentado.",
+      "Clique no Ã­cone de um status para ver o que ocorre\nquando esse status Ã© aumentado."
     ],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
@@ -576,7 +580,7 @@
     },
     "Texts": {
       "Eng": "Click a stat's icon to see what occurs\nwhen that stat is raised.",
-      "Por": "Clique no Ã­cone de um status para ver o que ocorre\nquando esse status Ã© aumentado."
+      "Por": "Clique no ícone de um status para ver o que ocorre\nquando esse status é aumentado."
     }
   },
   {
@@ -632,7 +636,8 @@
   },
   {
     "DeniedAlternatives": [
-      "AmaldiÃÂ§oado"
+      "AmaldiÃÂ§oado",
+      "AmaldiÃ§oado"
     ],
     "Files": {
       "items/active/specweapons/wraith/combos/cursed.statuseffect": [
@@ -644,7 +649,7 @@
     },
     "Texts": {
       "Eng": "Cursed",
-      "Por": "AmaldiÃ§oado"
+      "Por": "Amaldiçoado"
     }
   },
   {
@@ -752,7 +757,8 @@
   },
   {
     "DeniedAlternatives": [
-      "ResistÃÂªncia"
+      "ResistÃÂªncia",
+      "ResistÃªncia"
     ],
     "Files": {
       "classes/explorer.config": [
@@ -792,7 +798,7 @@
     },
     "Texts": {
       "Eng": "Endurance",
-      "Por": "ResistÃªncia"
+      "Por": "Resistência"
     }
   },
   {
@@ -1001,7 +1007,8 @@
   },
   {
     "DeniedAlternatives": [
-      "InteligÃÂªncia"
+      "InteligÃÂªncia",
+      "InteligÃªncia"
     ],
     "Files": {
       "classes/wizard.config": [
@@ -1023,7 +1030,7 @@
     },
     "Texts": {
       "Eng": "Intelligence",
-      "Por": "InteligÃªncia"
+      "Por": "Inteligência"
     }
   },
   {
@@ -1042,7 +1049,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "MÃ©dico"
+    ],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/medictitle/value"
@@ -1056,7 +1065,7 @@
     },
     "Texts": {
       "Eng": "Medic",
-      "Por": "MÃ©dico"
+      "Por": "Médico"
     }
   },
   {
@@ -1075,7 +1084,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Médico"
+    ],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/minertitle/value"
@@ -1143,6 +1154,9 @@
       "classes/wizard.config": [
         "/weapon/title"
       ],
+      "items/active/classweapons/wizardstaff/novastaffexplosion.weaponability": [
+        "/ability/name"
+      ],
       "items/active/classweapons/wizardstaff/wizardnovastaff.activeitem": [
         "/shortdescription"
       ]
@@ -1198,6 +1212,24 @@
     "Texts": {
       "Eng": "Phase Out",
       "Por": "Phase Out"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "MudanÃÂ§a de Fase",
+      "MudanÃ§a de Fase"
+    ],
+    "Files": {
+      "items/active/specweapons/adept/phaseshift.weaponability": [
+        "/ability/name"
+      ],
+      "specs/adept.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Phase Shift",
+      "Por": "Mudança de Fase"
     }
   },
   {
@@ -1406,7 +1438,8 @@
   },
   {
     "DeniedAlternatives": [
-      "LentidÃÂ£o"
+      "LentidÃÂ£o",
+      "LentidÃ£o"
     ],
     "Files": {
       "affinities/arc.config": [
@@ -1421,7 +1454,7 @@
     },
     "Texts": {
       "Eng": "Slow",
-      "Por": "LentidÃ£o"
+      "Por": "Lentidão"
     }
   },
   {
@@ -1495,7 +1528,8 @@
   },
   {
     "DeniedAlternatives": [
-      "ForÃÂ§a"
+      "ForÃÂ§a",
+      "ForÃ§a"
     ],
     "Files": {
       "classes/knight.config": [
@@ -1520,7 +1554,7 @@
     },
     "Texts": {
       "Eng": "Strength",
-      "Por": "ForÃ§a"
+      "Por": "Força"
     }
   },
   {

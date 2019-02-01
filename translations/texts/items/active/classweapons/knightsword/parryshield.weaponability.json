@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/knightsword/parryshield.weaponability": [
+        "/ability/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shield",
+      "Por": "Escudo"
+    }
+  }
+]

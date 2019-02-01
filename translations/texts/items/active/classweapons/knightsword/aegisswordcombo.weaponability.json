@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/knightsword/aegisswordcombo.weaponability": [
+        "/ability/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Combo Slash",
+      "Por": "Combo Slash"
+    }
+  }
+]

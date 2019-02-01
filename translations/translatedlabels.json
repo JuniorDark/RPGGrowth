@@ -23,7 +23,6 @@
       "wizard.config.json": 14
     },
     "default.config.json": 1,
-    "glitchEmotes.json": 6,
     "interface": {
       "RPGskillbook": {
         "RPGskillbook.config.json": 108
@@ -38,10 +37,12 @@
             "explorerspiradrill3.activeitem.json": 2
           },
           "knightsword": {
+            "aegisswordcombo.weaponability.json": 1,
             "knightaegissword.activeitem.json": 1,
             "knightaegissword2.activeitem.json": 2,
             "knightaegissword3.activeitem.json": 2,
-            "knightaegissword4.activeitem.json": 2
+            "knightaegissword4.activeitem.json": 2,
+            "parryshield.weaponability.json": 1
           },
           "ninjashuriken": {
             "aethertanto1.activeitem.json": 1,
@@ -63,9 +64,11 @@
           "soldiergun": {
             "soldierversa.activeitem.json": 1,
             "soldierversa2.activeitem.json": 2,
-            "soldierversa3.activeitem.json": 2
+            "soldierversa3.activeitem.json": 2,
+            "versaarfire.weaponability.json": 1
           },
           "wizardstaff": {
+            "novastaffswitch.weaponability.json": 1,
             "novastatus": {
               "wizardnovastatus.animation.json": 1
             },
@@ -138,6 +141,32 @@
             "ivcrithit.animation.json": 1
           },
           "melee": {
+            "abilities": {
+              "broadsword": {
+                "acidspew": {
+                  "flamethrowersword.weaponability.json": 1
+                },
+                "obsidianShards": {
+                  "obsidianShards.weaponability.json": 1
+                },
+                "obsidianShardsWeak": {
+                  "obsidianShardsWeak.weaponability.json": 1
+                }
+              },
+              "hammer": {
+                "demonsword": {
+                  "giantsword.weaponability.json": 1
+                },
+                "ivrpgenergywall": {
+                  "elementalpillar.weaponability.json": 1
+                }
+              },
+              "spear": {
+                "telsaspin": {
+                  "elementalspin.weaponability.json": 1
+                }
+              }
+            },
             "broadsword": {
               "abhorrentstygiansword.activeitem.json": 1,
               "goldcleaver.activeitem.json": 1,
@@ -402,7 +431,7 @@
       "shared_station.config.json": 3,
       "smith": {
         "ivrpgsmithstation.config.json": 1,
-        "ivrpgsmithstation.object.json": 9
+        "ivrpgsmithstation.object.json": 8
       },
       "tamer": {
         "items": {
@@ -549,7 +578,7 @@
           "betweenworlds.statuseffect.json": 1
         }
       },
-      "adept.config.json": 8,
+      "adept.config.json": 7,
       "battlemage.config.json": 2,
       "berserker.config.json": 2,
       "bountyhunter.config.json": 2,
@@ -620,7 +649,7 @@
           "colonize.statuseffect.json": 1,
           "colonize.tech.json": 1,
           "flag": {
-            "flagpioneer.object.json": 9
+            "flagpioneer.object.json": 8
           }
         },
         "titan": {
@@ -789,6 +818,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 77
+    "wide_spread_fields.json": 78
   }
 }

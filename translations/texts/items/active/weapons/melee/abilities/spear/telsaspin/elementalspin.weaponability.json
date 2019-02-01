@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/abilities/spear/telsaspin/elementalspin.weaponability": [
+        "/ability/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Darkmatter Orb",
+      "Por": "Esfera de Matéria Escura"
+    }
+  }
+]

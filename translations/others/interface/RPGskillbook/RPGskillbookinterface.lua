@@ -55,6 +55,7 @@ function init()
   self.textData = root.assetJson("/ivrpgtext.config")
   self.classList = root.assetJson("/classList.config")
   self.specList = root.assetJson("/specList.config")
+  self.profList = root.assetJson("/professionList.config")
   self.statList = root.assetJson("/stats.config")
   self.affinityList = root.assetJson("/affinityList.config")
   self.affinityDescriptions = root.assetJson("/affinities/affinityDescriptions.config")
@@ -63,6 +64,7 @@ function init()
   updateClassInfo()
   updateAffinityInfo()
   updateSpecInfo()
+  updateProfessionInfo()
   updateLevel()
 end
 
@@ -128,7 +130,11 @@ function update(dt)
   end
 
   if widget.getChecked("bookTabs.5") then
-      changeToSpecialization()
+    changeToSpecialization()
+  end
+
+  if widget.getChecked("bookTabs.6") then
+  	changeToProfession()
   end
 
   if player.currency("masterypoint") ~= self.mastery then
@@ -194,6 +200,14 @@ function updateSpecInfo()
   end
 end
 
+function updateProfessionInfo()
+  if self.profession > 0 then
+    self.profInfo = root.assetJson("/professions/" .. self.profList[self.profession] .. ".config")
+  else
+    self.profInfo = root.assetJson("/professions/default.config")
+  end
+end
+
 function updateAffinityInfo()
   if self.affinity > 0 then
     self.affinityInfo = root.assetJson("/affinities/" .. self.affinityList[self.affinity] .. ".config")
@@ -204,7 +218,7 @@ end
 
 function updateLevel()
   self.xp = math.min(player.currency("experienceorb"), 500000)
-   if self.xp < 100 then
+  if self.xp < 100 then
     player.addCurrency("experienceorb", 100)
   end
   self.level = player.currency("currentlevel")
@@ -287,7 +301,7 @@ function updateOverview(toNext)
   widget.setImage("overviewlayout.affinityicon", self.affinityInfo.image)
 
   widget.setText("overviewlayout.spectitle", (self.specInfo and self.specInfo.title or ""))
-
+  
   if status.statPositive("ivrpghardcore") then
     widget.setText("overviewlayout.hardcoretoggletext", "Ativo")
     widget.setVisible("overviewlayout.hardcoretext", true)
@@ -303,6 +317,7 @@ function updateOverview(toNext)
   else
     widget.setText("overviewlayout.rallymodeactive", "Ativo")
   end
+
 end
 
 function updateClassTab()
@@ -459,6 +474,10 @@ function changeToProfession()
     else
       widget.setVisible("professionlockedlayout", false)
       if player.currency("proftype") == 0 then
+      	local money = player.currency("money") or 0
+      	widget.setText("professionslayout.pixelamount", math.min(money, 1000) .. "/1000")
+      	widget.setFontColor("professionslayout.pixelamount", money >= 1000 and "white" or "red")
+      	widget.setButtonEnabled("professionslayout.selectprofession", money >= 1000 and self.profTo > 0 and not root.assetJson("/professions/professionDescriptions.config")[self.profList[self.profTo]].disabled)
         widget.setVisible("professionlayout", false)
         widget.setVisible("professionslayout", true)
       else
@@ -493,6 +512,76 @@ function changeToUpgrades()
 end
 
 function updateProfessionTab()
+	--Update the current profession tab with correct info
+  if self.profession == 0 then return end
+  updateProfessionInfo()
+  local profInfo = self.profInfo
+
+  widget.setText("professionlayout.proftitle", profInfo.title)
+  widget.setFontColor("professionlayout.proftitle", profInfo.color)
+  
+  widget.setText("professionlayout.classictext", concatTableValues(profInfo.classic, "\n"))
+  widget.setText("professionlayout.benefittext", concatTableValues(profInfo.effects, "\n", "benefit"))
+  widget.setText("professionlayout.scalingtext",  concatTableValues(profInfo.scaling, "\n", "scaling-up") .. concatTableValues(profInfo.scaling, "\n", "scaling-down"))
+
+  widget.setText("professionlayout.passiveactive", (not status.statusProperty("ivrpgprofessionpassive", false)) and "Inativo" or "Ativo")
+
+  widget.setText("professionlayout.passivetext", profInfo.passive.text)
+  widget.setText("professionlayout.craftingtext", profInfo.crafting.text)
+  widget.setText("professionlayout.craftingtitle", profInfo.title .. " Estação")
+  widget.setText("professionlayout.uniquetext", profInfo.ability.text)
+
+  widget.setImage("professionlayout.professionicon", profInfo.image)
+  widget.setImage("professionlayout.professionicon2", profInfo.image)
+end
+
+function checkProfessionDescription(name)
+  name = string.gsub(name,"icon","")
+  uncheckProfessionIcons(name)
+  if (widget.getChecked("professionslayout."..name.."icon")) then
+    changeProfessionDescription(name)
+    --widget.setButtonEnabled("professionslayout.selectprofession", true)
+  else
+    changeProfessionDescription("default")
+    widget.setButtonEnabled("professionslayout.selectprofession", false)
+  end
+end
+
+function uncheckProfessionIcons(name)
+  for k,v in ipairs(self.profList) do
+    if name ~= v and v ~= "default" then
+      widget.setChecked("professionslayout." .. v .. "icon", false)
+      widget.setFontColor("professionslayout." .. v .. "title", "white")
+    end
+  end
+end
+
+function openProfessionCrafting()
+  local profInfo = self.profInfo
+  player.giveItem(profInfo.crafting.type, 1)
+end
+
+function toggleProfessionPassive()
+  status.setStatusProperty("ivrpgprofessionpassive", not status.statusProperty("ivrpgprofessionpassive", false))
+end
+
+function changeProfessionDescription(name)
+  local textArray = root.assetJson("/professions/professionDescriptions.config")[name]
+  local disabledText = (textArray.disabled and name ~= "default") and "\n^red;Não Disponível Ainda!" or ""
+  widget.setText("professionslayout.professiondescription", textArray.text .. disabledText) 
+  widget.setFontColor("professionslayout." .. name .. "title", textArray.color)
+  local enoughMoney = (player.currency("money") or 0) >= 1000
+  widget.setButtonEnabled("professionslayout.selectprofession", not textArray.disabled and enoughMoney)
+  self.profTo = textArray.profession
+  uncheckProfessionIcons(name)
+end
+
+function chooseProfession()
+  player.addCurrency("proftype", self.profTo)
+  player.consumeCurrency("money", 1000)
+  self.profession = self.profTo
+  updateProfessionInfo()
+  changeToProfession()
 end
 
 function updateSpecializationSelect()
@@ -597,6 +686,13 @@ end
 function unequipSpecialization()
 	rescrollSpecialization(self.class, self.spec)
 end
+
+function unequipProfession()
+	player.consumeCurrency("proftype", self.profession)
+	self.profession = 0
+	player.interact("OpenCraftingInterface", {config = "/professions/ivrpgfakeui.config"}, player.id())
+end
+
 
 function concatTableValues(table, delim, required)
   local returnV = ""
@@ -1200,6 +1296,7 @@ end
 function prestige()
   player.consumeCurrency("masterypoint", 3)
   consumeAllRPGCurrency()
+  player.addCurrency("statpoint", status.statusProperty("ivrpgextrastatpoints", 0))
 end
 
 function purchaseShop()
@@ -1346,6 +1443,7 @@ function consumeMasteryCurrency()
   status.setStatusProperty("ivrpgchallenge1progress", 0)
   status.setStatusProperty("ivrpgchallenge2progress", 0)
   status.setStatusProperty("ivrpgchallenge3progress", 0)
+  status.setStatusProperty("ivrpgextrastatpoints", 0)
 end
 
 function unequipUpgrade(name)

@@ -3,12 +3,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "professions/tamer/ivrpgtamerstation.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Even though this table looks uninviting, it is able to accomodate for most monsters.",
-      "Por": "Mesmo que esta mesa pareça pouco convidativa, é capaz de acomodar a maioria dos monstros."
+      "Eng": "Critical. Even though this table looks uninviting, it is able to accomodate for most monsters.",
+      "Por": "Crítico. Mesmo que esta mesa pareça pouco convidativa, é capaz de acomodar a maioria dos monstros."
     }
   },
   {
