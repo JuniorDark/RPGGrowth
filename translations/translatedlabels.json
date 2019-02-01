@@ -412,7 +412,7 @@
           "veggiemix.consumable.json": 2
         },
         "ivrpgtamerstation.config.json": 2,
-        "ivrpgtamerstation.object.json": 8,
+        "ivrpgtamerstation.object.json": 9,
         "status": {
           "ivrpgtamermonsterstatus.statuseffect.json": 1,
           "ivrpgtamerstatuscooldown.statuseffect.json": 1
