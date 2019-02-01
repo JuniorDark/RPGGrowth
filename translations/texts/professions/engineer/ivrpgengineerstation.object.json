@@ -39,12 +39,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "professions/engineer/ivrpgengineerstation.object": [
-        "/glitchDescription"
+        "/glitchDescription/glitchEmotedText"
       ]
     },
     "Texts": {
-      "Eng": "Joyful. If I can learn how to use these tools, this table should be very useful to me.",
-      "Por": "Alegre. Se eu puder aprender a usar essas ferramentas, essa mesa deve ser muito útil para mim."
+      "Eng": "If I can learn how to use these tools, this table should be very useful to me."
     }
   },
   {

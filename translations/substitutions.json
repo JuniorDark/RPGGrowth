@@ -146,6 +146,7 @@
     "/gui/professionslayout/children/minertitle/value": "texts/wide_spread_fields.json",
     "/gui/professionslayout/children/pixelamount/value": "texts/wide_spread_fields.json",
     "/gui/professionslayout/children/professiondescription/value": "texts/wide_spread_fields.json",
+    "/gui/professionslayout/children/smithtitle/value": "texts/shared_.config.json",
     "/gui/professionslayout/children/tamertitle/value": "texts/wide_spread_fields.json",
     "/gui/specializationslayout/children/desctext/value": "texts/wide_spread_fields.json",
     "/gui/specializationslayout/children/desctitle/value": "texts/wide_spread_fields.json",
@@ -169,6 +170,7 @@
     "/gui/upgradelayout/children/affinitytext/value": "texts/wide_spread_fields.json",
     "/gui/upgradelayout/children/generaltext/value": "texts/wide_spread_fields.json",
     "/gui/upgradelayout/children/techtext/value": "texts/wide_spread_fields.json",
+    "/gui/upgradelayout/children/upgradetitle/value": "texts/wide_spread_fields.json",
     "/gui/upgradelayout/children/weapontext/value": "texts/wide_spread_fields.json",
     "/gui/windowtitle/title": "texts/shared_skillbook/shared_RPGskillbook..json"
   },
@@ -204,14 +206,8 @@
   "items/active/classweapons/soldiergun/soldierversa.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
-  "items/active/classweapons/wizardstaff/novastaffexplosion.weaponability": {
-    "/ability/name": "texts/wide_spread_fields.json"
-  },
   "items/active/classweapons/wizardstaff/wizardnovastaff.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
-  },
-  "items/active/specweapons/adept/phaseshift.weaponability": {
-    "/ability/name": "texts/wide_spread_fields.json"
   },
   "items/active/specweapons/wraith/combos/cursed.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
@@ -438,6 +434,10 @@
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json",
     "/paneLayout/tbSpinCount/regex": "texts/wide_spread_fields.json"
   },
+  "objects/mastery/shop/masteryshop.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/mastery/shop/masteryshop.object.json"
+  },
   "objects/skillbook/RPGskillbook.activeitem": {
     "/shortdescription": "texts/shared_skillbook/shared_RPGskillbook..json"
   },
@@ -524,6 +524,10 @@
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json",
     "/paneLayout/tbSpinCount/regex": "texts/wide_spread_fields.json"
   },
+  "professions/engineer/ivrpgengineerstation.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/professions/engineer/ivrpgengineerstation.object.json"
+  },
   "professions/engineer/status/ivrpgengineerstatus.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
   },
@@ -548,6 +552,10 @@
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json",
     "/paneLayout/tbSpinCount/regex": "texts/wide_spread_fields.json"
   },
+  "professions/medic/ivrpgmedicstation.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/professions/medic/ivrpgmedicstation.object.json"
+  },
   "professions/medic/status/ivrpgmedicstatus.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
   },
@@ -566,11 +574,23 @@
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json",
     "/paneLayout/tbSpinCount/regex": "texts/wide_spread_fields.json"
   },
+  "professions/miner/ivrpgminerstation.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/professions/miner/ivrpgminerstation.object.json"
+  },
   "professions/miner/status/ivrpgminerstatus.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
   },
   "professions/professionDescriptions.config": {
     "/default/text": "texts/wide_spread_fields.json"
+  },
+  "professions/smith/ivrpgsmithstation.config": {
+    "/gui/toggleCrafting/caption": "texts/shared_.config.json"
+  },
+  "professions/smith/ivrpgsmithstation.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/professions/smith/ivrpgsmithstation.object.json",
+    "/subtitle": "texts/wide_spread_fields.json"
   },
   "professions/tamer.config": {
     "/scaling/0/text": "texts/wide_spread_fields.json",
@@ -587,6 +607,10 @@
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value": "texts/wide_spread_fields.json",
     "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value": "texts/wide_spread_fields.json",
     "/paneLayout/tbSpinCount/regex": "texts/wide_spread_fields.json"
+  },
+  "professions/tamer/ivrpgtamerstation.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/professions/tamer/ivrpgtamerstation.object.json"
   },
   "professions/tamer/status/ivrpgtamerstatus.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
@@ -748,8 +772,7 @@
     "/effects/0/text": "texts/specs/shared_.config.json",
     "/effects/1/text": "texts/wide_spread_fields.json",
     "/tech/title": "texts/specs.json",
-    "/title": "texts/shared_spec.json",
-    "/weapon/title": "texts/wide_spread_fields.json"
+    "/title": "texts/shared_spec.json"
   },
   "specs/battlemage.config": {
     "/ability/text": "texts/wide_spread_fields.json",
@@ -1085,6 +1108,10 @@
   },
   "specs/techs/pioneer/colonize.tech": {
     "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/pioneer/flag/flagpioneer.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/specs/techs/pioneer/flag/flagpioneer.object.json"
   },
   "specs/techs/titan/atlasburden.statuseffect": {
     "/label": "texts/specs.json"

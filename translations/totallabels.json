@@ -23,9 +23,10 @@
       "wizard.config.json": 14
     },
     "default.config.json": 1,
+    "glitchEmotes.json": 6,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 110
+        "RPGskillbook.config.json": 108
       }
     },
     "items": {
@@ -37,12 +38,10 @@
             "explorerspiradrill3.activeitem.json": 2
           },
           "knightsword": {
-            "aegisswordcombo.weaponability.json": 1,
             "knightaegissword.activeitem.json": 1,
             "knightaegissword2.activeitem.json": 2,
             "knightaegissword3.activeitem.json": 2,
-            "knightaegissword4.activeitem.json": 2,
-            "parryshield.weaponability.json": 1
+            "knightaegissword4.activeitem.json": 2
           },
           "ninjashuriken": {
             "aethertanto1.activeitem.json": 1,
@@ -64,11 +63,12 @@
           "soldiergun": {
             "soldierversa.activeitem.json": 1,
             "soldierversa2.activeitem.json": 2,
-            "soldierversa3.activeitem.json": 2,
-            "versaarfire.weaponability.json": 1
+            "soldierversa3.activeitem.json": 2
           },
           "wizardstaff": {
-            "novastaffswitch.weaponability.json": 1,
+            "novastatus": {
+              "wizardnovastatus.animation.json": 1
+            },
             "wizardnovastaff.activeitem.json": 1,
             "wizardnovastaff2.activeitem.json": 2,
             "wizardnovastaff3.activeitem.json": 2
@@ -101,6 +101,7 @@
           "paladin": {
             "ivrpgtrueaegis.activeitem.json": 2,
             "judgement": {
+              "ivrpgjudgement.animation.json": 1,
               "ivrpgjudgement.statuseffect.json": 1
             }
           },
@@ -133,33 +134,10 @@
           }
         },
         "weapons": {
+          "crit": {
+            "ivcrithit.animation.json": 1
+          },
           "melee": {
-            "abilities": {
-              "broadsword": {
-                "acidspew": {
-                  "flamethrowersword.weaponability.json": 1
-                },
-                "obsidianShards": {
-                  "obsidianShards.weaponability.json": 1
-                },
-                "obsidianShardsWeak": {
-                  "obsidianShardsWeak.weaponability.json": 1
-                }
-              },
-              "hammer": {
-                "demonsword": {
-                  "giantsword.weaponability.json": 1
-                },
-                "ivrpgenergywall": {
-                  "elementalpillar.weaponability.json": 1
-                }
-              },
-              "spear": {
-                "telsaspin": {
-                  "elementalspin.weaponability.json": 1
-                }
-              }
-            },
             "broadsword": {
               "abhorrentstygiansword.activeitem.json": 1,
               "goldcleaver.activeitem.json": 1,
@@ -330,7 +308,11 @@
           "ivrpgtoxify.statuseffect.json": 1
         }
       },
+      "ivrpgweaken": {
+        "ivrpgweaken.animation.json": 1
+      },
       "soldierstun": {
+        "soldierstun.animation.json": 1,
         "soldierstun.statuseffect.json": 1
       }
     },
@@ -418,6 +400,10 @@
       "professionDescriptions.config.json": 10,
       "shared_erstation.config.json": 1,
       "shared_station.config.json": 3,
+      "smith": {
+        "ivrpgsmithstation.config.json": 1,
+        "ivrpgsmithstation.object.json": 9
+      },
       "tamer": {
         "items": {
           "advancedcapturepod.thrownitem.json": 2,
@@ -484,6 +470,9 @@
       "knightblock": {
         "knightblock.statuseffect.json": 1
       },
+      "levelup": {
+        "ivrpglevelup.animation.json": 1
+      },
       "ninjacrit": {
         "ninjacrit.statuseffect.json": 1
       },
@@ -497,7 +486,7 @@
         "wizardaffinity.statuseffect.json": 1
       }
     },
-    "shared_.config.json": 3,
+    "shared_.config.json": 4,
     "shared_explorer.json": 3,
     "shared_knight.json": 4,
     "shared_ninja.json": 4,
@@ -560,7 +549,7 @@
           "betweenworlds.statuseffect.json": 1
         }
       },
-      "adept.config.json": 7,
+      "adept.config.json": 8,
       "battlemage.config.json": 2,
       "berserker.config.json": 2,
       "bountyhunter.config.json": 2,
@@ -610,6 +599,9 @@
           }
         },
         "kunoichi": {
+          "ivrpgdazed": {
+            "ivrpgdazed.animation.json": 1
+          },
           "swirlingpetal.tech.json": 1
         },
         "necromancer": {
@@ -727,6 +719,9 @@
           "roguecloudjumpcooldown.statuseffect.json": 1
         },
         "rogueescape": {
+          "ivrpgdisoriented": {
+            "ivrpgdisoriented.animation.json": 1
+          },
           "rogueescape.tech.json": 1
         },
         "roguepoisondash": {

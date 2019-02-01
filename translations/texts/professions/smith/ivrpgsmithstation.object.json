@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/ivrpgsmithstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beautifully crafted anvil for metal-working. Very sleek."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/ivrpgsmithstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An anvil perfect for upgrading weapons and armor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/ivrpgsmithstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran makesss sharp sstickssss sharper."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/ivrpgsmithstation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smith Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/ivrpgsmithstation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The perfect surface to hammer away.\nDesigned by JM401!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/ivrpgsmithstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This anvil is advanced enough to even upgrade magic weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/ivrpgsmithstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This anvil will let me upgrade my weapons. I wonder if I can upgrade myself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/ivrpgsmithstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sure is an anvil. Does that logo say 'ACME'?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/ivrpgsmithstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "With this thing right here, I can strengthen most of my equipment."
+    }
+  }
+]

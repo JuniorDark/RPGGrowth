@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/rogueescape/ivrpgdisoriented/ivrpgdisoriented.animation": [
+        "/particleEmitters/statustext/particles/0/particle/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disoriented!"
+    }
+  }
+]

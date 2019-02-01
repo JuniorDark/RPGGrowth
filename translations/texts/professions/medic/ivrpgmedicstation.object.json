@@ -15,6 +15,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "professions/medic/ivrpgmedicstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Despite being mechanical, I can somehow still use the bandages from this table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.object": [
         "/avianDescription"
       ]
     },
@@ -33,18 +44,6 @@
     "Texts": {
       "Eng": "I should be able to make all kinds of medical supplies using this.",
       "Por": "Eu deveria ser capaz de fazer todos os tipos de suprimentos médicos usando isso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "professions/medic/ivrpgmedicstation.object": [
-        "/glitchDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Intrigued. Despite being mechanical, I can somehow still use the bandages from this table.",
-      "Por": "Intrigado. Apesar de ser mecânico, eu ainda posso de alguma forma usar as ataduras desta mesa."
     }
   },
   {

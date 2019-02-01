@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/soldierstun/soldierstun.animation": [
+        "/particleEmitters/statustext/particles/0/particle/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stunned!"
+    }
+  }
+]

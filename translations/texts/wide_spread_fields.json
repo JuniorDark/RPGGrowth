@@ -1143,9 +1143,6 @@
       "classes/wizard.config": [
         "/weapon/title"
       ],
-      "items/active/classweapons/wizardstaff/novastaffexplosion.weaponability": [
-        "/ability/name"
-      ],
       "items/active/classweapons/wizardstaff/wizardnovastaff.activeitem": [
         "/shortdescription"
       ]
@@ -1201,23 +1198,6 @@
     "Texts": {
       "Eng": "Phase Out",
       "Por": "Phase Out"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "MudanÃÂ§a de Fase"
-    ],
-    "Files": {
-      "items/active/specweapons/adept/phaseshift.weaponability": [
-        "/ability/name"
-      ],
-      "specs/adept.config": [
-        "/weapon/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Phase Shift",
-      "Por": "MudanÃ§a de Fase"
     }
   },
   {
@@ -1604,6 +1584,23 @@
     }
   },
   {
+    "DeniedAlternatives": [
+      "Melhorias"
+    ],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/upgradelayout/children/upgradetitle/value"
+      ],
+      "professions/smith/ivrpgsmithstation.object": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upgrades",
+      "Por": "Aprimoramentos"
+    }
+  },
+  {
     "DeniedAlternatives": [],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucvampirescaress.activeitem": [
@@ -1789,7 +1786,6 @@
     }
   },
   {
-    "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
     "DeniedAlternatives": [],
     "Files": {
       "objects/mastery/shop/ivrpgmasteryshop.config": [

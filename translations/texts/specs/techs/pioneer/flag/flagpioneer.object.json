@@ -15,24 +15,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/techs/pioneer/flag/flagpioneer.object": [
-        "/novakidDescription"
+        "/glitchDescription/glitchEmotedText"
       ]
     },
     "Texts": {
-      "Eng": "I can bookmark this Pioneer flag for quick teleportin'.",
-      "Por": "Eu posso favoritar esta bandeira de Pioneiro para um teleporte rápido."
+      "Eng": "A small locator module attached to this Pioneer flag allows it to be bookmarked for teleportation."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "specs/techs/pioneer/flag/flagpioneer.object": [
-        "/glitchDescription"
+        "/novakidDescription"
       ]
     },
     "Texts": {
-      "Eng": "Observant. A small locator module attached to this Pioneer flag allows it to be bookmarked for teleportation.",
-      "Por": "Atento. Um pequeno módulo localizador anexado a esta bandeira de Pioneiro permite que ela seja favoritada para teletransporte."
+      "Eng": "I can bookmark this Pioneer flag for quick teleportin'.",
+      "Por": "Eu posso favoritar esta bandeira de Pioneiro para um teleporte rápido."
     }
   },
   {

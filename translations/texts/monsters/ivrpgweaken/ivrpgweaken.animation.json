@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ivrpgweaken/ivrpgweaken.animation": [
+        "/particleEmitters/statustext/particles/0/particle/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bleeding!"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/ivrpgsmithstation.config": [
+        "/gui/lblText/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;Place Electrum Bars in Yellow Slot. Requires 2 for Upgrades and 4 for Creation.\n      ^white;Place 6 Bars in Grey Slot to determine Weapon Level. Accepts the following:\n      Copper, Iron, Tungsten, Titanium, Durasteel, Violium/Aegisalt/Ferozium, Solarium\n      ^gray;Place 1 Item in Red Slot to determine Element. Accepts the following:\n      Venom Sample, Scorched Core, Cryonic Extract, Static Cell, Glass (Keeps Element)\n      ^white;Place desired Items in Blue Slot. Accepts the following:\n      Diamond (+ Base Damage), Battery (- Energy Cost), 3 Coal (Same Stats)\n      ^red;Except for Coal, other modifiers only ever work once and only for upgrades!\n      ^gray;To upgrade an existing weapon, simply place the weapon in the Purple Slot.\n      ^white;To create a new weapon, place an item in the Purple Slot. Accepts the following:\n      2 Sharpened Claw (Spear), 2 Hardened Carapace (Hammer), 6 Steel Bar (Broadsword),\n      1 Sharpened Claw (Dagger), 1 Hardened Carapace (Axe), 3 Steel Bar (Shortsword)"
+    }
+  }
+]

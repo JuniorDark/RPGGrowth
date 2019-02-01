@@ -51,18 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "professions/miner/ivrpgminerstation.object": [
-        "/glitchDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Joking. This table seems to be quite similar to me. Perhaps it is a long lost relative.",
-      "Por": "Brincando. Esta mesa parece ser bem parecida comigo. Talvez seja um parente perdido há muito tempo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "professions/miner/ivrpgminerstation.object": [
         "/shortdescription"
       ]
     },
@@ -93,6 +81,17 @@
     "Texts": {
       "Eng": "This ain't for Smiths, but ye' can make some pretty good picks with the molds at the top.",
       "Por": "Isso não é para Ferreiros, mas você pode fazer algumas boas picaretas com os moldes no topo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/ivrpgminerstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table seems to be quite similar to me. Perhaps it is a long lost relative."
     }
   },
   {

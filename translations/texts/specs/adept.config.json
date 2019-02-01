@@ -72,6 +72,20 @@
     }
   },
   {
+    "DeniedAlternatives": [
+      "MudanÃÂ§a de Fase"
+    ],
+    "Files": {
+      "specs/adept.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Phase Shift",
+      "Por": "MudanÃ§a de Fase"
+    }
+  },
+  {
     "DeniedAlternatives": [],
     "Files": {
       "specs/adept.config": [
