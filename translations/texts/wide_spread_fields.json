@@ -3,6 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/lorelayout/children/scrollArea/children/text/value",
         "/gui/upgradelayout/children/affinitytext/value",
         "/gui/upgradelayout/children/generaltext/value",
         "/gui/upgradelayout/children/techtext/value",
@@ -725,6 +726,9 @@
       "professions/engineer.config": [
         "/scaling/0/text"
       ],
+      "professions/smith.config": [
+        "/scaling/0/text"
+      ],
       "specs/necromancer.config": [
         "/effects/0/text"
       ],
@@ -1046,6 +1050,23 @@
     "Texts": {
       "Eng": "Knight",
       "Por": "Cavaleiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Master's Desk"
+    ],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/masterylayout/children/shoptitle/value"
+      ],
+      "objects/mastery/shop/masteryshop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Master's Desk",
+      "Por": "Mesa do Mestre"
     }
   },
   {
@@ -1460,6 +1481,27 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionslayout/children/smithtitle/value"
+      ],
+      "professions/smith.config": [
+        "/title"
+      ],
+      "professions/smith/ivrpgsmithstation.config": [
+        "/gui/toggleCrafting/caption"
+      ],
+      "professions/smith/status/ivrpgsmithstatus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smith",
+      "Por": "Ferreiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "classes/soldier.config": [
         "/title"
       ],
@@ -1543,6 +1585,9 @@
         "/shortdescription"
       ],
       "professions/miner.config": [
+        "/scaling/1/text"
+      ],
+      "professions/smith.config": [
         "/scaling/1/text"
       ],
       "specs/crusader.config": [

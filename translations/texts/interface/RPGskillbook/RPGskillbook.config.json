@@ -232,8 +232,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Are you sure you want to reset? Your Experience, Level, Class, Specialization, Profession, Affinity, and Mastery will be removed.\nIn addition, your current Mastery Challenges will be forfeited,\nand your current Class' Skills will be forceably removed.",
-      "Por": "Tem certeza de que deseja resetar? Sua Experiência, Nível, Classe, Especialização, Profissão, Afinidade e Mestria serão removidos.\nAlém disso, seus desafios de Mestria atuais serão perdidos,\ne suas habilidades de classe atuais serão removidos à força."
+      "Eng": "Are you sure you want to reset? Your Experience, Level, Class, Profession, Affinity, and Mastery will be removed. In addition, your Mastery Challenges will be forfeited, and your current Class' Skills will be removed.\nSpecializations remain unlocked, but are unusable until Level 35."
     }
   },
   {
@@ -350,6 +349,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/lorelayout/children/changelogbutton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Changelog"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/professionslayout/children/cheftitle/value"
       ]
     },
@@ -454,8 +464,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Create a Mastery Shop, which provides the ability to purchase Scrolls, Items, and Class related Upgrades. Place it down and have fun!.\n^red;Costs 5 Mastery Points.^reset;",
-      "Por": "Cria uma Loja de Mestria, que oferece a capacidade de comprar pergaminhos, itens e melhorias relacionadas com a classe. Coloque-a e divirta-se!.\n^red;Custa 5 Pontos de Mestria.^reset;"
+      "Eng": "Create a Master's Desk, which provides the ability to create Scrolls, Items, and Class related Upgrades. Place it down and have fun!.\n^red;Costs 5 Mastery Points.^reset;"
     }
   },
   {
@@ -619,6 +628,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/lorelayout/children/lorebutton/caption",
         "/gui/specializationslayout/children/loretitle/value"
       ]
     },
@@ -631,24 +641,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/masterylayout/children/masterytitle/value"
+        "/gui/lorelayout/children/scrollArea/children/locked/value"
       ]
     },
     "Texts": {
-      "Eng": "Mastery",
-      "Por": "Mestria"
+      "Eng": "Lore Tab. Currently Unavailable."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/masterylayout/children/shoptitle/value"
+        "/gui/masterylayout/children/masterytitle/value"
       ]
     },
     "Texts": {
-      "Eng": "Mastery Shop",
-      "Por": "Loja de Mestria"
+      "Eng": "Mastery",
+      "Por": "Mestria"
     }
   },
   {
@@ -852,8 +861,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Reset progress, losing XP and unlocks (Affinities, Specializations, etc).\n^green;Class Skills and the Mastery Tab remain unlocked.\n^red;Costs 3 Mastery Points.^reset;",
-      "Por": "Reseta o progresso, perdendo XP e desbloqueados (Afinidades, Especializações, etc).\n^green;Habilidades de Classe e a Aba Mestria permanecem destravadas.\n^red;Custa 3 Pontos de Mestria.^reset;"
+      "Eng": "Reset progress. However,\n^green;Class Skills and the Mastery Tab remain unlocked, and current Specialization Progress\nis not removed.\n^red;Costs 3 Mastery Points.^reset;"
     }
   },
   {
@@ -938,6 +946,17 @@
     "Texts": {
       "Eng": "Skills",
       "Por": "Habilidades"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/skillslayout/children/locked/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skills Tab. Currently Unavailable!"
     }
   },
   {

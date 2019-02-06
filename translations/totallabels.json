@@ -25,7 +25,7 @@
     "default.config.json": 1,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 108
+        "RPGskillbook.config.json": 110
       }
     },
     "items": {
@@ -87,7 +87,8 @@
             }
           },
           "cannoneer": {
-            "outburst.activeitem.json": 2
+            "outburst.activeitem.json": 2,
+            "stormhowl.activeitem.json": 2
           },
           "crusader": {
             "oathkeeper.activeitem.json": 2
@@ -320,6 +321,7 @@
       }
     },
     "ivrpgtext.config.json": 56,
+    "ivrpgversion.config.json": 1,
     "monsters": {
       "flyers": {
         "bonepteropod": {
@@ -360,7 +362,7 @@
         "masterypoint.currency.json": 2,
         "shop": {
           "ivrpgmasteryshop.config.json": 6,
-          "masteryshop.object.json": 9
+          "masteryshop.object.json": 8
         }
       },
       "profession": {
@@ -431,8 +433,13 @@
       "shared_station.config.json": 3,
       "smith": {
         "ivrpgsmithstation.config.json": 1,
-        "ivrpgsmithstation.object.json": 9
+        "ivrpgsmithstation.object.json": 9,
+        "status": {
+          "ivrpgsmithstatusarmor.statuseffect.json": 1,
+          "ivrpgsmithstatusresistance.statuseffect.json": 1
+        }
       },
+      "smith.config.json": 5,
       "tamer": {
         "items": {
           "advancedcapturepod.thrownitem.json": 2,
@@ -676,7 +683,7 @@
       "thief.config.json": 2,
       "titan.config.json": 6,
       "valkyrie.config.json": 8,
-      "vanguard.config.json": 12,
+      "vanguard.config.json": 11,
       "vigilante.config.json": 7,
       "vinetender.config.json": 2,
       "wanderer.config.json": 2,
@@ -818,6 +825,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 78
+    "wide_spread_fields.json": 80
   }
 }

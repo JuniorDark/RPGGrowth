@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith.config": [
+        "/effects/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10% Fire Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith.config": [
+        "/effects/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "110% Armor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith.config": [
+        "/passive/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "As long as you have enough Energy, and upon taking Elemental Damage, drain up to 45 Energy to gain 15 seconds of +25% Resistance against that element. Only one kind of Resistance can apply at any given time. Energy Cost lowers if the buff is already applied."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith.config": [
+        "/crafting/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Smith Station allows you upgrade weapons and craft melee weapons!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "While Hunger is near satiated, you and nearby Players and NPCs gain increased Armor."
+    }
+  }
+]

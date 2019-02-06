@@ -47,16 +47,16 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/professionslayout/children/smithtitle/value"
+      "professions/smith.config": [
+        "/classic/0/text"
       ],
-      "professions/smith/ivrpgsmithstation.config": [
-        "/gui/toggleCrafting/caption"
+      "specs/vanguard.config": [
+        "/classic/1/text"
       ]
     },
     "Texts": {
-      "Eng": "Smith",
-      "Por": "Ferreiro"
+      "Eng": "Can use Melee Weapons.",
+      "Por": "Pode usar Armas Corpo-a-Corpo."
     }
   }
 ]

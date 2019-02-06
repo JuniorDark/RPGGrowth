@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mastery/shop/masteryshop.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large table. Despite its gaudy colors, it seems masterful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/masteryshop.object": [
         "/description"
       ]
     },
@@ -19,20 +30,7 @@
       ]
     },
     "Texts": {
-      "Eng": "A simple table. Don't really know what this darned thing is capable of.",
-      "Por": "Uma mesa simples. Realmente não sei do que essa maldita coisa é capaz."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mastery/shop/masteryshop.object": [
-        "/apexDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "A small table. Despite its simplicity, it seems masterful.",
-      "Por": "Uma mesa pequena. Apesar de sua simplicidade, parece magistral."
+      "Eng": "A mighty fine table. Don't really know what this darned thing is capable of."
     }
   },
   {
@@ -48,20 +46,6 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Master's Desk"
-    ],
-    "Files": {
-      "objects/mastery/shop/masteryshop.object": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Master's Desk",
-      "Por": "Mesa do Mestre"
-    }
-  },
-  {
     "DeniedAlternatives": [],
     "Files": {
       "objects/mastery/shop/masteryshop.object": [
@@ -69,8 +53,18 @@
       ]
     },
     "Texts": {
-      "Eng": "Old table too fragile for Floran to use for chopping food. But color remindss Floran of meat.",
-      "Por": "Mesa velha muito frágil para Floran usar para cortar alimentos. Mas a cor lembra Floran de carne."
+      "Eng": "Table too dangerous for Floran to use for chopping food. But color remindss Floran of meat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/masteryshop.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table beeps sometimes, and everytime it does, my stomach hurts."
     }
   },
   {
@@ -83,18 +77,6 @@
     "Texts": {
       "Eng": "This table emanates a strong mystical energy.",
       "Por": "Esta mesa emana uma forte energia mística."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mastery/shop/masteryshop.object": [
-        "/humanDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "This table wobbles quite easily, and everytime it does, my stomach hurts.",
-      "Por": "Esta mesa balança bem facilmente, e toda vez que isso acontece, meu estômago dói."
     }
   },
   {

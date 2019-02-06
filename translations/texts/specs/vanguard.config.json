@@ -99,18 +99,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/vanguard.config": [
-        "/classic/1/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Can use Melee Weapons.",
-      "Por": "Pode usar Armas Corpo-a-Corpo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/vanguard.config": [
         "/classic/2/text"
       ]
     },

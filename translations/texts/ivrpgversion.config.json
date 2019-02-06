@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "UI:\n    Skill Tab:\n        Not available yet.\n    Lore Tab:\n        Added the ability to view recent changelog information.\n        Lore not available yet.\n\nMechanics:\n    Mastery:\n        Master's Desk given new image.\n        UI updated.\n\nClass Balance:\n    Knight:\n        Slam:\n            Halts momentum upon hitting water to prevent death.\n\nProfession Balance:\n    Smith:\n        Added Smith.\n    Miner:\n        Electrum, Platinum, and Steel recipes for regular crafting furnace improved.\n        Billon Coin ore recipe added. Slightly less efficient.\n        Refinery pixel yield for Platinum, Electrum, and Steel drastically lowered.\n\nSpecialization Balance:\n    Dragoon:\n        Dragon's Bane:\n            Increased Physical Resistance when lunging.\n    Cannoneer:\n        Bomb's Away:\n            Dexterity Damage Scaling Increased by 5.\n            Aerial jumps no longer trigger on held space bar.\n            Lowered Grounded Energy Cost to 40 from 50.\n            Lowered Aerial Energy Cost to 10 from 50.\n            Height gained no longer depends on current y velocity.\n        Stormhowl:\n            Unique Shortsword that causes Embrittle.\n            If you cannot find the weapon in the anvil, reselect Cannoneer from the Specialization Select menu to unlock it.\n        Outburst:\n            No longer increases in damage when held.\n            Energy Cost increased.\n            Grenades now explode on contact with enemies.\n            Fire rate increased.\n            Grenades do less damage as Energy ratio decreases.\n            Fire Grenade causes Disorient instead of Burning to synergize with Stormhowl.\n    Crusader:\n        Oathkeeper:\n            Alt Fire requires charge up.\n            Alt Fire hitbox trimmed.\n"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/status/ivrpgsmithstatusarmor.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smith's Armor"
+    }
+  }
+]

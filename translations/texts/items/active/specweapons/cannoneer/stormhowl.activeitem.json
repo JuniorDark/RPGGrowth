@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/cannoneer/stormhowl.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Waves crash violently and winds blow endlessly as the storm howls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/cannoneer/stormhowl.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#bff4ff;Stormhowl"
+    }
+  }
+]

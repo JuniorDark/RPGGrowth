@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/status/ivrpgsmithstatusresistance.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smith's Resistance"
+    }
+  }
+]

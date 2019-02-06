@@ -25,7 +25,7 @@
     "default.config.json": 1,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 108
+        "RPGskillbook.config.json": 104
       }
     },
     "items": {
@@ -87,7 +87,8 @@
             }
           },
           "cannoneer": {
-            "outburst.activeitem.json": 2
+            "outburst.activeitem.json": 2,
+            "stormhowl.activeitem.json": 0
           },
           "crusader": {
             "oathkeeper.activeitem.json": 2
@@ -320,6 +321,7 @@
       }
     },
     "ivrpgtext.config.json": 56,
+    "ivrpgversion.config.json": 0,
     "monsters": {
       "flyers": {
         "bonepteropod": {
@@ -360,7 +362,7 @@
         "masterypoint.currency.json": 2,
         "shop": {
           "ivrpgmasteryshop.config.json": 6,
-          "masteryshop.object.json": 9
+          "masteryshop.object.json": 4
         }
       },
       "profession": {
@@ -426,13 +428,18 @@
         "ivrpgminerstation.object.json": 9
       },
       "miner.config.json": 5,
-      "professionDescriptions.config.json": 10,
+      "professionDescriptions.config.json": 8,
       "shared_erstation.config.json": 1,
       "shared_station.config.json": 3,
       "smith": {
         "ivrpgsmithstation.config.json": 1,
-        "ivrpgsmithstation.object.json": 9
+        "ivrpgsmithstation.object.json": 9,
+        "status": {
+          "ivrpgsmithstatusarmor.statuseffect.json": 0,
+          "ivrpgsmithstatusresistance.statuseffect.json": 0
+        }
       },
+      "smith.config.json": 0,
       "tamer": {
         "items": {
           "advancedcapturepod.thrownitem.json": 2,
@@ -582,7 +589,7 @@
       "battlemage.config.json": 2,
       "berserker.config.json": 2,
       "bountyhunter.config.json": 2,
-      "cannoneer.config.json": 8,
+      "cannoneer.config.json": 7,
       "captain.config.json": 2,
       "changeling.config.json": 2,
       "cleric.config.json": 2,
@@ -676,7 +683,7 @@
       "thief.config.json": 2,
       "titan.config.json": 6,
       "valkyrie.config.json": 8,
-      "vanguard.config.json": 12,
+      "vanguard.config.json": 11,
       "vigilante.config.json": 7,
       "vinetender.config.json": 2,
       "wanderer.config.json": 2,
@@ -818,6 +825,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 78
+    "wide_spread_fields.json": 80
   }
 }
