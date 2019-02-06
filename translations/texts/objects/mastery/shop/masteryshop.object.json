@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A large table. Despite its gaudy colors, it seems masterful."
+      "Eng": "A large table. Despite its gaudy colors, it seems masterful.",
+      "Por": "Uma mesa grande. Apesar de suas cores berrantes, parece magistral."
     }
   },
   {
@@ -19,7 +20,7 @@
     },
     "Texts": {
       "Eng": "A masterfully designed wooden desk (with a pinkish hue) for masters to manifest items from mastery.",
-      "Por": "Uma mesa de madeira magistralmente projetada (com uma tonalidade rosada) para mestres manifestem itens da mestria."
+      "Por": "Uma mesa de madeira magistralmente projetada (com uma tonalidade rosada) para mestres manifestarem itens de maestria."
     }
   },
   {
@@ -30,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A mighty fine table. Don't really know what this darned thing is capable of."
+      "Eng": "A mighty fine table. Don't really know what this darned thing is capable of.",
+      "Por": "Uma mesa muito boa. Não sei realmente do que essa coisa é capaz."
     }
   },
   {
@@ -53,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Table too dangerous for Floran to use for chopping food. But color remindss Floran of meat."
+      "Eng": "Table too dangerous for Floran to use for chopping food. But color remindss Floran of meat.",
+      "Por": "Mesa muito perigosa para Floran usar para cortar comida. Mas a cor lembra Floran de carne."
     }
   },
   {
@@ -64,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This table beeps sometimes, and everytime it does, my stomach hurts."
+      "Eng": "This table beeps sometimes, and everytime it does, my stomach hurts.",
+      "Por": "Esta mesa emite um sinal sonoro às vezes, e toda vez que isso acontece, meu estômago dói."
     }
   },
   {
