@@ -67,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Jeweler forms beautiful accessories that augment players with unique effects. It provides access to craftable accessories that augment armor."
+      "Eng": "The Jeweler forms beautiful accessories that augment players with unique effects. It provides access to craftable accessories that augment armor.",
+      "Por": "O Joalheiro cria acessórios bonitos que fortalecem jogadores com efeitos únicos. Ele fornece acesso a criação de acessórios que aprimoram armadura."
     }
   },
   {
@@ -102,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Smith toils away to make dangerous weapons and strong armor. It provides access to craftable melee weapons and means to upgrade all weapons."
+      "Eng": "The Smith toils away to make dangerous weapons and strong armor. It provides access to craftable melee weapons and means to upgrade all weapons.",
+      "Por": "O Ferreiro trabalha duro para fazer armas perigosas e armaduras fortes. Ele fornece acesso a criação de armas corpo a corpo e meios de fortificar todas as armas."
     }
   },
   {

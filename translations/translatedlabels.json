@@ -428,7 +428,7 @@
         "ivrpgminerstation.object.json": 9
       },
       "miner.config.json": 5,
-      "professionDescriptions.config.json": 8,
+      "professionDescriptions.config.json": 10,
       "shared_erstation.config.json": 1,
       "shared_station.config.json": 3,
       "smith": {
