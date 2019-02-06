@@ -232,7 +232,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Are you sure you want to reset? Your Experience, Level, Class, Profession, Affinity, and Mastery will be removed. In addition, your Mastery Challenges will be forfeited, and your current Class' Skills will be removed.\nSpecializations remain unlocked, but are unusable until Level 35."
+      "Eng": "Are you sure you want to reset? Your Experience, Level, Class, Profession, Affinity, and Mastery will be removed. In addition, your Mastery Challenges will be forfeited, and your current Class' Skills will be removed.\nSpecializations remain unlocked, but are unusable until Level 35.",
+      "Por": "Tem certeza de que deseja resetar? Sua Experiência, Nível, Classe, Especialização, Profissão, Afinidade e Maestria serão removidos. Além disso, seus Desafios de Maestria serão perdidos e suas habilidades atuais de Classe serão removidas. As Especializações permanecem desbloqueadas, mas não podem ser usadas até o nível 35."
     }
   },
   {
@@ -353,7 +354,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Changelog"
+      "Eng": "Changelog",
+      "Por": "Registro de mudanças"
     }
   },
   {
@@ -464,7 +466,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Create a Master's Desk, which provides the ability to create Scrolls, Items, and Class related Upgrades. Place it down and have fun!.\n^red;Costs 5 Mastery Points.^reset;"
+      "Eng": "Create a Master's Desk, which provides the ability to create Scrolls, Items, and Class related Upgrades. Place it down and have fun!.\n^red;Costs 5 Mastery Points.^reset;",
+      "Por": "Cria uma Mesa de Maestria, que oferece a capacidade de criar Pergaminhos, Itens e Aprimoramentos relacionados com Classes. Coloque-a e divirta-se!.\n^red;Custa 5 Pontos de Maestria.^reset;"
     }
   },
   {
@@ -645,7 +648,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lore Tab. Currently Unavailable."
+      "Eng": "Lore Tab. Currently Unavailable.",
+      "Por": "Aba de Enredo. Atualmente Indisponível."
     }
   },
   {
@@ -861,7 +865,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Reset progress. However,\n^green;Class Skills and the Mastery Tab remain unlocked, and current Specialization Progress\nis not removed.\n^red;Costs 3 Mastery Points.^reset;"
+      "Eng": "Reset progress. However,\n^green;Class Skills and the Mastery Tab remain unlocked, and current Specialization Progress\nis not removed.\n^red;Costs 3 Mastery Points.^reset;",
+      "Por": "Reseta o progresso. Contudo,\n^green;Habilidades de Classe e a Aba de Maestria permanecem desbloqueadas e o Progresso da Especialização atual\nnão é removido.\n^red;Custa 3 pontos de Maestria.^reset;"
     }
   },
   {
@@ -956,7 +961,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Skills Tab. Currently Unavailable!"
+      "Eng": "Skills Tab. Currently Unavailable!",
+      "Por": "Aba de Habilidades. Atualmente Indisponível!"
     }
   },
   {

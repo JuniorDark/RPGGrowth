@@ -25,7 +25,7 @@
     "default.config.json": 1,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 104
+        "RPGskillbook.config.json": 110
       }
     },
     "items": {
