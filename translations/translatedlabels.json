@@ -435,7 +435,7 @@
         "ivrpgsmithstation.config.json": 1,
         "ivrpgsmithstation.object.json": 9,
         "status": {
-          "ivrpgsmithstatusarmor.statuseffect.json": 0,
+          "ivrpgsmithstatusarmor.statuseffect.json": 1,
           "ivrpgsmithstatusresistance.statuseffect.json": 0
         }
       },
