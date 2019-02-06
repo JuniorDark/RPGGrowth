@@ -321,7 +321,7 @@
       }
     },
     "ivrpgtext.config.json": 56,
-    "ivrpgversion.config.json": 0,
+    "ivrpgversion.config.json": 1,
     "monsters": {
       "flyers": {
         "bonepteropod": {
