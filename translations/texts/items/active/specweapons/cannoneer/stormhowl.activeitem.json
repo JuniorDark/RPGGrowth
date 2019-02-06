@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Waves crash violently and winds blow endlessly as the storm howls."
+      "Eng": "Waves crash violently and winds blow endlessly as the storm howls.",
+      "Por": "Ondas batem violentamente e os ventos sopram indefinidamente enquanto a tempestade uiva."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#bff4ff;Stormhowl"
+      "Eng": "^#bff4ff;Stormhowl",
+      "Por": "^#bff4ff;Stormhowl"
     }
   }
 ]
