@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "\n\nRefine your extra Experience into a powerful substance.\n^red;Every 10000 Experience refines into 1 Mastery!^reset;",
-      "Por": "\n\nRefine sua experiência extra em uma substância poderosa.\n^red;Cada 10000 Experiência refina em 1 Mestria!^reset;"
+      "Por": "\n\nRefine sua experiência extra em uma substância poderosa.\n^red;Cada 10000 Experiência refina em 1 Maestria!^reset;"
     }
   },
   {
@@ -575,7 +575,7 @@
     },
     "Texts": {
       "Eng": "Keep an eye out for Upgrade Chips, which can drop from monsters,\nor be purchased using Mastery via the Mastery Shop.\nWhen you use an Upgrade Chip (like a consumable),\nit will be equipped here. You can use this Tab to read exact details,\nas well as unequip Upgrade Chips.\n^red;More Upgrades will be added in future updates.^reset;",
-      "Por": "Fique de olho nos Upgrade Chips, que podem cair dos monstros,\nou ser comprado usando Mestria na Loja de Mestria.\nQuando você usa um Upgrade Chip (como um consumível),\nserá equipado aqui. Você pode usar esta guia para ler os detalhes exatos,\nbem como desequipar Upgrade Chips.\n^red;Mais Upgrades serão adicionadas em futuras atualizações.^reset;\n\n"
+      "Por": "Fique de olho nos Upgrade Chips, que podem cair dos monstros,\nou ser comprado usando Maestria na Loja de Maestria.\nQuando você usa um Upgrade Chip (como um consumível),\nserá equipado aqui. Você pode usar esta guia para ler os detalhes exatos,\nbem como desequipar Upgrade Chips.\n^red;Mais Upgrades serão adicionadas em futuras atualizações.^reset;\n\n"
     }
   },
   {
@@ -661,7 +661,7 @@
     },
     "Texts": {
       "Eng": "Mastery",
-      "Por": "Mestria"
+      "Por": "Maestria"
     }
   },
   {
