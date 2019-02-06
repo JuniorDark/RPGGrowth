@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+10% Fire Resistance"
+      "Eng": "+10% Fire Resistance",
+      "Por": "+10% de Resistência a Fogo"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "110% Armor"
+      "Eng": "110% Armor",
+      "Por": "110% Armduraa"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "As long as you have enough Energy, and upon taking Elemental Damage, drain up to 45 Energy to gain 15 seconds of +25% Resistance against that element. Only one kind of Resistance can apply at any given time. Energy Cost lowers if the buff is already applied."
+      "Eng": "As long as you have enough Energy, and upon taking Elemental Damage, drain up to 45 Energy to gain 15 seconds of +25% Resistance against that element. Only one kind of Resistance can apply at any given time. Energy Cost lowers if the buff is already applied.",
+      "Por": "Contanto que você tenha Energia suficiente, e ao receber Dano Elemental, drene até 45 de Energia para ganhar 15 segundos de +25% de Resistência contra aquele elemento. Apenas um tipo de Resistência pode ser aplicado de cada vez. O Custo de Energia diminui se o buff já estiver aplicado."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Smith Station allows you upgrade weapons and craft melee weapons!"
+      "Eng": "The Smith Station allows you upgrade weapons and craft melee weapons!",
+      "Por": "A Estação do Ferreiro permite que você aprimore armas e crie armas corpo a corpo!"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "While Hunger is near satiated, you and nearby Players and NPCs gain increased Armor."
+      "Eng": "While Hunger is near satiated, you and nearby Players and NPCs gain increased Armor.",
+      "Por": "Enquanto a Fome está quase saciada, você e os Jogadores e NPCs próximos ganham Armadura aumentada."
     }
   }
 ]
