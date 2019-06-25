@@ -571,7 +571,7 @@
         },
         "darktemplar": {
           "corrupted.statuseffect.json": 1,
-          "corruption.statuseffect.json": 0
+          "corruption.statuseffect.json": 1
         },
         "dragoon": {
           "flightless.statuseffect.json": 1
