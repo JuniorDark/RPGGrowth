@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A sweet voice calls out to you, tempting you: will you break your physical form and become a concentrated vessel of pure elemental energy? If so, harness the raw power that only an Elementalist can, and revel in your new ability to throw magic around."
+      "Eng": "A sweet voice calls out to you, tempting you: will you break your physical form and become a concentrated vessel of pure elemental energy? If so, harness the raw power that only an Elementalist can, and revel in your new ability to throw magic around.",
+      "Por": "Uma doce voz grita para você, tentando você: você vai quebrar sua forma física e se tornar um recipiente concentrado de pura energia elementar? Se assim for, aproveite o poder bruto que só um Elementalista pode, e divirta-se com sua nova habilidade de jogar magia por aí."
     }
   },
   {
@@ -42,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Captains are known for their ability to lead and rally their comrades in battle. While alone, they are nothing to write home about, but with their comrades in battle they are a force to be reckoned with. They analyze the situations help support their teams in being offensive, defensive or even speedy."
+      "Eng": "Captains are known for their ability to lead and rally their comrades in battle. While alone, they are nothing to write home about, but with their comrades in battle they are a force to be reckoned with. They analyze the situations help support their teams in being offensive, defensive or even speedy.",
+      "Por": "Capitães são conhecidos por sua capacidade de liderar e reunir seus companheiros na batalha. Enquanto sozinhos, eles não são nada, mas com seus companheiros de batalha eles são uma força a ser reconhecida. Eles analisam as situações e ajudam as equipes a serem ofensivas, defensivas ou até mesmo velozes."
     }
   },
   {
@@ -286,7 +288,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Upgrade your ship to Tier 3 and recruit 4 Crew Members."
+      "Eng": "Upgrade your ship to Tier 3 and recruit 4 Crew Members.",
+      "Por": "Expanda sua nave para o Nível 3 e recrute 4 Membros de Tripulação."
     }
   },
   {
@@ -333,7 +336,7 @@
   },
   {
     "DeniedAlternatives": [
-      "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;\nFaça Escudo Perfeito, ou cause dano com Pistolas ou Pistola Automáticas.",
+      "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;Faça Escudo Perfeito, ou cause dano com Pistolas ou Pistola Automáticas.",
       "^white;Não Disponível Ainda. Ignore o Seguinte:^reset;Faça Escudo Perfeito, ou cause dano com Pistolas ou Metralhadoras."
     ],
     "Files": {
