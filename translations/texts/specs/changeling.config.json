@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "-20% Fire, Electric, Ice, and Poison Resistance"
+      "Eng": "-20% Fire, Electric, Ice, and Poison Resistance",
+      "Por": "-20% de Resistência a Fogo, Eletricidade, Gelo e Veneno"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "All Weapons Disabled."
+      "Eng": "All Weapons Disabled.",
+      "Por": "Todas as Armas Desativadas."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "If Shapeshift is equipped, shrink and gain +50% Physical Resistance when Health drops below 15%. Item usage is disabled while shrunken."
+      "Eng": "If Shapeshift is equipped, shrink and gain +50% Physical Resistance when Health drops below 15%. Item usage is disabled while shrunken.",
+      "Por": "Se Shapeshift está equipado, encolha e ganhe +50% Resistência Física quando a Vida cai abaixo de 15%. O uso de itens é desativado enquanto encolhido."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [F], [Shift], or [S] to shapeshift into one of three monsters: [F] for Wisper; [F] + [Shift] for Poptop; [F] + [S] for Orbide. Each transformation has a Passive and 4 Actions via Left Click, Right Click, [G], and [H]. While transformed, check the Unique Weapon box above for more info. After getting many kills, you may notice a bright flash: if so, press [Shift], [S], and [F] to ???."
+      "Eng": "Press [F], [Shift], or [S] to shapeshift into one of three monsters: [F] for Wisper; [F] + [Shift] for Poptop; [F] + [S] for Orbide. Each transformation has a Passive and 4 Actions via Left Click, Right Click, [G], and [H]. While transformed, check the Unique Weapon box above for more info. After getting many kills, you may notice a bright flash: if so, press [Shift], [S], and [F] to ???.",
+      "Por": "Pressione [F], [Shift], ou [S] para se transformar em um dos três monstros: [F] para Wisper; [F] + [Shift] para Poptop; [F] + [S] para Orbide. Cada transformação tem uma ação Passiva e 4 Ações via Clique Esquerdo, Clique Direito, [G] e [H]. Enquanto transformado, marque a caixa Arma Única acima para mais informações. Depois de obter muitas mortes, você pode notar um flash brilhante: se for o caso, pressione [Shift], [S], e [F] para ???."
     }
   }
 ]
