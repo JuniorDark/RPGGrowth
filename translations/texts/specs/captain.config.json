@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "+15 Armor to nearby allies."
+      "Eng": "+15 Armor to nearby allies.",
+      "Por": "+15 de Armadura para aliados próximos."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "115% Base Power with One-Handed Weapons."
+      "Eng": "115% Base Power with One-Handed Weapons.",
+      "Por": "115% de Força Base com Armas de Uma Mão."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "125% Power Multiplier to nearby allies."
+      "Eng": "125% Power Multiplier to nearby allies.",
+      "Por": "125% de Multiplicador de Força para aliados próximos."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Endurance and Agility Scaling decrease when alone.\nVigor and Vitality Scaling increase when near allies."
+      "Eng": "Endurance and Agility Scaling decrease when alone.\nVigor and Vitality Scaling increase when near allies.",
+      "Por": "Escala de Resistência e Agilidade diminui quando sozinho.\nEscala de Vigor e Vitalidade aumenta quando perto de aliados."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Press [F] to change stances, making nearby allies behave differently.\nNo Stance: No Change.\nPower Stance: 125% Power Multplier but -15 Armor.\nArmor Stance: +15 Armor but 75% Speed and Jump Height.\nSpeed Stance: 125% Speed and Jump Height but 75% Power Multiplier."
+      "Eng": "Press [F] to change stances, making nearby allies behave differently.\nNo Stance: No Change.\nPower Stance: 125% Power Multplier but -15 Armor.\nArmor Stance: +15 Armor but 75% Speed and Jump Height.\nSpeed Stance: 125% Speed and Jump Height but 75% Power Multiplier.",
+      "Por": "Pressione [F] para mudar de postura, fazendo aliados próximos comportar de maneira diferente.\nSem Postura: Sem Mudanças.\nPostura de Força: 125% de Multiplicador de Força mas -15 Armadura.\nPostura de Armadura: +15 Armadura mas 75% de Velocidade e Altura do Pulo.\nPostura de Velocidade: 125% de Velocidade e Altura do Pulo mas 75% de Multiplicador de Força."
     }
   }
 ]
