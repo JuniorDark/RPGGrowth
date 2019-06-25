@@ -561,7 +561,7 @@
         },
         "captain": {
           "bythepeople.statuseffect.json": 1,
-          "forthepeople.statuseffect.json": 0
+          "forthepeople.statuseffect.json": 1
         },
         "changeling": {
           "meltyblood.statuseffect.json": 0
