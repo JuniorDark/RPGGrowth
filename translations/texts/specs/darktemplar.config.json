@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "115% Base Power with Quarterstaves and Axes."
+      "Eng": "115% Base Power with Quarterstaves and Axes.",
+      "Por": "115% de Força Base com Quarterstaves e Machados."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "150% Base Power with Spears and Halberds"
+      "Eng": "150% Base Power with Spears and Halberds",
+      "Por": "150% de Força Base com Lanças e Halberds"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can Wield Broadswords, Halberds, and Spears."
+      "Eng": "Can Wield Broadswords, Halberds, and Spears.",
+      "Por": "Pode Manejar Espadas Longas, Halberds e Lanças."
     }
   },
   {
@@ -52,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hitting enemies with Demonic Damage has a 20% chance to corrupt them. Corrupted enemies radiate Demonic Damage to nearby enemies."
+      "Eng": "Hitting enemies with Demonic Damage has a 20% chance to corrupt them. Corrupted enemies radiate Demonic Damage to nearby enemies.",
+      "Por": "Atingir inimigos com Dano Demoníaco tem 20% de chance de corrompê-los. Inimigos corrompidos irradiam Dano Demoníaco para inimigos próximos."
     }
   }
 ]
