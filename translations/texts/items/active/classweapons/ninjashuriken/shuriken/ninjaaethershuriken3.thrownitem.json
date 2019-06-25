@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken3.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feed me.",
+      "Por": "Alimente me."
+    }
+  }
+]

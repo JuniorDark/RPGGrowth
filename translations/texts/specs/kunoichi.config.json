@@ -39,18 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/kunoichi.config": [
-        "/effects/6/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "90% Power Multiplier",
-      "Por": "90% Multiplicador de Força"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/kunoichi.config": [
         "/classic/0/text"
       ]
     },

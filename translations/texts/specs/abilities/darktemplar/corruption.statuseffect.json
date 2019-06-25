@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/darktemplar/corruption.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corruption"
+    }
+  }
+]

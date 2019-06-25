@@ -32,6 +32,36 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "specs/captain.config": [
+        "/effects/3/text"
+      ],
+      "specs/kunoichi.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "90% Power Multiplier",
+      "Por": "90% Multiplicador de Força"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/classic/0/text"
+      ],
+      "specs/wraith.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can Dual-Wield Melee Weapons.",
+      "Por": "Pode Empunhar Duas Armas Corpo-a-Corpo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "specs/adept.config": [
         "/effects/0/text"
       ],

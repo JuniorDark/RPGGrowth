@@ -20,7 +20,6 @@
         "/0/8/description",
         "/1/1/description",
         "/1/2/description",
-        "/1/3/description",
         "/1/6/description",
         "/1/7/description",
         "/1/8/description",
@@ -44,7 +43,6 @@
         "/4/7/description",
         "/4/8/description",
         "/5/1/description",
-        "/5/2/description",
         "/5/3/description",
         "/5/5/description",
         "/5/6/description",
@@ -85,26 +83,10 @@
         "/tech/text"
       ],
       "specs/captain.config": [
-        "/ability/text",
-        "/classic/0/text",
-        "/classic/1/text",
-        "/classic/2/text",
-        "/effects/0/text",
-        "/effects/1/text",
-        "/effects/2/text",
-        "/effects/3/text",
-        "/tech/text"
+        "/classic/0/text"
       ],
       "specs/changeling.config": [
-        "/ability/text",
-        "/classic/0/text",
-        "/classic/1/text",
-        "/classic/2/text",
-        "/effects/0/text",
-        "/effects/1/text",
-        "/effects/2/text",
-        "/effects/3/text",
-        "/tech/text"
+        "/weapon/title"
       ],
       "specs/cleric.config": [
         "/ability/text",
@@ -129,14 +111,6 @@
         "/tech/text"
       ],
       "specs/darktemplar.config": [
-        "/ability/text",
-        "/classic/0/text",
-        "/classic/1/text",
-        "/classic/2/text",
-        "/effects/0/text",
-        "/effects/1/text",
-        "/effects/2/text",
-        "/effects/3/text",
         "/tech/text"
       ],
       "specs/deadshot.config": [
@@ -1053,6 +1027,36 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/captain/leadersrally.statuseffect": [
+        "/label"
+      ],
+      "specs/captain.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leader's Rally"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/lorelayout/children/lorebutton/caption",
+        "/gui/specializationslayout/children/loretitle/value"
+      ],
+      "ivrpgtext.config": [
+        "/lore/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lore",
+      "Por": "Enredo"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Master's Desk"
     ],
@@ -1650,6 +1654,23 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/lorelayout/children/scrollArea/children/list/schema/listTemplate/title/value"
+      ],
+      "ivrpgtext.config": [
+        "/upgrades/general/ivrpguc.general/title",
+        "/upgrades/general/ivrpguc/title",
+        "/upgrades/tech/ivrpguc/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Title",
+      "Por": "Titulo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/upgrade chips/weapon/ivrpguctriggerhappy.activeitem": [
         "/shortdescription"
       ],
@@ -1677,6 +1698,24 @@
     "Texts": {
       "Eng": "Upgrades",
       "Por": "Aprimoramentos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/valkyrie/title"
+      ],
+      "specList.config": [
+        "/0/3/title"
+      ],
+      "specs/valkyrie.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Valkyrie",
+      "Por": "Valquíria"
     }
   },
   {
@@ -1749,6 +1788,9 @@
       "specs/adept.config": [
         "/effects/1/text"
       ],
+      "specs/changeling.config": [
+        "/effects/1/text"
+      ],
       "specs/dragoon.config": [
         "/effects/2/text"
       ],
@@ -1817,6 +1859,9 @@
         "/scaling/0/text"
       ],
       "specs/cannoneer.config": [
+        "/effects/0/text"
+      ],
+      "specs/changeling.config": [
         "/effects/0/text"
       ],
       "specs/pioneer.config": [

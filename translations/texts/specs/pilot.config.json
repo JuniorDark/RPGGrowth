@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/pilot.config": [
-        "/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Pilot",
-      "Por": "Piloto"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/pilot.config": [
         "/weapon/title"
       ]
     },

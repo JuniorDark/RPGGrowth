@@ -3,24 +3,44 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/changeling.config": [
-        "/weapon/title"
+        "/effects/3/text"
       ]
     },
     "Texts": {
-      "Eng": "N_A",
-      "Por": "N_A"
+      "Eng": "-20% Fire, Electric, Ice, and Poison Resistance"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "specs/changeling.config": [
-        "/tech/title"
+        "/classic/0/text"
       ]
     },
     "Texts": {
-      "Eng": "Shapeshift",
-      "Por": "Mudança de Forma"
+      "Eng": "All Weapons Disabled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "If Shapeshift is equipped, shrink and gain +50% Physical Resistance when Health drops below 15%. Item usage is disabled while shrunken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [F], [Shift], or [S] to shapeshift into one of three monsters: [F] for Wisper; [F] + [Shift] for Poptop; [F] + [S] for Orbide. Each transformation has a Passive and 4 Actions via Left Click, Right Click, [G], and [H]. While transformed, check the Unique Weapon box above for more info. After getting many kills, you may notice a bright flash: if so, press [Shift], [S], and [F] to ???."
     }
   }
 ]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/changeling/meltyblood.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Melty Blood"
+    }
+  }
+]

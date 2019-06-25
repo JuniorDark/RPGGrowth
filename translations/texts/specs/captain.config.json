@@ -3,24 +3,55 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/captain.config": [
-        "/tech/title"
+        "/effects/2/text"
       ]
     },
     "Texts": {
-      "Eng": "Ally Stance",
-      "Por": "Postura Aliada"
+      "Eng": "+15 Armor to nearby allies."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "specs/captain.config": [
-        "/weapon/title"
+        "/effects/0/text"
       ]
     },
     "Texts": {
-      "Eng": "Leader’s Rally",
-      "Por": "Reagrupamento do Líder"
+      "Eng": "115% Base Power with One-Handed Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/effects/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "125% Power Multiplier to nearby allies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Endurance and Agility Scaling decrease when alone.\nVigor and Vitality Scaling increase when near allies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [F] to change stances, making nearby allies behave differently.\nNo Stance: No Change.\nPower Stance: 125% Power Multplier but -15 Armor.\nArmor Stance: +15 Armor but 75% Speed and Jump Height.\nSpeed Stance: 125% Speed and Jump Height but 75% Power Multiplier."
     }
   }
 ]

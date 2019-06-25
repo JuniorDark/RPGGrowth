@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/changeling/shapeshift.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Changeling Only"
+    }
+  }
+]

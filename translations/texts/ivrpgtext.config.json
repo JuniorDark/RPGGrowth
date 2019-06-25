@@ -1,5 +1,27 @@
 [
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/rogue/children/aroguesway/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Rogue's Way"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/egoen/children/againstallodds/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Against All Odds"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Melhoria para a Esfera Blindada.Segure o botão esquerdo enquanto transformado para Atordoar os inimigos no contato.^red;Drena Energia enquanto o Atordoamento está ativo."
     ],
@@ -11,6 +33,17 @@
     "Texts": {
       "Eng": "Armor Sphere Upgrade.\nHold Left-Click while transformed to Stun enemies on contact.\n^red;Drains Energy while Stun is active.",
       "Por": "Aprimoramento para a Esfera Blindada.\nSegure o botão esquerdo enquanto transformado para Atordoar os inimigos no contato.\n^red;Drena Energia enquanto o Atordoamento está ativo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/bahn/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bahn"
     }
   },
   {
@@ -45,12 +78,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/people/children/winter/children/comprehension/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comprehension"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/weapon/ivrpgucrighteousness/description"
       ]
     },
     "Texts": {
       "Eng": "Consecutive Perfect Shields with the Vital Aegis increase its Power.\n^red;Blocking regularly resets the current Power gain.",
       "Por": "Bloqueios Perfeitos consecutivos com o Vital Aegis aumenta seu poder.\n^red;Bloquear regularmente reseta o ganho de energia atual."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/soldier/children/countingbullets/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Counting Bullets"
     }
   },
   {
@@ -150,6 +205,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/people/children/egoen/children/expectation/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Expectation"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/tech/ivrpguchoversphere/title"
       ]
     },
@@ -199,6 +265,28 @@
     "Texts": {
       "Eng": "Flame & Infernal Affinity Upgrade.\nWhen you kill a Burning, Melting, or Seared enemy, they explode.\nExplosion Damage scales with Power Multiplier.",
       "Por": "Aprimoramento para a Afinidade Fogo & Infernal\nQuando você mata um inimigo Queimando, Derretendo ou Cauterizado, eles explodem.\nDano da Explosão escala com Multiplicador de Força."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/universe/children/forgranted/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "For Granted"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/zia/children/forceofnature/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Force of Nature"
     }
   },
   {
@@ -279,6 +367,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/class/children/wizard/children/harnessingmagic/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harnessing Magic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/tech/ivrpgucglidesphere/title"
       ]
     },
@@ -297,6 +396,17 @@
     "Texts": {
       "Eng": "It's a Trap!",
       "Por": "É uma Armadilha!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/knight/children/keepingthepeace/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keeping the Peace"
     }
   },
   {
@@ -344,6 +454,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/people/children/mellou/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mellou"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/general/ivrpgucmomentum/title"
       ]
     },
@@ -364,6 +485,17 @@
     "Texts": {
       "Eng": "Monster Master",
       "Por": "Mestre dos Monstros"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/soliste/children/partners/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Partners"
     }
   },
   {
@@ -409,6 +541,17 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/soliste/children/promisemethis/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Promise Me This"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Aprimoramento para o Ravenous Spira.\nCausa dobro de dano aos inimigos. Capaz de perfurar mais perto da base da arma.\n^red;A Energia drena no dobro da velocidade.",
       "Melhoria para o Ravenous Spira.Causa dobro de dano aos inimigos. Capaz de perfurar mais perto da base da arma.^red;A Energia drena no dobro da velocidade."
@@ -448,6 +591,17 @@
     "Texts": {
       "Eng": "Sadism",
       "Por": "Sadismo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/sen/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sen"
     }
   },
   {
@@ -555,6 +709,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/specialization/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Specialization"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/tech/ivrpgucstunningsphere/title"
       ]
     },
@@ -593,14 +758,77 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
-        "/upgrades/general/ivrpguc.general/title",
-        "/upgrades/general/ivrpguc/title",
-        "/upgrades/tech/ivrpguc/title"
+        "/lore/children/people/children/zia/children/apprenticesfolly/title"
       ]
     },
     "Texts": {
-      "Eng": "Title",
-      "Por": "Titulo"
+      "Eng": "The Apprentice's Folly"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/explorer/children/basicexplorer1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Explorer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/knight/children/basicknight1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Knight"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/ninja/children/basicninja1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Ninja"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/rogue/children/basicrogue1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Rogue"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/soldier/children/basicsoldier1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Soldier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/wizard/children/basicwizard1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Wizard"
     }
   },
   {
@@ -640,6 +868,17 @@
     "Texts": {
       "Eng": "True Vampire",
       "Por": "Vampiro Verdadeiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/universe/children/truth/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Truth"
     }
   },
   {
@@ -765,6 +1004,358 @@
     "Texts": {
       "Eng": "Wall Jump",
       "Por": "Pulo na Parede"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/winter/children/whennothingstaredback/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "When Nothing Stared Back"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/winter/children/whoareyoureally/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who are you, really?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/ninja/children/withintheshadows/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Within the Shadows"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/egoen/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#6d577c;Egoen"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/soliste/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#75ff75;Soliste"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/kunoichi/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#FFAAAA;Kunoichi"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/zia/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#c16bff;Zia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/winter/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffaafa;Winter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/darktemplar/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^black;Dark Templar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/necromancer/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^black;Necromancer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/crusader/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Crusader"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/knight/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Knight"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/paladin/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Paladin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;Class"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/cannoneer/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Cannoneer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/rogue/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Rogue"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/wraith/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Wraith"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/elementalist/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;Elementalist"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/universe/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;Universe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/wizard/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;Wizard"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/dragoon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Dragoon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;People"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/soldier/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Soldier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/titan/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Titan"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/vanguard/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Vanguard"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/vigilante/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Vigilante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/adept/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Adept"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/changeling/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Changeling"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/ninja/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Ninja"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/captain/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Captain"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/class/children/explorer/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Explorer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/pioneer/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Pioneer"
     }
   }
 ]

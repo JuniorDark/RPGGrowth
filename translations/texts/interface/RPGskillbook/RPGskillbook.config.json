@@ -631,31 +631,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/lorelayout/children/lorebutton/caption",
-        "/gui/specializationslayout/children/loretitle/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Lore",
-      "Por": "Enredo"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/lorelayout/children/scrollArea/children/locked/value"
-      ]
-    },
-    "Texts": {
-      "Eng": "Lore Tab. Currently Unavailable.",
-      "Por": "Aba de Enredo. Atualmente Indisponível."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/masterylayout/children/masterytitle/value"
       ]
     },

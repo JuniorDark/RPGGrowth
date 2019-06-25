@@ -2,6 +2,12 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "stats/effects/camouflage/ivrpgcamouflage.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/camouflage/ivrpgjumpcamouflage.statuseffect": [
+        "/label"
+      ],
       "tech/ninjatech/vanishsphere/camouflageninja.statuseffect": [
         "/label"
       ]

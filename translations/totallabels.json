@@ -25,7 +25,7 @@
     "default.config.json": 1,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 110
+        "RPGskillbook.config.json": 108
       }
     },
     "items": {
@@ -47,12 +47,14 @@
           "ninjashuriken": {
             "aethertanto1.activeitem.json": 1,
             "aethertanto2.activeitem.json": 1,
+            "aethertanto3.activeitem.json": 1,
             "shuriken": {
               "ninjaaethershuriken.thrownitem.json": 1,
-              "ninjaaethershuriken2.thrownitem.json": 1
+              "ninjaaethershuriken2.thrownitem.json": 1,
+              "ninjaaethershuriken3.thrownitem.json": 1
             }
           },
-          "ninjashuriken.json": 3,
+          "ninjashuriken.json": 2,
           "rogueclaw": {
             "roguesiphonclaw.activeitem.json": 1,
             "roguesiphonclaw2s.activeitem.json": 2,
@@ -90,8 +92,14 @@
             "outburst.activeitem.json": 2,
             "stormhowl.activeitem.json": 2
           },
+          "captain": {
+            "leadersrally.activeitem.json": 2
+          },
           "crusader": {
             "oathkeeper.activeitem.json": 2
+          },
+          "darktemplar": {
+            "heartless.activeitem.json": 2
           },
           "dragoon": {
             "dragonsbane.activeitem.json": 2
@@ -209,6 +217,9 @@
           }
         }
       },
+      "armors": {
+        "patreonspiritmask.head.json": 2
+      },
       "crafting": {
         "explorer": {
           "ivrpgspiralenergy.item.json": 2,
@@ -320,7 +331,7 @@
         }
       }
     },
-    "ivrpgtext.config.json": 56,
+    "ivrpgtext.config.json": 110,
     "ivrpgversion.config.json": 1,
     "monsters": {
       "flyers": {
@@ -454,7 +465,7 @@
           "ivrpgtamerstatuscooldown.statuseffect.json": 1
         }
       },
-      "tamer.config.json": 6
+      "tamer.config.json": 5
     },
     "projectiles": {
       "grenades": {
@@ -522,7 +533,8 @@
         "wizardaffinity.statuseffect.json": 1
       }
     },
-    "shared_.config.json": 4,
+    "shared_.config.json": 5,
+    "shared_.statuseffect.json": 1,
     "shared_explorer.json": 3,
     "shared_knight.json": 4,
     "shared_ninja.json": 4,
@@ -537,7 +549,7 @@
       "shared_.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
-    "specList.config.json": 29,
+    "specList.config.json": 31,
     "specs": {
       "abilities": {
         "adept": {
@@ -547,8 +559,19 @@
         "cannoneer": {
           "fightinglion.statuseffect.json": 1
         },
+        "captain": {
+          "bythepeople.statuseffect.json": 1,
+          "forthepeople.statuseffect.json": 1
+        },
+        "changeling": {
+          "meltyblood.statuseffect.json": 1
+        },
         "crusader": {
           "purity.statuseffect.json": 1
+        },
+        "darktemplar": {
+          "corrupted.statuseffect.json": 1,
+          "corruption.statuseffect.json": 1
         },
         "dragoon": {
           "flightless.statuseffect.json": 1
@@ -590,30 +613,30 @@
       "berserker.config.json": 2,
       "bountyhunter.config.json": 2,
       "cannoneer.config.json": 8,
-      "captain.config.json": 2,
-      "changeling.config.json": 2,
+      "captain.config.json": 5,
+      "changeling.config.json": 4,
       "cleric.config.json": 2,
       "conquistador.config.json": 2,
       "crusader.config.json": 11,
-      "darktemplar.config.json": 2,
+      "darktemplar.config.json": 5,
       "deadshot.config.json": 2,
       "dragoon.config.json": 12,
       "elementalist.config.json": 2,
       "juggernaut.config.json": 2,
-      "kunoichi.config.json": 10,
+      "kunoichi.config.json": 9,
       "mechanist.config.json": 2,
       "mercenary.config.json": 2,
       "necromancer.config.json": 8,
       "necromancer.json": 1,
       "operative.config.json": 2,
       "paladin.config.json": 8,
-      "pilot.config.json": 3,
+      "pilot.config.json": 2,
       "pioneer.config.json": 5,
       "saboteur.config.json": 2,
       "samurai.config.json": 2,
       "scout.config.json": 2,
       "shade.config.json": 2,
-      "shared_.config.json": 3,
+      "shared_.config.json": 5,
       "shared_n.config.json": 1,
       "stalker.config.json": 2,
       "technomancer.config.json": 2,
@@ -624,9 +647,25 @@
         "cannoneer": {
           "bombsaway.tech.json": 1
         },
+        "captain": {
+          "allystance.tech.json": 1,
+          "allystance0.statuseffect.json": 1,
+          "allystance1.statuseffect.json": 1,
+          "allystance2.statuseffect.json": 1,
+          "allystance3.statuseffect.json": 1
+        },
+        "changeling": {
+          "poptop": {
+            "poptoppower.statuseffect.json": 1
+          },
+          "shapeshift.tech.json": 1
+        },
         "crusader": {
           "resurgence.tech.json": 1,
           "resurgencecooldown.statuseffect.json": 1
+        },
+        "darktemplar": {
+          "aboundingdarkness.tech.json": 1
         },
         "dragoon": {
           "dragonsleap.tech.json": 1,
@@ -688,9 +727,9 @@
       "vinetender.config.json": 2,
       "wanderer.config.json": 2,
       "warlock.config.json": 2,
-      "wraith.config.json": 11
+      "wraith.config.json": 10
     },
-    "specs.json": 13,
+    "specs.json": 16,
     "stats.config.json": 30,
     "tech": {
       "explorertech": {
@@ -745,7 +784,6 @@
           "ninjawallcling.tech.json": 1
         },
         "vanishsphere": {
-          "camouflageninja.statuseffect.json": 1,
           "ninjavanishsphere.tech.json": 1
         }
       },
@@ -825,6 +863,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 80
+    "wide_spread_fields.json": 84
   }
 }

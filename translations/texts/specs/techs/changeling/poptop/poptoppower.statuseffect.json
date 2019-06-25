@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/changeling/poptop/poptoppower.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poptop Power"
+    }
+  }
+]

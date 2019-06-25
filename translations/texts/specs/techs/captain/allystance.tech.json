@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/captain/allystance.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captain Only"
+    }
+  }
+]

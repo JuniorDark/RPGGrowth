@@ -330,6 +330,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/5/3/title"
+      ],
+      "specs/pilot.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pilot",
+      "Por": "Piloto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/5/0/title"
       ],
       "specs/pioneer.config": [
@@ -463,21 +478,6 @@
     "Texts": {
       "Eng": "Titan",
       "Por": "Titã"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/0/3/title"
-      ],
-      "specs/valkyrie.config": [
-        "/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Valkyrie",
-      "Por": "Valquíria"
     }
   },
   {

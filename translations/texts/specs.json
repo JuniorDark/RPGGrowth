@@ -2,6 +2,36 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "specs/darktemplar.config": [
+        "/tech/title"
+      ],
+      "specs/techs/darktemplar/aboundingdarkness.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abounding Darkness",
+      "Por": "Escuridão Abundante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/tech/title"
+      ],
+      "specs/techs/captain/allystance.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ally Stance",
+      "Por": "Postura Aliada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "specs/techs/titan/atlasburden.statuseffect": [
         "/label"
       ],
@@ -189,6 +219,21 @@
     "Texts": {
       "Eng": "Rush",
       "Por": "Investida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/title"
+      ],
+      "specs/techs/changeling/shapeshift.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shapeshift",
+      "Por": "Mudança de Forma"
     }
   },
   {

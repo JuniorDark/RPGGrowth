@@ -3,12 +3,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/darktemplar.config": [
-        "/tech/title"
+        "/effects/0/text"
       ]
     },
     "Texts": {
-      "Eng": "Abounding Darkness",
-      "Por": "Escuridão Abundante"
+      "Eng": "115% Base Power with Quarterstaves and Axes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/effects/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "150% Base Power with Spears and Halberds"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can Wield Broadswords, Halberds, and Spears."
     }
   },
   {
@@ -21,6 +42,17 @@
     "Texts": {
       "Eng": "Heartless",
       "Por": "Sem Coração"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hitting enemies with Demonic Damage has a 20% chance to corrupt them. Corrupted enemies radiate Demonic Damage to nearby enemies."
     }
   }
 ]

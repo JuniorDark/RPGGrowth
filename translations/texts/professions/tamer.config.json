@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "professions/tamer.config": [
-        "/effects/0/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "+10% Physical Resistance",
-      "Por": "+10% Resistência Física"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "professions/tamer.config": [
         "/effects/1/text"
       ]
     },

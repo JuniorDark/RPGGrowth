@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/captain/leadersrally.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beautiful silken flag attached to a shining metal pole.\n^yellow;Designed by Banny!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/captain/leadersrally.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Leader's Rally"
+    }
+  }
+]

@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/1/3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sweet voice calls out to you, tempting you: will you break your physical form and become a concentrated vessel of pure elemental energy? If so, harness the raw power that only an Elementalist can, and revel in your new ability to throw magic around."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/2/3/description"
       ]
     },
@@ -21,6 +32,17 @@
     "Texts": {
       "Eng": "Blow'em away! Cannoneers are rogues that specialize in explosive weaponry. Normally utilizing Shortswords and Grenade Launchers, Cannoneers can get up close and personal to slice up enemies or stay back and blow them all to bits.",
       "Por": "Os Canhoneiros são ladinos especializados em armas explosivas. Normalmente, utilizando Espadas Curtas e Lançadores de Granadas, os Canhoneiros podem chegar perto para fatiar inimigos ou ficar de longe e explodi-los todos em pedaços."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/2/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captains are known for their ability to lead and rally their comrades in battle. While alone, they are nothing to write home about, but with their comrades in battle they are a force to be reckoned with. They analyze the situations help support their teams in being offensive, defensive or even speedy."
     }
   },
   {
@@ -204,7 +226,6 @@
         "/4/7/unlockText",
         "/4/8/unlockText",
         "/5/1/unlockText",
-        "/5/2/unlockText",
         "/5/3/unlockText",
         "/5/5/unlockText",
         "/5/6/unlockText",
@@ -255,6 +276,17 @@
     "Texts": {
       "Eng": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a One-handed Pistol or Machine Pistol with a Shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura.",
       "Por": "Titãs são bastiões da linha de frente que ajudam a manter a linha firme com seu escudo. Sua arma de escolha é uma Pistola de Uma-Mão ou uma Pistola Automática com um Escudo. Enquanto lutadores capazes em todas as distâncias, eles também inspiram aliados próximos com uma aura protetora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/2/unlockText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upgrade your ship to Tier 3 and recruit 4 Crew Members."
     }
   },
   {
@@ -367,18 +399,6 @@
     "Texts": {
       "Eng": "Vigilantes use their own moral system to enact justice as they see fit. Due to their love of pistols, they can easily dual-wield ranged weapons. When fighting villains, Vigilantes get a rush of power and energy to take matters into their own hands.",
       "Por": "Vigilantes usam seu próprio sistema moral para executar a justiça como entenderem. Devido ao seu amor pelas pistolas, elas podem facilmente usar armas de longo alcance duplas. Ao lutar contra vilões, Vigilantes conseguem um impulso de força e energia para resolver as coisas com as próprias mãos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specList.config": [
-        "/5/3/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Voyager",
-      "Por": "Viajante"
     }
   },
   {

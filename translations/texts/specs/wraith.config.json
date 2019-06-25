@@ -51,18 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/wraith.config": [
-        "/classic/0/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "Can Dual-Wield Melee Weapons.",
-      "Por": "Pode Empunhar Duas Armas Corpo-a-Corpo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/wraith.config": [
         "/ability/text"
       ]
     },

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/ninjashuriken/aethertanto3.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feed me.\n^red;Designed by Steven Steel!"
+    }
+  }
+]

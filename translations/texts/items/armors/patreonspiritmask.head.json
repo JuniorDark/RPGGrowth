@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/patreonspiritmask.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spirit Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/patreonspiritmask.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mask makes you look quite spooky!"
+    }
+  }
+]

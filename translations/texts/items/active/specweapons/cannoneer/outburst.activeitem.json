@@ -12,17 +12,14 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "^red;ISSO QUE É UM MONTE DE DANO!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/specweapons/cannoneer/outburst.activeitem": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "^red;NOW THAT'S A LOT OF DAMAGE!\n^orange;Weapon Designed by Banny!",
-      "Por": "^red;ISSO QUE É UM MONTE DE DANO!\n^orange;Arma Desenhada por Banny!"
+      "Eng": "^red;NOW THAT'S A LOT OF DAMAGE!\n^orange;Designed by Banny!"
     }
   }
 ]

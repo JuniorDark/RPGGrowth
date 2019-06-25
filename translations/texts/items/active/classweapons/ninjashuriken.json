@@ -2,21 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "items/active/classweapons/ninjashuriken/aethertanto3.activeitem": [
-        "/description"
-      ],
-      "items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken3.thrownitem": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Feed me.",
-      "Por": "Alimente me."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "items/active/classweapons/ninjashuriken/aethertanto2.activeitem": [
         "/shortdescription"
       ],

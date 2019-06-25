@@ -138,6 +138,8 @@
     "/gui/classeslayout/children/roguetitle/value": "texts/wide_spread_fields.json",
     "/gui/classeslayout/children/soldiertitle/value": "texts/wide_spread_fields.json",
     "/gui/classeslayout/children/wizardtitle/value": "texts/wide_spread_fields.json",
+    "/gui/lorelayout/children/lorebutton/caption": "texts/wide_spread_fields.json",
+    "/gui/lorelayout/children/scrollArea/children/list/schema/listTemplate/title/value": "texts/wide_spread_fields.json",
     "/gui/lorelayout/children/scrollArea/children/text/value": "texts/wide_spread_fields.json",
     "/gui/masterylayout/children/masterypoints/value": "texts/wide_spread_fields.json",
     "/gui/masterylayout/children/shoptitle/value": "texts/wide_spread_fields.json",
@@ -152,6 +154,7 @@
     "/gui/professionslayout/children/tamertitle/value": "texts/wide_spread_fields.json",
     "/gui/specializationslayout/children/desctext/value": "texts/wide_spread_fields.json",
     "/gui/specializationslayout/children/desctitle/value": "texts/wide_spread_fields.json",
+    "/gui/specializationslayout/children/loretitle/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/agilityamount/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/agilitytext/value": "texts/wide_spread_fields.json",
     "/gui/statslayout/children/dexterityamount/value": "texts/wide_spread_fields.json",
@@ -189,7 +192,6 @@
     "/shortdescription": "texts/items/active/classweapons/ninjashuriken.json"
   },
   "items/active/classweapons/ninjashuriken/aethertanto3.activeitem": {
-    "/description": "texts/items/active/classweapons/ninjashuriken.json",
     "/shortdescription": "texts/items/active/classweapons/ninjashuriken.json"
   },
   "items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken.thrownitem": {
@@ -199,7 +201,6 @@
     "/shortdescription": "texts/items/active/classweapons/ninjashuriken.json"
   },
   "items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken3.thrownitem": {
-    "/description": "texts/items/active/classweapons/ninjashuriken.json",
     "/shortdescription": "texts/items/active/classweapons/ninjashuriken.json"
   },
   "items/active/classweapons/rogueclaw/roguesiphonclaw.activeitem": {
@@ -216,6 +217,9 @@
   },
   "items/active/specweapons/adept/phaseshift.weaponability": {
     "/ability/name": "texts/wide_spread_fields.json"
+  },
+  "items/active/specweapons/captain/leadersrally.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
   },
   "items/active/specweapons/wraith/combos/cursed.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
@@ -381,6 +385,8 @@
     "/shortdescription": "texts/items/upgrade chips/shared_.activeitem.json"
   },
   "ivrpgtext.config": {
+    "/lore/children/specialization/children/valkyrie/title": "texts/wide_spread_fields.json",
+    "/lore/title": "texts/wide_spread_fields.json",
     "/upgrades/affinity/ivrpgucbloom/title": "texts/wide_spread_fields.json",
     "/upgrades/affinity/ivrpguccoldheart/title": "texts/wide_spread_fields.json",
     "/upgrades/affinity/ivrpguccontagion/title": "texts/wide_spread_fields.json",
@@ -394,7 +400,9 @@
     "/upgrades/affinity/ivrpgucplasmacore/title": "texts/wide_spread_fields.json",
     "/upgrades/affinity/ivrpgucskadisblessing/title": "texts/wide_spread_fields.json",
     "/upgrades/affinity/ivrpgucvikingfuneral/title": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpguc.general/title": "texts/wide_spread_fields.json",
     "/upgrades/general/ivrpguc/description": "texts/wide_spread_fields.json",
+    "/upgrades/general/ivrpguc/title": "texts/wide_spread_fields.json",
     "/upgrades/general/ivrpgucdangerclose/description": "texts/wide_spread_fields.json",
     "/upgrades/general/ivrpgucdangerclose/title": "texts/wide_spread_fields.json",
     "/upgrades/general/ivrpgucdecay/description": "texts/wide_spread_fields.json",
@@ -410,6 +418,7 @@
     "/upgrades/general/ivrpguctruevampire/description": "texts/wide_spread_fields.json",
     "/upgrades/general/ivrpgucunstoppable/description": "texts/wide_spread_fields.json",
     "/upgrades/tech/ivrpguc/description": "texts/wide_spread_fields.json",
+    "/upgrades/tech/ivrpguc/title": "texts/wide_spread_fields.json",
     "/upgrades/tech/ivrpgucbatterypack/title": "texts/wide_spread_fields.json",
     "/upgrades/tech/ivrpgucfourthwall/title": "texts/wide_spread_fields.json",
     "/upgrades/tech/ivrpgucghost/title": "texts/wide_spread_fields.json",
@@ -595,6 +604,7 @@
     "/label": "texts/wide_spread_fields.json"
   },
   "professions/tamer.config": {
+    "/effects/0/text": "texts/shared_.config.json",
     "/scaling/0/text": "texts/wide_spread_fields.json",
     "/scaling/1/text": "texts/wide_spread_fields.json",
     "/title": "texts/wide_spread_fields.json"
@@ -678,7 +688,7 @@
     "/0/1/title": "texts/shared_spec.json",
     "/0/2/description": "texts/wide_spread_fields.json",
     "/0/2/title": "texts/shared_spec.json",
-    "/0/3/title": "texts/shared_spec.json",
+    "/0/3/title": "texts/wide_spread_fields.json",
     "/0/4/title": "texts/shared_spec.json",
     "/0/5/description": "texts/wide_spread_fields.json",
     "/0/5/title": "texts/shared_spec.json",
@@ -692,7 +702,6 @@
     "/1/1/title": "texts/shared_spec.json",
     "/1/2/description": "texts/wide_spread_fields.json",
     "/1/2/title": "texts/shared_spec.json",
-    "/1/3/description": "texts/wide_spread_fields.json",
     "/1/3/title": "texts/shared_spec.json",
     "/1/4/title": "texts/shared_spec.json",
     "/1/5/title": "texts/shared_spec.json",
@@ -750,9 +759,9 @@
     "/5/0/title": "texts/shared_spec.json",
     "/5/1/description": "texts/wide_spread_fields.json",
     "/5/1/title": "texts/shared_spec.json",
-    "/5/2/description": "texts/wide_spread_fields.json",
     "/5/2/title": "texts/shared_spec.json",
     "/5/3/description": "texts/wide_spread_fields.json",
+    "/5/3/title": "texts/shared_spec.json",
     "/5/4/title": "texts/shared_spec.json",
     "/5/5/description": "texts/wide_spread_fields.json",
     "/5/5/title": "texts/shared_spec.json",
@@ -818,28 +827,19 @@
     "/title": "texts/shared_spec.json"
   },
   "specs/captain.config": {
-    "/ability/text": "texts/wide_spread_fields.json",
     "/classic/0/text": "texts/wide_spread_fields.json",
-    "/classic/1/text": "texts/wide_spread_fields.json",
-    "/classic/2/text": "texts/wide_spread_fields.json",
-    "/effects/0/text": "texts/wide_spread_fields.json",
-    "/effects/1/text": "texts/wide_spread_fields.json",
-    "/effects/2/text": "texts/wide_spread_fields.json",
-    "/effects/3/text": "texts/wide_spread_fields.json",
-    "/tech/text": "texts/wide_spread_fields.json",
-    "/title": "texts/shared_spec.json"
+    "/effects/3/text": "texts/specs/shared_.config.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
   },
   "specs/changeling.config": {
-    "/ability/text": "texts/wide_spread_fields.json",
-    "/classic/0/text": "texts/wide_spread_fields.json",
-    "/classic/1/text": "texts/wide_spread_fields.json",
-    "/classic/2/text": "texts/wide_spread_fields.json",
     "/effects/0/text": "texts/wide_spread_fields.json",
     "/effects/1/text": "texts/wide_spread_fields.json",
-    "/effects/2/text": "texts/wide_spread_fields.json",
-    "/effects/3/text": "texts/wide_spread_fields.json",
-    "/tech/text": "texts/wide_spread_fields.json",
-    "/title": "texts/shared_spec.json"
+    "/effects/2/text": "texts/shared_.config.json",
+    "/tech/title": "texts/specs.json",
+    "/title": "texts/shared_spec.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
   },
   "specs/cleric.config": {
     "/ability/text": "texts/wide_spread_fields.json",
@@ -871,15 +871,9 @@
     "/title": "texts/shared_spec.json"
   },
   "specs/darktemplar.config": {
-    "/ability/text": "texts/wide_spread_fields.json",
-    "/classic/0/text": "texts/wide_spread_fields.json",
-    "/classic/1/text": "texts/wide_spread_fields.json",
-    "/classic/2/text": "texts/wide_spread_fields.json",
-    "/effects/0/text": "texts/wide_spread_fields.json",
-    "/effects/1/text": "texts/wide_spread_fields.json",
-    "/effects/2/text": "texts/wide_spread_fields.json",
-    "/effects/3/text": "texts/wide_spread_fields.json",
+    "/classic/0/text": "texts/specs/shared_.config.json",
     "/tech/text": "texts/wide_spread_fields.json",
+    "/tech/title": "texts/specs.json",
     "/title": "texts/shared_spec.json"
   },
   "specs/deadshot.config": {
@@ -927,6 +921,7 @@
   },
   "specs/kunoichi.config": {
     "/effects/1/text": "texts/wide_spread_fields.json",
+    "/effects/6/text": "texts/specs/shared_.config.json",
     "/tech/title": "texts/specs.json",
     "/title": "texts/shared_spec.json"
   },
@@ -990,7 +985,8 @@
     "/effects/1/text": "texts/wide_spread_fields.json",
     "/effects/2/text": "texts/wide_spread_fields.json",
     "/effects/3/text": "texts/wide_spread_fields.json",
-    "/tech/text": "texts/wide_spread_fields.json"
+    "/tech/text": "texts/wide_spread_fields.json",
+    "/title": "texts/shared_spec.json"
   },
   "specs/pioneer.config": {
     "/classic/0/text": "texts/wide_spread_fields.json",
@@ -1078,10 +1074,19 @@
   "specs/techs/cannoneer/bombsaway.tech": {
     "/shortDescription": "texts/specs.json"
   },
+  "specs/techs/captain/allystance.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/changeling/shapeshift.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
   "specs/techs/crusader/crusaderbashattack.statuseffect": {
     "/label": "texts/shared_tech/shared_.statuseffect.json"
   },
   "specs/techs/crusader/resurgence.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/darktemplar/aboundingdarkness.tech": {
     "/shortDescription": "texts/specs.json"
   },
   "specs/techs/dragoon/dragonsleap.tech": {
@@ -1158,7 +1163,7 @@
     "/effects/1/text": "texts/wide_spread_fields.json",
     "/effects/2/text": "texts/wide_spread_fields.json",
     "/tech/title": "texts/specs.json",
-    "/title": "texts/shared_spec.json"
+    "/title": "texts/wide_spread_fields.json"
   },
   "specs/vanguard.config": {
     "/classic/1/text": "texts/shared_.config.json",
@@ -1213,6 +1218,7 @@
     "/title": "texts/shared_spec.json"
   },
   "specs/wraith.config": {
+    "/classic/0/text": "texts/specs/shared_.config.json",
     "/effects/0/text": "texts/wide_spread_fields.json",
     "/effects/1/text": "texts/wide_spread_fields.json",
     "/effects/7/text": "texts/specs/shared_.config.json",
@@ -1221,6 +1227,12 @@
   },
   "stats.config": {
     "/default/0/text": "texts/wide_spread_fields.json"
+  },
+  "stats/effects/camouflage/ivrpgcamouflage.statuseffect": {
+    "/label": "texts/shared_.statuseffect.json"
+  },
+  "stats/effects/camouflage/ivrpgjumpcamouflage.statuseffect": {
+    "/label": "texts/shared_.statuseffect.json"
   },
   "tech/explorertech/explorerdrillsphere/explorerdrillsphere.tech": {
     "/shortDescription": "texts/shared_explorer.json"
@@ -1270,6 +1282,9 @@
   },
   "tech/ninjatech/ninjawallcling/ninjawallcling.tech": {
     "/shortDescription": "texts/shared_ninja.json"
+  },
+  "tech/ninjatech/vanishsphere/camouflageninja.statuseffect": {
+    "/label": "texts/shared_.statuseffect.json"
   },
   "tech/ninjatech/vanishsphere/ghost/ninjavanishsphereghost.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
