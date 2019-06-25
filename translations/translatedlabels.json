@@ -560,7 +560,7 @@
           "fightinglion.statuseffect.json": 1
         },
         "captain": {
-          "bythepeople.statuseffect.json": 0,
+          "bythepeople.statuseffect.json": 1,
           "forthepeople.statuseffect.json": 0
         },
         "changeling": {
