@@ -570,7 +570,7 @@
           "purity.statuseffect.json": 1
         },
         "darktemplar": {
-          "corrupted.statuseffect.json": 0,
+          "corrupted.statuseffect.json": 1,
           "corruption.statuseffect.json": 0
         },
         "dragoon": {
