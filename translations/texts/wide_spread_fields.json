@@ -460,7 +460,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para o Blood Aether.\nBlood Aether pode sentir inimigos de 10 blocos mais distante.\nAlém disso, um inimigo atingido por seu próprio Blood Aether receberá mais dano de todos os Blood Aethers."
+      "Aprimoramento para o Blood Aether.Blood Aether pode sentir inimigos de 10 blocos mais distante.Além disso, um inimigo atingido por seu próprio Blood Aether receberá mais dano de todos os Blood Aethers."
     ],
     "Files": {
       "items/upgrade chips/weapon/ivrpgucbloodseeker.activeitem": [
@@ -543,7 +543,7 @@
   {
     "DeniedAlternatives": [
       "Clique no ÃÂ­cone de um status para ver o que ocorrequando esse status ÃÂ© aumentado.",
-      "Clique no Ã­cone de um status para ver o que ocorre\nquando esse status Ã© aumentado."
+      "Clique no Ã­cone de um status para ver o que ocorrequando esse status Ã© aumentado."
     ],
     "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
@@ -1037,7 +1037,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Leader's Rally"
+      "Eng": "Leader's Rally",
+      "Por": "Reagrupamento do Líder"
     }
   },
   {
