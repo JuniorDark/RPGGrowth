@@ -656,7 +656,7 @@
         },
         "changeling": {
           "poptop": {
-            "poptoppower.statuseffect.json": 0
+            "poptoppower.statuseffect.json": 1
           },
           "shapeshift.tech.json": 0
         },
