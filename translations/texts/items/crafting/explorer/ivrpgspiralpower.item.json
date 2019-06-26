@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Spiral Power"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/crafting/explorer/ivrpgspiralpower.item": [
         "/shortdescription"
@@ -21,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We've somehow made the energy even manlier. And spinnier! ^yellow;Designed by Samey the Hedgehog!"
+      "Eng": "We've somehow made the energy even manlier. And spinnier! ^yellow;Designed by Samey the Hedgehog!",
+      "Por": "De alguma forma fizemos a energia ainda mais máscula. E giratória! ^yellow;Projetada por Samey the Hedgehog!"
     }
   }
 ]

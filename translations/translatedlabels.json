@@ -223,7 +223,7 @@
       "crafting": {
         "explorer": {
           "ivrpgspiralenergy.item.json": 2,
-          "ivrpgspiralpower.item.json": 1
+          "ivrpgspiralpower.item.json": 2
         },
         "knight": {
           "ivrpgmeteoricmetal.item.json": 2,
