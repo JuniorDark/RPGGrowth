@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A beautiful silken flag attached to a shining metal pole.\n^yellow;Designed by Banny!"
+      "Eng": "A beautiful silken flag attached to a shining metal pole.\n^yellow;Designed by Banny!",
+      "Por": "Uma bela bandeira de seda presa a um poste de metal brilhante.\n^yellow;Projetada por Banny!"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^yellow;Leader's Rally"
+      "Eng": "^yellow;Leader's Rally",
+      "Por": "^yellow;Leader's Rally"
     }
   }
 ]
