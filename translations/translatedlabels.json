@@ -665,7 +665,7 @@
           "resurgencecooldown.statuseffect.json": 1
         },
         "darktemplar": {
-          "aboundingdarkness.tech.json": 0
+          "aboundingdarkness.tech.json": 1
         },
         "dragoon": {
           "dragonsleap.tech.json": 1,
