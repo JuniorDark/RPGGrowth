@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;NOW THAT'S A LOT OF DAMAGE!\n^orange;Designed by Banny!"
+      "Eng": "^red;NOW THAT'S A LOT OF DAMAGE!\n^orange;Designed by Banny!",
+      "Por": "^red;ISSO SIM QUE É UM MONTE DE DANO!\n^orange;Projetada por Banny!"
     }
   }
 ]
