@@ -658,7 +658,7 @@
           "poptop": {
             "poptoppower.statuseffect.json": 1
           },
-          "shapeshift.tech.json": 0
+          "shapeshift.tech.json": 1
         },
         "crusader": {
           "resurgence.tech.json": 1,
