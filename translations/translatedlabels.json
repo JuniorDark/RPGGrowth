@@ -222,7 +222,7 @@
       },
       "crafting": {
         "explorer": {
-          "ivrpgspiralenergy.item.json": 1,
+          "ivrpgspiralenergy.item.json": 2,
           "ivrpgspiralpower.item.json": 1
         },
         "knight": {
