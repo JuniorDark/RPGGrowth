@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A Rogue's Way"
+      "Eng": "A Rogue's Way",
+      "Por": "Um Caminho de Ladino"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Against All Odds"
+      "Eng": "Against All Odds",
+      "Por": "Contra Todas as Probabilidades"
     }
   },
   {
@@ -43,12 +45,13 @@
       ]
     },
     "Texts": {
-      "Eng": "Bahn"
+      "Eng": "Bahn",
+      "Por": "Bahn"
     }
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para o Blood Aether.\nAo matar um inimigo com Blood Aether, ganha 2 segundos de Raiva e Regeneração fraca."
+      "Aprimoramento para o Blood Aether.Ao matar um inimigo com Blood Aether, ganha 2 segundos de Raiva e Regeneração fraca."
     ],
     "Files": {
       "ivrpgtext.config": [
@@ -82,7 +85,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Comprehension"
+      "Eng": "Comprehension",
+      "Por": "Compreensão"
     }
   },
   {
@@ -105,7 +109,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Counting Bullets"
+      "Eng": "Counting Bullets",
+      "Por": "Contando Balas"
     }
   },
   {
@@ -122,7 +127,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para o Esfera Broca.\nMovimento no meio do ar melhorado. Ganha um pulo no meio do ar.\nSegure [W] enquanto transformado para Deslizar.\n^red;Drena Energia enquanto Deslizando.",
+      "Aprimoramento para o Esfera Broca.Movimento no meio do ar melhorado. Ganha um pulo no meio do ar.Segure [W] enquanto transformado para Deslizar.^red;Drena Energia enquanto Deslizando.",
       "Melhoria para o Esfera Broca.Movimento no meio do ar melhorado. Ganha um pulo no meio do ar.Segure [W] enquanto transformado para Deslizar.^red;Drena Energia enquanto Deslizando."
     ],
     "Files": {
@@ -209,7 +214,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Expectation"
+      "Eng": "Expectation",
+      "Por": "Expectativa"
     }
   },
   {
@@ -254,7 +260,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para a Afinidade Fogo & Infernal\nQuando você mata um inimigo Queimando, Derretendo ou Cauterizado, eles explodem.\nDano da Explosão escala com Multiplicador de Poder.",
+      "Aprimoramento para a Afinidade Fogo & InfernalQuando você mata um inimigo Queimando, Derretendo ou Cauterizado, eles explodem.Dano da Explosão escala com Multiplicador de Poder.",
       "Melhoria para a Afinidade Fogo & InfernalQuando você mata um inimigo Queimando, Derretendo ou Cauterizado, eles explodem.Dano da Explosão escala com Multiplicador de Poder."
     ],
     "Files": {
@@ -275,7 +281,8 @@
       ]
     },
     "Texts": {
-      "Eng": "For Granted"
+      "Eng": "For Granted",
+      "Por": "É Garantido"
     }
   },
   {
@@ -286,13 +293,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Force of Nature"
+      "Eng": "Force of Nature",
+      "Por": "Força da Natureza"
     }
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para a Afinidade Gelo & Crio.\nFraquezas de Afinidad não afetam mais você.",
-      "Aprimoramento para a Afinidade Gelo & Crio.\nFraquezas de Afinidade já não afetam você.",
+      "Aprimoramento para a Afinidade Gelo & Crio.Fraquezas de Afinidad não afetam mais você.",
+      "Aprimoramento para a Afinidade Gelo & Crio.Fraquezas de Afinidade já não afetam você.",
       "Melhoria para a Afinidade Gelo & Crio.Fraquezas de Afinidade já não afetam você."
     ],
     "Files": {
@@ -307,7 +315,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para a Afinidade Gelo & Crio.\nCausa + 50% de dano com Arcos. Golpes com flechas sempre Fragilizam por 3 segundos.\nNão funciona com o Adaptable Crossbow.",
+      "Aprimoramento para a Afinidade Gelo & Crio.Causa + 50% de dano com Arcos. Golpes com flechas sempre Fragilizam por 3 segundos.Não funciona com o Adaptable Crossbow.",
       "Melhoria para a Afinidade Gelo & Crio.Causa + 50% de dano com Arcos.Golpes com flechas sempre Fragilizam por 3 segundos.Não funciona com o Adaptable Crossbow."
     ],
     "Files": {
@@ -336,7 +344,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para a Afinidade Gelo & Crio. ^red;Apenas Feminino.^reset;\nCausa + 75% de dano com Chicotes, Garras e Adagas.\nSem Redução de Velocidade de Afinidade enquanto estiver empunhando Chicotes.",
+      "Aprimoramento para a Afinidade Gelo & Crio. ^red;Apenas Feminino.^reset;Causa + 75% de dano com Chicotes, Garras e Adagas.Sem Redução de Velocidade de Afinidade enquanto estiver empunhando Chicotes.",
       "Melhoria para a Afinidade Gelo & Crio. ^red;Apenas Feminino.^reset;Causa + 75% de dano com Chicotes, Garras e Adagas.Sem Redução de Velocidade de Afinidade enquanto estiver empunhando Chicotes."
     ],
     "Files": {
@@ -371,7 +379,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Harnessing Magic"
+      "Eng": "Harnessing Magic",
+      "Por": "Aproveitando Magia"
     }
   },
   {
@@ -406,12 +415,13 @@
       ]
     },
     "Texts": {
-      "Eng": "Keeping the Peace"
+      "Eng": "Keeping the Peace",
+      "Por": "Mantendo a Paz"
     }
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para a Batida do Cavaleiro.\nPulos no ar aumentados para 3.\nKnockback da Batida Aumentado.\n^red;Dano da Batida Diminuido.",
+      "Aprimoramento para a Batida do Cavaleiro.Pulos no ar aumentados para 3.Knockback da Batida Aumentado.^red;Dano da Batida Diminuido.",
       "Melhoria para a Batida do Cavaleiro.Pulos no ar aumentados para 3.Knockback da Batida Aumentado.^red;Dano da Batida Diminuido."
     ],
     "Files": {
@@ -458,7 +468,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Mellou"
+      "Eng": "Mellou",
+      "Por": "Mellou"
     }
   },
   {
@@ -495,7 +506,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Partners"
+      "Eng": "Partners",
+      "Por": "Parceiros"
     }
   },
   {
@@ -512,7 +524,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para o Primed Nova.\nPrimed Nova pode ser sobrecarregado,\naumentando Poder. O status causado\npor cada explosão é melhorado.\n^red;Inimigos já não explodem quando mortos.",
+      "Aprimoramento para o Primed Nova.Primed Nova pode ser sobrecarregado,aumentando Poder. O status causadopor cada explosão é melhorado.^red;Inimigos já não explodem quando mortos.",
       "Melhoria para o Primed Nova.Primed Nova pode ser sobrecarregado,aumentando Poder. O status causadopor cada explosão é melhorado.^red;Inimigos já não explodem quando mortos."
     ],
     "Files": {
@@ -527,7 +539,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para o Primed Nova.\nPrimed Nova carrega mais rápido e possui um alcance de projeção maior.\n^red;No entanto, seu Dano geral é Diminuído.",
+      "Aprimoramento para o Primed Nova.Primed Nova carrega mais rápido e possui um alcance de projeção maior.^red;No entanto, seu Dano geral é Diminuído.",
       "Melhoria para o Primed Nova.Primed Nova carrega mais rápido e possui um alcance de projeção maior.^red;No entanto, seu Dano geral é Diminuído."
     ],
     "Files": {
@@ -548,12 +560,13 @@
       ]
     },
     "Texts": {
-      "Eng": "Promise Me This"
+      "Eng": "Promise Me This",
+      "Por": "Prometa-me Isso"
     }
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para o Ravenous Spira.\nCausa dobro de dano aos inimigos. Capaz de perfurar mais perto da base da arma.\n^red;A Energia drena no dobro da velocidade.",
+      "Aprimoramento para o Ravenous Spira.Causa dobro de dano aos inimigos. Capaz de perfurar mais perto da base da arma.^red;A Energia drena no dobro da velocidade.",
       "Melhoria para o Ravenous Spira.Causa dobro de dano aos inimigos. Capaz de perfurar mais perto da base da arma.^red;A Energia drena no dobro da velocidade."
     ],
     "Files": {
@@ -568,7 +581,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para o Ravenous Spira.\nRavenous Spira quebra blocos de plano de fundo quando usado na Mão Direita (Mão Secundária).\n^red;A Energia não pode ser recuperada ao quebrar blocos de plano de fundo enquanto segura Shift.",
+      "Aprimoramento para o Ravenous Spira.Ravenous Spira quebra blocos de plano de fundo quando usado na Mão Direita (Mão Secundária).^red;A Energia não pode ser recuperada ao quebrar blocos de plano de fundo enquanto segura Shift.",
       "Melhoria para o Ravenous Spira.Ravenous Spira quebra blocos de plano de fundo quando usado na Mão Direita (Mão Secundária).^red;A Energia não pode ser recuperada ao quebrar blocos de plano de fundo enquanto segura Shift."
     ],
     "Files": {
@@ -601,12 +614,13 @@
       ]
     },
     "Texts": {
-      "Eng": "Sen"
+      "Eng": "Sen",
+      "Por": "Sen"
     }
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para o Passo das Sombras.\nO Passo das Sombras agora permite o usuário passar por paredes, mesmo que o usuário esteja atualmente em um mundo instanciado.",
+      "Aprimoramento para o Passo das Sombras.O Passo das Sombras agora permite o usuário passar por paredes, mesmo que o usuário esteja atualmente em um mundo instanciado.",
       "Melhoria para o Passo das Sombras.O Passo das Sombras agora permite o usuário passar por paredes, mesmo que o usuário esteja atualmente em um mundo instanciado."
     ],
     "Files": {
@@ -621,7 +635,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para a Afinidade Eletricidade & Arc.\nFraquezas de Afinidade já não afetam você.",
+      "Aprimoramento para a Afinidade Eletricidade & Arc.Fraquezas de Afinidade já não afetam você.",
       "Melhoria para a Afinidade Eletricidade & Arc.Fraquezas de Afinidade já não afetam você."
     ],
     "Files": {
@@ -650,7 +664,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para a Afinidade Eletricidade & Arc.\nEnquanto estiver molhado ou tocando líquido,\nentidades próximas estão eletrificadas repetidamente.",
+      "Aprimoramento para a Afinidade Eletricidade & Arc.Enquanto estiver molhado ou tocando líquido,entidades próximas estão eletrificadas repetidamente.",
       "Melhoria para a Afinidade Eletricidade & Arc.Enquanto estiver molhado ou tocando líquido,entidades próximas estão eletrificadas repetidamente."
     ],
     "Files": {
@@ -713,7 +727,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Specialization"
+      "Eng": "Specialization",
+      "Por": "Especialização"
     }
   },
   {
@@ -762,7 +777,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Apprentice's Folly"
+      "Eng": "The Apprentice's Folly",
+      "Por": "A Loucura do Aprendiz"
     }
   },
   {
@@ -773,7 +789,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Explorer"
+      "Eng": "The Explorer",
+      "Por": "O Explorador"
     }
   },
   {
@@ -784,7 +801,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Knight"
+      "Eng": "The Knight",
+      "Por": "O Cavaleiro"
     }
   },
   {
@@ -795,7 +813,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Ninja"
+      "Eng": "The Ninja",
+      "Por": "O Ninja"
     }
   },
   {
@@ -806,7 +825,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Rogue"
+      "Eng": "The Rogue",
+      "Por": "O Ladino"
     }
   },
   {
@@ -817,7 +837,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Soldier"
+      "Eng": "The Soldier",
+      "Por": "O Soldado"
     }
   },
   {
@@ -828,7 +849,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Wizard"
+      "Eng": "The Wizard",
+      "Por": "O Feiticeiro"
     }
   },
   {
@@ -845,7 +867,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para o Translocar.\nTranslocar agora permite ao usuário se teletransportar através de paredes, mesmo que o usuário esteja atualmente em um mundo instanciado.",
+      "Aprimoramento para o Translocar.Translocar agora permite ao usuário se teletransportar através de paredes, mesmo que o usuário esteja atualmente em um mundo instanciado.",
       "Melhoria para o Translocar.Translocar agora permite ao usuário se teletransportar através de paredes, mesmo que o usuário esteja atualmente em um mundo instanciado."
     ],
     "Files": {
@@ -878,7 +900,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Truth"
+      "Eng": "Truth",
+      "Por": "Verdade"
     }
   },
   {
@@ -909,7 +932,7 @@
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento para a Afinidade Veneno & Tóxico\nFraquezas de Afinidade já não afetam você.",
+      "Aprimoramento para a Afinidade Veneno & TóxicoFraquezas de Afinidade já não afetam você.",
       "Melhoria para a Afinidade Veneno & TóxicoFraquezas de Afinidade já não afetam você."
     ],
     "Files": {
@@ -980,8 +1003,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Aprimoramento do Vital Aegis.\nTodos as Etapas do Combo causam Julgamento.\nO 8 e 9 Etapas do Combo também atordoa os inimigos ao acertar.",
-      "Aprimoramento para o Vital Aegis.\nTodos as Etapas do Combo causam Julgamento.\nA 8º e 9º Etapa do Combo também Atordoa inimigos ao acertar.",
+      "Aprimoramento do Vital Aegis.Todos as Etapas do Combo causam Julgamento.O 8 e 9 Etapas do Combo também atordoa os inimigos ao acertar.",
+      "Aprimoramento para o Vital Aegis.Todos as Etapas do Combo causam Julgamento.A 8º e 9º Etapa do Combo também Atordoa inimigos ao acertar.",
       "Melhoria do Vital Aegis.Todos as Etapas do Combo causam Julgamento.O 8 e 9 Etapas do Combo também atordoa os inimigos ao acertar."
     ],
     "Files": {
@@ -1014,7 +1037,8 @@
       ]
     },
     "Texts": {
-      "Eng": "When Nothing Stared Back"
+      "Eng": "When Nothing Stared Back",
+      "Por": "Quando Nada Olhou Para Trás"
     }
   },
   {
@@ -1025,7 +1049,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Who are you, really?"
+      "Eng": "Who are you, really?",
+      "Por": "Quem é você realmente?"
     }
   },
   {
@@ -1036,7 +1061,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Within the Shadows"
+      "Eng": "Within the Shadows",
+      "Por": "Dentro das Sombras"
     }
   },
   {
@@ -1047,7 +1073,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#6d577c;Egoen"
+      "Eng": "^#6d577c;Egoen",
+      "Por": "^#6d577c;Egoen"
     }
   },
   {
@@ -1058,7 +1085,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#75ff75;Soliste"
+      "Eng": "^#75ff75;Soliste",
+      "Por": "^#75ff75;Soliste"
     }
   },
   {
@@ -1069,7 +1097,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#FFAAAA;Kunoichi"
+      "Eng": "^#FFAAAA;Kunoichi",
+      "Por": "^#FFAAAA;Kunoichi"
     }
   },
   {
@@ -1080,7 +1109,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#c16bff;Zia"
+      "Eng": "^#c16bff;Zia",
+      "Por": "^#c16bff;Zia"
     }
   },
   {
@@ -1091,7 +1121,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#ffaafa;Winter"
+      "Eng": "^#ffaafa;Winter",
+      "Por": "^#ffaafa;Winter"
     }
   },
   {
@@ -1102,7 +1133,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^black;Dark Templar"
+      "Eng": "^black;Dark Templar",
+      "Por": "^black;Templário Negro"
     }
   },
   {
@@ -1113,7 +1145,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^black;Necromancer"
+      "Eng": "^black;Necromancer",
+      "Por": "^black;Necromante"
     }
   },
   {
@@ -1124,7 +1157,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^blue;Crusader"
+      "Eng": "^blue;Crusader",
+      "Por": "^blue;Cruzado"
     }
   },
   {
@@ -1135,7 +1169,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^blue;Knight"
+      "Eng": "^blue;Knight",
+      "Por": "^blue;Cavaleiro"
     }
   },
   {
@@ -1146,7 +1181,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^blue;Paladin"
+      "Eng": "^blue;Paladin",
+      "Por": "^blue;Paladino"
     }
   },
   {
@@ -1157,7 +1193,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^gray;Class"
+      "Eng": "^gray;Class",
+      "Por": "^gray;Classe"
     }
   },
   {
@@ -1168,7 +1205,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Cannoneer"
+      "Eng": "^green;Cannoneer",
+      "Por": "^green;Canhoneiro"
     }
   },
   {
@@ -1179,7 +1217,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Rogue"
+      "Eng": "^green;Rogue",
+      "Por": "^green;Ladino"
     }
   },
   {
@@ -1190,7 +1229,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Wraith"
+      "Eng": "^green;Wraith",
+      "Por": "^green;Fantasma"
     }
   },
   {
@@ -1201,7 +1241,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^magenta;Elementalist"
+      "Eng": "^magenta;Elementalist",
+      "Por": "^magenta;Elementalista"
     }
   },
   {
@@ -1212,7 +1253,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^magenta;Universe"
+      "Eng": "^magenta;Universe",
+      "Por": "^magenta;Universo"
     }
   },
   {
@@ -1223,7 +1265,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^magenta;Wizard"
+      "Eng": "^magenta;Wizard",
+      "Por": "^magenta;Feiticeiro"
     }
   },
   {
@@ -1234,7 +1277,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Dragoon"
+      "Eng": "^orange;Dragoon",
+      "Por": "^orange;Dragoon"
     }
   },
   {
@@ -1245,7 +1289,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;People"
+      "Eng": "^orange;People",
+      "Por": "^orange;People"
     }
   },
   {
@@ -1256,7 +1301,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Soldier"
+      "Eng": "^orange;Soldier",
+      "Por": "^orange;Soldado"
     }
   },
   {
@@ -1267,7 +1313,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Titan"
+      "Eng": "^orange;Titan",
+      "Por": "^orange;Titã"
     }
   },
   {
@@ -1278,7 +1325,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Vanguard"
+      "Eng": "^orange;Vanguard",
+      "Por": "^orange;Vanguarda"
     }
   },
   {
@@ -1289,7 +1337,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Vigilante"
+      "Eng": "^orange;Vigilante",
+      "Por": "^orange;Vigilante"
     }
   },
   {
@@ -1300,7 +1349,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Adept"
+      "Eng": "^red;Adept",
+      "Por": "^red;Adepto"
     }
   },
   {
@@ -1311,7 +1361,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Changeling"
+      "Eng": "^red;Changeling",
+      "Por": "^red;Changeling"
     }
   },
   {
@@ -1322,7 +1373,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^red;Ninja"
+      "Eng": "^red;Ninja",
+      "Por": "^red;Ninja"
     }
   },
   {
@@ -1333,7 +1385,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^yellow;Captain"
+      "Eng": "^yellow;Captain",
+      "Por": "^yellow;Capitão"
     }
   },
   {
@@ -1344,7 +1397,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^yellow;Explorer"
+      "Eng": "^yellow;Explorer",
+      "Por": "^yellow;Explorador"
     }
   },
   {
@@ -1355,7 +1409,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^yellow;Pioneer"
+      "Eng": "^yellow;Pioneer",
+      "Por": "^yellow;Pioneiro"
     }
   }
 ]
