@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Where has it gone?"
+      "Eng": "Where has it gone?",
+      "Por": "Para onde ele foi?"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#77acc3;Heartless^white;"
+      "Eng": "^#77acc3;Heartless^white;",
+      "Por": "^#77acc3;Heartless^white;"
     }
   }
 ]
